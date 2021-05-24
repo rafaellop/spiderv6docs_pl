@@ -2,18 +2,19 @@
 <html>
 <head>
 <meta charset="utf-8">
-<meta http-equiv="Creation-date" content="2021-05-24T07:34:41Z">
+<meta http-equiv="Creation-date" content="2021-05-24T07:43:01Z">
 <meta name="Author" content="Cream Software">
 <meta name="Generator" content="Pajak V6 (6.0.0.1)">
-
-<!-- nazwa strony pomocy -->
-<title>Dolny panel wyników</title>
 
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha512-MoRNloxbStBcD8z3M/2BmnT+rg4IsMxPkXaGh2zD6LGNNFE80W3onsAhRcMAMrSoyWL9xD7Ert0men7vR8LUZg==" crossorigin="anonymous" />
 
 <link rel="stylesheet" href="style.css" type="text/css">
 </head>
+
+<!-- nazwa strony pomocy -->
+<title>Dolny panel wyników - Terminal</title>
+
 <body>
 
 <a name="top"></a>
@@ -59,25 +60,25 @@
 <td>
 
 <!-- nagłowek głowny tematu -->
-<h1>Dolny panel wyników</h1>
+<h1>Dolny panel wyników - Terminal</h1>
 
 <!-- treść pomocy -->
-<p>
-Dolny panel jest miejscem, w którym wyświetlane są wyniki działania różnych funkcji Pająka, np. wyszukiwania. W większości sytuacji dolny panel otwiera się automatycznie po wykonaniu niektórych funkcji, jednakże możesz go również wyświetlić za pomocą skrótu Alt+F9 lub polecenia znajdującego się w menu Wyświetl / Widok - ikona polecenia została pokazana powyżej.
 
-<p>
-Dolny panel składa się z pionowych zakładek, które jeśli kliknięte wyświetlają odpowiednią zawartość. Dostępne są następujące zakładki:
+<p>Okno wywołuje się za pomocą skrótu ALT+F9 lub pozycji z <a href="main_menu_main.html">Menu głównego</a> \ <a href="main_menu_view.html">Wyświetl</a>. Dodatkowo okno jest wywoływane automatycznie w przypadku użycia funkcji związanych z tworzeniem aplikacji, instalowaniem pakietów npm, itp.</p>
+
+<p>Do obsługi tego okna pomocy możesz użyć przycisków menu z prawej strony:</p>
+
+<p><b>Ścieżka</b><br />Pozwala na wybranie domyślnej ścieżki, która jest używana przy wykonywaniu poleceń z linii komend. Może to być folder odpowiadający lokalizacji aktualnie edytowanego dokumentu lub też folder aktualnie wybrany na liście plików panelu Moje Projekty.</p>
+
+<p>Terminal Pająka jest nakładką na Windows cmd.exe i oprócz podstawowej funkcjonalności linii komend, możliwe jest korzystanie ze zmiennych programu:</p>
 
 <ul>
-	<a name="downpanellist"></a>
-	<li><a href="settings_general.html">Poprawność odsyłaczy</a> - zakładka wyświetlająca raport ze sprawdzania poprawności odsyłaczy.
-	<li><a href="settings_browse.html">Poprawność składni</a> - zakładka wyświetlająca informacje ze sprawdzania poprawności składni dokumentu.
-	<li><a href="settings_user.html">Spójność serwisu</a> - zakładka wyświetlająca wyniki działania funkcji sprawdzania spójności serwisu.
-   <li><a href="down_find_report.html">Raporty wyszukiwania</a> - zakładka wyświetlająca raport z działania funkcji wyszukiwania i zamiany oraz sprawdzania pisowni.
-   <li><a href="down_publishing.html">Operacje publikowania</a> -zakładka wyświetlająca kolejkę plików, raport z synchronizacji serwisu oraz zapis komunikacji Pająka z serwerem.
-   <li><a href="down_help.html">Pomoc, dokumenty, podglądy</a> - zakładka wyświetla poradniki i kursy wywoływane funkcją dynamicznej pomocy kontekstowej, a także pomoc online.
-   <li><a href="down_terminal.html">Terminal</a> - zakładka wyświetla terminal dostępu do linii komend, gdzie można wykonywać polecenia związane z kompilacją aplikacji i inne funkcje terminalowe.
+	<li>$cd - ścieżka aktualnego katalogu</li>
+	<li>$dd - ścieżka katalogu aktualnego dokumentu</li>
+	<li>$df - ścieżka pliku aktualnego dokumentu</li>
 </ul>
+
+<p>Przykład użycia to np. <kbd>DIR $dd</kbd>, co spowoduje wyświetlenie zawartości zgodnej ze ścieżką aktualnie edytowanego dokumentu.</p>
 
 </td>
 </tr>
@@ -89,7 +90,7 @@ Dolny panel składa się z pionowych zakładek, które jeśli kliknięte wyświe
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-   <li><a href="main_tabs_general.html">Inne zakładki główne</a></li>
+   <li><a href="down_panel.html#downpanellist">Inne zakładki dolnego panelu wyników</a></li>
    <li><a href="main_window_desc.html">Główne okno programu</a></li>
 </ul>
 </td>
