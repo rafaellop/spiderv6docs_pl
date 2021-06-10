@@ -284,3 +284,22 @@ SMALL {
 	border-bottom: none;
 
 }
+
+.gs-snippet {
+	font-weight: normal;
+}
+
+.gs-visibleUrl span, .gs-visibleUrl-breadcrumb span {
+	font-weight: normal;
+	font-size: 0.8em!important;
+	color: #999;
+}
+
+.gs-result .gs-title *, .gsc-cursor-page, .gs-spelling a {
+	color: #006296!important;
+    text-decoration: none;
+    font-variant: normal;
+    border-bottom: 1px dotted #006296;
+	 font-weight: normal!important;
+	 font-size: 17px!important;
+}
