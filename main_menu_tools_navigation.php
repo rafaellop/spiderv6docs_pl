@@ -56,12 +56,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -78,7 +73,7 @@
 </p>
 
 
-<p><b><a href="find_text.html#goto">Idź do...</a></b><br />
+<p><b><a href="find_text.php#goto">Idź do...</a></b><br />
 Kliknij, aby wybrać linię, zakładkę lub inne miejsce, do którego chcesz przejść, do której chcesz przejść(domyślny skrót <tt>Ctrl+G</tt>).
 
 

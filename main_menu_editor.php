@@ -56,12 +56,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -148,7 +143,7 @@ Zawiera polecenia uruchamiające narzędzia ułatwiające poruszanie się po dok
 Kliknij, aby otworzyć okno informacji o bieżącym dokumencie. Korzystając z podmenu możesz otworzyć od razu wybraną zakładkę tego okna:
 <ul>
 	<li><a href="tool_docinfo.php">Informacje o dokumencie</a></li>
-	<li><a href="tool_docinfo.html#bookmark">Nawigator zakładek</a></li>
+	<li><a href="tool_docinfo.php#bookmark">Nawigator zakładek</a></li>
 	<li><a href="main_editor_todotasks.php">Zadania do wykonania</a></li>
 </ul>
 bądź też utworzyć nowe zadanie do wykonania.

@@ -56,12 +56,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -102,7 +97,7 @@ Kliknij, aby słowa z błędem podkreślane były w edytorze czerwonym wężykie
 <p><b>Autokorekta</b><br />
 Kliknij, aby włączyć, bądź wyłaczyć funkcję autokorekty pisowni.
 
-<p><b><a href="settings_editor_spelling.html#autocorrect">Ustawienia autokorekty</a></b><br />
+<p><b><a href="settings_editor_spelling.php#autocorrect">Ustawienia autokorekty</a></b><br />
 Kliknij, aby otworzyć okno Ustawień Autokorekty.
 
 <hr>

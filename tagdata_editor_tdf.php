@@ -56,12 +56,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -111,7 +106,7 @@ Jeśli tworzyłeś w Pająku w wersji wcześniejszej niż 5.3.0 własne pliki TD
 <h2>Znaczniki</h2>
 
 <p><b>Znaczniki w wybranej kategorii</b><br>
-Wybierz znacznik, aby móc modyfikować jego definicję. Za pomocą przycisków umieszczonych poniżej możesz zarządzać listą znaczników tj. dodawać nowe, usuwać czy zmieniać nazwy, a także ustawić jeden ze znaczników jako znacznik nadrzędny dokumentu. Znacznik nadrzędny dokumentu ma znaczenie podczas rozpoznawania języka w którym jest tworzony dokument (czytaj więcej na ten temat w opisie przełącznika <b>Rozpoznaj kategorię znaczników na podstawie znacznika nadrzędnego dokumentu</b> w pomocy do okna <a href="tagdata_editor_tdf_properties.html#nadrzedny">Właściwości kategorii znaczników</a>).
+Wybierz znacznik, aby móc modyfikować jego definicję. Za pomocą przycisków umieszczonych poniżej możesz zarządzać listą znaczników tj. dodawać nowe, usuwać czy zmieniać nazwy, a także ustawić jeden ze znaczników jako znacznik nadrzędny dokumentu. Znacznik nadrzędny dokumentu ma znaczenie podczas rozpoznawania języka w którym jest tworzony dokument (czytaj więcej na ten temat w opisie przełącznika <b>Rozpoznaj kategorię znaczników na podstawie znacznika nadrzędnego dokumentu</b> w pomocy do okna <a href="tagdata_editor_tdf_properties.php#nadrzedny">Właściwości kategorii znaczników</a>).
 
 <p>Grupa zakładek znajdująca się po prawej stronie okna pozwala na określanie parametrów dla znacznika wybranego na liście. Po wybraniu znacznika możesz określić jego parametry w zakładkach:
 
@@ -138,7 +133,7 @@ Określa status znacznika, np. czy jest specyficzny dla jakiejś przeglądarki, 
 To jest definicja reguły automatycznego uzupełniania. Znak | oznacza pozycję, w której ma być ustawiony kursor po uzupełnieniu znacznika.
 
 <p><b>Plik dokumentacji</b><br />
-Nazwa pliku z dokumentacją dla bieżącego znacznika. Ważne jest by oprócz nazwy tego pliku, prawidłowo określić nazwę katalogu z dokumentacją dla bieżącej kategorii w oknie <a href="tagdata_editor_tdf_properties.html#nadrzedny">Właściwości kategorii znaczników</a>. Dokumentacja ta jest będzie wyświetlana na <a href="down_help.php">dolnym panelu pomocy</a> po użyciu polecenia <b>Wyświetl pomoc dla bieżącego znacznika</b> (np. w <a href="main_menu_editor.php">menu podręcznym edytora</a>, standardowy skrót to <tt>Ctrl+F1</tt>).
+Nazwa pliku z dokumentacją dla bieżącego znacznika. Ważne jest by oprócz nazwy tego pliku, prawidłowo określić nazwę katalogu z dokumentacją dla bieżącej kategorii w oknie <a href="tagdata_editor_tdf_properties.php#nadrzedny">Właściwości kategorii znaczników</a>. Dokumentacja ta jest będzie wyświetlana na <a href="down_help.php">dolnym panelu pomocy</a> po użyciu polecenia <b>Wyświetl pomoc dla bieżącego znacznika</b> (np. w <a href="main_menu_editor.php">menu podręcznym edytora</a>, standardowy skrót to <tt>Ctrl+F1</tt>).
 
 <p><b>Znaczniki zawierające się:</b><br>
 Określa listę znaczników, które mogą być umieszczone wewnątrz modyfikowanego znacznika. Na przykład wewnątrz znacznika <tt>&lt;UL&gt;</tt> może być tylko znacznik <tt>&lt;LI&gt;</tt>. Symbol <tt>*</tt> oznacza dowolny znacznik.
@@ -216,7 +211,7 @@ Zaznacz ten przełącznik, aby określić zgodność bieżącego atrybutu z prze
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="tagdata_editor_tdf_properties.html#nadrzedny">Właściwości kategorii znaczników</a></li>
+	<li><a href="tagdata_editor_tdf_properties.php#nadrzedny">Właściwości kategorii znaczników</a></li>
 	<li><a href="tagdata_editor_tdf_compatibility.php">Zgodność z przeglądarkami</a></li>
 	<li><a href="main_editor_codeinsight.php">Uzupełnianie znaczników</a>
 	<li><a href="settings_codeinsight_tags.php">Ustawienia Dynamicznego kodu</a>

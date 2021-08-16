@@ -56,12 +56,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -90,7 +85,7 @@ Ta lista zawiera szablony służące do formatowania wklejanego do edytora bież
  
  
 <p><b>Numeruj kolumny w widoku zawartości tabeli</b><br />
-Zaznacz tę opcję, jeśli chcesz, by w widoku <a href="main_tabs_inspector_mysql.html#table_content">zawartości tabeli na zakładce Inspektor MySQL</a>, obok nazw pola tabeli pojawił się numer kolejny.</a>.
+Zaznacz tę opcję, jeśli chcesz, by w widoku <a href="main_tabs_inspector_mysql.php#table_content">zawartości tabeli na zakładce Inspektor MySQL</a>, obok nazw pola tabeli pojawił się numer kolejny.</a>.
 
 <p><b>Przy przeciąganiu tabeli do edytora użyj kreatora eksportu</b><br />
 Zaznacz tę opcję, jeśli chcesz, by po przeciągnięciu tabeli z drzewa struktury bazy danych otwarty został automatycznie <a href="tool_mysql_export_tables.php">Kreator eksportu z bazy danych</a>.

@@ -56,12 +56,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -126,7 +121,7 @@
 
 
 Pająk umożliwia nawiązywanie bezpiecznych (szyfrowanych) połączeń zarówno z serwerami FTP (SSL/TLS), jak i WebDAV (HTTPS). Sposób łączenia się z serwerem należy wybrać w oknie <a href="settings_network_ftpservers_add.php">Właściwości serwera</a>.
-<p><a href="settings_network_ftpservers_add.html#secureconnections">Koniecznie kliknij TU przeczytaj więcej o obsłudze bezpiecznych połączeń!.</a></p>
+<p><a href="settings_network_ftpservers_add.php#secureconnections">Koniecznie kliknij TU przeczytaj więcej o obsłudze bezpiecznych połączeń!.</a></p>
 
 
 <h2>Synchronizacja serwisów</h2>

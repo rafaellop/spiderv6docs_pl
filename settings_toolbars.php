@@ -56,12 +56,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -101,7 +96,7 @@ Dostępne są następujące grupy ustawień w ramach tego okna:
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="settings.html#settingslist">Główne ustawienia</a>
+	<li><a href="settings.php#settingslist">Główne ustawienia</a>
 	<li><a href="toolbars_general.php">Paski narzędzi</a>
 
 </ul>

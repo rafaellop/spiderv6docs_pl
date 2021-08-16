@@ -56,12 +56,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -96,7 +91,7 @@ Trzecia grupa ustawień to <b>Informacje o nowościach Cream Software</b>. Ustaw
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="settings.html#settingslist">Inne ustawienia</a>
+	<li><a href="settings.php#settingslist">Inne ustawienia</a>
    <li><a href="tool_version_check.php">Sprawdzanie aktualności wersji</a>
 	<li><a href="network_publishing_general.php">Blokowanie plików przy publikacji</a>
 	<li><a href="tool_docinfo.php">Informacje o dokumencie</a>

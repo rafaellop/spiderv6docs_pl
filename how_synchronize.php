@@ -56,12 +56,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -93,7 +88,7 @@
 
 <div>Mapowanie przy synchronizacji</div>
 
-<p>Jeśli istnieje mapowanie dla synchronizacji, uruchomi się narzędzie pozwalające na wybór ustawień i uruchomienia synchronizacji. W przeciwnym wypadku poproszony zostaniesz o utworzenie takiego mapowania, po czym pojawi się okno <a href="service_properites.html#service_properties_mappings">Właściwości serwisu</a>, w którym będziesz mógł to zrobić.</p>
+<p>Jeśli istnieje mapowanie dla synchronizacji, uruchomi się narzędzie pozwalające na wybór ustawień i uruchomienia synchronizacji. W przeciwnym wypadku poproszony zostaniesz o utworzenie takiego mapowania, po czym pojawi się okno <a href="service_properites.php#service_properties_mappings">Właściwości serwisu</a>, w którym będziesz mógł to zrobić.</p>
 
 <p>Mapowanie przy synchronizacji pozwala powiązać folder w bieżącym serwisie oraz folder na wybranym serwerze FTP, których zawartość będzie następnie porównywana.</p>
 

@@ -56,12 +56,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -80,10 +75,10 @@
 Podmenu zawierające przełączniki pozwalające na wybór <a href="toolbars_general.php">pasków narzędzi</a> widocznych w głównym oknie programu.
 
 <p><b>Panel zasobów z lewej</b><br />
-Podmenu zawierające przełączniki pozwalające na uaktywnienie jednej z zakładek <a href="main_tabs_general.html#tabs_leftpanel">panelu znajdującego się po lewej</a> stronie w głównym oknie programu. Domyślny skrót klawiszowy to <tt>F9</tt>
+Podmenu zawierające przełączniki pozwalające na uaktywnienie jednej z zakładek <a href="main_tabs_general.php#tabs_leftpanel">panelu znajdującego się po lewej</a> stronie w głównym oknie programu. Domyślny skrót klawiszowy to <tt>F9</tt>
 
 <p><b>Panel zasobów z prawej</b><br />
-Podmenu zawierające przełączniki pozwalające na uaktywnienie jednej z zakładek <a href="main_tabs_general.html#tabs_rightpanel">panelu znajdującego się po prawej</a> stronie w głównym oknie programu. Domyślny skrót klawiszowy to <tt>Ctrl+F9</tt>
+Podmenu zawierające przełączniki pozwalające na uaktywnienie jednej z zakładek <a href="main_tabs_general.php#tabs_rightpanel">panelu znajdującego się po prawej</a> stronie w głównym oknie programu. Domyślny skrót klawiszowy to <tt>Ctrl+F9</tt>
 
 <p><b>Panel wyników</b><br />
 Podmenu zawierające przełączniki pozwalające na uaktywnienie jednej z zakładek <a href="down_panel.php">panelu znajdującego się na dole</a> głównym oknie programu. Domyślny skrót klawiszowy to <tt>Lewy Alt+F9</tt>

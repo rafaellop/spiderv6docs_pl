@@ -54,12 +54,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -85,7 +80,7 @@
 
 </li>
 <li>
-<a href="main_tabs_navigator.html#asp">Nawigator ASP</a>
+<a href="main_tabs_navigator.php#asp">Nawigator ASP</a>
 
 
 </li>

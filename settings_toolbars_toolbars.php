@@ -56,12 +56,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -107,7 +102,7 @@ W tej kategorii znajdują się narzędzia pozwalające na modyfikację zawartoś
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="settings_toolbars.html#settingslisttoolbars">Inne ustawienia wyglądu i pasków</a>
+	<li><a href="settings_toolbars.php#settingslisttoolbars">Inne ustawienia wyglądu i pasków</a>
 	<li><a href="main_window_desc.php">Główne okno programu</a>
 	<li><a href="settings_toolbars_toolbars_addnew.php">Okno dodawania nowego elementu</a>
 	<li><a href="settings_toolbars_hotkeys.php">Modyfikacja skrótów klawiszowych</a>

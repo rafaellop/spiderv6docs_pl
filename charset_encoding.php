@@ -56,12 +56,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -89,7 +84,7 @@
 
 <p>Pająk pozwala na tworzenie dokumentów w praktycznie dowolnym języku. Program potrafi również automatycznie rozpoznać stronę kodową, stosowaną w danym dokumencie, na podstawie wpisów w sekcji META. Odpowiednie opcje znajdują się w oknie <a href="settings_editor_documents.php">Ustawienia programu - Dokumenty</a>, a także w <a href="main_menu_spelling.php">Menu pisownia</a>.</p>
 
-<p>Podczas pracy z <a href="services_general.php">serwisem</a>, w oknie <a href="service_properites.html#charset_encoding">Właściwości serwisu</a> możesz wskazać kodowanie, jakie ma być domyślnie stosowane dla wszystkich dokumentów tego serwisu. Pozwala to uniezależnić dany serwis od globalnych ustawień programu.</p>
+<p>Podczas pracy z <a href="services_general.php">serwisem</a>, w oknie <a href="service_properites.php#charset_encoding">Właściwości serwisu</a> możesz wskazać kodowanie, jakie ma być domyślnie stosowane dla wszystkich dokumentów tego serwisu. Pozwala to uniezależnić dany serwis od globalnych ustawień programu.</p>
 
 <p>Możesz też szybko otworzyć i zapisać dokument, korzystając z wybranego kodowania za pomocą poleceń w Menu pisownia -&gt; <b>Odczytaj w kodowaniu...</b> i <b>Zapisuj w kodowaniu...</b>,  co pozwala dodatkowo korzystać z kodowania niezależnego od ustawień programu i serwisu.</p>
 

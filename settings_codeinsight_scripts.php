@@ -56,12 +56,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -136,7 +131,7 @@ Jeśli natomiast będziesz chciał użyć w konstrukcji znaku procenta, wstaw go
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="settings_codeinsight.html#settingslistcodeinsight">Inne ustawienia ułatwień</a>
+	<li><a href="settings_codeinsight.php#settingslistcodeinsight">Inne ustawienia ułatwień</a>
 	<li><a href="main_editor_codeinsight.php">Dynamiczny kod</a>
 	<li><a href="coding_scripts_jsvb.php">Korzystanie ze skryptów w Pająku</a>
 	<li><a href="tagdata_editor_tdf_scripts.php">Edytor pliku definicyjnego dla skryptów</a>

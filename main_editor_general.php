@@ -56,12 +56,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -77,7 +72,7 @@
 
 <p>Na zakładce Tworzenie zawarte jest podstawowe narzędzie Pająka - jego edytor stron. Właśnie tutaj powstaje strona WWW. To tutaj za pomocą odpowiednich narzędzi uzyskujemy wszystkie efekty. </p>
 
-<p>Zakładka Tworzenie umieszczona jest w <a href="main_tabs_general.html#tabs_center">środkowym panelu</a>, którego nie możesz wyłączyć. Domyślnie to właśnie ona jest włączona, w niej też otwierane będą nowe dokumenty.</p>
+<p>Zakładka Tworzenie umieszczona jest w <a href="main_tabs_general.php#tabs_center">środkowym panelu</a>, którego nie możesz wyłączyć. Domyślnie to właśnie ona jest włączona, w niej też otwierane będą nowe dokumenty.</p>
 
 
 
@@ -127,7 +122,7 @@ Aby szybko utworzyć nowy dokument, skorzystaj ze skrótu klawiszowego:
       <li><a href="tool_open_remote.php">Otwórz z sieci</a> - otwiera narzędzie umożliwiające otworzenie pliku za pomocą sieci.</li>
       <li><a href="tool_importer.php">Importuj</a> - umożliwia import z dysku pliku w formacie nieobsługiwanym bezpośrednio przez Pająka</li>
    </ul>
-<li><b>z menu <a href="main_menu_main.php">Menu głównego</a> / <a href="main_menu_services.php">Serwisy</a> / <a href="main_menu_services_properties.php">Własności serwisu</a> / Otwórz często używane serwisu</b> - Otwiera pliki z listy <a href="service_properites.html#servicepropertiesoftenused">często używanych dokumentów serwisu</a>
+<li><b>z menu <a href="main_menu_main.php">Menu głównego</a> / <a href="main_menu_services.php">Serwisy</a> / <a href="main_menu_services_properties.php">Własności serwisu</a> / Otwórz często używane serwisu</b> - Otwiera pliki z listy <a href="service_properites.php#servicepropertiesoftenused">często używanych dokumentów serwisu</a>
 <li>z listy plików na <a href="main_tabs_myservices.php">zakładce Moje serwisy</a>
 <li>z listy plików na zakładce <a href="main_tabs_myftpservers.php">Moje serwery</a> - w Pająku możliwa jest także <a href="network_opendoc_ftp.php">edycja dokumentów otwieranych bezpośrednio z serwera FTP</a>!
 <li>za pomocą przeciągnięcia dokumentu z okna Exploratora Windows
@@ -172,7 +167,7 @@ Z prawej strony nazwy dokumentu znajduje się ikona z kulką, której wygląd oz
 <ul>
    <li><b>Zamknij ten dokument</b> - zamyka dokument, na którego nazwie kliknąłeś, wyświetlając listę rozwijaną. Dodatkowo to polecenia zawiera podmenu, w którym umieszczone zostały polecenia <b>Zamknij wszystkie dokumenty</b> oraz <b>Zamknij wszystkie oprócz tego</b>.</li>.
    <li><b>Nowy dokument</b> - tworzy nowy pusty dokument. Dodatkowo polecenie to posiada podmenu identyczne jak analogiczne polecenie w <a href="main_menu_file.php">menu Plik</a>.</li>.  
-   <li><b>Publikuj bieżący do sieci</b> - pozwala opublikować w sieci bieżący dokument. <a href="network_publishing_general.html#publish_current">Czytaj więcej na temat zaawansowanych możliwości tego polecenia</a>. </li> Dodatkowo, w podmenu dostępne jest polecenie "Publikuj otwarte w sieci".
+   <li><b>Publikuj bieżący do sieci</b> - pozwala opublikować w sieci bieżący dokument. <a href="network_publishing_general.php#publish_current">Czytaj więcej na temat zaawansowanych możliwości tego polecenia</a>. </li> Dodatkowo, w podmenu dostępne jest polecenie "Publikuj otwarte w sieci".
    <li>[<i>tu znajduje się lista otwartych dokumentów</i>]</li>
    <li><b>Wyświetlaj tylko nazwy plików</b> - wyświetla tylko nazwę pliku (na liście ścieżkę + nazwę)</li>
    <li><b>Wyświetlaj ścieżkę względem projektu</b> - wyświetla ścieżkę względem <a href="service_properites.php">katalogu głównego serwisu</a> + nazwę pliku</li>

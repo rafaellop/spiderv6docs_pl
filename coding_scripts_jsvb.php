@@ -56,12 +56,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -82,7 +77,7 @@
 <ul>
 	<li><a href="coding_scripts_jsvb_syntax.php">Kolorowanie składni</a></li>
 	<li><a href="coding_scripts_jsvb_codeinsight.php">Dynamiczny kod</a></li>
-	<li><a href="main_tabs_navigator.html#js">Nawigator JavaScript</a> i <a href="main_tabs_navigator.html#vbs">Nawigator VBScript</a></li>
+	<li><a href="main_tabs_navigator.php#js">Nawigator JavaScript</a> i <a href="main_tabs_navigator.php#vbs">Nawigator VBScript</a></li>
 	<li><a href="coding_scripts_jsvb_languages.php">Języki programowania - drzewka definicji funkcji dla JavaScript i VBScript</a></li>
 	<li><a href="coding_scripts_jsvb_macrocodes.php">Makrokody - szablony kodu JavaScript i VBScript</a></li>
 	<li><a href="coding_scripts_jsvb_formatting.php">Formatowanie kodu źródłowego JavaScript</a></li>

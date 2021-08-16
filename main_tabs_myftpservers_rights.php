@@ -56,12 +56,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -72,7 +67,7 @@
 <!-- nagłowek głowny tematu -->
 <h1>Zmiana praw dostępu do elementu</h1>
 
-<p>To narzędzie służy do zmiany praw dostępu do plików lub katalogów znajdujących się na zdalnym serwerze. Okienko to jest wyświetlane po wybraniu funkcji <a href="main_tabs_myftpservers.html#myftpserversrights">Zmiana praw dostępu</a> na zakładce <a href="main_tabs_myftpservers.php">Moje serwery</a>.
+<p>To narzędzie służy do zmiany praw dostępu do plików lub katalogów znajdujących się na zdalnym serwerze. Okienko to jest wyświetlane po wybraniu funkcji <a href="main_tabs_myftpservers.php#myftpserversrights">Zmiana praw dostępu</a> na zakładce <a href="main_tabs_myftpservers.php">Moje serwery</a>.
 
 <p>W tym okienku możesz szybko zmienić prawa dostępu do dowolnego pliku lub katalogu. Wystarczy zaznaczyć odpowiednie opcje i gotowe. możesz ustawić różne prawa dla właściciela pliku na serwerze, jego grupy i dla wszystkich. Jeśli chcesz ustawić dla wszystkich tych grup identyczne prawa dla odczytu, zapisu bądź wykonywania, skorzystaj z przycisków umieszczonych niżej.
 <p>Odpowiedni kod cyfrowy pojawi się poniżej przycisków.</p>

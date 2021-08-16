@@ -56,12 +56,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -133,7 +128,7 @@ Jeśli jednak stworzysz jakieś serwisy za pomocą przycisków powyżej, na tej 
 <p>Obok listy przycisków znajduje się pasek z przyciskami. Identyczną zawartość ma menu listy plików i składa się z następujących przycisków:
 
 <p><b>Edytuj</b><br>
-Za pomocą tego przycisku otworzysz do edycji w Pająku dokumenty wybrane na liście plików. Możesz zaznaczyć kilka dokumentów i kliknąć ten przycisk, a wszystkie one zostaną załadowane do Pająka. Przycisk ten posiada również menu dostępne po kliknięciu po prawej stronie przycisku. Za pomocą przypisanego tutaj menu masz dostęp do listy ostatnio używanych plików, a także do polecenia otwierającego pliki z listy <a href="service_properites.html#servicepropertiesoftenused">często używanych plików serwisu</a>, który jest wybrany.
+Za pomocą tego przycisku otworzysz do edycji w Pająku dokumenty wybrane na liście plików. Możesz zaznaczyć kilka dokumentów i kliknąć ten przycisk, a wszystkie one zostaną załadowane do Pająka. Przycisk ten posiada również menu dostępne po kliknięciu po prawej stronie przycisku. Za pomocą przypisanego tutaj menu masz dostęp do listy ostatnio używanych plików, a także do polecenia otwierającego pliki z listy <a href="service_properites.php#servicepropertiesoftenused">często używanych plików serwisu</a>, który jest wybrany.
 
 <p><b>Otwórz jako</b><br>
 To polecenie umożliwia otwarcie pliku lub plików pod nową nazwą. Po wybraniu dokumentu na liście plików i kliknięciu tego przycisku zostaniesz poproszony o wskazanie nazwy i miejsca, gdzie ma się znaleźć nowy plik. Po zaakceptowaniu zostanie on otworzony do edycji. W ten sposób można tworzyć kopie wybranych dokumentów i od razu otwierać je do edycji.
@@ -160,13 +155,13 @@ Za pomocą tego przycisku możesz zmienić nazwę zarówno katalogu jak i pliku.
 Kliknij, aby przywrócić ostatnią zapisaną zawartość pliku z kopii zapasowej. Polecenie to dostępne jest jedynie dla plików posiadających <a href="main_editor_backups.php">kopie zapasową</a>.
 
 <p><b>Publikuj w sieci</b><br />
-To polecenie umożliwia opublikowanie wybranego(nych) plików lub folderów na aktualnie wybranym serwerze FTP. <a href="network_publishing_general.html#publish_current">Czytaj więcej na temat zaawansowanych możliwości tego polecenia</a>. </p>
+To polecenie umożliwia opublikowanie wybranego(nych) plików lub folderów na aktualnie wybranym serwerze FTP. <a href="network_publishing_general.php#publish_current">Czytaj więcej na temat zaawansowanych możliwości tego polecenia</a>. </p>
 
 <p><b>Usuń</b><br>
 Ten przycisk umożliwia usuwanie dokumentów i folderów wybranych na liście.
 
 <p><b>Nowy plik</b><br>
-Użyj tego polecenia, aby utworzyć nowy plik w bieżącym katalogu. Nazwa jest tworzona na podstawie <a href="service_properites.html#servicepropertiesdocuments">ustawień nazwy domyślnego pliku dla bieżącego serwisu</a>, a w przypadku ich braku, nadawana jest nazwa <tt>index.html</tt> (lub z numerem kolejnym, jeśli plik o takiej nazwie już istnieje).
+Użyj tego polecenia, aby utworzyć nowy plik w bieżącym katalogu. Nazwa jest tworzona na podstawie <a href="service_properites.php#servicepropertiesdocuments">ustawień nazwy domyślnego pliku dla bieżącego serwisu</a>, a w przypadku ich braku, nadawana jest nazwa <tt>index.html</tt> (lub z numerem kolejnym, jeśli plik o takiej nazwie już istnieje).
 
 <p><b>Nowy folder</b><br>
 Użyj tego polecenia, aby utworzyć nowy folder w bieżącym katalogu.
@@ -179,7 +174,7 @@ Ten przycisk pozwala na szybkie zaznaczenie wszystkich elementów znajdujących 
 
 <ul>
         <li><p><b>Zaznacz według rozszerzeń</b><br>Wyświetla okno zawierające listę wszystkich typów plików (rozszerzeń nazwy pliku), jakie istnieją w bieżącym folderze. Wybierz z listy rozszerzenia nazw plików, jakie mają zostac zaznaczone.
-        <li><p><b>Zaznacz według nazw plików</b><br>Wyświetla okno umożliwiające wprowadzenie szablonu nazw plików, jakie mają zostać zaznaczone. W szablonie tym możesz korzystać z tzw. wildcards opisanych w temacie pomocy dla narzędzia <a href="find_ext.html#wildcards">Rozszerzone wyszukiwanie i zamiana</a>. W ten sposób możesz np. wprowadzić szablon nazwy <tt>oferta*.html</tt>. Po zatwierdzeniu szablony przyciskiem <tt>OK</tt> na liście plików wszystkie pliki pasujące do tego wzorca zostaną zaznaczone (np. <tt>oferta_1.html</tt>, <tt>oferta_2.html</tt> itp.).
+        <li><p><b>Zaznacz według nazw plików</b><br>Wyświetla okno umożliwiające wprowadzenie szablonu nazw plików, jakie mają zostać zaznaczone. W szablonie tym możesz korzystać z tzw. wildcards opisanych w temacie pomocy dla narzędzia <a href="find_ext.php#wildcards">Rozszerzone wyszukiwanie i zamiana</a>. W ten sposób możesz np. wprowadzić szablon nazwy <tt>oferta*.html</tt>. Po zatwierdzeniu szablony przyciskiem <tt>OK</tt> na liście plików wszystkie pliki pasujące do tego wzorca zostaną zaznaczone (np. <tt>oferta_1.html</tt>, <tt>oferta_2.html</tt> itp.).
 </ul>
 
 <p><b>Właściwości</b><br>

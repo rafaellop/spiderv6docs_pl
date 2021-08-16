@@ -56,12 +56,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -102,7 +97,7 @@ Zaznacz tę opcję i podaj parametry, jakie maja zostać przekazane do dokumentu
 
 <p>Aby dodać parametr kliknij w plusik na menu obok listy parametrów i w oknie które się pokaże podaj nazwą parametru i jego wartość. </p>
 
-<p>Żeby przekazywanie parametrów mogło działać, musi być włączone <a href="service_properites.html#service_properties_mappings">mapowanie przeglądania</a> i serwer, który żądanie obsłuży.</p>
+<p>Żeby przekazywanie parametrów mogło działać, musi być włączone <a href="service_properites.php#service_properties_mappings">mapowanie przeglądania</a> i serwer, który żądanie obsłuży.</p>
 
 <p>Parametry zostaną przekazane przy użyciu metody GET, czyli w adresie URL. </p>
 

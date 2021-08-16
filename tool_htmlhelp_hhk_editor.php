@@ -56,12 +56,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -119,7 +114,7 @@ W polu tym jest miejsce na wpisanie alternatywnego odsyłacza, do którego ma pr
 Gdy zaznaczony zostanie przełącznik "Szukaj" znajdujący się obok, edytor będzie wyszukiwał etykiety lokalne znajdujące się w dokumencie (np. te oznaczone jako <tt>&lt;a name="id"&gt;</tt>). Znalezione etykiety dodane będą do listy etykiet, z której to listy będzie je można wybrać, a dzięki temu utworzyć odsyłacz do konkretnej etykiety.
 </p>
 <p><b>Okno</b><br />
-Pole to przeznaczone jest na wpisanie nazwy okna HTML Help, do którego załadowany ma być dokument wskazywany przez tę pozycję spisu treści. Okna HTML Help definiuje się w <a href="tool_htmlhelp_hhp_editor.html#definiowanie-okien">edytorze projektu</a>.
+Pole to przeznaczone jest na wpisanie nazwy okna HTML Help, do którego załadowany ma być dokument wskazywany przez tę pozycję spisu treści. Okna HTML Help definiuje się w <a href="tool_htmlhelp_hhp_editor.php#definiowanie-okien">edytorze projektu</a>.
 </p>
 <p><b>Ramka</b><br />
 Przeznaczeniem tego pola jest wpisanie nazwy okna, lub wybranie jednej z predefiniowanych nazw z rozwijanej listy. Ma to na celu otwieranie tej pozycji w innym niż domyślne oknie.

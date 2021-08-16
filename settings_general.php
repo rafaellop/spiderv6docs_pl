@@ -56,12 +56,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -96,7 +91,7 @@ Zaznacz tę opcję, aby włączyć wyświetlanie tytułu edytowanego dokumentu, 
 Zaznacz tę opcję, aby włączyć wyświetlanie na pasku tytułu okna pełnej ścieżki do dokumentu zamiast samej nazwy pliku.
 
 <p><b>Przełączaj pomiędzy dokumentami w kolejności użycia</b><br>
-Zaznacz tę opcję aby włączyć inny tryb przełączania między dokumentami za pomocą kombinacji <tt>Ctrl+Tab</tt> i <tt>Shift+Ctrl+Tab</tt>, który polega na wyświetlaniu ich w kolejności ostatniego użycia. Jeśli opcja ta pozostanie niezaznaczona, dokumenty będą przełączane w kolejności, w jakiej zostały otwarte (kolejność na pasku z nazwami plików). Więcej na ten temat czytaj tez w temacie pomocy do <a href="main_editor_general.html#przelaczanie">Edytora</a>.
+Zaznacz tę opcję aby włączyć inny tryb przełączania między dokumentami za pomocą kombinacji <tt>Ctrl+Tab</tt> i <tt>Shift+Ctrl+Tab</tt>, który polega na wyświetlaniu ich w kolejności ostatniego użycia. Jeśli opcja ta pozostanie niezaznaczona, dokumenty będą przełączane w kolejności, w jakiej zostały otwarte (kolejność na pasku z nazwami plików). Więcej na ten temat czytaj tez w temacie pomocy do <a href="main_editor_general.php#przelaczanie">Edytora</a>.
 
 <p><b>Łapka nad przyciskami i podkreślane elementy na listach</b><br>
 Zaznacz tę opcję, aby włączyć wyświetlanie kursora "łapki" nad elementami, które można kliknąć oraz podświetlać elementy na listach.
@@ -169,7 +164,7 @@ W tym polu wprowadź lub wybierz za pomocą przycisku obok folder, który będzi
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="settings.html#settingslist">Inne ustawienia</a>
+	<li><a href="settings.php#settingslist">Inne ustawienia</a>
 	<li><a href="main_window_desc.php">Wygląd programu i sposób korzystania</a>
 	<li><a href="main_tabs_myservices.php">Lista plików i widok miniatur</a>
 	<li><a href="tool_quickpreview.php">Szybki podgląd</a>

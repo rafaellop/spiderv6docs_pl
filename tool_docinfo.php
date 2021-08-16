@@ -56,12 +56,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -166,7 +161,7 @@ Poniżej pola testowego notatki znajduje się kilka opcji związanych z wyświet
 
 <p><b>Wymuszone dołączanie</b><br />
 
-Kliknij ten przycisk, aby uruchomić okno służące do wyboru plików, które mają być analizowane przez Pająka na potrzeby różnych mechanizmów podpowiedzi. Więcej na ten temat czytaj w temacie <a href="service_properites.html#virtual_include">Okno właściwości serwisu</a>
+Kliknij ten przycisk, aby uruchomić okno służące do wyboru plików, które mają być analizowane przez Pająka na potrzeby różnych mechanizmów podpowiedzi. Więcej na ten temat czytaj w temacie <a href="service_properites.php#virtual_include">Okno właściwości serwisu</a>
 
 
 <a name="general2"></a>

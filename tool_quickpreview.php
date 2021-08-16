@@ -56,12 +56,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -74,7 +69,7 @@
 
 <p>Szybki podgląd, to narzędzie umożliwiające podgląd wielu różnych typów plików bezpośrednio z Pająka, np. obrazków, dokumentów HTML, plików tekstowych, animacji, etc.
 
-<p>Okno szybkiego podglądu uruchomisz z poziomu menu lub paska z przyciskami listy plików na zakładce <a href="main_tabs_myservices.html#myservices_menubuttons">Moje serwisy</a>. Polecenie to oznaczone jest za pomocą ikonki pokazanej powyżej.
+<p>Okno szybkiego podglądu uruchomisz z poziomu menu lub paska z przyciskami listy plików na zakładce <a href="main_tabs_myservices.php#myservices_menubuttons">Moje serwisy</a>. Polecenie to oznaczone jest za pomocą ikonki pokazanej powyżej.
 
 <h2>Przeglądanie plików</h2>
 

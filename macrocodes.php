@@ -57,12 +57,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -82,13 +77,13 @@
 
 <p>Pająk dostarcza setek szablonów, jak "Szablony kodu" (najczęściej stosowane konstrukcje w różnych językach skryptowych), "Szablony stron" (szablony generujące kompletne strony wraz z grafikami!), "Znaki specjalne" (encje liter różnych alfabetów itp.) i wiele innych. Wszystko po to, by praca z Pająkiem była jak najbardziej efektywna!</p>
 
-<p>Poszczególne szablony pogrupowane są w kategorie na drzewku, które zajmuje większą część zakładki szablony umieszczonej w <a href="main_tabs_general.html#tabs_leftpanel">panelu po lewej</a>.</p>
+<p>Poszczególne szablony pogrupowane są w kategorie na drzewku, które zajmuje większą część zakładki szablony umieszczonej w <a href="main_tabs_general.php#tabs_leftpanel">panelu po lewej</a>.</p>
 
-<p>Możliwe jest również bezpośrednie wyświetlenie zakładki szablony - skorzystaj ze skrótu Ctrl+4. Jeśli <a href="main_tabs_general.html#tabs_leftpanel">panel po lewej</a> nie był widoczny, zamiast zakładki pokaże się oddokowane okno, które można umieścić w dowolnej części ekranu.</p>
+<p>Możliwe jest również bezpośrednie wyświetlenie zakładki szablony - skorzystaj ze skrótu Ctrl+4. Jeśli <a href="main_tabs_general.php#tabs_leftpanel">panel po lewej</a> nie był widoczny, zamiast zakładki pokaże się oddokowane okno, które można umieścić w dowolnej części ekranu.</p>
 
 <p>Możliwości szablonów zostały w stosunku do swych poprzedników z Pająka 2000 znacznie poszerzone. Sugeruje to już nawet zmiana nazwy - służą nie tylko do wstawiania znaczników. </p>
 
-<p>Możliwe jest zbudowanie szablonów zawierających <a href="main_tabs_macrocodes.html#variables">zmienne</a> i <a href="main_tabs_macrocodes.html#blocks">bloki</a>, które pozwalają użytkownikowi szablonu dopasować wstawiany kod do aktualnych potrzeb, bez modyfikacji samego szablonu!</p>
+<p>Możliwe jest zbudowanie szablonów zawierających <a href="main_tabs_macrocodes.php#variables">zmienne</a> i <a href="main_tabs_macrocodes.php#blocks">bloki</a>, które pozwalają użytkownikowi szablonu dopasować wstawiany kod do aktualnych potrzeb, bez modyfikacji samego szablonu!</p>
 
 <p>Za pomocą szablonów można tworzyć kompletne dokumenty, wraz z grafikami, dołączonymi dokumentami itp. </p>
 

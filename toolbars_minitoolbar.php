@@ -56,12 +56,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -98,7 +93,7 @@ Kliknij, aby przejść do następnego dokumentu otwartego aktualnie w edytorze.
 Kliknij, aby przejść do ostatniego dokumentu otwartego aktualnie w edytorze.
 
 <p><b>Wyświetlenie, lub ukrycie rynny</b><br />
-kliknij, aby wyświetlić, bądź ukryć <a href="main_editor.html#gutter">rynnę edytora</a>.
+kliknij, aby wyświetlić, bądź ukryć <a href="main_editor.php#gutter">rynnę edytora</a>.
 
 <p><b>Numerowanie linii</b><br />
 Kliknij, aby wyświetlić, bądź ukryć numery linii na rynnie.
@@ -125,19 +120,19 @@ Kliknij, aby włączyć, bądź wyłączyć <a href="settings_editor_syntax.php"
 Kliknij, aby włączyć, lub wyłączyć <a href="main_editor_wysiwyg.php">tryb edycji wizualnej</a>.
 
 <p><b>Podział poziomy</b><br />
-Kliknij, aby włączyć, lub wyłączyć poziomy podział <a href="main_editor.html#twoparts">okna edytora</a> na dwie części.
+Kliknij, aby włączyć, lub wyłączyć poziomy podział <a href="main_editor.php#twoparts">okna edytora</a> na dwie części.
 
 <p><b>Podział pionowy</b><br />
-Kliknij, aby włączyć, lub wyłączyć pionowy podział <a href="main_editor.html#twoparts">okna edytora</a> na dwie części.
+Kliknij, aby włączyć, lub wyłączyć pionowy podział <a href="main_editor.php#twoparts">okna edytora</a> na dwie części.
 
 <p><b>Automatyczne uzupełnianie znaczników</b><br />
-Kliknij, aby włączyć, bądź wyłączyć funkcję <a href="main_editor_codeinsight.html#tag_completion">automatycznego uzupełniania znaczników</a>.
+Kliknij, aby włączyć, bądź wyłączyć funkcję <a href="main_editor_codeinsight.php#tag_completion">automatycznego uzupełniania znaczników</a>.
 
 <p><b>Dynamiczne podpowiedzi</b><br />
-Kliknij, aby włączyć, bądź wyłączyć funkcję <a href="main_editor_codeinsight.html#code_parameter">dynamicznych podpowiedzi</a>.
+Kliknij, aby włączyć, bądź wyłączyć funkcję <a href="main_editor_codeinsight.php#code_parameter">dynamicznych podpowiedzi</a>.
 
 <p><b>Dynamiczny kod</b><br />
-Kliknij, aby włączyć, bądź wyłączyć funkcję <a href="main_editor_codeinsight.html#code_completion">dynamicznego kodu</a>.
+Kliknij, aby włączyć, bądź wyłączyć funkcję <a href="main_editor_codeinsight.php#code_completion">dynamicznego kodu</a>.
 
 <p><b>Wcięcie zaznaczonego tekstu</b><br />
 Kliknij, aby ustawić wcięcie dla zaznaczonego tekstu.
@@ -150,10 +145,10 @@ Kliknij, aby otworzyć okno <a href="tool_docinfo.php">Informacje o dokumencie</
 
 
 <p><b>Nawigator zakładek</b><br />
-Kliknij, aby otworzyć okno <a href="tool_docinfo.html#bookmark">Nawigator zakładek</a>
+Kliknij, aby otworzyć okno <a href="tool_docinfo.php#bookmark">Nawigator zakładek</a>
 
 <p><b>Zadania do wykonania</b><br />
-Kliknij, aby otworzyć okno <a href="tool_docinfo.html#todotasks">Zadania do wykonania</a>
+Kliknij, aby otworzyć okno <a href="tool_docinfo.php#todotasks">Zadania do wykonania</a>
 
 <p><b>Paleta kolorów</b><br />
 Kliknij, aby uruchomić <a href="tool_colorpalette.php">paletę kolorów</a> (domyślny skrót <tt>Shift+Ctrl+C</tt>). narzędzie umożliwia wybór koloru z palety, a także pobranie próbki koloru z dowolnego miejsca na ekranie za pomocą pipety.

@@ -56,12 +56,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -103,7 +98,7 @@ Kliknij, aby usunąć zakładkę nazwaną.
 <p><b>Idź do etykiety dokumentu</b><br />
 Kliknij, aby przejść do wybranej etykiety w dokumencie.
 
-<p><b><a href="find_text.html#goto">Idź do linii nr</a></b><br />
+<p><b><a href="find_text.php#goto">Idź do linii nr</a></b><br />
 Kliknij, aby wybrać linię, do której chcesz przejść(domyślny skrót <tt>Ctrl+G</tt>).
 
 <hr>
@@ -111,7 +106,7 @@ Kliknij, aby wybrać linię, do której chcesz przejść(domyślny skrót <tt>Ct
 <p><b><a href="tool_docinfo_todo_add.php">Dodaj zadanie do wykonania</a></b><br />
 Kliknij, aby dodać zadanie do wykonania.
 
-<p><b><a href="tool_docinfo.html#todotasks">Zadania do wykonania</a></b><br />
+<p><b><a href="tool_docinfo.php#todotasks">Zadania do wykonania</a></b><br />
 Kliknij, aby otworzyć okno informacji o biężącym dokumencie i wyświetlić w nim listę zadań do wykonania. 
 
 

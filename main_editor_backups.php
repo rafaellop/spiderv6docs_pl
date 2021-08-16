@@ -56,12 +56,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -83,7 +78,7 @@
 </ul></p>
 
 
-<p>Tworzenie kopii zapasowych podczas pracy <a href="find_ext.html#backups">Rozszerzonego wyszukiwania i zamiany</a> jest niezależne od wybranej opcji w Ustawieniach programu, możesz je włączyć i wyłączyć w oknie narzędzia.</p>
+<p>Tworzenie kopii zapasowych podczas pracy <a href="find_ext.php#backups">Rozszerzonego wyszukiwania i zamiany</a> jest niezależne od wybranej opcji w Ustawieniach programu, możesz je włączyć i wyłączyć w oknie narzędzia.</p>
 
 
 <h2>Nazwa pliku kopii zapasowej</h2>
@@ -113,7 +108,7 @@ To polecenie znajduje się na pasku z prawej strony listy plików zakładki <a h
 
 <h2>Co zrobić, aby pliki kopii zapasowych BAK nie były tworzone?</h2>
 
-<p>Tworzenie kopii zapasowych podczas zapisu edytowanego dokumentu możesz wyłączyć (domyślnie jest to włączone) w oknie <a href="settings_editor_documents.html#backups">Ustawienia programu / Dokumenty</a>. </p>
+<p>Tworzenie kopii zapasowych podczas zapisu edytowanego dokumentu możesz wyłączyć (domyślnie jest to włączone) w oknie <a href="settings_editor_documents.php#backups">Ustawienia programu / Dokumenty</a>. </p>
 
 
 

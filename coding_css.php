@@ -55,12 +55,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -85,7 +80,7 @@
    <li><a href="main_tabs_inspector_css.php">Zakładka "Inspektor CSS" na lewym panelu zasobów</a>
    <li><a href="coding_css_syntax.php">Kolorowanie składni</a></li>
    <li><a href="coding_css_codeinsight.php">Dynamiczny kod</a></li>
-   <li><a href="main_tabs_navigator.html#css">Nawigator CSS</a></li>
+   <li><a href="main_tabs_navigator.php#css">Nawigator CSS</a></li>
    <li><a href="coding_css_help.php">Pomoc kontekstowa dla CSS na dolnym panelu</a>
    <li><a href="coding_css_macrocodes.php">Makrokody - szablony dokumentów wykorzystujące CSS</a></li>
    <li><a href="coding_css_formatting.php">Formatowanie kodu arkuszy stylów</a></li>

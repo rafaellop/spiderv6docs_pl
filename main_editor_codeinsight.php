@@ -56,12 +56,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -110,9 +105,9 @@ Automatyczne uzupełniane znaczników możesz włączyć klikając na ikonę  na
 <p>Więcej o Dynamicznym kodzie możesz przeczytać w tematach dotyczących:
 
 <ul>
-	<li><a href="coding_markuplangs_codeinsight.html#code_completion">wspomagania dla języków znacznikowych</a></li>
-	<li><a href="coding_php_codeinsight.html#code_completion">wspomagania dla PHP</a></li>
-	<li><a href="coding_scripts_jsvb_codeinsight.html#code_completion">wspomagania dla skryptów JavaScript</a></li>
+	<li><a href="coding_markuplangs_codeinsight.php#code_completion">wspomagania dla języków znacznikowych</a></li>
+	<li><a href="coding_php_codeinsight.php#code_completion">wspomagania dla PHP</a></li>
+	<li><a href="coding_scripts_jsvb_codeinsight.php#code_completion">wspomagania dla skryptów JavaScript</a></li>
 	<li><a href="coding_css_codeinsight.php">wspomagania dla arkuszy stylów CSS</a></li>
 </ul></p>
 
@@ -133,9 +128,9 @@ Automatyczne uzupełniane znaczników możesz włączyć klikając na ikonę  na
 
 <p>Więcej na temat dynamicznych podpowiedzi możesz przeczytać w tematach dotyczących:
 <ul>
-	<li><a href="coding_markuplangs_codeinsight.html#code_parameter">wspomagania dla języków znacznikowych</a></li>
-	<li><a href="coding_php_codeinsight.html#code_parameter">wspomagania dla PHP</a></li>
-	<li><a href="coding_scripts_jsvb_codeinsight.html#code_parameter">wspomagania dla skryptów JavaScript</a></li>
+	<li><a href="coding_markuplangs_codeinsight.php#code_parameter">wspomagania dla języków znacznikowych</a></li>
+	<li><a href="coding_php_codeinsight.php#code_parameter">wspomagania dla PHP</a></li>
+	<li><a href="coding_scripts_jsvb_codeinsight.php#code_parameter">wspomagania dla skryptów JavaScript</a></li>
 </ul></p>
 
 <!-- treść pomocy -->

@@ -57,12 +57,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -75,7 +70,7 @@
 
 <!-- treść pomocy -->
 
-<p>Okno otwiera się po wykonaniu w Pająku funkcji <a href="find_ext.php">rozszerzonego wyszukiwania</a> (gdy znaleziono ciągi znaków pasujące do wzorca), wywołaniu polecenia wyszukiwania plików lub folderów lub <a href="spelling.php">sprawdzania pisowni</a> (gdy znaleziono błędy), a także po skorzystaniu z polecenia <a href="find.html#filesearchinfo">Wyszukiwanie plików we wskazanym folderze</a>. Listę elementów można sortować klikając na nagłówku każdej z kolumn. W przypadku nieznalezienia słów przez funkcję wyszukiwania, lub braku błędów przy sprawdzaniu pisowni, okno nie zostanie wyświetlone.</p>
+<p>Okno otwiera się po wykonaniu w Pająku funkcji <a href="find_ext.php">rozszerzonego wyszukiwania</a> (gdy znaleziono ciągi znaków pasujące do wzorca), wywołaniu polecenia wyszukiwania plików lub folderów lub <a href="spelling.php">sprawdzania pisowni</a> (gdy znaleziono błędy), a także po skorzystaniu z polecenia <a href="find.php#filesearchinfo">Wyszukiwanie plików we wskazanym folderze</a>. Listę elementów można sortować klikając na nagłówku każdej z kolumn. W przypadku nieznalezienia słów przez funkcję wyszukiwania, lub braku błędów przy sprawdzaniu pisowni, okno nie zostanie wyświetlone.</p>
 
 <h2>Raport rozszerzonego wyszukiwania i sprawdzania pisowni</h2>
 
@@ -116,7 +111,7 @@ Wyświetla ten temat pomocy do programu.</p>
 
 <p>Ten widok podzielony jest na dwie części. Z lewej strony widnieje lista odnalezionych plików, z prawej zaś umieszczone zostały zakładki z opcjami umożliwiającymi zdefiniowanie kryteriów wyszukiwania (nazwa pliku, folder do przeszukania, data, rozmiar pliku i inne).</p>
 <p>Obok listy znajduje się pasek przycisków, dzięki którym możesz uruchomić i zatrzymać wyszukiwanie, wyświetlić (bądź ukryć) zakładki kryteriów wyszukiwania, a także zmienić widok listy odnalezionych plików.</p>
-Więcej na ten temat znajdziesz w <a href="find.html#filesearchinfo">temacie pomocy o wyszukiwaniu w Pająku</a>.
+Więcej na ten temat znajdziesz w <a href="find.php#filesearchinfo">temacie pomocy o wyszukiwaniu w Pająku</a>.
 
 
 </td>
@@ -132,7 +127,7 @@ Więcej na ten temat znajdziesz w <a href="find.html#filesearchinfo">temacie pom
    <li><a href="find_ext.php">Rozszerzone wyszukiwanie i zamiana</a></li>
    <li><a href="spelling.php">Sprawdzanie pisowni</a></li>
    <li><a href="charset_encoding.php">Zmiana kodowania znaków</a></li>
-   <li><a href="down_panel.html#downpanellist">Inne zakładki dolnego panelu wyników</a></li>
+   <li><a href="down_panel.php#downpanellist">Inne zakładki dolnego panelu wyników</a></li>
    <li><a href="main_window_desc.php">Główne okno programu</a></li>
 </ul>
 </td>

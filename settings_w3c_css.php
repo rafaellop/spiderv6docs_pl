@@ -57,12 +57,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -79,7 +74,7 @@
 
 <p>Narzędzie weryfikacji składni CSS online pozwala na sprawdzanie poprawności dokumentów CSS z wykorzystaniem walidatora składni W3C&reg; dostępnego na stronach organizacji W3C. Jest to alternatywne narzędzie w stosunku do wbudowanego w Pająka walidatora składni CSS. Pająk potrafi przesyłać do skryptu walidatora aktualnie edytowany dokument, niezależnie czy jest on otwartz serwera czy też lokalnie, a wyniki walidacji są wyświetlane na dolnym panelu.</p>
 
-<p>Okno ustawień walidatora składni CSS online może być wyświetlone albo poprzez okno ustawień edytora z zakładki "<a href="settings_editor_spelling.html#syntaxcheck">Pisownia i weryfikacja składni</a>" albo automatycznie przy każdym wywołaniu narzędzia weryfikacji składni online za pomocą polecenia z poziomu <a href="main_menu_main.php">Menu głównego</a> / <a href="main_menu_tools.php">Narzędzia</a> / <a href="main_menu_tools_verify.php">Weryfikacja kodu</a> / Sprawdź składnię online lub uruchamiając to narzędzie z <a href="down_panel.php">dolnego panelu wyników</a>.</p>
+<p>Okno ustawień walidatora składni CSS online może być wyświetlone albo poprzez okno ustawień edytora z zakładki "<a href="settings_editor_spelling.php#syntaxcheck">Pisownia i weryfikacja składni</a>" albo automatycznie przy każdym wywołaniu narzędzia weryfikacji składni online za pomocą polecenia z poziomu <a href="main_menu_main.php">Menu głównego</a> / <a href="main_menu_tools.php">Narzędzia</a> / <a href="main_menu_tools_verify.php">Weryfikacja kodu</a> / Sprawdź składnię online lub uruchamiając to narzędzie z <a href="down_panel.php">dolnego panelu wyników</a>.</p>
 
 <p>Okno ustawień walidatora pozwala na zdefiniowanie ustawień raportu weryfikacji. Przede wszystkim można wybrać tryb prosty lub rozszerzony. W trybie prostym stosowane są domyślne ustawienia skryptu. Tryb rozszerzony pozwala natomiast na zdefiniowanie parametrów, wpływających na wyniki weryfikacji składni.</p>
 
@@ -116,7 +111,7 @@ Zaznacz tę opcję, jeśli chcesz, aby okno ustawień walidatora online było wy
    <li><a href="main_menu_tools.php">Menu główne - Narzędzia</a></li>
    <li><a href="down_syntax_check.php">Sprawdzanie poprawności składni w dokumentach</a></li>
    <li><a href="settings_w3c_html.php">Ustawienia weryfikacji składni znaczników online</a></li>
-   <li><a href="settings_editor_spelling.html#syntaxcheck">Ustawienia weryfikacji składni</a></li>
+   <li><a href="settings_editor_spelling.php#syntaxcheck">Ustawienia weryfikacji składni</a></li>
 </ul>
 </td>
 </tr>

@@ -56,12 +56,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -174,7 +169,7 @@ Kliknij, aby uruchomić program MS HTML Help Workshop.
 Mapowania przy podglądzie oznacza "przetłumaczenie" ścieżki dostępu do pliku na dysku na adres pod którym można ten dokument przeglądać w przeglądarce internetowej. Pozwala to na łatwiejsze przeglądanie i pracę podczas testowania dokumentów z wykorzystaniem lokalnego serwera WWW, np. skryptów PHP, które muszą być przeglądane za pomocą adresu URL. Korzystając z przycisków obok możesz zarządzać listą mapowań przypisanych do serwisów. Mapowania możesz zmieniać na zakładce Podgląd w głównym oknie programu. Domyślne mapowanie oznaczone jest ikoną czerwonej kulki (). Nowe mapowanie dodasz za pomocą <a href="settings_network_ftpservers_add_map.php">okna dodawania mapowania</a>.
 
 <p><b>Grupa Mapowanie przy synchronizacji</b><br>
-<p>Mapowanie synchronizacji określa z jakiego folderu na dysku Twojego komputera do jakiego folderu na wybranym serwerze będą wysyłane pliki. Możesz utworzyć jedno, bądź więcej mapowań, co pozwala na wybór osobnych podkatalogów serwisu lokalnego, bądź serwera FTP (lub WebDAV), które mają być <a href="service_tool_synchronization.php">synchronizowane</a> ze sobą. Nowe mapowanie dodasz za pomocą <a href="settings_network_ftpservers_add_map.php">okna dodawania mapowania</a>. Dodatkowo możesz określić, które mapowanie jest domyślne - będzie ono używane np. w funkcji publikowania dokumentów za pomocą <a href="network_publishing_general.html#publish_current">poleceń publikacji bieżącego dokumentu z menu Plik, czy publikacji dokumentów w zakładce Moje serwisy</a>. Domyślne mapowanie oznaczone jest ikoną czerwonej kulki ().
+<p>Mapowanie synchronizacji określa z jakiego folderu na dysku Twojego komputera do jakiego folderu na wybranym serwerze będą wysyłane pliki. Możesz utworzyć jedno, bądź więcej mapowań, co pozwala na wybór osobnych podkatalogów serwisu lokalnego, bądź serwera FTP (lub WebDAV), które mają być <a href="service_tool_synchronization.php">synchronizowane</a> ze sobą. Nowe mapowanie dodasz za pomocą <a href="settings_network_ftpservers_add_map.php">okna dodawania mapowania</a>. Dodatkowo możesz określić, które mapowanie jest domyślne - będzie ono używane np. w funkcji publikowania dokumentów za pomocą <a href="network_publishing_general.php#publish_current">poleceń publikacji bieżącego dokumentu z menu Plik, czy publikacji dokumentów w zakładce Moje serwisy</a>. Domyślne mapowanie oznaczone jest ikoną czerwonej kulki ().
 
 
 

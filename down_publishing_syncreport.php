@@ -56,12 +56,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -109,7 +104,7 @@ W tym miejscu znajduje się nazwa serwera, którego dotyczy operacja na elemenci
 <p>Listą elementów przeznaczonych do synchronizacji steruje się za pomocą przycisków znajdujących się po prawej stronie listy. Oto znaczenie poszczególnych:
 
 <p><b>Przełączenie Widoku zakładki publikowanie</b><br>
-Przycisk ten ma podpięte menu, za pomocą którego możesz przełączać się pomiędzy widokami zakładki <a href="down_publishing.html#downpanelpublishinglist">Operacje publikowania</a>.
+Przycisk ten ma podpięte menu, za pomocą którego możesz przełączać się pomiędzy widokami zakładki <a href="down_publishing.php#downpanelpublishinglist">Operacje publikowania</a>.
 
 <p><b>Rozpocznij synchronizację</b><br>
 Ten przycisk służy do rozpoczęcia wykonywania synchronizacji plików zebranych na liście. Po rozpoczęciu, na pasku stanu poniżej listy wyświetlany jest raport o aktualnie wykonywanym zadaniu. Znajduje się tam również wskaźnik postępu, który w jasny sposób wskazuje ile pozostało do końca bieżącego zadania.
@@ -118,7 +113,7 @@ Ten przycisk służy do rozpoczęcia wykonywania synchronizacji plików zebranyc
 Ten przycisk służy do zatrzymywania procesu synchronizacji, który jest w trakcie wykonywania.
 
 <p><b>Zaznacz/odznacz według rozszerzeń</b><br />
- Ten przycisk wyświetla okienko <b>Wybór rozszerzenia</b> zawierające listę rozszerzeń wszystkich plików obecnych w kolejce synchronizacji. Dzięki temu przed rozpoczęciem wykonywania kolejki masz możliwość wyłączenia z synchronizacji plików różnych typów. W ten sposób możesz jeszcze bardziej ograniczyć liczbę plików (pierwsze podobne ograniczenie znajduje się w oknie <a href="service_tool_synchronization.html#pomijanie_rozszerzen">Serwisy - Synchronizacja serwisu</a>).
+ Ten przycisk wyświetla okienko <b>Wybór rozszerzenia</b> zawierające listę rozszerzeń wszystkich plików obecnych w kolejce synchronizacji. Dzięki temu przed rozpoczęciem wykonywania kolejki masz możliwość wyłączenia z synchronizacji plików różnych typów. W ten sposób możesz jeszcze bardziej ograniczyć liczbę plików (pierwsze podobne ograniczenie znajduje się w oknie <a href="service_tool_synchronization.php#pomijanie_rozszerzen">Serwisy - Synchronizacja serwisu</a>).
 
 <p><b>Przenieś w górę</b><br>
 Ten przyciskm pozwala na przemieszczanie zadań w kolejce w górę. Zadania umieszczone wyżej są wykonywane wcześniej.
@@ -156,8 +151,8 @@ Wyświetla temat Pomocy dla bieżącej zakładki dolnego panelu.
 <ul>
 	<li><a href="service_tool_synchronization.php">Synchronizacja projektów</a>
 	<li><a href="services_general.php">O serwisach ogólnie</a>
-	<li><a href="down_publishing.html#downpanelpublishinglist">Inne zakładki operacji publikowania</a>
-	<li><a href="down_panel.html#downpanellist">Inne zakładki dolnego panelu</a>
+	<li><a href="down_publishing.php#downpanelpublishinglist">Inne zakładki operacji publikowania</a>
+	<li><a href="down_panel.php#downpanellist">Inne zakładki dolnego panelu</a>
 	<li><a href="main_tabs_myftpservers.php">Zakładka "Moje serwery"</a>
 	<li><a href="settings_network_ftpclient.php">Ustawienia klienta FTP</a>
 	<li><a href="main_window_desc.php">Główne okno programu</a>

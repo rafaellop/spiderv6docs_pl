@@ -56,12 +56,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -74,7 +69,7 @@
 
 <p>Podczas zapisu dokumentu tworzony może być plik zawierający dodatkowe informacje dotyczące ustawień dokumentu.</p>
 
-<p>W oknie <a href="settings_editor_documents.html#add_files">Ustawień programu</a> możesz wybrać, jakie z informacji mają być zachowywane:</p>
+<p>W oknie <a href="settings_editor_documents.php#add_files">Ustawień programu</a> możesz wybrać, jakie z informacji mają być zachowywane:</p>
 
 <ul>
 	<li>ustawienia <a href="main_editor_bookmarks.php">zakładek w dokumencie</a></li>
@@ -117,7 +112,7 @@ Nazwa pliku dodatkowych informacji tworzona jest z nazwy oryginalnego dokumentu 
 <h4>Pokrewne tematy</h4>
 <ul>
 	<li><a href="main_editor_general.php">Edytor - ogólnie</a>
-	<li><a href="settings_editor_documents.html#add_files">Ustawienia programu / dokumenty</a>
+	<li><a href="settings_editor_documents.php#add_files">Ustawienia programu / dokumenty</a>
 </ul>
 </td>
 </tr>

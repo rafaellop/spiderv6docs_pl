@@ -56,12 +56,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -80,7 +75,7 @@
 	<li><a href="main_tabs_navigator.php">Nawigatory dokumentów na Zakładce "Nawigator"</a></li>
 	<li><a href="main_editor_todotasks.php">Zadania do wykonania</a></li>
 	<li><a href="main_editor_bookmarks.php">Zakładki w dokumencie</a></li>
-	<li><a href="find_text.html#goto">Narzędzie do przechodzenia do wybranych elementów dokumentu</a></li>
+	<li><a href="find_text.php#goto">Narzędzie do przechodzenia do wybranych elementów dokumentu</a></li>
 	<li><a href="main_menu_tools_navigation.php">Polecenia nawigacji po znacznikach i dokumencie</a></li>
 	<li><a href="zen-coding.php">Obsługa biblioteki zen-coding z funkcjami nawigacyjnymi</a></li>
 </ul>
@@ -106,9 +101,9 @@
 <h4>Pokrewne tematy</h4>
 <ul>
 	<li><a href="main_tabs_navigator.php">Zakładka "Nawigator"</a>
-	<li><a href="tool_docinfo.html#bookmark">Zakładki w dokumencie</a>
+	<li><a href="tool_docinfo.php#bookmark">Zakładki w dokumencie</a>
 	<li><a href="main_editor_todotasks.php">Zadania do wykonania</a>
-	<li><a href="find_text.html#goto">Wyszukiwanie, zamiana, przenoszenie</a>
+	<li><a href="find_text.php#goto">Wyszukiwanie, zamiana, przenoszenie</a>
 	<li><a href="main_menu_tools_navigation.php">Nawigacja po dokumencie</a></li>
 	<li><a href="zen-coding.php">Biblioteka zen-coding z funkcjami nawigacyjnymi</a></li>
 </ul>

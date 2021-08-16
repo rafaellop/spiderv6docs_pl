@@ -56,12 +56,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -83,7 +78,7 @@
 <ul>
 	<li><a href="coding_php_syntax.php">Kolorowanie składni</a></li>
 	<li><a href="coding_php_codeinsight.php">Dynamiczny kod</a></li>
-	<li><a href="main_tabs_navigator.html#php">Nawigator PHP</a></li>
+	<li><a href="main_tabs_navigator.php#php">Nawigator PHP</a></li>
 	<li><a href="coding_php_help.php">Pomoc kontekstowa dla PHP na dolnym panelu</a>
 	<li><a href="coding_php_languages.php">Języki programowania - drzewko definicji funkcji dla PHP</a></li>
 	<li><a href="coding_php_macrocodes.php">Makrokody - szablony kodu PHP</a></li>

@@ -56,12 +56,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -77,7 +72,7 @@
 
 
 
-<p>Zakładka "Przeglądanie" umieszczona jest w <a href="main_tabs_general.html#tabs_center">środkowym panelu</a>, którego nie możesz wyłączyć. Na tej zakładce możesz przeglądać aktualnie tworzony dokument. Umożliwia ona tez podgląd makrokodów, jeśli na <a href="main_tabs_macrocodes.php">zakładce Makrokody</a> została ustawiona taka opcja.</p>
+<p>Zakładka "Przeglądanie" umieszczona jest w <a href="main_tabs_general.php#tabs_center">środkowym panelu</a>, którego nie możesz wyłączyć. Na tej zakładce możesz przeglądać aktualnie tworzony dokument. Umożliwia ona tez podgląd makrokodów, jeśli na <a href="main_tabs_macrocodes.php">zakładce Makrokody</a> została ustawiona taka opcja.</p>
 
 <p>Ze względu na bardzo szybko zmieniająca się ofertę programową wielkich firm i coraz nowsze rozszerzenia wprowadzane przez nie do języka HTML, zdecydowano, że Pająk nie zostanie wyposażony we własny system podglądu tworzonej strony. Położono natomiast silny nacisk na ułatwienie pracy z dostępnymi na rynku przeglądarkami.
 </p>
@@ -131,7 +126,7 @@ Kliknij, aby ustawić szerokość obszaru podglądu w pikselach. Dostępne są s
 
 
 <p><b>Mapowanie folderu na adres</b><br />
-Kliknij, aby wybrać, lub wyłączyć <a href="service_properites.html#service_properties_mappings">mapowanie dla przeglądania</a>. Mapowanie to umożliwia przeglądanie stron za pomocą adresu sieciowego, a nie ścieżki na dysku. Jest ustawiane osobno dla każdego serwisu i po zmianie serwisu na zakładce Moje serwisy zmienia się automatycznie na domyślne mapowanie tego serwisu. W celu odnalezienia mapowania na liście, nazwa bieżącego serwisu wyróżniona jest pogrubieniem.
+Kliknij, aby wybrać, lub wyłączyć <a href="service_properites.php#service_properties_mappings">mapowanie dla przeglądania</a>. Mapowanie to umożliwia przeglądanie stron za pomocą adresu sieciowego, a nie ścieżki na dysku. Jest ustawiane osobno dla każdego serwisu i po zmianie serwisu na zakładce Moje serwisy zmienia się automatycznie na domyślne mapowanie tego serwisu. W celu odnalezienia mapowania na liście, nazwa bieżącego serwisu wyróżniona jest pogrubieniem.
 
 
 </td>

@@ -56,12 +56,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -78,7 +73,7 @@
 
 <p>Mapę serwisu uruchomisz z poziomu <a href="main_menu_main.php">Menu głównego</a> / <a href="main_menu_services.php">Serwisy</a> / <a href="main_menu_services_properties.php">Własności serwisu</a> / Mapa serwisu, a także z poziomu <a href="main_tabs_myservices.php">zakładki Serwisy</a> za pomocą polecenia w menu rozwijanym pod przyciskiem Własności serwisu . 
 
-<p>W oknie <a href="settings_general.html#service_map">Ustawienia programu - Ogólne</a> w sekcji Mapa serwisu możesz zmienić opcje generowana mapy, m. in rodzaje plików pokazywanych na mapie, głębokość skanowania odnośników itd.</p>
+<p>W oknie <a href="settings_general.php#service_map">Ustawienia programu - Ogólne</a> w sekcji Mapa serwisu możesz zmienić opcje generowana mapy, m. in rodzaje plików pokazywanych na mapie, głębokość skanowania odnośników itd.</p>
 
 <p>Okno mapy serwisu zostało podzielone na dwie części:</p>
 
@@ -108,7 +103,7 @@
 
 <h2>Okno zawartości mapy</h2>
 
-<p>Okno to zawiera mapę w postaci ikon plików połączonych strzałkami. W oknie <a href="settings_general.html#service_map">Ustawienia programu - Ogólne</a> w sekcji Mapa serwisu możesz wybrać głębokość skanowania (czyli w ilu kolejnych dokumentach od dokumentu głównego mają być szukane odnośniki), włączyć lub wyłączyć kolorowanie strzałek (domyślnie włączone), a także wybrać rodzaje plików, jakie mają być umieszczane na mapie.</p>
+<p>Okno to zawiera mapę w postaci ikon plików połączonych strzałkami. W oknie <a href="settings_general.php#service_map">Ustawienia programu - Ogólne</a> w sekcji Mapa serwisu możesz wybrać głębokość skanowania (czyli w ilu kolejnych dokumentach od dokumentu głównego mają być szukane odnośniki), włączyć lub wyłączyć kolorowanie strzałek (domyślnie włączone), a także wybrać rodzaje plików, jakie mają być umieszczane na mapie.</p>
 
 Jeśli klikniesz na plik prawym klawiszem myszki, ukaże się menu zawierające dwie pozycje:
 
@@ -132,7 +127,7 @@ Kliknij, aby rozpocząć przeglądanie od wskazanego dokumentu (wybrać jako dok
 <ul>
 	<li><a href="services_general.php">Serwisy ogólnie</a>
 	<li><a href="main_tabs_myservices.php">Zakładka Moje serwisy</a>
-	<li><a href="settings_general.html#service_map">Ustawienia programu - Ogólne - Mapa serwisu</a>
+	<li><a href="settings_general.php#service_map">Ustawienia programu - Ogólne - Mapa serwisu</a>
 </ul>
 </td>
 </tr>

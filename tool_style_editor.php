@@ -56,12 +56,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -74,7 +69,7 @@
 
 <p>Edytor stylów jest narzędziem umożliwiającym tworzenie i edycję stylu dla różnych znaczników (atrybut <tt>STYLE</tt>). </p>
 
-<p>Korzystanie z narzędzia jest zbliżone do tego, jak w przypadku narzędzia <a href="main_tabs_inspector_css.html#properties_list">Inspektora CSS</a> w głównym oknie programu z tym wyjątkiem, że edytor stylu uruchamiany z narzędzia nie modyfikuje dokumentu, ale ustala wartość dla atrybutu <tt>STYLE</tt> dla elementu, dla którego został wywołany edytor stylów. 
+<p>Korzystanie z narzędzia jest zbliżone do tego, jak w przypadku narzędzia <a href="main_tabs_inspector_css.php#properties_list">Inspektora CSS</a> w głównym oknie programu z tym wyjątkiem, że edytor stylu uruchamiany z narzędzia nie modyfikuje dokumentu, ale ustala wartość dla atrybutu <tt>STYLE</tt> dla elementu, dla którego został wywołany edytor stylów. 
 
 <p>Edytor stylów uruchamia się za pomocą przycisku pokazanego powyżej w oknach wstawiania znaczników, które posiadają ten przycisk i możliwość ustalenia stylu.
 

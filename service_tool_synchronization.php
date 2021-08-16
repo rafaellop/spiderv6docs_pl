@@ -56,12 +56,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -86,7 +81,7 @@
 
 <h3>Wybór serwera FTP/WebDAV</h3>
 
-<p>Okienko synchronizacji pozwala na wybranie <a href="service_properites.html#service_properties_mappings">mapowania</a>, które będzie używane przy funkcji synchronizacji (lista w grupie Serwer FTP/WebDAV). Możesz bowiem jeden serwis synchronizować z różnymi serwerami FTP i WebDAV, a także różne foldery lokalne serwisu z różnymi folderami zdalnymi serwera.
+<p>Okienko synchronizacji pozwala na wybranie <a href="service_properites.php#service_properties_mappings">mapowania</a>, które będzie używane przy funkcji synchronizacji (lista w grupie Serwer FTP/WebDAV). Możesz bowiem jeden serwis synchronizować z różnymi serwerami FTP i WebDAV, a także różne foldery lokalne serwisu z różnymi folderami zdalnymi serwera.
 
 <p>Wybrane tutaj mapowanie określa z jakiego folderu na dysku Twojego komputera do jakiego folderu na wybranym serwerze będą wysyłane pliki.</p>
 
@@ -165,7 +160,7 @@ Włącz ten przełącznik jeśli chcesz synchronizować tylko wybrane pliki lub 
 <h4>Pokrewne tematy</h4>
 <ul>
 	<li><a href="services_general.php">O serwisach ogólnie</a>
-	<li><a href="service_properites.html#service_properties_mappings">Ustawienia mapowania serwisu</a>
+	<li><a href="service_properites.php#service_properties_mappings">Ustawienia mapowania serwisu</a>
 	<li><a href="down_publishing_syncreport.php">Raport synchronizacji</a>
 	<li><a href="down_integrity.php">Oczyszczanie serwisu</a>
 	<li><a href="settings_network_synchronization.php">Ustawienia programu - Synchronizacja serwisów</a>

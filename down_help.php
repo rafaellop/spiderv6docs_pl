@@ -57,12 +57,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -92,7 +87,7 @@ Kliknij, aby przejść na poprzednią, lub następną stronę Pomocy w aktualnym
 Kliknij aby otworzyć aktualną stronę Pomocy w nowym oknie domyślnej przeglądarki internetowej.</p>
 
 <p><b>Kanały RSS</b><br />
-Wyświetla menu umożliwiające przeglądanie kanałów najnowszych wiadomości RSS i zarządzanie nimi. Układ poleceń jest identyczny jak w <a href="main_menu_help.html#rss" title="Menu Pomoc / Kanały RSS">Menu Pomoc / Kanały RSS</a>. Więcej o kanałach RSS czytaj w temacie <a href="settings_network_rss.php" title="Ustawienia kanałów RSS">Ustawienia kanałów RSS</a></p>
+Wyświetla menu umożliwiające przeglądanie kanałów najnowszych wiadomości RSS i zarządzanie nimi. Układ poleceń jest identyczny jak w <a href="main_menu_help.php#rss" title="Menu Pomoc / Kanały RSS">Menu Pomoc / Kanały RSS</a>. Więcej o kanałach RSS czytaj w temacie <a href="settings_network_rss.php" title="Ustawienia kanałów RSS">Ustawienia kanałów RSS</a></p>
 
 <hr />
 <p><b>Kurs HTML</b>
@@ -156,7 +151,7 @@ Kliknij, aby otworzyć Specyfikację MathML 2.0. Strona jest kopią zawartości 
    <li><a href="coding_scripts_jsvb_help.php">Wspomaganie dla JavaScript - Pomoc kontekstowa</a></li>
    <li><a href="coding_css_help.php">Wspomaganie dla CSS - Pomoc kontekstowa</a></li>
    <li><a href="coding_php_help.php">Wspomaganie dla PHP - Pomoc kontekstowa</a></li>
-   <li><a href="down_panel.html#downpanellist">Inne zakładki dolnego panelu wyników</a></li>
+   <li><a href="down_panel.php#downpanellist">Inne zakładki dolnego panelu wyników</a></li>
    <li><a href="main_window_desc.php">Główne okno programu</a></li>
 </ul>
 </td>

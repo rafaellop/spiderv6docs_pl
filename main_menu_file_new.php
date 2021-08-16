@@ -56,12 +56,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -78,7 +73,7 @@
 
 
 <p><b>Nowy według domyślnego makrokodu</b><br />
-Kliknij, aby utworzyć nowy dokument na podstawie <a href="main_tabs_macrocodes.html#default_template">domyślnego makrokodu</a>. Jeśli żaden makrokod nie jest wybrany domyślnym, Pająk zaproponuje przejście do <a href="main_tabs_macrocodes.php">zakładki Makrokody</a> i wskazanie go.</p>
+Kliknij, aby utworzyć nowy dokument na podstawie <a href="main_tabs_macrocodes.php#default_template">domyślnego makrokodu</a>. Jeśli żaden makrokod nie jest wybrany domyślnym, Pająk zaproponuje przejście do <a href="main_tabs_macrocodes.php">zakładki Makrokody</a> i wskazanie go.</p>
 
 <hr>
 

@@ -57,12 +57,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -86,7 +81,7 @@ Zaznacz tę opcję, jeśli chcesz włączyć kolorowanie ciągów jednoliniowych
 <p>Za pomocą ikon z prawej strony okna możesz dodawać, usuwać i edytować znaki określające początek i&nbsp;koniec ciągu znaków. Dla każdej pary znaków ciągu można zdefiniować inny styl kolorowania. W większości języków jest to znak <b>"</b> (początek i koniec), często również znak <b>'</b>.</p>
 <p>Kolorowanie takie obowiązuje od znaku początku do znaku końca ciągu (włącznie), przy czym ciąg musi zawierać się w&nbsp;jednej linii kodu.  </p>
 
-<p>Ciąg może zawierać dowolne znaki (włączając znak końca ciągu, jeśli przed nim zostanie postawiony  metasymbol zdefiniowany w&nbsp;zakładce <a href="syntax_blocks.html#metasymbol">Blok</a>).</p></li>
+<p>Ciąg może zawierać dowolne znaki (włączając znak końca ciągu, jeśli przed nim zostanie postawiony  metasymbol zdefiniowany w&nbsp;zakładce <a href="syntax_blocks.php#metasymbol">Blok</a>).</p></li>
 
 
 <li><p><b>Wieloliniowe ciągi znaków</b><br />
@@ -96,7 +91,7 @@ Zaznacz tę opcję, jeśli chcesz włączyć kolorowanie ciągów wieloliniowych
 
 <p>Kolorowanie takie obowiązuje od znaku początku do znaku końca ciągu (włącznie). Ciąg może zawierać się w&nbsp;dowolnej ilości linii kodu (jedna lub więcej). </p>
 
-<p>Ciąg może zawierać dowolne znaki (włączając znak końca ciągu, jeśli przed nim zostanie postawiony  metasymbol zdefiniowany w&nbsp;zakładce <a href="syntax_blocks.html#metasymbol">Blok</a>).</p></li>
+<p>Ciąg może zawierać dowolne znaki (włączając znak końca ciągu, jeśli przed nim zostanie postawiony  metasymbol zdefiniowany w&nbsp;zakładce <a href="syntax_blocks.php#metasymbol">Blok</a>).</p></li>
 
 
 </ul>

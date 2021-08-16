@@ -56,12 +56,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -92,7 +87,7 @@
 <p>Serwer udostępnia dokumenty ego serwisu pod adresem:<br />
 <tt>https://127.0.0.1/nazwa_serwisu1</tt></p>
 
-<p>Aby móc przeglądać wykonane skrypty PHP z poziomu okna Pająka w oknie Przeglądanie, musisz ustawić <a href="service_properites.html#service_properties_mappings">mapowanie sieciowe w oknie Właściwości serwisu</a>. </p>
+<p>Aby móc przeglądać wykonane skrypty PHP z poziomu okna Pająka w oknie Przeglądanie, musisz ustawić <a href="service_properites.php#service_properties_mappings">mapowanie sieciowe w oknie Właściwości serwisu</a>. </p>
 
 <ul>
 	<li><b>Nazwa:</b> <tt>Dowolna nazwa mapowania</tt><br /></li>

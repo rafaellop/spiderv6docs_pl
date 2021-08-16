@@ -56,12 +56,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -74,7 +69,7 @@
 
 <!-- treść pomocy -->
 
-<p>Zakładki umożliwiają oznaczenie ważnych miejsc, do których będziesz częściej wracał. Po ustawieniu zakładki w wybranym wierszu, jej ikona pojawi się na <a href="main_editor.html#gutter">rynnie</a> po lewej stronie edytora.</p>
+<p>Zakładki umożliwiają oznaczenie ważnych miejsc, do których będziesz częściej wracał. Po ustawieniu zakładki w wybranym wierszu, jej ikona pojawi się na <a href="main_editor.php#gutter">rynnie</a> po lewej stronie edytora.</p>
 
 <p>Zakładki przypisane są do miejsca, w którym zostały ustawione. Jeśli powyżej linii oznaczonej zakładka wstawisz dodatkowe linie, zakładka przesunie się o tyle samo linii w dół tak, by cały czas oznaczała to samo miejsce.</p>
 
@@ -107,10 +102,10 @@
 <p>Przejść do wybranej zakładki możesz na kilka sposobów:</p>
 
 <ul>
-	<li>korzystając z poleceń w <a href="main_editor.html#gutter">menu rynny</a></li>
+	<li>korzystając z poleceń w <a href="main_editor.php#gutter">menu rynny</a></li>
 	<li>korzystając z <a href="main_menu_main.php">Menu głównego</a> / <a href="main_menu_edit.php">Edycja</a> / <a href="main_menu_edit_bookmarks.php">Zakładki w dokumencie</a></li>
-	<li>korzystając z okna <a href="tool_docinfo.html#bookmark">Informacje o dokumencie / Zakładki dokumentu</a></li>
-	<li>korzystając z okna <a href="find_text.html#goto">Wyszukiwanie, zamiana, przenoszenie</a> (standardowy skrót <tt>Ctrl+G</tt>)</li>
+	<li>korzystając z okna <a href="tool_docinfo.php#bookmark">Informacje o dokumencie / Zakładki dokumentu</a></li>
+	<li>korzystając z okna <a href="find_text.php#goto">Wyszukiwanie, zamiana, przenoszenie</a> (standardowy skrót <tt>Ctrl+G</tt>)</li>
 	<li>korzystając z dowolnego <a href="main_tabs_navigator.php">Nawigatora dokumentu</a></li>
 </ul>
 
@@ -125,7 +120,7 @@
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="tool_docinfo.html#bookmark">Informacje o dokumencie - zakładki</a>
+	<li><a href="tool_docinfo.php#bookmark">Informacje o dokumencie - zakładki</a>
 	<li><a href="main_editor.php">Edytor - tryb edycji kodu źródłowego</a>
 	<li><a href="main_editor_todotasks.php">Zadania do wykonania</a>
 	<li><a href="main_editor_navigation.php">Różne sposoby nawigacji po dokumencie</a>

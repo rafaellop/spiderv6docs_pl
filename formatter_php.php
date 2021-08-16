@@ -78,12 +78,7 @@ color: #008000;
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -101,7 +96,7 @@ color: #008000;
 <!-- treść pomocy -->
 <p> W tym oknie możesz ustawić opcje formatowania dla skryptów PHP </p>
 
-<p>Okno ustawień dla PHP można wywołać z okna <a href="formatter_general.html#php">Formatowanie kody źródłowego</a>, lub z okna <a href="settings_codeinsight_formatter.php">ustawień programu</a>.</p>
+<p>Okno ustawień dla PHP można wywołać z okna <a href="formatter_general.php#php">Formatowanie kody źródłowego</a>, lub z okna <a href="settings_codeinsight_formatter.php">ustawień programu</a>.</p>
 
 
 <h2>Ustawienia bloków</h2>

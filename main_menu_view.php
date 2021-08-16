@@ -56,12 +56,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -92,7 +87,7 @@ Kliknij, aby wyświetlić <a href="main_editor_general.php">okno edytora</a> (st
 Kliknij, aby wyświetlić, bądź ukryć okno <a href="main_preview_dynamic.php">dynamicznego podglądu</a>.
 
 <p><b>Mapowania przeglądania</b><br />
-Kliknij, aby wybrać mapowanie ścieżki na twardym dysku na adres URL. Mapowanie to jest konieczne, by móc oglądać wyniki działania skryptów serwer-side, jak np. PHP. Mapowania możesz ustawiać osobno dla każdego serwisu w oknie <a href="service_properites.html#service_properties_mappings">Właściwości serwisu</a>.
+Kliknij, aby wybrać mapowanie ścieżki na twardym dysku na adres URL. Mapowanie to jest konieczne, by móc oglądać wyniki działania skryptów serwer-side, jak np. PHP. Mapowania możesz ustawiać osobno dla każdego serwisu w oknie <a href="service_properites.php#service_properties_mappings">Właściwości serwisu</a>.
 
 <hr />
 
@@ -128,8 +123,8 @@ Kliknij, aby przejść do ostatniego dokumentu otwartego aktualnie w edytorze.
 Kliknij, aby otworzyć okno informacji o bieżącym dokumencie. Korzystając z podmenu możesz otworzyć od razu wybraną zakładkę tego okna:
 <ul>
         <li><a href="tool_docinfo.php">Informacje o dokumencie</a></li>
-        <li><a href="tool_docinfo.html#bookmark">Nawigator zakładek</a></li>
-        <li><a href="tool_docinfo.html#todotasks">Zadania do wykonania</a></li>
+        <li><a href="tool_docinfo.php#bookmark">Nawigator zakładek</a></li>
+        <li><a href="tool_docinfo.php#todotasks">Zadania do wykonania</a></li>
 </ul>
 bądź też utworzyć nowe zadanie do wykonania.
 

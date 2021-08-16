@@ -56,12 +56,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -100,7 +95,7 @@ Aby utworzyć odsyłacz z obrazka, lub z tekstu istniejącego w juz w dokumencie
 
 
 <p><b>Tworzenie odsyłacza do pliku na serwerze FTP</b><br />
-W podobny sposób możesz utworzyć odsyłacz do pliku znajdującego się na serwerze - wystarczy dokument docelowy przeciągnąć z listy plików na zakładce <a href="main_tabs_myftpservers.php">Moje serwery</a>. Jeśli masz ustawione <a href="service_properites.html#service_properties_mappings">mapowanie serwera FTP na adres URL</a>, odsyłacz będzie wskazywał na odpowiedni adres URL. W przeciwnym wypadku użyty zostanie adres serwera FTP.</p>
+W podobny sposób możesz utworzyć odsyłacz do pliku znajdującego się na serwerze - wystarczy dokument docelowy przeciągnąć z listy plików na zakładce <a href="main_tabs_myftpservers.php">Moje serwery</a>. Jeśli masz ustawione <a href="service_properites.php#service_properties_mappings">mapowanie serwera FTP na adres URL</a>, odsyłacz będzie wskazywał na odpowiedni adres URL. W przeciwnym wypadku użyty zostanie adres serwera FTP.</p>
 
 
 <h2>Tworzenie map odsyłaczy</h2>

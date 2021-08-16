@@ -56,12 +56,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -93,12 +88,12 @@
 	<li><a href="down_links_verify.php">weryfikację odnośników</a>, <a href="down_integrity.php">sprawdzanie spójności i oczyszczanie całego projektu</a></li>
 	<li><a href="service_tool_synchronization.php">synchronizację zawartości projektu z zawartością serwera</a></li>
 	<li><a href="service_archive.php">archiwizację</a> i <a href="service_restore.php">przywracanie</a> projektów</li>
-	<li><a href="find_ext.html#find_settings">wyszukiwanie i zamianę w dokumentach projektu</a></li>
+	<li><a href="find_ext.php#find_settings">wyszukiwanie i zamianę w dokumentach projektu</a></li>
 	<li><a href="service_map.php">utworzenie graficznej mapy projektu</a></li>
-	<li>utworzenie listy <a href="service_properites.html#servicepropertiesoftenused">często używanych dokumentów projektu</a> w celu szybkiego ich otwierania</li>
+	<li>utworzenie listy <a href="service_properites.php#servicepropertiesoftenused">często używanych dokumentów projektu</a> w celu szybkiego ich otwierania</li>
 	<li>utworzenie z projektu dokumentu pomocy <a href="tool_htmlhelp_general.php">HTML Help</a></li>
-	<li><a href="service_properites.html#service_properties_mappings">mapowanie ścieżki na twardym dysku na adres URL</a> w celu przeglądania strony za pomocą serwera http (przydatne przy tworzeniu np. stron <a href="coding_php_mapping.php">korzystających z PHP)</a></li>
-	<li><a href="service_properites.html#metaindexing">łatwe ujednolicenie sekcji META we wszystkich dokumentach projektu</a></li>
+	<li><a href="service_properites.php#service_properties_mappings">mapowanie ścieżki na twardym dysku na adres URL</a> w celu przeglądania strony za pomocą serwera http (przydatne przy tworzeniu np. stron <a href="coding_php_mapping.php">korzystających z PHP)</a></li>
+	<li><a href="service_properites.php#metaindexing">łatwe ujednolicenie sekcji META we wszystkich dokumentach projektu</a></li>
    <li>łatwe zarządzania <a href="main_editor_todotasks.php">Zadaniami do wykonania</a> w projekcie i w jego dokumentach</li>
 </ul>
 

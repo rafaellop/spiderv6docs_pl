@@ -56,12 +56,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -102,11 +97,11 @@
 								struktury dokumentu, jak<tt>&lt;BODY&gt;</tt>, czy<tt>&lt;META&gt;</tt>, edytor automatycznie zostanie przełączony to
 								trybu tekstowego.
 						<li>Podkreślanie błędów pisowni i niektóre narzędzia <a href="spelling.php">sprawdzania pisowni</a>
-						<li><a href="main_editor.html#gutter">Rynna edytora </a>, na której umieszczane mogą być dodatkowe informacje
+						<li><a href="main_editor.php#gutter">Rynna edytora </a>, na której umieszczane mogą być dodatkowe informacje
 						<li>Podział okna edytora na dwie części
 						<li><a href="main_preview_dynamic.php">Dynamiczny podgląd</a>
 						<li>Nawigatory kodu na <a href="main_tabs_navigator.php">zakładce
-													Nawigator</a> (po użyciu <a href="main_tabs_navigator.html#html_categorized">nawigatora
+													Nawigator</a> (po użyciu <a href="main_tabs_navigator.php#html_categorized">nawigatora
 													skategoryzowanego HTML</a> Pająk zostanie automatycznie przełączony na <a href="main_editor.php">tryb edycji kodu</a>)
 						<li>Narzędzia do wstawiania skryptów
 						<li><a href="tool_docinfo.php">Informacje o dokumencie</a></li>

@@ -55,12 +55,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -146,7 +141,7 @@ Zaznacz tę opcję, by synchronizacja nie została wstrzymana w przypadku wystą
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-        <li><a href="settings_network.html#settingslistnetwork">Inne ustawienia sieci</a>
+        <li><a href="settings_network.php#settingslistnetwork">Inne ustawienia sieci</a>
         <li><a href="service_tool_synchronization.php">Synchronizacja serwisów</a>
         <li><a href="down_publishing_ftpqueue.php">Kolejka plików FTP i WebDAV</a></li>
         <li><a href="down_publishing_syncreport.php">Kolejka synchronizacji</a></li>

@@ -56,12 +56,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -73,7 +68,7 @@
 <h1>Zablokowanie elementu</h1>
 
 <p>
-Pracując nad plikami możesz chcieć zablokować dostęp dla innych użytkowników do aktualnie modyfikowanych na zdalnym serwerze dokumentów. Jest to funkcja wyjątkowo przydatna w wypadku pracy grupowej, gdzie kilka osób pracuje wspólnie nad serwisem. Aby powiadomić innych o tym, że plik jest właśnie modyfikowany, możesz użyć blokowania. Okienko to jest wyświetlane po wybraniu funkcji <a href="main_tabs_myftpservers.html#myftpserverslockfile">Zablokowanie wybranych dokumentów</a> na zakładce <a href="main_tabs_myftpservers.php">Moje serwery</a> lub jako okno informacyjne po wybraniu polecenia <a href="main_tabs_myftpservers.html#myftpserverslockfileinfo">Informacji o blokadzie</a>.
+Pracując nad plikami możesz chcieć zablokować dostęp dla innych użytkowników do aktualnie modyfikowanych na zdalnym serwerze dokumentów. Jest to funkcja wyjątkowo przydatna w wypadku pracy grupowej, gdzie kilka osób pracuje wspólnie nad serwisem. Aby powiadomić innych o tym, że plik jest właśnie modyfikowany, możesz użyć blokowania. Okienko to jest wyświetlane po wybraniu funkcji <a href="main_tabs_myftpservers.php#myftpserverslockfile">Zablokowanie wybranych dokumentów</a> na zakładce <a href="main_tabs_myftpservers.php">Moje serwery</a> lub jako okno informacyjne po wybraniu polecenia <a href="main_tabs_myftpservers.php#myftpserverslockfileinfo">Informacji o blokadzie</a>.
 
 <p>Podczas wybrania funkcji blokowania plików wyświetlane jest to okno, a użytkownik jest proszony o podanie informacji opisującej blokadę. W przypadku przeglądania informacji o blokadzie, wyświetlane są informacje umieszczone na serwerze przez użytkownika, który zablokował plik. Opcje umieszczone w oknie blokowania plików różnia się nieco w zależności, czy pracujesz na serwerze FTP, czy WebDAV.
 
@@ -89,7 +84,7 @@ Wyświetla informacje o użytkowniku, który zakłada blokadę. W przypadku nak�
 W tym miejscu wyświetlana jest data i godzina nałożenia blokady, co pełni funkcje informacyjne.
 
 <p><b>Opis blokady</b><br>
-W przypadku blokowania pliku w polu tym możesz wprowadzić informacje o przyczynie nałożenia blokady. Informacje te są wyświetlane gdy ktoś chce sprawdzić <a href="main_tabs_myftpservers.html#myftpserverslockfileinfo">Informacje o blokadzie</a> na zakładce <a href="main_tabs_myftpservers.php">Moje serwery</a>. Dobrze jest podać tutaj jakieś informacje, aby powiadomić innych użytkowników dlaczego dana blokada została nałożona.
+W przypadku blokowania pliku w polu tym możesz wprowadzić informacje o przyczynie nałożenia blokady. Informacje te są wyświetlane gdy ktoś chce sprawdzić <a href="main_tabs_myftpservers.php#myftpserverslockfileinfo">Informacje o blokadzie</a> na zakładce <a href="main_tabs_myftpservers.php">Moje serwery</a>. Dobrze jest podać tutaj jakieś informacje, aby powiadomić innych użytkowników dlaczego dana blokada została nałożona.
 
 
 <h2>Pola widoczne podczas blokowania pliku na serwerze WebDAV</h2>

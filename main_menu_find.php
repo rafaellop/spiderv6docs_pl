@@ -56,12 +56,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -76,23 +71,23 @@
 
 <p>Menu Szukaj służy do operacji wyszukiwania i zamiany tekstu w dokumentach otwartych w programie, a także zapisanych na dysku. Dostępne są następujące pozycje:
 
-<p><a href="find_text.html#find"> Znajdź</a> <br />
+<p><a href="find_text.php#find"> Znajdź</a> <br />
 Uruchamia narzędzie do wyszukiwania w aktualnie otwartym dokumencie . Standardowy skrót klawiszowy Ctrl+F.</p>
 
-<p><a href="find_text.html#find"> Znajdź następny</a><br />
+<p><a href="find_text.php#find"> Znajdź następny</a><br />
 Znajduje w aktualnym dokumencie kolejne wystąpienie tekstu szukanego wcześniej za pomocą narzędzia Wyszukiwanie. Jego działanie jest identyczne, jak po kolejny wciśnięciu przycisku Znajdź w narzędzie Wyszukiwanie. Standardowy skrót klawiszowy F3.</p>
 
-<p><a href="find_text.html#replace"> Znajdź i zamień</a> <br />
+<p><a href="find_text.php#replace"> Znajdź i zamień</a> <br />
 Uruchamia narzędzie do zamiany tekstu w aktualnie otwartym dokumencie . Standardowy skrót klawiszowy Ctrl+R.</p>
 
-<p><a href="find_text.html#goto"> Idź do</a> <br />
+<p><a href="find_text.php#goto"> Idź do</a> <br />
 Uruchamia narzędzie umożliwiające szybkie przenoszenie się do wybranego fragmentu dokumentu. Standardowy skrót klawiszowy Ctrl+G. Jednocześnie do tego polecenia przypisane jest podmenu pozwalające na przemieszczanie się w dokumencie pomiędzy znacznikami, selektorami, nawiasami, a także zakładkami numerycznymi i tekstowymi. Opis wszystkich tych poleceń znajdziesz w temacie pomocy do <a href="main_menu_tools_navigation.php">Menu Narzędzia / Nawigacja po dokumencie</a></p>
 
 
 <p><a href="find_ext.php"> Rozszerzone wyszukiwanie + konwerter znaków</a><br />
 Uruchamia najbardziej rozbudowane narzędzie Pająka służące do wyszukiwania i zamiany. Wykorzystując "Rozszerzone wyszukiwanie i zamianę" możesz wyszukiwać i zamieniać tekst w aktualnym dokumencie, wszystkich otwartych, we wszystkich lub określonych dokumentach Serwisów lub wybranych folderów, zmieniać w nich kodowanie znaków, a także sprawdzać poprawność pisowni itd.</p>
 
-<p><a href="find.html#filesearchinfo"> Wyszukiwanie plików i katalogów</a><br />
+<p><a href="find.php#filesearchinfo"> Wyszukiwanie plików i katalogów</a><br />
 Wyświetla okno wyszukiwania plików i katalogów na <a href="down_find_report.php">dolnym panelu programu</a>.</p>
 
 

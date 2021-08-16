@@ -56,12 +56,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -143,8 +138,8 @@
 <p>Przejść do wybranego zadania w bieżącym dokumencie możesz na kilka sposobów:</p>
 
 <ul>
-	<li>korzystając z okna <a href="tool_docinfo.html#todotasks">Informacje o dokumencie / Zadania do wykonania</a></li>
-	<li>korzystając z okna <a href="find_text.html#goto">Wyszukiwanie, zamiana, przenoszenie do wybranych elementów dokumentu</a> (standardowy skrót <tt>Ctrl+G</tt>)</li>
+	<li>korzystając z okna <a href="tool_docinfo.php#todotasks">Informacje o dokumencie / Zadania do wykonania</a></li>
+	<li>korzystając z okna <a href="find_text.php#goto">Wyszukiwanie, zamiana, przenoszenie do wybranych elementów dokumentu</a> (standardowy skrót <tt>Ctrl+G</tt>)</li>
 </ul>
 
 <p>Ponadto, korzystając z okna <a href="service_todotasks.php">Zadania do wykonania w serwisie</a>, możesz jest przeglądać, usuwać i przechodzić do zadań ustawionych dla wszystkich dokumentów bieżącego serwisu. </p>
@@ -167,7 +162,7 @@
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="tool_docinfo.html#todotasks">Informacje o dokumencie - zadania do wykonania</a>
+	<li><a href="tool_docinfo.php#todotasks">Informacje o dokumencie - zadania do wykonania</a>
 	<li>Edytor <a href="tool_docinfo_todo_add.php">Zadanie do wykonania</a></li>
 	<li><a href="main_editor.php">Edytor - tryb edycji kodu źródłowego</a>
 	<li><a href="main_editor_bookmarks.php">Zakładki w dokumencie</a>

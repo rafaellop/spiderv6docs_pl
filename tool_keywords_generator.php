@@ -57,12 +57,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -75,7 +70,7 @@
 
 
 
-<p>Za pomocą Generatora słów kluczowych możesz w łatwy sposób utworzyć listę słów występujących w wybranym dokumencie. Możesz go uruchomić poleceniem w <a href="tool_meta.html#keywords">"Edytorze sekcji META" w zakładce "Indeksowanie oraz słowa kluczowe"</a>. Dodatkowo możliwe jest uruchomienie narzędzia poleceniem w wyskakującym okienku Dynamicznego kodu dla atrybutu <tt>content</tt> w znaczniku <tt>&lt;meta name="Keywords" content="|"&gt;</tt> (znak <tt>|</tt> oznacza tu miejsce ustawienia kursora).
+<p>Za pomocą Generatora słów kluczowych możesz w łatwy sposób utworzyć listę słów występujących w wybranym dokumencie. Możesz go uruchomić poleceniem w <a href="tool_meta.php#keywords">"Edytorze sekcji META" w zakładce "Indeksowanie oraz słowa kluczowe"</a>. Dodatkowo możliwe jest uruchomienie narzędzia poleceniem w wyskakującym okienku Dynamicznego kodu dla atrybutu <tt>content</tt> w znaczniku <tt>&lt;meta name="Keywords" content="|"&gt;</tt> (znak <tt>|</tt> oznacza tu miejsce ustawienia kursora).
 
 
 <p>Okno narzędzia składa się z dwóch zakładek: </p>

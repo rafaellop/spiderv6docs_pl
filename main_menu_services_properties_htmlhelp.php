@@ -56,12 +56,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -76,7 +71,7 @@
 
 <!-- Treść pomocy -->
 
-<p>Polecenia w tym menu służą do szybkiej obsługi HTML Help kompilowanego na podstawie bieżącego serwisu. Menu to dostępne jest jedynie w przypadku, gdy we właściwościach bieżącego serwisu zaznaczona jest opcja, iż <a href="service_properites.html#htmlhelp">jest on jednocześnie projektem HTML Help</a>. Dostępne są następujące polecenia:</p>
+<p>Polecenia w tym menu służą do szybkiej obsługi HTML Help kompilowanego na podstawie bieżącego serwisu. Menu to dostępne jest jedynie w przypadku, gdy we właściwościach bieżącego serwisu zaznaczona jest opcja, iż <a href="service_properites.php#htmlhelp">jest on jednocześnie projektem HTML Help</a>. Dostępne są następujące polecenia:</p>
 
 <p><b>Skompiluj projekt</b><br />
 Kliknij, aby skompilować <a href="tool_htmlhelp_general.php">projekt HTML Help</a> na podstawie przygotowanych wcześniej ustawień.

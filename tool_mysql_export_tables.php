@@ -56,12 +56,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -111,7 +106,7 @@ Zaznacz tę opcję, by uaktywnić pole do wprowadzenie własnego zapytania. Na n
 	<li><b>Kreator zapytania SQL</b><br />Uruchamia <a href="tool_mysql_query_creator.php">Kreatora zapytania SQL</a> w celu ułatwienia zbudowania prostego zapytania pobierającego dane z nie więcej niż jednej tabeli.</li>
 	<li><b>Pobierz polecenie z bieżącego dokumentu</b><br />Pozwala na odczytanie i wprowadzenie do pola tekstowego obok zapytania z bieżącego dokumentu w edytorze.</li>
 	<li><b>Pobierz polecenie z pliku</b><br />Pozwala na odczytanie i wprowadzenie do pola tekstowego obok zapytania z pliku SQL zapisanego na dysku.</li>
-	<li><b>Ulubione zapytania SQL</b><br />Wyświetla listę <a href="main_tabs_inspector_mysql.html#ulubione">Ulubionych zapytań SQL</a> w celu wyboru zapytania, które chcesz wykonać.</li>
+	<li><b>Ulubione zapytania SQL</b><br />Wyświetla listę <a href="main_tabs_inspector_mysql.php#ulubione">Ulubionych zapytań SQL</a> w celu wyboru zapytania, które chcesz wykonać.</li>
 </ul>
 
 <a name="wybor_wielu_tabel"></a>
@@ -120,7 +115,7 @@ Zaznacz tę opcję, by uaktywnić pole do wprowadzenie własnego zapytania. Na n
 <p>Plansza "Wybór tabel do wyeksportowania" zostanie wyświetlona w dwóch przypadkach:</p>
 <ul>
 	<li>gdy wybierzesz na pierwszej planszy opcję eksportu kilku tabel, bądź całej bazy danych, </li>
-	<li>gdy uruchomisz Kreator dla eksportu całej bazy danych (z menu kontekstowego dla gałęzi "<a href="main_tabs_inspector_mysql.html#dbtree_dbname">Nazwa bazy danych</a>" drzewka na zakładce <a href="main_tabs_inspector_mysql.php">Inspektor MySQL</a>)</li>
+	<li>gdy uruchomisz Kreator dla eksportu całej bazy danych (z menu kontekstowego dla gałęzi "<a href="main_tabs_inspector_mysql.php#dbtree_dbname">Nazwa bazy danych</a>" drzewka na zakładce <a href="main_tabs_inspector_mysql.php">Inspektor MySQL</a>)</li>
 </ul>
 
 <p>Większą część zajmuje lista tabel bieżącej bazy danych. Wybierz z nich jedną, lub więcej. Jeśli chcesz zaznaczyć, bądź odznaczyć wszystkie tabele, skorzystaj z przycisków umieszczonych poniżej. Poniżej listy znajdziesz tez informację, ile tabel jest zaznaczonych. Musisz wybrać przynajmniej jedną tabelę, aby przejść dalej.</p>

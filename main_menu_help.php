@@ -56,12 +56,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -81,7 +76,7 @@
 To polecenie pozwala na sprawdzenie, czy dostępna jest już nowa wersja programu.
 
 <p>
-<b><a href="settings_user.html#settings_newsinfo">Informacje o nowościach Cream Software</a></b><br>Wyświetla informacje o ciekawych artykułach na <a href="https://www.creamsoft.com/blog/" target="_blank">blogu Cream Software</a>.
+<b><a href="settings_user.php#settings_newsinfo">Informacje o nowościach Cream Software</a></b><br>Wyświetla informacje o ciekawych artykułach na <a href="https://www.creamsoft.com/blog/" target="_blank">blogu Cream Software</a>.
 
 <p>
 <b>Tak, chcę kupić Pająka</b><br />

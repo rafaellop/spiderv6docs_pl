@@ -56,12 +56,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -124,11 +119,11 @@ Kliknij, aby szybko zapisać wszystkie otwarte dokumenty.</p>
 
 
 <p><b>Publikuj bieżący w sieci</b><br />
-Kliknij, aby opublikować w sieci bieżący dokument. <a href="network_publishing_general.html#publish_current">Czytaj więcej na temat zaawansowanych możliwosci tego polecenia</a>. </p>
+Kliknij, aby opublikować w sieci bieżący dokument. <a href="network_publishing_general.php#publish_current">Czytaj więcej na temat zaawansowanych możliwosci tego polecenia</a>. </p>
 
 
 <p><b>Publikuj otwarte w sieci</b><br />
-Kliknij, aby opublikować w sieci wszystkie otwarte dokumenty. <a href="network_publishing_general.html#publish_current">Czytaj więcej na temat zaawansowanych możliwosci tego polecenia</a>. </p>
+Kliknij, aby opublikować w sieci wszystkie otwarte dokumenty. <a href="network_publishing_general.php#publish_current">Czytaj więcej na temat zaawansowanych możliwosci tego polecenia</a>. </p>
 
 <hr>
 
@@ -144,7 +139,7 @@ To polecenie uruchamia narzędzie <a href="tool_chameleon.php">Kameleon - zmiana
 <p><a href="find_ext.php"> Rozszerzone wyszukiwanie + konwerter znaków</a><br />
 Uruchamia najbardziej rozbudowane narzędzie Pająka służące do wyszukiwania i zamiany. Wykorzystując "Rozszerzone wyszukiwanie i zamianę" możesz wyszukiwać i zamieniać tekst w aktualnym dokumencie, wszystkich otwartych, we wszystkich lub określonych dokumentach Serwisów lub wybranych folderów, zmieniać w nich kodowanie znaków, a także sprawdzać poprawność pisowni itd.</p>
 
-<p><a href="find.html#filesearchinfo"> Wyszukiwanie plików i katalogów</a><br />
+<p><a href="find.php#filesearchinfo"> Wyszukiwanie plików i katalogów</a><br />
 Wyświetla okno wyszukiwania plików i katalogów na <a href="down_find_report.php">dolnym panelu programu</a>.</p>
 
 <hr>

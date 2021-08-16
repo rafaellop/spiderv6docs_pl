@@ -56,12 +56,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -108,13 +103,13 @@ Kliknij, aby skopiować zaznaczenie do schowka (domyślny skrót <tt>Ctrl+C</tt>
 Kliknij, aby wkleić zawartość schowka (domyślny skrót <tt>Ctrl+V</tt>).
 
 <p><b>Panel zasobów z lewej</b><br />
-Podmenu zawierające przełączniki pozwalające na uaktywnienie jednej z zakładek <a href="main_tabs_general.html#tabs_leftpanel">panelu znajdującego się po lewej</a> stronie w głównym oknie programu. Domyślny skrót klawiszowy to <tt>F9</tt>
+Podmenu zawierające przełączniki pozwalające na uaktywnienie jednej z zakładek <a href="main_tabs_general.php#tabs_leftpanel">panelu znajdującego się po lewej</a> stronie w głównym oknie programu. Domyślny skrót klawiszowy to <tt>F9</tt>
 
 <p><b>Pełny ekran</b><br />
 To polecenie pozwala włączyć lub wyłączyć tryb pełnoekranowy, podczas którego widoczny jest jedynie obszar edycji bądź podglądu, mini pasek oraz menu. Domyślny skrót klawiszowy to <tt>Shift+F9</tt>.
 
 <p><b>Panel zasobów z prawej</b><br />
-Podmenu zawierające przełączniki pozwalające na uaktywnienie jednej z zakładek <a href="main_tabs_general.html#tabs_rightpanel">panelu znajdującego się po prawej</a> stronie w głównym oknie programu. Domyślny skrót klawiszowy to <tt>Ctrl+F9</tt>
+Podmenu zawierające przełączniki pozwalające na uaktywnienie jednej z zakładek <a href="main_tabs_general.php#tabs_rightpanel">panelu znajdującego się po prawej</a> stronie w głównym oknie programu. Domyślny skrót klawiszowy to <tt>Ctrl+F9</tt>
 
 <p><b>Ustawienia programu</b><br />
 Kliknij, aby zmienić bieżące ustawienia programu otwierając okno <a href="settings.php">ustawień programu</a>. Podmenu dostępne po kliknięciu strzałki rozwija menu poleceń dotyczących ustawień (identyczne jak <a href="main_menu_view_settings.php">Menu główne / Wyświetl / Ustawienia</a>).

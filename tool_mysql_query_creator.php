@@ -56,12 +56,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -81,8 +76,8 @@
 
 <h2>Uruchamianie</h2>
 
-<p> Kreator możesz uruchomić poleceniem umieszczonym w<a href="main_tabs_inspector_mysql.html#dbtree_tablename"> menu podręcznym dla tabeli na drzewku</a> w zakładce <a href="main_tabs_inspector_mysql.php">Inspektor MySQL</a>. Ikona polecenia została pokazana obok.</p>
-<p>Drugim miejscem, z którego możesz otworzyć Kreatora zapytania SQL jest plansza tworzenia zapytania do bazy danych w <a href="tool_mysql_export_tables.html#wybor_zakresu_danych">Kreatorze eksportu z bazy danych</a>.</p>
+<p> Kreator możesz uruchomić poleceniem umieszczonym w<a href="main_tabs_inspector_mysql.php#dbtree_tablename"> menu podręcznym dla tabeli na drzewku</a> w zakładce <a href="main_tabs_inspector_mysql.php">Inspektor MySQL</a>. Ikona polecenia została pokazana obok.</p>
+<p>Drugim miejscem, z którego możesz otworzyć Kreatora zapytania SQL jest plansza tworzenia zapytania do bazy danych w <a href="tool_mysql_export_tables.php#wybor_zakresu_danych">Kreatorze eksportu z bazy danych</a>.</p>
 
 
 
@@ -145,9 +140,9 @@ Tutaj znajdziesz przełącznik umożliwiający wstawienia do zapytania instrukcj
 
 <h2>Zakończenie</h2>
 
-<p>Ostatnia plansza to podsumowanie. Znajduje się na niej pole tekstowe wyświetlające gotowe zapytanie. Dodatkowo możesz skorzystać z przycisku Dodaj zapytanie do ulubionych, dzięki czemu możesz zbudowane zapytanie zachować do późniejszego wielokrotnego użycia (przycisk umożliwiający skorzystanie z jednego z  "Ulubione zapytania" znajdziesz na zakładce <a href="main_tabs_inspector_mysql.html#table_content">Inspektor MySQL</a> na pasku przycisków obok listy zawartości tabeli).</p>
+<p>Ostatnia plansza to podsumowanie. Znajduje się na niej pole tekstowe wyświetlające gotowe zapytanie. Dodatkowo możesz skorzystać z przycisku Dodaj zapytanie do ulubionych, dzięki czemu możesz zbudowane zapytanie zachować do późniejszego wielokrotnego użycia (przycisk umożliwiający skorzystanie z jednego z  "Ulubione zapytania" znajdziesz na zakładce <a href="main_tabs_inspector_mysql.php#table_content">Inspektor MySQL</a> na pasku przycisków obok listy zawartości tabeli).</p>
 
-<p>Ostatnią czynnością, jaką należy wykonać jest kliknięcie przycisku <b>Zakończ</b>, co spowoduje wykonanie zapytania i zamknięcie Kreatora. Wyniki działania Kreatora zostaną wyświetlone na liście <a href="main_tabs_inspector_mysql.html#table_content">zawartości tabeli</a> w dolnej części zakładki <a href="main_tabs_inspector_mysql.php">Inspektor MySQL</a>.</p>
+<p>Ostatnią czynnością, jaką należy wykonać jest kliknięcie przycisku <b>Zakończ</b>, co spowoduje wykonanie zapytania i zamknięcie Kreatora. Wyniki działania Kreatora zostaną wyświetlone na liście <a href="main_tabs_inspector_mysql.php#table_content">zawartości tabeli</a> w dolnej części zakładki <a href="main_tabs_inspector_mysql.php">Inspektor MySQL</a>.</p>
 
 
 </td>

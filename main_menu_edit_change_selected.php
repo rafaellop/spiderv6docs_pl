@@ -56,12 +56,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -77,10 +72,10 @@
 <p>Menu to pozwala przeprowadzić szybką zmianę formatu zaznaczonego tekstu, utworzyć listę, tabelę itp. Dostępne są następujące polecenia:</p>
 
 <p><b>Zaznaczony na objęty stylem</b><br />
-Kliknij, aby objąć zaznaczony tekst znacznikiem SPAN, bądź DIV (w zależności od ustawienia w oknie <a href="settings_codeinsight_additional.html#span_div">Ustawienia programu / Inne ustawienia / Ułatwienia ... / Inne ułatwienia</a>) ze stylem CSS.
+Kliknij, aby objąć zaznaczony tekst znacznikiem SPAN, bądź DIV (w zależności od ustawienia w oknie <a href="settings_codeinsight_additional.php#span_div">Ustawienia programu / Inne ustawienia / Ułatwienia ... / Inne ułatwienia</a>) ze stylem CSS.
 
 <p><b>Zaznaczony na objęty klasą</b><br />
-Kliknij, aby objąć zaznaczony tekst znacznikiem SPAN, bądź DIV (w zależności od ustawienia w oknie <a href="settings_codeinsight_additional.html#span_div">Ustawienia programu / Inne ustawienia / Ułatwienia ... / Inne ułatwienia</a>)  z klasą CSS.
+Kliknij, aby objąć zaznaczony tekst znacznikiem SPAN, bądź DIV (w zależności od ustawienia w oknie <a href="settings_codeinsight_additional.php#span_div">Ustawienia programu / Inne ustawienia / Ułatwienia ... / Inne ułatwienia</a>)  z klasą CSS.
 
 <p><b><a href="tool_lists.php">Zaznaczony na listę numerowaną</a></b><br />
 Kliknij, aby utworzyć z zaznaczonego tekstu listę numerowaną. Każdy wiersz zaznaczonego tekstu będzie nowym elementem listy.

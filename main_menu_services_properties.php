@@ -56,12 +56,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -90,7 +85,7 @@ Kliknij, aby przeprowadzić weryfikację odnośników w dokumentach serwisu.
 <p><b><a href="down_links_verify.php">Weryfikacja składni</a></b><br />
 Wyświetla listę poleceń umożliwiających przeprowadzenie weryfikacji składni dokumentów serwisu. 
 
-<p><b><a href="down_integrity.html#service_clean_quick">Oczyszczanie serwisu</a></b><br />
+<p><b><a href="down_integrity.php#service_clean_quick">Oczyszczanie serwisu</a></b><br />
 Kliknij, aby przeprowadzić oczyszczanie serwisu. Polecenie posiada podmenu, w którym znajdziesz dodatkowe polecenia, jak <a href="down_integrity.php">Sprawdzanie spójności serwisu</a>, czy wyszukiwanie jego niepotrzebne elementów (np. "osierocone" pliki *.ADD). 
 
 <hr>
@@ -126,16 +121,16 @@ Kliknij, aby uruchomić formatowanie kodu źródłowego dokumentów serwisu.
 Kliknij, aby otworzyć mapę serwisu prezentującą graficznie wszystkie łącza między dokumentami serwisu.
 
 
-<p><b><a href="service_properites.html#servicepropertiesoftenused">Otwórz często używane serwisu</a></b><br />
+<p><b><a href="service_properites.php#servicepropertiesoftenused">Otwórz często używane serwisu</a></b><br />
 Kliknij, aby otworzyć wszystkie często używane pliki serwisu. 
 
 
-<p><b><a href="service_properites.html#servicepropertiesoftenused">Dodaj otwarty do często używanych serwisu</a></b><br />
+<p><b><a href="service_properites.php#servicepropertiesoftenused">Dodaj otwarty do często używanych serwisu</a></b><br />
 Kliknij, aby dodać bieżący dokument do często używanych w serwisie.
 
 <hr>
 
-<p>Dwie ostatnie pozycje menu dostępne są jedynie w przypadku, gdy we właściwościach bieżącego serwisu zaznaczona jest opcja, iż <a href="service_properites.html#htmlhelp">jest on jednocześnie projektem HTML Help</a>.</p>
+<p>Dwie ostatnie pozycje menu dostępne są jedynie w przypadku, gdy we właściwościach bieżącego serwisu zaznaczona jest opcja, iż <a href="service_properites.php#htmlhelp">jest on jednocześnie projektem HTML Help</a>.</p>
 
 <p><b>HTML Help</b><br />
 Kliknij, aby skorzystać z szybkich opcji obsługi HTML Help.

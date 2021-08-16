@@ -56,12 +56,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -74,7 +69,7 @@
 
 <p>Sekcja META dokumentów HTML jest bardzo ważną sekcją, zwłaszcza w polskich warunkach. W sekcji tej znajdują się bowiem bardziej szczegółowe informacje na temat zawartości dokumentu HTML, np. używana strona kodowa dla znaków narodowych, itp. Edytor sekcji META pozwala na łatwe określenie parametrów sekcji META w wygodny sposób.
 
-<p>Okno edytora sekcji META uruchomisz z poziomu <a href="main_menu_main.php">Menu głównego</a> / <a href="main_menu_tools.php">Narzędzia</a> / <a href="main_menu_tools_structure.php">Struktura</a> / Edytor sekcji &lt;meta&gt;, a także z pasków narzędzi i skrótem klawiszowym <tt>Shift+Ctrl+M</tt>. Dodatkowo możliwe jest określenie domyślnych właściwości sekcji META dla każdego Serwisu z osobna. Odpowiedni przycisk uruchomiający to okno znajdziesz więc w oknie <a href="service_properites.html#servicepropertiesdocuments">Właściwości serwisu / Dokumenty</a>. Ikona polecenia przedstawiona została powyżej.
+<p>Okno edytora sekcji META uruchomisz z poziomu <a href="main_menu_main.php">Menu głównego</a> / <a href="main_menu_tools.php">Narzędzia</a> / <a href="main_menu_tools_structure.php">Struktura</a> / Edytor sekcji &lt;meta&gt;, a także z pasków narzędzi i skrótem klawiszowym <tt>Shift+Ctrl+M</tt>. Dodatkowo możliwe jest określenie domyślnych właściwości sekcji META dla każdego Serwisu z osobna. Odpowiedni przycisk uruchomiający to okno znajdziesz więc w oknie <a href="service_properites.php#servicepropertiesdocuments">Właściwości serwisu / Dokumenty</a>. Ikona polecenia przedstawiona została powyżej.
 
 <h2>Ogólne informacje</h2>
 
@@ -219,7 +214,7 @@ Obszar wyświetlający podgląd wybranego efektu. Aby zobaczyć podgląd wciśni
 <p>Ta zakładka umożliwia szybkie sklasyfikowanie dokumentu za pomocą systemu RSACi. Wystarczy tylko zaznaczyć przełącznik "<b>Dołącz klasyfikację</b>" i ustalić odpowiednie parametry. Parametry ustalasz za pomocą odpowiednich suwaków wskazujących poziom obecności określonych treści na stronie. Dodatkowo możesz wskazać adres klasyfikującego, adres klasyfikowanej strony oraz datę ważności klasyfikacji. Jeśli natomiast chcesz, aby klasyfikacja była ważna tylko w obrębie tej strony, a nie np. całego serwisu, zaznacz przełącznik "<b>Klasyfikacja ważna tylko w obrębie tej strony</b>".
 
 <h2>Przycisk Przypisz z serwisu</h2>
-<p>Przycisk "Przypisz z serwisu" umożliwia przepisanie własności META ustawionych dla wskazanego <a href="services_general.php">serwisu</a> do okienka właściwości META. Kliknięcie tego przycisku rozwija listę serwisów dostępnych w Pająku. Wskazanie serwisu na liście spowoduje przeniesienie jego własności (określonych w oknie <a href="service_properites.html#metaindexing">Właściwości serwisu</a>) do odpowiednich pól "Edytora sekcji META".
+<p>Przycisk "Przypisz z serwisu" umożliwia przepisanie własności META ustawionych dla wskazanego <a href="services_general.php">serwisu</a> do okienka właściwości META. Kliknięcie tego przycisku rozwija listę serwisów dostępnych w Pająku. Wskazanie serwisu na liście spowoduje przeniesienie jego własności (określonych w oknie <a href="service_properites.php#metaindexing">Właściwości serwisu</a>) do odpowiednich pól "Edytora sekcji META".
 
 </td>
 </tr>
@@ -231,7 +226,7 @@ Obszar wyświetlający podgląd wybranego efektu. Aby zobaczyć podgląd wciśni
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="service_properites.html#metaindexing">Ustawianie META dla serwisów</a>
+	<li><a href="service_properites.php#metaindexing">Ustawianie META dla serwisów</a>
 	<li><a href="tool_quickstart.php">Narzędzie Szybki Start</a>
 	<li><a href="tool_body.php">Narzędzie ustawień BODY</a>
 	<li><a href="main_menu_main.php">Menu programu</a>

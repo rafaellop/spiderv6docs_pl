@@ -57,12 +57,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -194,8 +189,8 @@ Kliknij, aby odnaleźć i zamienić wszystkie odnalezione frazy na tekst podany 
 
 <ul>
    <li><b>etykiety</b> -  lub inaczej kotwicy, czyli do znacznika HTML o określonym atrybucie ID</li>
-   <li><b>zakładki</b> - do miejsca w którym ustawiona jest wybrana <a href="main_editor_bookmarks.html#numbered">zakładka numerowana</a></li>
-   <li><b>zakładki nazwanej</b> - do miejsca w którym ustawiona jest wybrana <a href="main_editor_bookmarks.html#named">zakładka nazwana</a></li>
+   <li><b>zakładki</b> - do miejsca w którym ustawiona jest wybrana <a href="main_editor_bookmarks.php#numbered">zakładka numerowana</a></li>
+   <li><b>zakładki nazwanej</b> - do miejsca w którym ustawiona jest wybrana <a href="main_editor_bookmarks.php#named">zakładka nazwana</a></li>
    <li><b>zadania do wykonania</b> - do miejsca, w którym ustawione jest <a href="main_editor_todotasks.php">Zadanie do wykonania</a></li>
    <li><b>wiersza o numerze</b> - do określonego wiersza w dokumencie</li>
 </ul>

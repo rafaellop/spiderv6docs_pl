@@ -56,12 +56,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -92,9 +87,9 @@
 <p>Ponadto podczas pracy nad dokumentem HTML bardzo pomocne są:</p>
 
 <ul>
-        <li><a href="main_tabs_navigator.html#html">Nawigator znaczników</a></li>
+        <li><a href="main_tabs_navigator.php#html">Nawigator znaczników</a></li>
         <li><a href="coding_markuplangs_codeinsight.php">Dynamiczny kod</a></li>
-        <li><a href="main_tabs_navigator.html#html_categorized">Skategoryzowany nawigator HTML</a></li>
+        <li><a href="main_tabs_navigator.php#html_categorized">Skategoryzowany nawigator HTML</a></li>
         <li><a href="coding_html_macrocodes.php">Makrokody zawierające szablony dokumentów itp.</a></li>
         <li><a href="coding_html_help.php">Pomoc kontekstowa dla HTML na dolnym panelu</a></li>
  <li><a href="coding_markuplangs_formatting.php">Formatowanie kodu źródłowego języków znacznikowych</a></li>

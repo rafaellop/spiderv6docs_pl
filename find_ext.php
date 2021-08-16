@@ -57,12 +57,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -146,7 +141,7 @@ Zaznacz, aby przy wyszukiwaniu tekstu nie była przeprowadzana konwersja kodowan
 
 <p><b>we wszystkich otwartych</b> - operacje będą przeprowadzane na wszystkich dokumentach otwartych aktualnie w Pająku. Nie ma dodatkowych opcji.</p>
 
-<p><b>w wybranym serwisie</b> - operacje będą wykonywane na wszystkich plikach <a href="services_general.php">Serwisu</a> wybranego z listy (przy czym pomijane są pliki i foldery <a href="service_properites.html#servicepropertiesoftenused">wyłączone z widoku w ustawieniach serwisu</a>. Można zawęzić rodzaje plików do:
+<p><b>w wybranym serwisie</b> - operacje będą wykonywane na wszystkich plikach <a href="services_general.php">Serwisu</a> wybranego z listy (przy czym pomijane są pliki i foldery <a href="service_properites.php#servicepropertiesoftenused">wyłączone z widoku w ustawieniach serwisu</a>. Można zawęzić rodzaje plików do:
 	<ul>
 		<li><b>dokumenty HTML</b> - pliki o rozszerzeniach określonych jako "dokumenty HTML" w oknie "Ustawienia programu" na zakładce "Lista plików"</li>
 		<li><b>pliki:</b> - pole tekstowe umożliwia wpisanie rozszerzeń plików w celu zawężenia rodzajów dokumentów, jakie mają być brane pod uwagę. Rozszerzenia należy podawać w postaci np. <tt>*.php;*.php3;*.php4</tt>.</li>

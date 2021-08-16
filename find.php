@@ -56,12 +56,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -77,7 +72,7 @@
 
 <p>Pająk oferuje różne narzędzia służące do wyszukiwania i zamiany tekstu w dokumentach. Dostępne są opcje od prostego wyszukiwanie tekstu w otwartym dokumencie, aż po zaawansowane wyszukiwanie i zamianę tekstów w określonych plikach całych projektów i wybranych folderów przy użyciu <a href="find_regexp.php">wyrażeń regularnych</a>.</p>
 
-<p>Pająk oferuje dwa wyspecjalizowane narzędzia służące wyłącznie do wyszukiwania tekstu, a także inne narzędzia pomagające orientować się w kodzie, m. in. do <a href="find_text.html#goto">przechodzenia do wybranych elementów dokumentu</a>, <a href="main_tabs_navigator.php">nawigator dokumentu</a> (dla języków:  HTML, CSS, JavaScript, VBScript, PHP, ASP)</p>
+<p>Pająk oferuje dwa wyspecjalizowane narzędzia służące wyłącznie do wyszukiwania tekstu, a także inne narzędzia pomagające orientować się w kodzie, m. in. do <a href="find_text.php#goto">przechodzenia do wybranych elementów dokumentu</a>, <a href="main_tabs_navigator.php">nawigator dokumentu</a> (dla języków:  HTML, CSS, JavaScript, VBScript, PHP, ASP)</p>
 
 
 
@@ -107,7 +102,7 @@
 	<li>we wskazanych serwisach</li>
 </ul></p>
 
-<p>Korzystając z tego narzędzia możesz używać zwykłego tekstu, <a href="find_regexp.php">wyrażeń regularnych</a>,  jak i tzw. <a href="find_ext.html#wildcards">wildcards</a>.</p>
+<p>Korzystając z tego narzędzia możesz używać zwykłego tekstu, <a href="find_regexp.php">wyrażeń regularnych</a>,  jak i tzw. <a href="find_ext.php#wildcards">wildcards</a>.</p>
 
 <p>Narzędzie możesz otworzyć na różne sposoby:</p>
 <ul>

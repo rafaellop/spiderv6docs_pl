@@ -56,12 +56,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -82,7 +77,7 @@ Sprawa komplikuje się jednak, gdy zapytanie obejmuje dane z wielu pól różnyc
 	<li><b>SQL</b> (standardowy)</li>
 </ul>
 
-<p>Jeśli utworzysz zapytanie w nowym dokumencie, bardzo przydatna jest możliwość wykonania go za pomocą polecenia "Wykonaj polecenia z bieżącego dokumentu" umieszczonego w <a href="main_tabs_inspector_mysql.html#dbtree_dbname">menu podręcznym gałęzi "Nazwa bazy danych"</a> na drzewku struktury bazy danych na zakładce <a href="main_tabs_inspector_mysql.php">Inspektor MySQL</a>.</p>
+<p>Jeśli utworzysz zapytanie w nowym dokumencie, bardzo przydatna jest możliwość wykonania go za pomocą polecenia "Wykonaj polecenia z bieżącego dokumentu" umieszczonego w <a href="main_tabs_inspector_mysql.php#dbtree_dbname">menu podręcznym gałęzi "Nazwa bazy danych"</a> na drzewku struktury bazy danych na zakładce <a href="main_tabs_inspector_mysql.php">Inspektor MySQL</a>.</p>
 
 
 <p>Możesz również dostosować kolorowanie składni. Służą do tego:</p>

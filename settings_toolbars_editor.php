@@ -56,12 +56,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -89,7 +84,7 @@
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-   <li><a href="settings_toolbars.html#settingslisttoolbars">Inne ustawienia wyglądu i pasków</a></li>
+   <li><a href="settings_toolbars.php#settingslisttoolbars">Inne ustawienia wyglądu i pasków</a></li>
    <li><a href="main_window_desc.php">Główne okno programu</a></li>
    <li><a href="main_editor.php">Edytor - tryb edycji kodu źródłowego</a></li>
 </ul>

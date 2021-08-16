@@ -56,12 +56,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -103,13 +98,13 @@ Kliknij, aby uruchomić narzędzie do wstawiania poziomej linii <tt>&lt;HR&gt;</
 <p><b><a href="tool_comment.php">Wstawienie komentarza</a></b><br />
 Kliknij, aby uruchomić narzędzie do wstawiania komentarzy. Narzędzie automatycznie rozpoznaje bieżący język programowania i wstawia odpowiednie znaki komentarza. Domyślny skrót <tt>Shift+Ctrl+K</tt>.
 
-<p><a href="find_text.html#find"> Znajdź</a><br /> 
+<p><a href="find_text.php#find"> Znajdź</a><br /> 
 Uruchamia narzędzie do wyszukiwania w aktualnie otwartym dokumencie. Standardowy skrót klawiszowy Ctrl+F.</p>
 
 <p><a href="find_ext.php"> Rozszerzone wyszukiwanie i zamiana</a><br />
 Uruchamia najbardziej rozbudowane narzędzie Pająka służące do wyszukiwania i zamiany. Wykorzystując "Rozszerzone wyszukiwanie i zamianę" możesz wyszukiwać i zamieniać tekst w aktualnym dokumencie, wszystkich otwartych, we wszystkich lub określonych dokumentach Serwisów lub wybranych folderów, zmieniać w nich kodowanie znaków, a także sprawdzać poprawność pisowni itd.</p>
 
-<p><b><a href="find_text.html#goto">Idź do...</a></b><br />
+<p><b><a href="find_text.php#goto">Idź do...</a></b><br />
 Uruchamia narzędzie pozwalające wybrać linię, zakładkę lub inne miejsce, do którego chcesz przejść, do której chcesz przejść(domyślny skrót <tt>Ctrl+G</tt>).
 
 <p><b><a href="zen-coding.php">Polecenia zen-coding</a></b><br />

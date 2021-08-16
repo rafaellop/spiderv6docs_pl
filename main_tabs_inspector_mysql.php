@@ -56,12 +56,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -380,7 +375,7 @@ Kliknij, aby wybrać sposób sortowania. Wyświetli się lista o zawartości ide
 Kliknij, aby uruchomić <a href="tool_mysql_export_tables.php">Kreatora eksportu z bazy danych</a>. Domyślnie ustawiony będzie eksport bieżącej tabeli.
 
 <p><b> Wstaw bieżące zapytanie do edytora</b><br />
-Kliknij, aby wkleić do edytora zapytanie użyte do wyświetlenia bieżącej listy danych. Możesz wybrac format wklejania zapytania według szablonów zdefiniowanych w oknie <a href="settings_network_mysqlservers.html#sql_insert_templ">Ustawienia programu - Serwery baz danych MySQL</a>
+Kliknij, aby wkleić do edytora zapytanie użyte do wyświetlenia bieżącej listy danych. Możesz wybrac format wklejania zapytania według szablonów zdefiniowanych w oknie <a href="settings_network_mysqlservers.php#sql_insert_templ">Ustawienia programu - Serwery baz danych MySQL</a>
 
 
 <a name="ulubione"></a>

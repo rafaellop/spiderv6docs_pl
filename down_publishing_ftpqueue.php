@@ -56,12 +56,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -102,7 +97,7 @@ W tej kolumnie jest zawsze podawany rozmiar pliku, którego dotyczy dana operacj
 <p>Kolejką plików steruje się za pomocą przycisków znajdujących się po prawej stronie kolejki. Oto znaczenie poszczególnych:
 
 <p><b>Przełączenie Widoku zakładki publikowanie</b><br>
-Przycisk ten ma podpięte menu, za pomocą którego możesz przełączać się pomiędzy widokami zakładki <a href="down_publishing.html#downpanelpublishinglist">Operacje publikowania</a>.
+Przycisk ten ma podpięte menu, za pomocą którego możesz przełączać się pomiędzy widokami zakładki <a href="down_publishing.php#downpanelpublishinglist">Operacje publikowania</a>.
 
 <p>
 <b>Rozpocznij wykonywanie kolejki</b><br>Ten przycisk służy do rozpoczęcia wykonywania zadań zebranych w kolejce. Po rozpoczęciu, na pasku stanu poniżej listy kolejki wyświetlany jest raport o stanie aktualnie wykonywanego zadania z kolejki. Możesz tam zobaczyć informacje o przesłanych i pozostałych bajtach, prędkości połączenia oraz czasie, który pozostał do ukończenia. Znajduje się tam również wskaźnik postępu, który w jasny sposób wskazuje ile pozostało do końca bieżącego zadania.
@@ -149,8 +144,8 @@ Ten przyciskm pozwala na przemieszczanie zadań w kolejce w dół.
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="down_publishing.html#downpanelpublishinglist">Inne zakładki operacji publikowania</a>
-	<li><a href="down_panel.html#downpanellist">Inne zakładki dolnego panelu</a>
+	<li><a href="down_publishing.php#downpanelpublishinglist">Inne zakładki operacji publikowania</a>
+	<li><a href="down_panel.php#downpanellist">Inne zakładki dolnego panelu</a>
 	<li><a href="main_tabs_myftpservers.php">Zakładka "Moje serwery"</a>
 	<li><a href="settings_network_ftpclient.php">Ustawienia klienta FTP</a>
 	<li><a href="main_window_desc.php">Główne okno programu</a>

@@ -56,12 +56,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -86,7 +81,7 @@
 <h4>Pokrewne tematy</h4>
 <ul>
 	<li><a href="services_general.php">O serwisach ogólnie</a>
-   <li><a href="service_properites.html#virtual_include">Własności serwisu</a>
+   <li><a href="service_properites.php#virtual_include">Własności serwisu</a>
 	<li><a href="service_tool_synchronization.php">Synchronizacja serwisów</a>
 	<li><a href="tool_htmlhelp_general.php">HTML Help</a>
 	<li><a href="main_tabs_myservices.php">Zakładka Moje serwisy</a>

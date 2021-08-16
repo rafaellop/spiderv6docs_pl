@@ -56,12 +56,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -117,7 +112,7 @@ Począwszy od wersji 5.4.0 przełącznik ten znajduje się w oknie <a href="sett
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="settings_network.html#settingslistnetwork">Inne ustawienia sieci</a>
+	<li><a href="settings_network.php#settingslistnetwork">Inne ustawienia sieci</a>
 	<li><a href="network_publishing_general.php">Publikowanie w Pająku</a>
 	<li><a href="service_tool_synchronization.php">Synchronizacja serwisów</a>
 	<li><a href="main_tabs_myftpservers.php">Wbudowany klient FTP</a>

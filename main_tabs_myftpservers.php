@@ -56,12 +56,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -220,7 +215,7 @@ Korzystając z menu pod tym przyciskiem możesz wybrać w jaki sposób elementy 
 
 
 <p><b>Kopiuj URL do schowka</b><br>
-Kliknij, aby skopiować do schowka odsyłacz to wskazanego pliku. Jeśli do serwera przypisane jest <a href="settings_network_ftpservers_add.html#mapping">mapowanie do podglądu</a> , to skopiowany odsyłacz ma postać adresu HTTP:// pod którym można przeglądać wybrany plik w przeglądarce stron WWW. Jeśli brak jest mapowania , to adres odsyłacza tworzony jest do pliku znajdującego się na serwerze FTP lub WebDAV.
+Kliknij, aby skopiować do schowka odsyłacz to wskazanego pliku. Jeśli do serwera przypisane jest <a href="settings_network_ftpservers_add.php#mapping">mapowanie do podglądu</a> , to skopiowany odsyłacz ma postać adresu HTTP:// pod którym można przeglądać wybrany plik w przeglądarce stron WWW. Jeśli brak jest mapowania , to adres odsyłacza tworzony jest do pliku znajdującego się na serwerze FTP lub WebDAV.
 
 <p><b>Wklej URL do edytora</b><br>
 Kliknij aby wkleić do edytora odsyłacz to wskazanego pliku. Funkcja ta również korzysta z mapowania opisanego wyżej.
@@ -244,7 +239,7 @@ Informacja ta wyświetlana jest w momencie przeprowadzania różnych operacji na
 Informacja ta jest wyświetlana, gdy Pająk jest połączony z serwerem, ale w danym momencie nie są przeprowadzane żadne operacje.
 
 <p><b>Połączony (online)</b><br>
-Informacja ta jest wyświetlana, gdy Pająk jest połączony z serwerem za pomocą bezpiecznego (szyfrowanego) połączenia, ale w danym momencie nie są przeprowadzane żadne operacje. <a href="settings_network_ftpservers_add.html#secureconnections">Koniecznie kliknij TU przeczytaj więcej o obsłudze bezpiecznych połączeń w Pająku.</a>
+Informacja ta jest wyświetlana, gdy Pająk jest połączony z serwerem za pomocą bezpiecznego (szyfrowanego) połączenia, ale w danym momencie nie są przeprowadzane żadne operacje. <a href="settings_network_ftpservers_add.php#secureconnections">Koniecznie kliknij TU przeczytaj więcej o obsłudze bezpiecznych połączeń w Pająku.</a>
 
 
 
@@ -263,7 +258,7 @@ Informacja ta jest wyświetlana, gdy Pająk jest połączony z serwerem za pomoc
         <li><a href="network_publishing_general.php">Publikowanie w Pająku</a>
         <li><a href="settings_network_ftpclient.php">Ustawienia klienta FTP i WebDAV</a>
         <li><a href="settings_network_ftpservers_add_map.php">Mapowanie ścieżki na serwerze FTP na adres URL</a>
-        <li><a href="settings_network.html#settingslistnetwork">Ustawienia sieci</a>
+        <li><a href="settings_network.php#settingslistnetwork">Ustawienia sieci</a>
         <li><a href="settings_network_ftpservers_add.php">Dodawanie nowego serwera</a>
         <li><a href="service_tool_synchronization.php">Synchronizacja serwisów</a>
         <li><a href="network_opendoc_ftp.php">Otwieranie i edycja dokumentów bezpośrednio na serwerze</a></li>

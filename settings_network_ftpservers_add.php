@@ -56,12 +56,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -99,7 +94,7 @@ Tutaj wprowadź nazwę użytkownika, czyli inaczej nazwę konta, do którego pos
 To jest miejsce na hasło dostępu do konta. Wpisz je bardzo uważnie, gdyż jest ono podczas wpisywania ukryte.
 
 <p><b>Folder nadrzędny</b><br>
-	To pole nie musi być wypełniane, ale możesz podać tutaj ścieżkę do folderu na zdalnym serwerze, który ma być wyświetlany jako element nadrzędny drzewa folderów. Jest to ustawienie przydatne szczególnie w przypadku wielokrotnych zagnieżdżeń folderów. Aby jeszcze łatwiej wskazać folder nadrzędny, możesz skorzystać z poleceń umieszczonych obok drzewa folderów <a href="main_tabs_myftpservers.html#tree">Zakładki "Moje serwery"</a>.
+	To pole nie musi być wypełniane, ale możesz podać tutaj ścieżkę do folderu na zdalnym serwerze, który ma być wyświetlany jako element nadrzędny drzewa folderów. Jest to ustawienie przydatne szczególnie w przypadku wielokrotnych zagnieżdżeń folderów. Aby jeszcze łatwiej wskazać folder nadrzędny, możesz skorzystać z poleceń umieszczonych obok drzewa folderów <a href="main_tabs_myftpservers.php#tree">Zakładki "Moje serwery"</a>.
 
 <p><b>Folder startowy</b><br>
 To pole nie musi być wypełniane, ale możesz podać tutaj ścieżkę do folderu na zdalnym serwerze, do którego ma się przełączyć Pająk zaraz po podłączeniu.

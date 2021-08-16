@@ -56,12 +56,7 @@
 <div class="container-fluid">
 
 <!-- google search start -->
-<div class="collapse" id="googlesearch">
-
-        <script async src="https://cse.google.com/cse.js?cx=4dedefccca22f88c9"></script>
-        <div class="gcse-search"></div>
-
-</div>
+<? include "include/googlesearch.html"; ?>
 <!-- google search end -->
 
 <!-- tabelka z trescia -->
@@ -118,7 +113,7 @@ Zaznacz tę opcję, aby Pająk nie zapamiętywał listy ostatnio otwartych dokum
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-        <li><a href="settings.html#settingslist">Inne ustawienia</a>
+        <li><a href="settings.php#settingslist">Inne ustawienia</a>
         <li><a href="tool_tips_tricks.php">Podpowiedzi i sztuczki</a>
         <li><a href="main_tabs_myservices.php">Lista plików</a>
         <li><a href="main_editor_general.php">Edycja dokumentów</a>
