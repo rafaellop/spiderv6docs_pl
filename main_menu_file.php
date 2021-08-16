@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -77,7 +77,7 @@
 
 <p>Menu "Plik" służy do wykonywania podstawowych operacji na dokumentach i programie, jak otwieranie, zamykanie, zapis, bądź drukowanie. Dostępne są następujące polecenia:</p>
 
-<p><b><a href="main_menu_file_new.html">Nowy dokument</a></b><br />
+<p><b><a href="main_menu_file_new.php">Nowy dokument</a></b><br />
 Kliknij, aby utworzyć nowy, pusty dokument. Klikając na strzałkę z prawej, możesz skorzystać z podmenu w celu uruchomienia dodatkowych narzędzi.</p>
 
 <hr>
@@ -85,23 +85,23 @@ Kliknij, aby utworzyć nowy, pusty dokument. Klikając na strzałkę z prawej, m
 
 <p><b>Otwórz</b><br />
 Kliknij aby otworzyć istniejący dokument. <br />
-Klikając na strzałkę z prawej, możesz skorzystać z listy ostatnio otwieranych dokumentów. Domyślnie jest to 10 pozycji, jednak możesz to zmienić korzystając opcji w oknie <a href="settings.html">Ustawienia programu</a> / <a href="settings_history.html">Historia</a>.<br />
+Klikając na strzałkę z prawej, możesz skorzystać z listy ostatnio otwieranych dokumentów. Domyślnie jest to 10 pozycji, jednak możesz to zmienić korzystając opcji w oknie <a href="settings.php">Ustawienia programu</a> / <a href="settings_history.php">Historia</a>.<br />
  Kliknięcie ostatniej pozycji na liście ('<b>Otwórz wszystkie z listy MRU</b>') spowoduje otwarcie wszystkich plików umieszczonych na liście.</p>
 
-<p><b><a href="tool_open_remote.html">Otwórz z Sieci</a></b><br />
+<p><b><a href="tool_open_remote.php">Otwórz z Sieci</a></b><br />
 Kliknij, aby otworzyć dokument z Sieci za pomocą dedykowanego narzędzia.</p>
 
 <hr>
 
-<p><b><a href="tool_open_remote.html">Otwórz ponownie bieżący</a></b><br />
+<p><b><a href="tool_open_remote.php">Otwórz ponownie bieżący</a></b><br />
 Kliknij, aby zamknąć i ponownie otworzyć bieżący dokument. Jeśli w dokumencie wprowadzono zmiany i nie zostały one zapisane, wyświetlone zostanie pytanie, czy je zapisać. Funkcja ta jest przydatna, jeśli w plikach wprowadzono zmiany poza Pająkiem.</p>
 
-<p><b><a href="tool_open_remote.html">Otwórz ponownie wszystkie</a></b><br />
+<p><b><a href="tool_open_remote.php">Otwórz ponownie wszystkie</a></b><br />
 Jak wyżej, dla wszystkich dokumentów otwartych w Pająku</p>
 
 <hr>
 
-<p><b><a href="tool_importer.html">Importuj...</a></b><br />
+<p><b><a href="tool_importer.php">Importuj...</a></b><br />
 Kliknij, aby otworzyć Importer plików.</p>
 
 
@@ -137,15 +137,15 @@ Kliknij, aby zmienić nazwę bieżącego pliku. Nazwa pliku zostanie zmieniona z
 
 
 <p><b>Zmiana nazwy wielu plików</b><br>
-To polecenie uruchamia narzędzie <a href="tool_chameleon.html">Kameleon - zmiana nazw plików</a> i umożliwia zmianę nazw plików w wielu folderach na raz za pomocą ustalonych reguł.
+To polecenie uruchamia narzędzie <a href="tool_chameleon.php">Kameleon - zmiana nazw plików</a> i umożliwia zmianę nazw plików w wielu folderach na raz za pomocą ustalonych reguł.
 
 <hr>
 
-<p><a href="find_ext.html"> Rozszerzone wyszukiwanie + konwerter znaków</a><br />
+<p><a href="find_ext.php"> Rozszerzone wyszukiwanie + konwerter znaków</a><br />
 Uruchamia najbardziej rozbudowane narzędzie Pająka służące do wyszukiwania i zamiany. Wykorzystując "Rozszerzone wyszukiwanie i zamianę" możesz wyszukiwać i zamieniać tekst w aktualnym dokumencie, wszystkich otwartych, we wszystkich lub określonych dokumentach Serwisów lub wybranych folderów, zmieniać w nich kodowanie znaków, a także sprawdzać poprawność pisowni itd.</p>
 
 <p><a href="find.html#filesearchinfo"> Wyszukiwanie plików i katalogów</a><br />
-Wyświetla okno wyszukiwania plików i katalogów na <a href="down_find_report.html">dolnym panelu programu</a>.</p>
+Wyświetla okno wyszukiwania plików i katalogów na <a href="down_find_report.php">dolnym panelu programu</a>.</p>
 
 <hr>
 
@@ -160,7 +160,7 @@ Kliknij, aby zamknąć wszystkie dokumenty otwarte w Pająku. Jeśli w którymś
 
 
 <p><b>Usuń bieżący dokument</b><br />
-Kliknij, aby usunąć dokument edytowany aktualnie w edytorze. Wraz z usuniętym dokumentem usunięty zostanie <a href="main_editor_addfiles.html">plik dodatkowych informacji o dokumencie (<tt>*.add</tt>)</a>. Nie będzie usuwana jego <a href="main_editor_backups.html">kopia zapasowa (plik <tt>*.bak</tt>)</a>!
+Kliknij, aby usunąć dokument edytowany aktualnie w edytorze. Wraz z usuniętym dokumentem usunięty zostanie <a href="main_editor_addfiles.php">plik dodatkowych informacji o dokumencie (<tt>*.add</tt>)</a>. Nie będzie usuwana jego <a href="main_editor_backups.php">kopia zapasowa (plik <tt>*.bak</tt>)</a>!
 
 <hr>
 
@@ -188,7 +188,7 @@ Kliknij, aby zakończyć pracę programu. Wszystkie dokumenty zostaną zamknięt
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="settings_toolbars.html">Ustawienia programu - Ustawienia pasków, menu i skrótów</a>
+	<li><a href="settings_toolbars.php">Ustawienia programu - Ustawienia pasków, menu i skrótów</a>
 </td>
 </tr>
 </table>

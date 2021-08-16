@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -74,9 +74,9 @@
 
 
 
-<p>Narzędzie ułatwia zarchiwizowanie serwisu wraz z jego ustawieniami. Cały serwis jest pakowany i kompresowany do formatu ZIP. Ustawienia serwisu zostają zachowane w dodatkowym pliku projinfo.ini, który również jest dołączany do pliku ZIP. Zarchiwizowany serwis możesz przywrócić za pomocą narzędzia <a href="service_restore.html">Przywrócenie serwisu</a></p>
+<p>Narzędzie ułatwia zarchiwizowanie serwisu wraz z jego ustawieniami. Cały serwis jest pakowany i kompresowany do formatu ZIP. Ustawienia serwisu zostają zachowane w dodatkowym pliku projinfo.ini, który również jest dołączany do pliku ZIP. Zarchiwizowany serwis możesz przywrócić za pomocą narzędzia <a href="service_restore.php">Przywrócenie serwisu</a></p>
 
-<p>Archiwizację możesz uruchomić z poziomu <a href="main_menu_services_properties.html">menu Serwisy / Własności serwisu</a> bądź z identycznego menu pod przyciskiem Własności serwisu na zakładce Serwisy. Okno narzędzia zawiera pięć grup opcji, za pomocą których możesz określić zakres plików wchodzących w skład archiwum, nazwę pliku docelowego, kompresję itp.</p>
+<p>Archiwizację możesz uruchomić z poziomu <a href="main_menu_services_properties.php">menu Serwisy / Własności serwisu</a> bądź z identycznego menu pod przyciskiem Własności serwisu na zakładce Serwisy. Okno narzędzia zawiera pięć grup opcji, za pomocą których możesz określić zakres plików wchodzących w skład archiwum, nazwę pliku docelowego, kompresję itp.</p>
 
 <p><b>Plik docelowy</b><br>
 Wskaż ścieżkę i podaj nazwę pliku docelowego (*.zip). Domyślna nazwa dla archiwum ZIP tworzona jest na bazie następującego szablonu "NazwaSerwisu_(yyyy-mm-dd_hh-mm-ss).zip".
@@ -90,7 +90,7 @@ Za pomocą dwóch przełączników możesz wykluczyć z archiwizowania:
 </ul>
 
 <p><b>Opis archiwum</b><br>
-W tym polu możesz wprowadzić krótki opis, który pozwoli ci się zorientować co zawiera serwis, gdy będziesz chciał go przywrócić za pomocą narzędzia <a href="service_restore.html">Przywrócenie serwisu</a>.
+W tym polu możesz wprowadzić krótki opis, który pozwoli ci się zorientować co zawiera serwis, gdy będziesz chciał go przywrócić za pomocą narzędzia <a href="service_restore.php">Przywrócenie serwisu</a>.
 
 <p><b>Ochrona hasłem</b><br>
 Jeśli chcesz, możesz zabezpieczyć archiwum hasłem, które zapobiegnie przeglądaniu go przez niepowołane osoby. W tym celu wprowadź hasło i powtórz je w następnym polu.
@@ -116,10 +116,10 @@ Im lepsza kompresja, tym dłużej trwa kompresowanie, ale plik wynikowy jest mni
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="service_restore.html">Przywracanie serwisu</a>
-	<li><a href="services_general.html">O serwisach ogólnie</a>
-	<li><a href="service_tool_synchronization.html">Synchronizacja serwisów</a>
-	<li><a href="main_tabs_myservices.html">Zakładka Moje serwisy</a>
+	<li><a href="service_restore.php">Przywracanie serwisu</a>
+	<li><a href="services_general.php">O serwisach ogólnie</a>
+	<li><a href="service_tool_synchronization.php">Synchronizacja serwisów</a>
+	<li><a href="main_tabs_myservices.php">Zakładka Moje serwisy</a>
 </ul>
 </td>
 </tr>

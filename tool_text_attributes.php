@@ -26,23 +26,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -71,7 +71,7 @@
 <!-- nagłowek głowny tematu -->
 <h1>Narzędzia - Atrybuty tekstu</h1>
 
-<p>Narzędzie <b>Atrybuty czcionki</b> pozwala określić właściwości czcionki użytej dla wybranego fragmentu tekstu. Na liście wyboru kroju czcionek wystarczy zaznaczyć odpowiednią czcionkę i dodać ją do listy przyciskiem oznaczonym plusikiem. Możesz podać kilka krojów czcionek, które są używane w zależności od tego, czy są one zainstalowane w komputerze, na którym przeglądana jest strona. Narzędzie to uruchomisz z poziomu <a href="main_menu_main.html">Menu głównego</a> / <a href="main_menu_tools_text.html">Tekst</a> / Formatowanie tekstu, a także z paska narzędzi <a href="toolbars_link_format.html">Odsyłacze tekst i formatowanie</a>.
+<p>Narzędzie <b>Atrybuty czcionki</b> pozwala określić właściwości czcionki użytej dla wybranego fragmentu tekstu. Na liście wyboru kroju czcionek wystarczy zaznaczyć odpowiednią czcionkę i dodać ją do listy przyciskiem oznaczonym plusikiem. Możesz podać kilka krojów czcionek, które są używane w zależności od tego, czy są one zainstalowane w komputerze, na którym przeglądana jest strona. Narzędzie to uruchomisz z poziomu <a href="main_menu_main.php">Menu głównego</a> / <a href="main_menu_tools_text.php">Tekst</a> / Formatowanie tekstu, a także z paska narzędzi <a href="toolbars_link_format.php">Odsyłacze tekst i formatowanie</a>.
 
 <h1>Zakładka Postawowe formatowanie</h1>
 
@@ -107,7 +107,7 @@ Jest to lista czcionek ustawionych w kolejności ważności. Jeżeli w przegląd
 <ul>
         <li><b>Jako znacznik <tt>font</tt></b> - ten sposób jest oznaczony w specyfikacji HTML jako niezalecany. Powinieneś korzystać raczej ze <tt>span</tt> lub <tt>div</tt></li><br/><br/>
 
-        <li><b>Jako znacznik <tt>basefont</tt></b> - ten sposób jest absolutnie niezalecany gdyż działa w zasadzie tylko w MS Internet Explorerze. Ustala on wybrane atrybuty dla wszystkich czcionek używanych w dokumencie. Tutaj zdecydowanie lepszym rozwiązaniem jest skorzystanie z <a href="coding_css.html">arkusza stylów</a>.</li><br/><br/>
+        <li><b>Jako znacznik <tt>basefont</tt></b> - ten sposób jest absolutnie niezalecany gdyż działa w zasadzie tylko w MS Internet Explorerze. Ustala on wybrane atrybuty dla wszystkich czcionek używanych w dokumencie. Tutaj zdecydowanie lepszym rozwiązaniem jest skorzystanie z <a href="coding_css.php">arkusza stylów</a>.</li><br/><br/>
 
         <li><b>Jako znacznik <tt>span</tt></b> - ten sposób umieszcza w dokumencie definicję formatowania tekstu za pomocą znacznika <tt>span</tt> i zapisanego w jego atrybucie <tt>style</tt> własności formatowania tekstu. Skorzystaj z tej metody, jeśli chcesz wyróżnić wyraz w tekście, gdyż nie powoduje to rozpoczęcia nowego akapitu. Przykładowe użycie tej metody umieści w dokumencie tekst: <tt>&lt;span style="font-size: xx-small; color: #FFFF00"&gt;&lt;/span&gt;</tt></li><br/><br/>
 
@@ -134,9 +134,9 @@ Jest to lista czcionek ustawionych w kolejności ważności. Jeżeli w przegląd
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-        <li><a href="main_menu_tools_text.html">Menu formatowania tekstu</a>
-        <li><a href="coding_css.html">Korzystanie ze stylów w Pająku</a>
-        <li><a href="toolbars_general.html">Narzędzia na paskach</a>
+        <li><a href="main_menu_tools_text.php">Menu formatowania tekstu</a>
+        <li><a href="coding_css.php">Korzystanie ze stylów w Pająku</a>
+        <li><a href="toolbars_general.php">Narzędzia na paskach</a>
 </ul>
 </td>
 </tr>

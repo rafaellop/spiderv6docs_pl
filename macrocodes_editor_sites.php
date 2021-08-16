@@ -28,23 +28,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -107,16 +107,16 @@
 
 <p>Okno wpisywania treści makrokodu składa się z dwóch części - menu i okna tekstowego. </p>
 
-<p>Menu zawiera ikony umożliwiające tworzenie i wstawianie: <a href="macrocodes_editor_vars.html">zmiennych</a> i <a href="macrocodes_editor_blocks.html">bloków</a>.</p>
+<p>Menu zawiera ikony umożliwiające tworzenie i wstawianie: <a href="macrocodes_editor_vars.php">zmiennych</a> i <a href="macrocodes_editor_blocks.php">bloków</a>.</p>
 
 <ul>
    <li><b>Zmienne</b> - lista zawiera nazwy wszystkie zmiennych zdefiniowanych w makrokodzie,</li>
-   <li><b>Dodanie nowej zmiennej</b> - kliknij aby utworzyć nową zmienną (tylko dodaje zmienną, ale nie powoduje automatycznego jej wstawienia w treść makrokodu). Do tworzenia nowych i edycji istniejących zmiennych służy okno <a href="macrocodes_editor_addvar.html">Edycja zmiennej makrokodu</a>.</li>
+   <li><b>Dodanie nowej zmiennej</b> - kliknij aby utworzyć nową zmienną (tylko dodaje zmienną, ale nie powoduje automatycznego jej wstawienia w treść makrokodu). Do tworzenia nowych i edycji istniejących zmiennych służy okno <a href="macrocodes_editor_addvar.php">Edycja zmiennej makrokodu</a>.</li>
    <li><b>Wstawienie wybranej zmiennej</b> - kliknij aby wstawić wywołanie zmiennej do treści makrokodu. W chwili użycia makrokodu w miejsce symbolu podstawiona zostanie wartość zmiennej.</li>
 </ul>
 <ul>
    <li><b>Bloki</b> - lista zawiera nazwy wszystkich bloków zdefiniowanych w makrokodzie</li>
-   <li><b>Dodanie nowego bloku</b> - kliknij aby dodać nowy blok (tylko dodaje blok, ale nie powoduje automatycznego wstawienia w treść makrokodu). Do tworzenia nowych i edycji istniejących bloków służy okno <a href="macrocodes_editor_addblock.html">Edycja bloku makrokodu</a>.</li> 
+   <li><b>Dodanie nowego bloku</b> - kliknij aby dodać nowy blok (tylko dodaje blok, ale nie powoduje automatycznego wstawienia w treść makrokodu). Do tworzenia nowych i edycji istniejących bloków służy okno <a href="macrocodes_editor_addblock.php">Edycja bloku makrokodu</a>.</li> 
    <li><b>Wstawienie wybranego bloku</b> - kliknij aby wstawić do treści makrokodu symbol bloku wybranego na liście. W chwili użycia makrokodu w miejsce symbolu podstawiona zostanie zawartość bloku (jeśli będzie włączony), lub symbol zostanie usunięty z treści makrokodu (jeśli blok będzie wyłączony).</li>
 </ul>
 
@@ -132,12 +132,12 @@
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-   <li><a href="macrocodes_editor.html">Edytor makrokodów - wstęp</a>
-   <li><a href="macrocodes_editor_vars.html">Edytor makrokodów - zmienne</a>
-   <li><a href="macrocodes_editor_blocks.html">Edytor makrokodów - bloki</a>
-   <li><a href="settings_macrocodes.html">Ustawienia programu - Makrokody</a>
-   <li><a href="main_tabs_macrocodes.html">Zakładka Makrokody</a>
-   <li><a href="macrocodes.html">Makrokody - ogólnie</a>
+   <li><a href="macrocodes_editor.php">Edytor makrokodów - wstęp</a>
+   <li><a href="macrocodes_editor_vars.php">Edytor makrokodów - zmienne</a>
+   <li><a href="macrocodes_editor_blocks.php">Edytor makrokodów - bloki</a>
+   <li><a href="settings_macrocodes.php">Ustawienia programu - Makrokody</a>
+   <li><a href="main_tabs_macrocodes.php">Zakładka Makrokody</a>
+   <li><a href="macrocodes.php">Makrokody - ogólnie</a>
 </ul>
 </td>
 </tr>

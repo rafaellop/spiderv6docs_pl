@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -74,7 +74,7 @@
 
 <p>Sekcja META dokumentów HTML jest bardzo ważną sekcją, zwłaszcza w polskich warunkach. W sekcji tej znajdują się bowiem bardziej szczegółowe informacje na temat zawartości dokumentu HTML, np. używana strona kodowa dla znaków narodowych, itp. Edytor sekcji META pozwala na łatwe określenie parametrów sekcji META w wygodny sposób.
 
-<p>Okno edytora sekcji META uruchomisz z poziomu <a href="main_menu_main.html">Menu głównego</a> / <a href="main_menu_tools.html">Narzędzia</a> / <a href="main_menu_tools_structure.html">Struktura</a> / Edytor sekcji &lt;meta&gt;, a także z pasków narzędzi i skrótem klawiszowym <tt>Shift+Ctrl+M</tt>. Dodatkowo możliwe jest określenie domyślnych właściwości sekcji META dla każdego Serwisu z osobna. Odpowiedni przycisk uruchomiający to okno znajdziesz więc w oknie <a href="service_properites.html#servicepropertiesdocuments">Właściwości serwisu / Dokumenty</a>. Ikona polecenia przedstawiona została powyżej.
+<p>Okno edytora sekcji META uruchomisz z poziomu <a href="main_menu_main.php">Menu głównego</a> / <a href="main_menu_tools.php">Narzędzia</a> / <a href="main_menu_tools_structure.php">Struktura</a> / Edytor sekcji &lt;meta&gt;, a także z pasków narzędzi i skrótem klawiszowym <tt>Shift+Ctrl+M</tt>. Dodatkowo możliwe jest określenie domyślnych właściwości sekcji META dla każdego Serwisu z osobna. Odpowiedni przycisk uruchomiający to okno znajdziesz więc w oknie <a href="service_properites.html#servicepropertiesdocuments">Właściwości serwisu / Dokumenty</a>. Ikona polecenia przedstawiona została powyżej.
 
 <h2>Ogólne informacje</h2>
 
@@ -155,7 +155,7 @@ Zaznacz ten przełącznik jeśli chcesz zdefiniować efekty przekształceń przy
 
 <p>Grupa o nazwie <b>Słowa kluczowe</b> pozwala na tworzenie listy tzw. słów kluczowych (ang. <i>keywords</i>), które przez niektóre wyszukiwarki używane są do indeksowania stron. Lista słów kluczowych uaktywnia się po zaznaczeniu przełącznika w nazwie grupy. Kolejne słowa kluczowe możesz możesz dodawać, zmieniać ich kolejność i sortować za pomocą przycisku obok listy.
 
-<p><b><a href="tool_keywords_generator.html">Generator słów kluczowych</a></b><br />
+<p><b><a href="tool_keywords_generator.php">Generator słów kluczowych</a></b><br />
 To narzędzie umożliwia szybkie wygenerowanie listy słów wystęujących w bieżącym dokumencie.
 
 
@@ -219,7 +219,7 @@ Obszar wyświetlający podgląd wybranego efektu. Aby zobaczyć podgląd wciśni
 <p>Ta zakładka umożliwia szybkie sklasyfikowanie dokumentu za pomocą systemu RSACi. Wystarczy tylko zaznaczyć przełącznik "<b>Dołącz klasyfikację</b>" i ustalić odpowiednie parametry. Parametry ustalasz za pomocą odpowiednich suwaków wskazujących poziom obecności określonych treści na stronie. Dodatkowo możesz wskazać adres klasyfikującego, adres klasyfikowanej strony oraz datę ważności klasyfikacji. Jeśli natomiast chcesz, aby klasyfikacja była ważna tylko w obrębie tej strony, a nie np. całego serwisu, zaznacz przełącznik "<b>Klasyfikacja ważna tylko w obrębie tej strony</b>".
 
 <h2>Przycisk Przypisz z serwisu</h2>
-<p>Przycisk "Przypisz z serwisu" umożliwia przepisanie własności META ustawionych dla wskazanego <a href="services_general.html">serwisu</a> do okienka właściwości META. Kliknięcie tego przycisku rozwija listę serwisów dostępnych w Pająku. Wskazanie serwisu na liście spowoduje przeniesienie jego własności (określonych w oknie <a href="service_properites.html#metaindexing">Właściwości serwisu</a>) do odpowiednich pól "Edytora sekcji META".
+<p>Przycisk "Przypisz z serwisu" umożliwia przepisanie własności META ustawionych dla wskazanego <a href="services_general.php">serwisu</a> do okienka właściwości META. Kliknięcie tego przycisku rozwija listę serwisów dostępnych w Pająku. Wskazanie serwisu na liście spowoduje przeniesienie jego własności (określonych w oknie <a href="service_properites.html#metaindexing">Właściwości serwisu</a>) do odpowiednich pól "Edytora sekcji META".
 
 </td>
 </tr>
@@ -232,10 +232,10 @@ Obszar wyświetlający podgląd wybranego efektu. Aby zobaczyć podgląd wciśni
 <h4>Pokrewne tematy</h4>
 <ul>
 	<li><a href="service_properites.html#metaindexing">Ustawianie META dla serwisów</a>
-	<li><a href="tool_quickstart.html">Narzędzie Szybki Start</a>
-	<li><a href="tool_body.html">Narzędzie ustawień BODY</a>
-	<li><a href="main_menu_main.html">Menu programu</a>
-	<li><a href="toolbars_general.html">Narzędzia na paskach</a>
+	<li><a href="tool_quickstart.php">Narzędzie Szybki Start</a>
+	<li><a href="tool_body.php">Narzędzie ustawień BODY</a>
+	<li><a href="main_menu_main.php">Menu programu</a>
+	<li><a href="toolbars_general.php">Narzędzia na paskach</a>
 </ul>
 </td>
 </tr>

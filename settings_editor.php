@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -81,13 +81,13 @@ Dostępne są następujące grupy ustawień w ramach tego okna:
 
 <ul>
 	<a name="settingslisteditor"></a>
-	<li><a href="settings_editor_general.html">Ogólne</a> - ustawienia związane z ogólnym działaniem program edytora i kilkoma domyślnymi opcjami.
-	<li><a href="settings_editor_font.html">Czcionka edytora</a> - związane z używaną w edytorze czcionką.
-	<li><a href="settings_editor_conf.html">Konfiguracja</a> - wiele opcji związanych ze specyficznym działaniem edytora kodu.
-	<li><a href="settings_editor_spelling.html">Pisownia i weryfikacja składni</a> - opcje związane z funkcją sprawdzania pisowni i weryfikacją składni.
-	<li><a href="settings_editor_syntax.html">Kolorowanie składni</a> - lista schematów kolorowania wraz z przyciskami pozwalającymi zarówno na modyfikację schematów jak i na tworzenie nowych.
-	<li><a href="settings_editor_documents.html">Dokumenty</a> - ustawienia związane z pracą nad dokumentami, np. ustawienia konwersji znaków narodowych czy pamiętanych wraz z dokumentami ustawień.
-	<li><a href="settings_editor_wysiwyg.html">Edycja wizualna</a> - związane z działaniem narzędzie edycji wizualnej w trybie graficznym.
+	<li><a href="settings_editor_general.php">Ogólne</a> - ustawienia związane z ogólnym działaniem program edytora i kilkoma domyślnymi opcjami.
+	<li><a href="settings_editor_font.php">Czcionka edytora</a> - związane z używaną w edytorze czcionką.
+	<li><a href="settings_editor_conf.php">Konfiguracja</a> - wiele opcji związanych ze specyficznym działaniem edytora kodu.
+	<li><a href="settings_editor_spelling.php">Pisownia i weryfikacja składni</a> - opcje związane z funkcją sprawdzania pisowni i weryfikacją składni.
+	<li><a href="settings_editor_syntax.php">Kolorowanie składni</a> - lista schematów kolorowania wraz z przyciskami pozwalającymi zarówno na modyfikację schematów jak i na tworzenie nowych.
+	<li><a href="settings_editor_documents.php">Dokumenty</a> - ustawienia związane z pracą nad dokumentami, np. ustawienia konwersji znaków narodowych czy pamiętanych wraz z dokumentami ustawień.
+	<li><a href="settings_editor_wysiwyg.php">Edycja wizualna</a> - związane z działaniem narzędzie edycji wizualnej w trybie graficznym.
 </ul>
 
 <p>
@@ -104,8 +104,8 @@ Dostępne są następujące grupy ustawień w ramach tego okna:
 <h4>Pokrewne tematy</h4>
 <ul>
 	<li><a href="settings.html#settingslist">Główne ustawienia</a>
-	<li><a href="main_editor.html">Ogólnie o edytorze kodu</a>
-	<li><a href="main_editor_wysiwyg.html">Ogólnie o edytorze graficznym</a>
+	<li><a href="main_editor.php">Ogólnie o edytorze kodu</a>
+	<li><a href="main_editor_wysiwyg.php">Ogólnie o edytorze graficznym</a>
 </ul>
 </td>
 </tr>

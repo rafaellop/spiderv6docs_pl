@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -74,7 +74,7 @@
 
 <p> Narzędzie to służy do szybkiego tworzenia tabel o zadanych wymiarach. Możesz wybrać ilość kolumn i wierszy tabeli. Następnie, w zależności od ustawionych opcji, uruchamiane będą inne narzędzia służące do ustawiania opcji poszczególnych elementów tabeli.
 
-<p>Okno Szybkiej tabelki uruchomisz z poziomu <a href="main_menu_main.html">Menu głównego</a> / <a href="main_menu_tools.html">Narzędzia</a> / <a href="main_menu_tools_tables.html">Tabele</a> / Szkielet tabeli, a także z paska narzędzi <a href="toolbars_tables.html">Tabele i formularze</a>.
+<p>Okno Szybkiej tabelki uruchomisz z poziomu <a href="main_menu_main.php">Menu głównego</a> / <a href="main_menu_tools.php">Narzędzia</a> / <a href="main_menu_tools_tables.php">Tabele</a> / Szkielet tabeli, a także z paska narzędzi <a href="toolbars_tables.php">Tabele i formularze</a>.
 
 <p>Okno zawiera następujące opcje:</p>
 
@@ -87,13 +87,13 @@ Wprowadź ilość wierszy. Jeśli nie wprowadzisz żadnej wartości, komórki ta
 <p>Następne opcje mają za zadanie włączanie narzędzi obsługujących poszczególne elementy tabeli po kliknięciu przycisku <tt>OK</tt>:</p>
 
 <p><b>Dołącz opis tabeli</b><br />
-Zaznacz, by uruchomione zostało narzędzie <a href="tool_table_caption.html">Opis tabeli</a> w celu wprowadzenia opisu.
+Zaznacz, by uruchomione zostało narzędzie <a href="tool_table_caption.php">Opis tabeli</a> w celu wprowadzenia opisu.
 
 <p><b>Ustawienia dla wierszy</b><br />
-Zaznacz, by dla każdego wiersza tabeli uruchomione zostało narzędzie <a href="tool_table_row.html">Wiersz tabeli</a> w celu ustawienia opcji danego wiersza.
+Zaznacz, by dla każdego wiersza tabeli uruchomione zostało narzędzie <a href="tool_table_row.php">Wiersz tabeli</a> w celu ustawienia opcji danego wiersza.
 
 <p><b>Ustawienia dla komórek</b><br />
- Zaznacz, by dla każdej komórki tabeli uruchomione zostało narzędzie <a href="tool_table_cell.html">Komórka tabeli</a> w celu ustawienia jej opcji.
+ Zaznacz, by dla każdej komórki tabeli uruchomione zostało narzędzie <a href="tool_table_cell.php">Komórka tabeli</a> w celu ustawienia jej opcji.
 
 <p><b>Obramowanie tabeli</b><br />
 Zaznacz, by tabela została objęta ramką (argument <tt>border="1"</tt> w znaczniku <tt>TABLE</tt>).
@@ -108,13 +108,13 @@ Zaznacz, by tabela została objęta ramką (argument <tt>border="1"</tt> w znacz
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="tool_table_editor.html">Edytor tabel</a>
-	<li><a href="tool_table_tag.html">Edytor znacznika TABLE</a>
-	<li><a href="tool_table_cell.html">Narzędzia - Komórka tabeli</a>
-	<li><a href="tool_table_row.html">Narzędzia - Wiersz tabeli</a>
-	<li><a href="tool_table_caption.html">Narzędzia - Opis tabeli</a>
-	<li><a href="main_menu_main.html">Menu programu</a>
-	<li><a href="toolbars_general.html">Narzędzia na paskach</a>
+	<li><a href="tool_table_editor.php">Edytor tabel</a>
+	<li><a href="tool_table_tag.php">Edytor znacznika TABLE</a>
+	<li><a href="tool_table_cell.php">Narzędzia - Komórka tabeli</a>
+	<li><a href="tool_table_row.php">Narzędzia - Wiersz tabeli</a>
+	<li><a href="tool_table_caption.php">Narzędzia - Opis tabeli</a>
+	<li><a href="main_menu_main.php">Menu programu</a>
+	<li><a href="toolbars_general.php">Narzędzia na paskach</a>
 </ul>
 </td>
 </tr>

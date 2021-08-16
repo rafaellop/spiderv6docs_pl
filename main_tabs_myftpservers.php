@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -79,52 +79,52 @@
 <p><i>Serwery FTP</i> to serwery sieciowe, na których umieszczane są np. pliki składowe witryn FTP.</p>
 <p>WebDAV (ang. <i>Web-based Distributed Authoring and Versioning</i>) jest rozszerzeniem protokołu HTTP umożliwiającym przesyłania i zarządzanie dokumentami na serwerze. Więcej na temat WebDAV przeczytasz na stronie <a href="https://www.webdav.org" target="_blank">www.webdav.org</a>.</p>
 
-<p>Korzystając z tej zakładki możesz korzystać z serwera w podobny sposób w jaki korzystasz z eksploratora Windows czy zakładki <a href="main_tabs_myservices.html">Moje serwisy</a>. Widzisz swoje foldery, pliki, możesz je otwierać, zmieniać nazwy, tworzyć nowe tak jakbyś pracował na własnym komputerze. Przy pierwszym połączeniu Pająk wyświetla zawartość katalogu domowego użytkownika.</p>
+<p>Korzystając z tej zakładki możesz korzystać z serwera w podobny sposób w jaki korzystasz z eksploratora Windows czy zakładki <a href="main_tabs_myservices.php">Moje serwisy</a>. Widzisz swoje foldery, pliki, możesz je otwierać, zmieniać nazwy, tworzyć nowe tak jakbyś pracował na własnym komputerze. Przy pierwszym połączeniu Pająk wyświetla zawartość katalogu domowego użytkownika.</p>
 
-<p>Zakładkę "Moje serwery" włączysz za pomocą panelu po prawej lub skrótu klawiszowego CTRL+5, a także z menu pod przyciskiem pokazanym powyżej czy z <a href="main_menu_main.html">Menu głównego</a> / <a href="main_menu_view.html">Wyświetl</a>.
+<p>Zakładkę "Moje serwery" włączysz za pomocą panelu po prawej lub skrótu klawiszowego CTRL+5, a także z menu pod przyciskiem pokazanym powyżej czy z <a href="main_menu_main.php">Menu głównego</a> / <a href="main_menu_view.php">Wyświetl</a>.
 
-<p>Wszystkie funkcje wykonywane na zakładce są zapisywane w tzw. logu, czyli raporcie z komunikacji między Pająkiem a serwerem. Raport ten wyświetlany jest w <a href="down_publishing_serverlog.html">panelu na dole</a>.
+<p>Wszystkie funkcje wykonywane na zakładce są zapisywane w tzw. logu, czyli raporcie z komunikacji między Pająkiem a serwerem. Raport ten wyświetlany jest w <a href="down_publishing_serverlog.php">panelu na dole</a>.
 
-<p>Z wybranym tutaj serwerem możesz pracować zarówno w trybie online (połączony) jak i offline (bez połączenia). Opis tych trybów znajduje się w temacie <a href="main_tabs_myftpservers_on-offline.html">Praca w trybach online i offline</a>
+<p>Z wybranym tutaj serwerem możesz pracować zarówno w trybie online (połączony) jak i offline (bez połączenia). Opis tych trybów znajduje się w temacie <a href="main_tabs_myftpservers_on-offline.php">Praca w trybach online i offline</a>
 
 <h2>Zawartość - Pasek i lista serwerów</h2>
 
-<p>Zakładka "Moje serwery" jest podobna do zakładki <a href="main_tabs_myservices.html">Moje serwisy</a> z tym wyjątkiem, że zakładka pozwala ona na pracę zdalną na serwerach udostępnionych w oknie <a href="settings_network_ftpservers.html">Ustawienia serwerów FTP i WebDAV</a>.
+<p>Zakładka "Moje serwery" jest podobna do zakładki <a href="main_tabs_myservices.php">Moje serwisy</a> z tym wyjątkiem, że zakładka pozwala ona na pracę zdalną na serwerach udostępnionych w oknie <a href="settings_network_ftpservers.php">Ustawienia serwerów FTP i WebDAV</a>.
 
 <p><b>Główny pasek przycisków i wybór serwera</b><br>
 W górnej części zakładki znajduje się pasek z kilkoma przyciskami oraz listą pozwalającą na wybór jednego ze zdefiniowanych w ustawieniach serwerów , na którym chcesz pracować.
 
 <p><b>Grupowanie serwerów</b><br>
-Istnieje możliwość grupowania serwerów. Grupy umieszczone są na liście powyżej serwisów niezgrupowanych. Kliknięcie na nazwę grupy rozwinie listę zebranych w niej serwerów. Jest to szczególnie przydatne podczas pracy nad dużą liczbą różnych projektów. Grupę, do której jest przypisany serwer możesz określić w oknie <a href="settings_network_ftpservers_add.html">Własności serwera</a>.</p>
+Istnieje możliwość grupowania serwerów. Grupy umieszczone są na liście powyżej serwisów niezgrupowanych. Kliknięcie na nazwę grupy rozwinie listę zebranych w niej serwerów. Jest to szczególnie przydatne podczas pracy nad dużą liczbą różnych projektów. Grupę, do której jest przypisany serwer możesz określić w oknie <a href="settings_network_ftpservers_add.php">Własności serwera</a>.</p>
 
 <p><b>Przycisk "Połącz/Rozłącz"</b><br>
 Po prawej stronie listy serwerów znajduje się przycisk z zieloną wtyczką pozwalający na połączenie się z wybranym serwerem. Po nawiązaniu połączenia wtyczka zmienia kolor na czerwony umożliwiając rozłączenie.
 
 <p><b>Przycisk "Przerwij bieżącą operację"</b><br>
-Ten przycisk pozwala na przerwanie operacji aktualnie wykonywanej na serwerze. Służy on jednak do przerywania operacji wykonywanych na zakładce, a nie do przerwania wykonywania zadań z <a href="down_publishing_ftpqueue.html">kolejki plików</a>.
+Ten przycisk pozwala na przerwanie operacji aktualnie wykonywanej na serwerze. Służy on jednak do przerywania operacji wykonywanych na zakładce, a nie do przerwania wykonywania zadań z <a href="down_publishing_ftpqueue.php">kolejki plików</a>.
 
 <p>Obok drzewa katalogów zdalnego serwera znajdują się natomiast następujące przyciski:</p>
 
 <p><b>Przycisk "Ustawienia serwerów"</b><br>
-Po lewej stronie powyżej opisanej listy znajdziesz przycisk uruchamiający okienko <a href="settings_network_ftpservers.html">Ustawień serwerów </a>, w którym możesz dodać nowe serwery FTP i WebDAV, czy zmodyfikować ustawienia istniejących.
+Po lewej stronie powyżej opisanej listy znajdziesz przycisk uruchamiający okienko <a href="settings_network_ftpservers.php">Ustawień serwerów </a>, w którym możesz dodać nowe serwery FTP i WebDAV, czy zmodyfikować ustawienia istniejących.
 
 <p><b>Przycisk "Lista ulubionych folderów"</b><br>
 To menu wyświetla ulubione foldery na serwerze FTP. Ulubione foldery możesz dodawać za pomocą przycisku oznaczonego plusikiem, który znajduje się obok listy plików zdalnego serwera. Wybranie folderu na tej liście powoduje szybkie przejście do niego. Pierwszą pozycją na liście ulubionych jest pozycja "Przejdź do katalogu domowego (startowego)", dzięki której szybko przełączysz się do głównego folderu swojego konta.
 
 <p><b>Przycisk "Wyświetl kolejkę plików"</b><br>
-Wyświetla dolny panel z wybranym widokiem <a href="down_publishing_ftpqueue.html">kolejki plików</a>.
+Wyświetla dolny panel z wybranym widokiem <a href="down_publishing_ftpqueue.php">kolejki plików</a>.
 
 <p><b>Przycisk "Wyświetl raport synchronizacji"</b><br>
-Wyświetla dolny panel z wybranym widokiem <a href="down_publishing_syncreport.html">raportu synchronizacji serwisu</a>.
+Wyświetla dolny panel z wybranym widokiem <a href="down_publishing_syncreport.php">raportu synchronizacji serwisu</a>.
 
 <p><b>Przycisk "Wyświetl zapis komunikacji z serwerem"</b><br>
-Wyświetla dolny panel z wybranym widokiem <a href="down_publishing_serverlog.html">zapisu komunikacji z serwerem</a>, tzw. log.
+Wyświetla dolny panel z wybranym widokiem <a href="down_publishing_serverlog.php">zapisu komunikacji z serwerem</a>, tzw. log.
 
 <p><b>Przycisk "Rozpocznij wykonywanie kolejki plików"</b><br>
-Pozwala na rozpoczęcie wykonywania zadań umieszczonych w <a href="down_publishing_ftpqueue.html">kolejce plików</a>.
+Pozwala na rozpoczęcie wykonywania zadań umieszczonych w <a href="down_publishing_ftpqueue.php">kolejce plików</a>.
 
 <p><b>Przycisk "Zatrzymaj wykonywanie kolejki plików"</b><br>
-Pozwala na zatrzymanie wykonywanych zadań umieszczonych w <a href="down_publishing_ftpqueue.html">kolejce plików</a>.
+Pozwala na zatrzymanie wykonywanych zadań umieszczonych w <a href="down_publishing_ftpqueue.php">kolejce plików</a>.
 
 <p><b>Przycisk "Usunięcie zawartości cache bieżącego serwera"</b><br>
 Pozwala na usunięcia pamięci podręcznej dla bieżącego serwera - wyczyszczone zostanie drzewo i lista plików. Polecenie działa tylko wtedy, gdy połączenie jest nieaktywne!
@@ -140,23 +140,23 @@ Pozwala na usunięcia pamięci podręcznej dla bieżącego serwera - wyczyszczon
 <p>Dodatkowo dostępne jest menu podręczne zawierające następujące polecenia: </p>
 
 <p><b>"Pokaż całe drzewo"</b><br>
-Pozwala na łatwe wyczyszczenie pola Folder nadrzędny w <a href="settings_network_ftpservers_add.html">Ustawieniach serwera</a>. Skorzystanie z tego polecenia spowoduje wyczyszczenie listy folderów i plików do <a href="main_tabs_myftpservers_on-offline.html">pracy w trybie offline</a>.
+Pozwala na łatwe wyczyszczenie pola Folder nadrzędny w <a href="settings_network_ftpservers_add.php">Ustawieniach serwera</a>. Skorzystanie z tego polecenia spowoduje wyczyszczenie listy folderów i plików do <a href="main_tabs_myftpservers_on-offline.php">pracy w trybie offline</a>.
 
 <p><b>"Ustaw jako folder nadrzędny (root)"</b><br>
-Pozwala na łatwe ustawienie wybranego folderu jako Folder nadrzędny dla drzewa. Szczegóły w temacie opisującym <a href="settings_network_ftpservers_add.html">Ustawienia serwera</a>. Skorzystanie z tego polecenia spowoduje wyczyszczenie listy folderów i plików do <a href="main_tabs_myftpservers_on-offline.html">pracy w trybie offline</a>.
+Pozwala na łatwe ustawienie wybranego folderu jako Folder nadrzędny dla drzewa. Szczegóły w temacie opisującym <a href="settings_network_ftpservers_add.php">Ustawienia serwera</a>. Skorzystanie z tego polecenia spowoduje wyczyszczenie listy folderów i plików do <a href="main_tabs_myftpservers_on-offline.php">pracy w trybie offline</a>.
 
 <p><b>"Ustaw jako folder startowy"</b><br>
-Pozwala na łatwe ustawienie wybranego folderu jako startowego (to jego zawartość będzie domyślnie wyświetlana na liście plików poniżej po połączeniu się z serwerem). Szczegóły w temacie opisującym <a href="settings_network_ftpservers_add.html">Ustawienia serwera</a>.
+Pozwala na łatwe ustawienie wybranego folderu jako startowego (to jego zawartość będzie domyślnie wyświetlana na liście plików poniżej po połączeniu się z serwerem). Szczegóły w temacie opisującym <a href="settings_network_ftpservers_add.php">Ustawienia serwera</a>.
 
 <h2>Zawartość - Lista plików</h2>
 
-<p>Lista plików wyświetla zawartość aktualnie wybranego katalogu. Wyświetlane są zarówno pliki jak i foldery w sposób identyczny jak w eksploratorze Windows czy na zakładce <a href="main_tabs_myservices.html">Moje serwisy</a>. Lista ma układ kolumnowy, a prezentowane w kolumnach informacje to:
+<p>Lista plików wyświetla zawartość aktualnie wybranego katalogu. Wyświetlane są zarówno pliki jak i foldery w sposób identyczny jak w eksploratorze Windows czy na zakładce <a href="main_tabs_myservices.php">Moje serwisy</a>. Lista ma układ kolumnowy, a prezentowane w kolumnach informacje to:
 
 <ul>
         <li><b>Nazwa pliku</b> - wyświetla nazwę pliku lub folderu znajdującego się na serwerze
-        <li><b>Rozmiar</b> - rozmiar pliku wyświetlany zależnie od <a href="settings_network_ftpclient.html">ustawień klienta FTP i WebDAV</a>.
+        <li><b>Rozmiar</b> - rozmiar pliku wyświetlany zależnie od <a href="settings_network_ftpclient.php">ustawień klienta FTP i WebDAV</a>.
         <li><b>Zmodyfikowano</b> - data i godzina ostatniej modyfikacji.
-        <li><b>Prawa dostępu</b> - prezentuje informację o prawach dostępu do elementu. O prawach dostępu możesz poczytać w opisie okienka <a href="main_tabs_myftpservers_rights.html">Zmiany atrybutów zdalnego pliku</a>.
+        <li><b>Prawa dostępu</b> - prezentuje informację o prawach dostępu do elementu. O prawach dostępu możesz poczytać w opisie okienka <a href="main_tabs_myftpservers_rights.php">Zmiany atrybutów zdalnego pliku</a>.
    <li><b>Typ</b> - nazwa typu pliku lub folderu, np. "Dokument HTML".
 </ul>
 
@@ -167,7 +167,7 @@ Pozwala na łatwe ustawienie wybranego folderu jako startowego (to jego zawarto�
 <p>Obok listy przycisków znajduje się pasek z przyciskami. Identyczną zawartość ma menu listy plików i składa się z następujących przycisków:
 
 <p><b>Wczytanie wybranego dokumentu do Pająka</b><br>
-Za pomocą tego przycisku <a href="network_opendoc_ftp.html">otworzysz do edycji w Pająku dokumenty wybrane na liście plików</a>. Będziesz mógł je zmienić, a przy zapisie zostaną one ponownie umieszczone na serwerze.
+Za pomocą tego przycisku <a href="network_opendoc_ftp.php">otworzysz do edycji w Pająku dokumenty wybrane na liście plików</a>. Będziesz mógł je zmienić, a przy zapisie zostaną one ponownie umieszczone na serwerze.
 
 <p><b>Utworzenie nowego dokumentu na serwerze</b><br>
 Za pomocą tego przycisku utworzysz na serwerze pusty dokument o wskazanej nazwie. Dzięki temu możesz go potem otworzyć i od razu edytować bezpośrednio z serwera.
@@ -180,7 +180,7 @@ Za pomocą tego przycisku możesz zmienić nazwę zarówno katalogu jak i pliku.
 
 <a name="myftpserversrights"></a>
 <p><b>Zmiana praw dostępu do wybranego elementu</b><br>
-Korzystając z tego przycisku zmienisz prawa dostępu do wybranego elementu. Prawa dostępu i ich ustawianie zostały opisane w okienku <a href="main_tabs_myftpservers_rights.html">Zmiany atrybutów zdalnego pliku</a>. <span class="czerwony">Zmiana praw dostępu obsługiwana jest wyłącznie przez serwery FTP, w czasie korzystania z serwera WebDAV zostaje więc ukryta.</span>
+Korzystając z tego przycisku zmienisz prawa dostępu do wybranego elementu. Prawa dostępu i ich ustawianie zostały opisane w okienku <a href="main_tabs_myftpservers_rights.php">Zmiany atrybutów zdalnego pliku</a>. <span class="czerwony">Zmiana praw dostępu obsługiwana jest wyłącznie przez serwery FTP, w czasie korzystania z serwera WebDAV zostaje więc ukryta.</span>
 
 <p><b>Usunięcie zaznaczonych plików</b><br>
 Ten przycisk pozwala na usunięcie z serwera zaznaczonych plików lub katalogów.
@@ -190,7 +190,7 @@ Jeśli chcesz odświeżyć listę wyświetlanych elementów użyj tego przycisku
 
 <a name="myftpserverslockfile"></a>
 <p><b>Zablokowanie zaznaczonych dokumentów</b><br>
-Pracując nad plikami możesz chcieć zablokować dostęp do aktualnie modyfikowanych dla innych użytkowników. Za pomocą tego przycisku nałożysz blokadę. Zasady pracy grupowej zostały opisane w temacie <a href="network_publishing_general.html">Publikowania</a>. Zależnie od tego, czy pracujesz na serwerze FTP, czy WebDAV, otwarte zostanie odpowiednie okienko: <a href="main_tabs_myftpservers_lockfile.html">Zablokuj plik</a>.
+Pracując nad plikami możesz chcieć zablokować dostęp do aktualnie modyfikowanych dla innych użytkowników. Za pomocą tego przycisku nałożysz blokadę. Zasady pracy grupowej zostały opisane w temacie <a href="network_publishing_general.php">Publikowania</a>. Zależnie od tego, czy pracujesz na serwerze FTP, czy WebDAV, otwarte zostanie odpowiednie okienko: <a href="main_tabs_myftpservers_lockfile.php">Zablokuj plik</a>.
 
 <p><b>Odblokowanie wybranych dokumentów</b><br>
 Zablokowane powyższym poleceniem dokumenty możesz odblokować za pomocą tego przycisku.
@@ -238,7 +238,7 @@ Ten przycisk wyświetla tę stronę pomocy.
 Informacja ta jest wyświetlana, gdy Pająk nie jest połączony z serwerem, nie są przeprowadzane żadne operacje.
 
 <p><b>Trwa przeprowadzanie operacji na serwerze</b><br>
-Informacja ta wyświetlana jest w momencie przeprowadzania różnych operacji na serwerze. Dodatkowo wyświetlana jest informacja, jaka operacja jest właśnie przeprowadzana (np. <tt>Łączenie z serwerem</tt>, <tt>Pobieranie katalogu</tt>, <tt>Zmiana nazwy pliku</tt>, <tt>Pobieranie informacji o blokadzie</tt> itp.). <b>UWAGA!</b> W tym miejscu <b>nie są wyświetlane</b> informacje o operacjach przeprowadzanych za pomocą <a href="down_publishing_ftpqueue.html">Kolejki plików FTP na dolnym panelu</a>, w szczególności przesyłanie i pobieranie plików, nawet gdy plik został przeciągnięty do/z zakładki Moje serwery FTP i WebDAV! Operacje te odbywają się niezależnie jako odrębny proces!</p>
+Informacja ta wyświetlana jest w momencie przeprowadzania różnych operacji na serwerze. Dodatkowo wyświetlana jest informacja, jaka operacja jest właśnie przeprowadzana (np. <tt>Łączenie z serwerem</tt>, <tt>Pobieranie katalogu</tt>, <tt>Zmiana nazwy pliku</tt>, <tt>Pobieranie informacji o blokadzie</tt> itp.). <b>UWAGA!</b> W tym miejscu <b>nie są wyświetlane</b> informacje o operacjach przeprowadzanych za pomocą <a href="down_publishing_ftpqueue.php">Kolejki plików FTP na dolnym panelu</a>, w szczególności przesyłanie i pobieranie plików, nawet gdy plik został przeciągnięty do/z zakładki Moje serwery FTP i WebDAV! Operacje te odbywają się niezależnie jako odrębny proces!</p>
 
 <p><b>Połączony (online)</b><br>
 Informacja ta jest wyświetlana, gdy Pająk jest połączony z serwerem, ale w danym momencie nie są przeprowadzane żadne operacje.
@@ -258,17 +258,17 @@ Informacja ta jest wyświetlana, gdy Pająk jest połączony z serwerem za pomoc
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-        <li><a href="main_tabs_myftpservers_on-offline.html">Praca z serwerem w trybie offline i online</a>
-        <li><a href="down_publishing_ftpqueue.html">Kolejka plików</a>
-        <li><a href="network_publishing_general.html">Publikowanie w Pająku</a>
-        <li><a href="settings_network_ftpclient.html">Ustawienia klienta FTP i WebDAV</a>
-        <li><a href="settings_network_ftpservers_add_map.html">Mapowanie ścieżki na serwerze FTP na adres URL</a>
+        <li><a href="main_tabs_myftpservers_on-offline.php">Praca z serwerem w trybie offline i online</a>
+        <li><a href="down_publishing_ftpqueue.php">Kolejka plików</a>
+        <li><a href="network_publishing_general.php">Publikowanie w Pająku</a>
+        <li><a href="settings_network_ftpclient.php">Ustawienia klienta FTP i WebDAV</a>
+        <li><a href="settings_network_ftpservers_add_map.php">Mapowanie ścieżki na serwerze FTP na adres URL</a>
         <li><a href="settings_network.html#settingslistnetwork">Ustawienia sieci</a>
-        <li><a href="settings_network_ftpservers_add.html">Dodawanie nowego serwera</a>
-        <li><a href="service_tool_synchronization.html">Synchronizacja serwisów</a>
-        <li><a href="network_opendoc_ftp.html">Otwieranie i edycja dokumentów bezpośrednio na serwerze</a></li>
-        <li><a href="main_tabs_general.html">Inne zakładki</a>
-        <li><a href="main_window_desc.html">Główne okno programu</a>
+        <li><a href="settings_network_ftpservers_add.php">Dodawanie nowego serwera</a>
+        <li><a href="service_tool_synchronization.php">Synchronizacja serwisów</a>
+        <li><a href="network_opendoc_ftp.php">Otwieranie i edycja dokumentów bezpośrednio na serwerze</a></li>
+        <li><a href="main_tabs_general.php">Inne zakładki</a>
+        <li><a href="main_window_desc.php">Główne okno programu</a>
 </ul>
 </td>
 </tr>

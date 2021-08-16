@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -82,12 +82,12 @@ Dostępne są następujące grupy ustawień w ramach tego okna:
 
 <ul>
 	<a name="settingslistcodeinsight"></a>
-	<li><a href="settings_codeinsight_tags.html">Dynamiczne podpowiedzi dla znaczników</a> - ustawienia związane z dynamicznymi podpowiedziami i listami dostępnymi dla języków znacznikowych.
-	<li><a href="settings_codeinsight_php.html">Dynamiczne podpowiedzi w PHP</a>  ustawienia związane z dynamicznymi podpowiedziami i listami dostępnymi dla dokumentów PHP.
-	<li><a href="settings_codeinsight_scripts.html">Dynamiczne podpowiedzi w skryptach</a> - ustawienia związane z dynamicznymi podpowiedziami i listami dostępnymi dla języków skryptowych.
-	<li><a href="settings_codeinsight_additional.html">Dodatkowe ułatwienia</a> - liczne dodatkowe ustawienia pozwalające na jeszcze wygodniejszą pracę z programem.
-	<li><a href="settings_codeinsight_css.html">Dynamiczne podpowiedzi w CSS i inne narzędzia</a> - opcje związane ze sposobem działania funkcji dynamicznych podpowiedzi dla CSS, opcje uzupełniania znaczników, ustawienia narzędzia weryfikacji składni oraz nawigatorów dokumentów.
-	<li><a href="settings_codeinsight_formatter.html">Formatowanie kodu źródłowego</a> - ustawienia związane z formatowaniem dokumentów znacznikowych, CSS czy PHP lub JavaScript.
+	<li><a href="settings_codeinsight_tags.php">Dynamiczne podpowiedzi dla znaczników</a> - ustawienia związane z dynamicznymi podpowiedziami i listami dostępnymi dla języków znacznikowych.
+	<li><a href="settings_codeinsight_php.php">Dynamiczne podpowiedzi w PHP</a>  ustawienia związane z dynamicznymi podpowiedziami i listami dostępnymi dla dokumentów PHP.
+	<li><a href="settings_codeinsight_scripts.php">Dynamiczne podpowiedzi w skryptach</a> - ustawienia związane z dynamicznymi podpowiedziami i listami dostępnymi dla języków skryptowych.
+	<li><a href="settings_codeinsight_additional.php">Dodatkowe ułatwienia</a> - liczne dodatkowe ustawienia pozwalające na jeszcze wygodniejszą pracę z programem.
+	<li><a href="settings_codeinsight_css.php">Dynamiczne podpowiedzi w CSS i inne narzędzia</a> - opcje związane ze sposobem działania funkcji dynamicznych podpowiedzi dla CSS, opcje uzupełniania znaczników, ustawienia narzędzia weryfikacji składni oraz nawigatorów dokumentów.
+	<li><a href="settings_codeinsight_formatter.php">Formatowanie kodu źródłowego</a> - ustawienia związane z formatowaniem dokumentów znacznikowych, CSS czy PHP lub JavaScript.
 </ul>
 
 <p>
@@ -104,9 +104,9 @@ Dostępne są następujące grupy ustawień w ramach tego okna:
 <h4>Pokrewne tematy</h4>
 <ul>
 	<li><a href="settings.html#settingslist">Główne ustawienia</a>
-	<li><a href="main_editor_codeinsight.html">Dynamiczny kod</a>
-	<li><a href="formatter_general.html">Korzystanie z formatowania</a>
-	<li><a href="down_syntax_check.html">Sprawdzanie składni</a>
+	<li><a href="main_editor_codeinsight.php">Dynamiczny kod</a>
+	<li><a href="formatter_general.php">Korzystanie z formatowania</a>
+	<li><a href="down_syntax_check.php">Sprawdzanie składni</a>
 </ul>
 </td>
 </tr>

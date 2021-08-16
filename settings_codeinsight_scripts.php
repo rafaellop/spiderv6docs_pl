@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -124,7 +124,7 @@ Jeśli natomiast będziesz chciał użyć w konstrukcji znaku procenta, wstaw go
 
 <h2>Edytor plików definicyjnych dla języków skryptowych</h2>
 
-<p>Korzystając z przycisku znajdującego się w tej grupie włączysz narzędzie <a href="tagdata_editor_tdf_scripts.html">edytora pliku definicyjnego dla skryptów</a>, które pozwala na tworzenie definicji dla nowych elementów języków skryptowych jak również modyfikację definicji już zdefiniowanych elementów skryptowych.
+<p>Korzystając z przycisku znajdującego się w tej grupie włączysz narzędzie <a href="tagdata_editor_tdf_scripts.php">edytora pliku definicyjnego dla skryptów</a>, które pozwala na tworzenie definicji dla nowych elementów języków skryptowych jak również modyfikację definicji już zdefiniowanych elementów skryptowych.
 
 </td>
 </tr>
@@ -137,9 +137,9 @@ Jeśli natomiast będziesz chciał użyć w konstrukcji znaku procenta, wstaw go
 <h4>Pokrewne tematy</h4>
 <ul>
 	<li><a href="settings_codeinsight.html#settingslistcodeinsight">Inne ustawienia ułatwień</a>
-	<li><a href="main_editor_codeinsight.html">Dynamiczny kod</a>
-	<li><a href="coding_scripts_jsvb.html">Korzystanie ze skryptów w Pająku</a>
-	<li><a href="tagdata_editor_tdf_scripts.html">Edytor pliku definicyjnego dla skryptów</a>
+	<li><a href="main_editor_codeinsight.php">Dynamiczny kod</a>
+	<li><a href="coding_scripts_jsvb.php">Korzystanie ze skryptów w Pająku</a>
+	<li><a href="tagdata_editor_tdf_scripts.php">Edytor pliku definicyjnego dla skryptów</a>
 </ul>
 </td>
 </tr>

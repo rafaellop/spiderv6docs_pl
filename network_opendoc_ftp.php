@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -83,9 +83,9 @@
 
 <h2>Przygotowanie do pracy online</h2>
 
-Aby móc edytować dokumenty online, trzeba skonfigurować połączenie ze zdalnym serwerem w zakładce <a href="main_tabs_myftpservers.html">Moje serwery</a>. Jeśli masz dla danego serwera ustawione <a href="settings_network_ftpservers_add.html">Właściwości serwera</a>, to aby otwierać i zapisywać zmiany w zdalnych dokumentach, nie musisz w nim nic zmieniać. 
+Aby móc edytować dokumenty online, trzeba skonfigurować połączenie ze zdalnym serwerem w zakładce <a href="main_tabs_myftpservers.php">Moje serwery</a>. Jeśli masz dla danego serwera ustawione <a href="settings_network_ftpservers_add.php">Właściwości serwera</a>, to aby otwierać i zapisywać zmiany w zdalnych dokumentach, nie musisz w nim nic zmieniać. 
 
-<p>Aby móc przeglądać dokument umieszczony na serwerze za pomocą protokołu FTP, należy ustawić <a href="settings_network_ftpservers_add_map.html">mapowanie ścieżki na serwerze FTP na adres URL</a>. Mapowanie to określa adres URL, jaki należy użyć w celu przeglądania edytowanego pliku.</p>
+<p>Aby móc przeglądać dokument umieszczony na serwerze za pomocą protokołu FTP, należy ustawić <a href="settings_network_ftpservers_add_map.php">mapowanie ścieżki na serwerze FTP na adres URL</a>. Mapowanie to określa adres URL, jaki należy użyć w celu przeglądania edytowanego pliku.</p>
 
 <p>Z uwagi na fakt, iż  WebDAV jest rozszerzeniem protokołu HTTP, w przypadku korzystania z tego protokołu nie jest wymagane ustawiane żadnego mapowania. Po prostu adres serwera WebDAV jest jednocześnie adresem, pod którym dostępny jest dany dokument.</p>
 
@@ -93,7 +93,7 @@ Aby móc edytować dokumenty online, trzeba skonfigurować połączenie ze zdaln
 
 <h2>Edycja pliku online</h2>
 
-<p>Po ustawieniu wszystkich opcji możesz edytować pliki na serwerze za pomocą zakładki <a href="main_tabs_myftpservers.html">Moje serwery</a> podobnie jak pliki z dysku lokalnego za pomocą zakładki <a href="main_tabs_myservices.html">Moje serwisy</a>. Aby otworzyć plik skorzystaj z polecenia w pasku narzędzi z prawej strony zakładki.  Dalsza edycja, zapis itd. przebiega identycznie, jak w wypadku edycji pliku lokalnego.</p>
+<p>Po ustawieniu wszystkich opcji możesz edytować pliki na serwerze za pomocą zakładki <a href="main_tabs_myftpservers.php">Moje serwery</a> podobnie jak pliki z dysku lokalnego za pomocą zakładki <a href="main_tabs_myservices.php">Moje serwisy</a>. Aby otworzyć plik skorzystaj z polecenia w pasku narzędzi z prawej strony zakładki.  Dalsza edycja, zapis itd. przebiega identycznie, jak w wypadku edycji pliku lokalnego.</p>
 
 Pliki otwarte online oznaczone są, dla odróżnienia od plików otwartych lokalnie, kulką z niebieską strzałką:
 
@@ -105,14 +105,14 @@ Pliki otwarte online oznaczone są, dla odróżnienia od plików otwartych lokal
 <p>Dodatkowo na pasku tytułowym programu wyświetlana jest 'Przyjazna nazwa' serwera, z którego otwarto dokument.</p>
 
 <p><b>Edycja pliku zablokowanego</b><br />
-Jeśli spróbujesz otworzyć do edycji plik <a href="main_tabs_myftpservers_lockfile.html">zablokowany</a> przez innego użytkownika, wyświetlony zostanie odpowiedni komunikat. Taki plik nie może zostać zapisany bez uprzedniego usunięcia blokady. Zabezpiecza to przed napisaniem zmian, podczas gdy dany plik jest edytowany przez innego użytkownika.</p>
+Jeśli spróbujesz otworzyć do edycji plik <a href="main_tabs_myftpservers_lockfile.php">zablokowany</a> przez innego użytkownika, wyświetlony zostanie odpowiedni komunikat. Taki plik nie może zostać zapisany bez uprzedniego usunięcia blokady. Zabezpiecza to przed napisaniem zmian, podczas gdy dany plik jest edytowany przez innego użytkownika.</p>
 
 <p><b>Ostrzeżenie przed nadpisaniem pliku otwartego zdalnie</b><br>
 Włącz tę opcję, aby Pająk ostrzegał przed próba napisania pliku na serwerze FTP lub WebDAV, który jednocześnie masz otwarty zdalnie do edycji w Pająku.
 
 
 <h2>Wstawianie odnośników</h2>
-<p>Edytując plik zdalny możesz wstawiać do niego odnośniki. W celu ułatwienia wstawiania odnośników do plików serwisu, w którym edytowany plik się znajduje, stworzony został mechanizm pozwalający na wybieranie pliku z lokalnego serwisu. Mechanizm ten korzysta z ustawień <a href="service_tool_synchronization.html">mapowania dla synchronizacji serwisu</a>. </p>
+<p>Edytując plik zdalny możesz wstawiać do niego odnośniki. W celu ułatwienia wstawiania odnośników do plików serwisu, w którym edytowany plik się znajduje, stworzony został mechanizm pozwalający na wybieranie pliku z lokalnego serwisu. Mechanizm ten korzysta z ustawień <a href="service_tool_synchronization.php">mapowania dla synchronizacji serwisu</a>. </p>
 
 <p>Mechanizm działa w ten sposób, że sprawdza położenie pliku edytowanego zdalnie na serwerze i położenie pliku, do którego wstawiany jest odnośnik w serwisie lokalnym. Następnie, wykorzystując mapowanie synchronizacji, ustala względną ścieżkę do tego pliku na serwerze i wstawia ją do dokumentu.</p>
 
@@ -130,10 +130,10 @@ Włącz tę opcję, aby Pająk ostrzegał przed próba napisania pliku na serwer
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="network_publishing_general.html">Publikowanie w Pająku</a>
-	<li><a href="settings_network_ftpservers_add_map.html">Mapowanie ścieżki na serwerze FTP na adres URL</a>
-	<li><a href="main_tabs_myftpservers.html">Zakładka Moje serwery</a>
-	<li><a href="tool_open_remote.html">Narzędzia - Otwarcie strony z Sieci</a>
+	<li><a href="network_publishing_general.php">Publikowanie w Pająku</a>
+	<li><a href="settings_network_ftpservers_add_map.php">Mapowanie ścieżki na serwerze FTP na adres URL</a>
+	<li><a href="main_tabs_myftpservers.php">Zakładka Moje serwery</a>
+	<li><a href="tool_open_remote.php">Narzędzia - Otwarcie strony z Sieci</a>
 </ul>
 </td>
 </tr>

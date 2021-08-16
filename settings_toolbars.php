@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -82,10 +82,10 @@ Dostępne są następujące grupy ustawień w ramach tego okna:
 
 <ul>
 	<a name="settingslisttoolbars"></a>
-	<li><a href="settings_toolbars_look.html">Wygląd pasków i menu</a> - ustawienia związane z wyglądem głównego okna programu.
-	<li><a href="settings_toolbars_toolbars.html">Konfiguracja pasków</a> - narzędzia związane z określaniem zawartości pasków narzędzi.
-	<li><a href="settings_toolbars_hotkeys.html">Skróty klawiszowe</a> - narzędzia pozwalające na modyfikację skrótów klawiszowych oferowanych w programie.
-   <li><a href="settings_datetime_templates.html">Szablony daty i czasu</a> - pozwala na edycję szablonów służacych do umieszczania w treści dokumentów dowolnej daty i czasu w dowolnych formatach za pomocą polecenia <b>Godzina / data</b> z <a href="main_menu_edit.html">Menu Edycja</a>. Dodatkowo znajduje się tam polecenie otwierające <a href="settings_datetime_templates.html">okno umożliwiające edycję tych szablonów</a>.
+	<li><a href="settings_toolbars_look.php">Wygląd pasków i menu</a> - ustawienia związane z wyglądem głównego okna programu.
+	<li><a href="settings_toolbars_toolbars.php">Konfiguracja pasków</a> - narzędzia związane z określaniem zawartości pasków narzędzi.
+	<li><a href="settings_toolbars_hotkeys.php">Skróty klawiszowe</a> - narzędzia pozwalające na modyfikację skrótów klawiszowych oferowanych w programie.
+   <li><a href="settings_datetime_templates.php">Szablony daty i czasu</a> - pozwala na edycję szablonów służacych do umieszczania w treści dokumentów dowolnej daty i czasu w dowolnych formatach za pomocą polecenia <b>Godzina / data</b> z <a href="main_menu_edit.php">Menu Edycja</a>. Dodatkowo znajduje się tam polecenie otwierające <a href="settings_datetime_templates.php">okno umożliwiające edycję tych szablonów</a>.
 </ul>
 
 <p>
@@ -102,7 +102,7 @@ Dostępne są następujące grupy ustawień w ramach tego okna:
 <h4>Pokrewne tematy</h4>
 <ul>
 	<li><a href="settings.html#settingslist">Główne ustawienia</a>
-	<li><a href="toolbars_general.html">Paski narzędzi</a>
+	<li><a href="toolbars_general.php">Paski narzędzi</a>
 
 </ul>
 </td>

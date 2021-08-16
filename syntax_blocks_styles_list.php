@@ -28,23 +28,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -103,7 +103,7 @@ Po wybraniu pliku otworzy się okienko 'Import bloku z&nbsp;innego  schematu'. J
 
 
 <h2>Style</h2>
-<p>Style określają sposób kolorowania i&nbsp;formatowania tekstu. Są one wykorzystywane w&nbsp;ustawieniach kolorowania dla poszczególnych <a href="syntax_identifiers.html">identyfikatorów</a>, <a href="syntax_keywords.html">słów kluczowych</a> itp. Możliwe jest wybranie koloru czcionki i tła, a także ustawienie stylu tekstu (pogrubiony, pochylony itp.)</p>
+<p>Style określają sposób kolorowania i&nbsp;formatowania tekstu. Są one wykorzystywane w&nbsp;ustawieniach kolorowania dla poszczególnych <a href="syntax_identifiers.php">identyfikatorów</a>, <a href="syntax_keywords.php">słów kluczowych</a> itp. Możliwe jest wybranie koloru czcionki i tła, a także ustawienie stylu tekstu (pogrubiony, pochylony itp.)</p>
 
 <p><b>Dodaj styl</b><br />
 Kliknij, aby utworzyć nowy styl.</p>
@@ -112,7 +112,7 @@ Kliknij, aby utworzyć nowy styl.</p>
 Kliknij, aby usunąć wybrany styl ze schematu kolorowania.</p>
 
 <b>Edytuj styl</b><br />
-Kliknij, aby edytować styl. Do edycji stylu służy okno '<a href="syntax_style_properties.html">Właściwości stylu</a>'
+Kliknij, aby edytować styl. Do edycji stylu służy okno '<a href="syntax_style_properties.php">Właściwości stylu</a>'
 
 
 
@@ -126,11 +126,11 @@ Kliknij, aby edytować styl. Do edycji stylu służy okno '<a href="syntax_style
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="syntax_editor.html">Edytor schematów kolorowania</a></li>
-	<li><a href="syntax_identifiers.html">Edytor schematów kolorowania - Identyfikatory</a></li>
-	<li><a href="syntax_keywords.html">Edytor schematów kolorowania - Słowa kluczowe</a></li><br />
-	<li><a href="syntax_style_properties.html">Edytor schematów kolorowania - Właściwości stylu</a></li>
-	<li><a href="syntax.html">Ogólnie o kolorowaniu składni w Pająku</a><li>
+	<li><a href="syntax_editor.php">Edytor schematów kolorowania</a></li>
+	<li><a href="syntax_identifiers.php">Edytor schematów kolorowania - Identyfikatory</a></li>
+	<li><a href="syntax_keywords.php">Edytor schematów kolorowania - Słowa kluczowe</a></li><br />
+	<li><a href="syntax_style_properties.php">Edytor schematów kolorowania - Właściwości stylu</a></li>
+	<li><a href="syntax.php">Ogólnie o kolorowaniu składni w Pająku</a><li>
 </ul>
 </td>
 </tr>

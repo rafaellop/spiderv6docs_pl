@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -74,7 +74,7 @@
 
 <!-- treść pomocy -->
 <p>
-W tej grupie ustawień znajdziesz opcje pozwalające na konfigurację narzędzia sprawdzania pisowni oraz <a href="down_syntax_check.html">weryfikacji składni</a>, które są wbudowane w Pająka. W tej kategorii znajdują się następujące grupy ustawień:
+W tej grupie ustawień znajdziesz opcje pozwalające na konfigurację narzędzia sprawdzania pisowni oraz <a href="down_syntax_check.php">weryfikacji składni</a>, które są wbudowane w Pająka. W tej kategorii znajdują się następujące grupy ustawień:
 
 <h2>Ignorowanie wyrazów jako poprawne</h2>
 
@@ -105,12 +105,12 @@ Zaznacz ten przełącznik, aby umożliwić wprowadzenie na listę par wyrazów (
 
 <a name="syntaxcheck"></a>
 <h2>Weryfikacja składni</h2>
-<p>Ta grupa ustawień odnosi się do funkcji <a href="down_syntax_check.html">weryfikacji składni</a> znaczników oraz arkuszy CSS, które są oferowane przez Pająka. Znajdziesz tutaj dwie zakładki:
+<p>Ta grupa ustawień odnosi się do funkcji <a href="down_syntax_check.php">weryfikacji składni</a> znaczników oraz arkuszy CSS, które są oferowane przez Pająka. Znajdziesz tutaj dwie zakładki:
 <ul>
 <li>Weryfikacja znacznikowych i ogólne</li>
 <li>Weryfikacja składni CSS</li>
 </ul>
-<p>Zakładki te zawierają opcje, których nazwy tłumaczą ich zastosowanie. Dodatkowo na każdej z zakładek znajdziesz narzędzie pozwalające na konfigurację funkcji sprawdzania poprawności kodu online z wykorzystaniem walidatorów udostępnianych przez W3C&reg;. Są to ustawienia <a href="settings_w3c_html.html">weryfikatora znaczników online</a> oraz <a href="settings_w3c_css.html">weryfikatora składni CSS online</a>.
+<p>Zakładki te zawierają opcje, których nazwy tłumaczą ich zastosowanie. Dodatkowo na każdej z zakładek znajdziesz narzędzie pozwalające na konfigurację funkcji sprawdzania poprawności kodu online z wykorzystaniem walidatorów udostępnianych przez W3C&reg;. Są to ustawienia <a href="settings_w3c_html.php">weryfikatora znaczników online</a> oraz <a href="settings_w3c_css.php">weryfikatora składni CSS online</a>.
 
 
 </td>
@@ -124,8 +124,8 @@ Zaznacz ten przełącznik, aby umożliwić wprowadzenie na listę par wyrazów (
 <h4>Pokrewne tematy</h4>
 <ul>
 	<li><a href="settings_editor.html#settingslisteditor">Inne ustawienia edytora</a>
-	<li><a href="spelling.html">Sprawdzanie pisowni</a>
-	<li><a href="down_syntax_check.html">Weryfikacja składni</a>
+	<li><a href="spelling.php">Sprawdzanie pisowni</a>
+	<li><a href="down_syntax_check.php">Weryfikacja składni</a>
 </ul>
 </td>
 </tr>

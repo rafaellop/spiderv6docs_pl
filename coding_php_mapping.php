@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -102,7 +102,7 @@
 
 
 <h2>Edycja plików online</h2>
-<p>Jeśli nie masz uruchomionego lokalnego serwera http, możesz edytować pliki bezpośrednio z serwera, otwierając plik z zakładki <a href="main_tabs_myftpservers.html">Moje serwery</a>. </p>
+<p>Jeśli nie masz uruchomionego lokalnego serwera http, możesz edytować pliki bezpośrednio z serwera, otwierając plik z zakładki <a href="main_tabs_myftpservers.php">Moje serwery</a>. </p>
 
 <p>Aby oglądać strony edytowane online, należy ustawić mapowanie ścieżki na serwerze na adres URL. Jest to konieczne, by Pająk wiedział pod jaki adres ma skierować żądanie wyświetlanie strony.</p>
 
@@ -116,7 +116,7 @@
 <p>Serwer udostępnia dokumenty ego serwisu pod adresem:<br />
 <tt>https://moja_nazwa.pl/</tt></p>
 
-<p>W takim wypadku należy w oknie <a href="settings_network_ftpservers_add.html">Właściwości serwera FTP</a> w zakładce Ustawienia mapowania utworzyć mapowanie:</p>
+<p>W takim wypadku należy w oknie <a href="settings_network_ftpservers_add.php">Właściwości serwera FTP</a> w zakładce Ustawienia mapowania utworzyć mapowanie:</p>
 
 <ul>
 	<li><b>Nazwa:</b> <tt>Dowolna nazwa mapowania</tt><br /></li>
@@ -136,9 +136,9 @@
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="coding_php.html">Wspomaganie dla PHP - ogólnie</a></li>
-	<li><a href="main_tabs_myftpservers.html">Zakładka "Moje serwery"</a>
-	<li><a href="network_opendoc_ftp.html">Edycja plików online</a>
+	<li><a href="coding_php.php">Wspomaganie dla PHP - ogólnie</a></li>
+	<li><a href="main_tabs_myftpservers.php">Zakładka "Moje serwery"</a>
+	<li><a href="network_opendoc_ftp.php">Edycja plików online</a>
 </ul>
 </td>
 </tr>

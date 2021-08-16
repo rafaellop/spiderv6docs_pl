@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -76,29 +76,29 @@
 
 <!-- Treść pomocy -->
 
-<p>Pasek zawiera szereg poleceń służących do szybkiej obsługi <a href="tool_htmlhelp_general.html">HTML Help</a>:</p>
+<p>Pasek zawiera szereg poleceń służących do szybkiej obsługi <a href="tool_htmlhelp_general.php">HTML Help</a>:</p>
 
 
-<p><b><a href="tool_htmlhelp_hhp_editor.html">Edytor projektu HTML Help</a></b><br />
+<p><b><a href="tool_htmlhelp_hhp_editor.php">Edytor projektu HTML Help</a></b><br />
 Kliknij, aby uruchomić edytor projektu HTML Help.
 
-<p><b><a href="tool_htmlhelp_hhc_editor.html">Edytor spisu treści HTML Help</a></b><br />
+<p><b><a href="tool_htmlhelp_hhc_editor.php">Edytor spisu treści HTML Help</a></b><br />
 Kliknij, aby uruchomić edytor spisu treści HTML Help.
 
-<p><b><a href="tool_htmlhelp_hhk_editor.html">Edytor indeksu HTML Help</a></b><br />
+<p><b><a href="tool_htmlhelp_hhk_editor.php">Edytor indeksu HTML Help</a></b><br />
 Kliknij, aby uruchomić edytor indeksu HTML Help.
 
-<p><b><a href="tool_htmlhelp_folder_to_chm.html">Kompilacja folderu do HTML Help</a></b><br />
+<p><b><a href="tool_htmlhelp_folder_to_chm.php">Kompilacja folderu do HTML Help</a></b><br />
 Kliknij, aby uruchomić narzędzie do szybkiej kompilacji wskazanego foldera do pliku HTML Help.
 
-<p><b><a href="tool_htmlhelp_hhp_compilation.html">Kompiluj dokument HTML Help</a></b><br />
+<p><b><a href="tool_htmlhelp_hhp_compilation.php">Kompiluj dokument HTML Help</a></b><br />
 Kliknij, aby skompilować projekt na podstawie przygotowanego wcześniej pliku ustawień projektu HTML Help.
 
 <p><b>Podgląd skompilowanego pliku HTML Help</b><br />
 Kliknij, aby obejrzeć skompilowany plik HTML Help, bądź raport z kompilacji.
 
 
-<p><b><a href="tool_htmlhelp_compiler_info.html">Informacja dla kompilatora</a></b><br />
+<p><b><a href="tool_htmlhelp_compiler_info.php">Informacja dla kompilatora</a></b><br />
 Kliknij, aby otworzyć okienko służące do przekazywania do kompilatora dodatkowe słowa kluczowe.
 
 <p><b>Uruchomienie programu MS HTML Help Workshop</b><br />
@@ -117,9 +117,9 @@ Kliknij, aby uruchomić program MS HTML Help Workshop, z którego korzysta Pają
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-        <li><a href="tool_htmlhelp_general.html">HTML Help - ogólne informacje</a>
-        <li><a href="tool_htmlhelp_compiler_services.html">HTML Help a serwisy</a></li>
-        <li><a href="settings_toolbars.html">Ustawienia programu - Ustawienia pasków, menu i skrótów</a>
+        <li><a href="tool_htmlhelp_general.php">HTML Help - ogólne informacje</a>
+        <li><a href="tool_htmlhelp_compiler_services.php">HTML Help a serwisy</a></li>
+        <li><a href="settings_toolbars.php">Ustawienia programu - Ustawienia pasków, menu i skrótów</a>
 </td>
 </tr>
 </table>

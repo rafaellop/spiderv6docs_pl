@@ -28,23 +28,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -75,16 +75,16 @@
 
 <!-- treść pomocy -->
 
-<p>Okno otwiera się po wykonaniu w Pająku funkcji <a href="find_ext.html">rozszerzonego wyszukiwania</a> (gdy znaleziono ciągi znaków pasujące do wzorca), wywołaniu polecenia wyszukiwania plików lub folderów lub <a href="spelling.html">sprawdzania pisowni</a> (gdy znaleziono błędy), a także po skorzystaniu z polecenia <a href="find.html#filesearchinfo">Wyszukiwanie plików we wskazanym folderze</a>. Listę elementów można sortować klikając na nagłówku każdej z kolumn. W przypadku nieznalezienia słów przez funkcję wyszukiwania, lub braku błędów przy sprawdzaniu pisowni, okno nie zostanie wyświetlone.</p>
+<p>Okno otwiera się po wykonaniu w Pająku funkcji <a href="find_ext.php">rozszerzonego wyszukiwania</a> (gdy znaleziono ciągi znaków pasujące do wzorca), wywołaniu polecenia wyszukiwania plików lub folderów lub <a href="spelling.php">sprawdzania pisowni</a> (gdy znaleziono błędy), a także po skorzystaniu z polecenia <a href="find.html#filesearchinfo">Wyszukiwanie plików we wskazanym folderze</a>. Listę elementów można sortować klikając na nagłówku każdej z kolumn. W przypadku nieznalezienia słów przez funkcję wyszukiwania, lub braku błędów przy sprawdzaniu pisowni, okno nie zostanie wyświetlone.</p>
 
 <h2>Raport rozszerzonego wyszukiwania i sprawdzania pisowni</h2>
 
-<p>Aby wyświetlić w edytorze plik z odnalezionym słowem, wystarczy dwukliknąc na danej linii raportu. Dodatkowo istnieje możliwość przeciągania plików z raportu wyszukiwania do zakładki <a href="main_tabs_myftpservers.html">Moje serwery</a> w celu szybkiego ich opublikowania.</p>
+<p>Aby wyświetlić w edytorze plik z odnalezionym słowem, wystarczy dwukliknąc na danej linii raportu. Dodatkowo istnieje możliwość przeciągania plików z raportu wyszukiwania do zakładki <a href="main_tabs_myftpservers.php">Moje serwery</a> w celu szybkiego ich opublikowania.</p>
 
 <p>Do obsługi wyników w oknie służy menu po prawej stronie:</p>
 
 <p><b>Rozszerzone wyszukiwanie i zamiana</b><br />
-Kliknij, aby ponownie otworzyć okno <a href="find_ext.html">rozszerzonego wyszukiwania i zamiany</a>. W oknie tym, oprócz opcji wyszukiwania i zamiany tekstu, dostępne są również opcje zmiany kodowania znaków i sprawdzania pisowni.</p>
+Kliknij, aby ponownie otworzyć okno <a href="find_ext.php">rozszerzonego wyszukiwania i zamiany</a>. W oknie tym, oprócz opcji wyszukiwania i zamiany tekstu, dostępne są również opcje zmiany kodowania znaków i sprawdzania pisowni.</p>
 
 <p><b>Powtórz rozszerzone przeszukiwanie korzystające z tych samych ustawień</b><br />
 Kliknij, aby ponownie uruchomić funkcję rozszerzonego wyszukiwania, bądź sprawdzania pisowni, korzystając z tych samych ustawień, dla których funkcja ta była uruchomiona poprzednio. Funkcja nie działa w przypadku, gdy ostatnią czynnością w oknie "Rozszerzone wyszukiwanie i zamiana" była zmiana kodowania znaków.</p>
@@ -129,11 +129,11 @@ Więcej na ten temat znajdziesz w <a href="find.html#filesearchinfo">temacie pom
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-   <li><a href="find_ext.html">Rozszerzone wyszukiwanie i zamiana</a></li>
-   <li><a href="spelling.html">Sprawdzanie pisowni</a></li>
-   <li><a href="charset_encoding.html">Zmiana kodowania znaków</a></li>
+   <li><a href="find_ext.php">Rozszerzone wyszukiwanie i zamiana</a></li>
+   <li><a href="spelling.php">Sprawdzanie pisowni</a></li>
+   <li><a href="charset_encoding.php">Zmiana kodowania znaków</a></li>
    <li><a href="down_panel.html#downpanellist">Inne zakładki dolnego panelu wyników</a></li>
-   <li><a href="main_window_desc.html">Główne okno programu</a></li>
+   <li><a href="main_window_desc.php">Główne okno programu</a></li>
 </ul>
 </td>
 </tr>

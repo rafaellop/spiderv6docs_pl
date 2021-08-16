@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -78,7 +78,7 @@
 
 <h2>Przeglądanie plików</h2>
 
-<p>Aby wykonać podgląd wybranego pliku wybierz go na liście plików zakładki <a href="main_tabs_myservices.html">Moje serwisy</a>, a następnie użyj polecenia Szybki podgląd. Otworzy się okienko, a w nim zobaczysz podgląd wybranego pliku. Na Szybkim podglądzie możesz przeglądać pliki dokumentów HTML zarówno jako kod źródłowy jak i podgląd w przeglądarce, arkusze stylów CSS (Pająk generuje i wyświetla dokument HTML pozwalający na podgląd formatowana), pliki graficzne (GIF, JPG, PNG), pliki tekstowe (txt, css), animacje AVI i SWF (Flash), dźwięki WAV i muzykę MID. 
+<p>Aby wykonać podgląd wybranego pliku wybierz go na liście plików zakładki <a href="main_tabs_myservices.php">Moje serwisy</a>, a następnie użyj polecenia Szybki podgląd. Otworzy się okienko, a w nim zobaczysz podgląd wybranego pliku. Na Szybkim podglądzie możesz przeglądać pliki dokumentów HTML zarówno jako kod źródłowy jak i podgląd w przeglądarce, arkusze stylów CSS (Pająk generuje i wyświetla dokument HTML pozwalający na podgląd formatowana), pliki graficzne (GIF, JPG, PNG), pliki tekstowe (txt, css), animacje AVI i SWF (Flash), dźwięki WAV i muzykę MID. 
 
 <h2>Układ okienka</h2>
 
@@ -101,7 +101,7 @@ Na pasku przycisków znajdziesz polecenia pozwalające zarówno na nawigację po
 		<li>dla plików AVI oraz WAV wyświetlany jest panel pozwalający na odtwarzanie tych plików multimedialnych,
 	</ul>
 	<li><b>Otwarcie dokumentu</b> - dla dokumentów HTML pozwala na szybkie otwarcie do edycji.
-	<li><b>Informacje o dokumencie</b> - dla dokumentów HTML pozwala na zapoznanie się ze szczegółowymi <a href="tool_docinfo.html">informacji o dokumencie</a>.
+	<li><b>Informacje o dokumencie</b> - dla dokumentów HTML pozwala na zapoznanie się ze szczegółowymi <a href="tool_docinfo.php">informacji o dokumencie</a>.
 	<li><b>Zawijanie wierszy</b> - włączenie zawijania wierszy dla podglądu kodu źródłowego dokumentów.
 </ul>
 
@@ -120,8 +120,8 @@ Obszar podglądu po prostu pełni funkcję miejsca, w którym wyświetlane są p
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="main_tabs_myservices.html">Zakładka Moje serwisy</a></a>
-	<li><a href="main_preview_general.html">Przeglądanie w Pająku</a></a>
+	<li><a href="main_tabs_myservices.php">Zakładka Moje serwisy</a></a>
+	<li><a href="main_preview_general.php">Przeglądanie w Pająku</a></a>
 </ul>
 </td>
 </tr>

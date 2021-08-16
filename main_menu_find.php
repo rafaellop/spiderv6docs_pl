@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -86,14 +86,14 @@ Znajduje w aktualnym dokumencie kolejne wystąpienie tekstu szukanego wcześniej
 Uruchamia narzędzie do zamiany tekstu w aktualnie otwartym dokumencie . Standardowy skrót klawiszowy Ctrl+R.</p>
 
 <p><a href="find_text.html#goto"> Idź do</a> <br />
-Uruchamia narzędzie umożliwiające szybkie przenoszenie się do wybranego fragmentu dokumentu. Standardowy skrót klawiszowy Ctrl+G. Jednocześnie do tego polecenia przypisane jest podmenu pozwalające na przemieszczanie się w dokumencie pomiędzy znacznikami, selektorami, nawiasami, a także zakładkami numerycznymi i tekstowymi. Opis wszystkich tych poleceń znajdziesz w temacie pomocy do <a href="main_menu_tools_navigation.html">Menu Narzędzia / Nawigacja po dokumencie</a></p>
+Uruchamia narzędzie umożliwiające szybkie przenoszenie się do wybranego fragmentu dokumentu. Standardowy skrót klawiszowy Ctrl+G. Jednocześnie do tego polecenia przypisane jest podmenu pozwalające na przemieszczanie się w dokumencie pomiędzy znacznikami, selektorami, nawiasami, a także zakładkami numerycznymi i tekstowymi. Opis wszystkich tych poleceń znajdziesz w temacie pomocy do <a href="main_menu_tools_navigation.php">Menu Narzędzia / Nawigacja po dokumencie</a></p>
 
 
-<p><a href="find_ext.html"> Rozszerzone wyszukiwanie + konwerter znaków</a><br />
+<p><a href="find_ext.php"> Rozszerzone wyszukiwanie + konwerter znaków</a><br />
 Uruchamia najbardziej rozbudowane narzędzie Pająka służące do wyszukiwania i zamiany. Wykorzystując "Rozszerzone wyszukiwanie i zamianę" możesz wyszukiwać i zamieniać tekst w aktualnym dokumencie, wszystkich otwartych, we wszystkich lub określonych dokumentach Serwisów lub wybranych folderów, zmieniać w nich kodowanie znaków, a także sprawdzać poprawność pisowni itd.</p>
 
 <p><a href="find.html#filesearchinfo"> Wyszukiwanie plików i katalogów</a><br />
-Wyświetla okno wyszukiwania plików i katalogów na <a href="down_find_report.html">dolnym panelu programu</a>.</p>
+Wyświetla okno wyszukiwania plików i katalogów na <a href="down_find_report.php">dolnym panelu programu</a>.</p>
 
 
 </td>
@@ -106,12 +106,12 @@ Wyświetla okno wyszukiwania plików i katalogów na <a href="down_find_report.h
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="find.html">Wyszukiwanie w Pająku</a>
-	<li><a href="find_text.html">Wyszukiwanie, zamiana, przenoszenie do wybranych elementów dokumentu</a>
-	<li><a href="down_find_report.html">Okno "Raport wyszukiwania"</a>
-	<li><a href="find_regexp.html">Wyszukiwanie - wyrażenia regularne</a>
-	<li><a href="main_menu_main.html">Pozostałe główne menu programu</a>
-	<li><a href="main_window_desc.html">Główne okno programu</a>
+	<li><a href="find.php">Wyszukiwanie w Pająku</a>
+	<li><a href="find_text.php">Wyszukiwanie, zamiana, przenoszenie do wybranych elementów dokumentu</a>
+	<li><a href="down_find_report.php">Okno "Raport wyszukiwania"</a>
+	<li><a href="find_regexp.php">Wyszukiwanie - wyrażenia regularne</a>
+	<li><a href="main_menu_main.php">Pozostałe główne menu programu</a>
+	<li><a href="main_window_desc.php">Główne okno programu</a>
 </ul>
 </td>
 </tr>

@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -73,7 +73,7 @@
 <h1>Menu główne - Edycja/Zakładki w dokumencie</h1>
 
 <!-- Treść pomocy -->
-<p>Menu to pozwala poruszać się po dokumencie przy wykorzystaniu <a href="main_editor_bookmarks.html">zakładek</a> i innych elementów. Dostępne jest jako podmenu w menu głównym <a href="main_menu_edit.html">Edycja</a>, lub po kliknięciu na rynnę z prawej strony okna edytora.. Dostępne są następujące polecenia:</p>
+<p>Menu to pozwala poruszać się po dokumencie przy wykorzystaniu <a href="main_editor_bookmarks.php">zakładek</a> i innych elementów. Dostępne jest jako podmenu w menu głównym <a href="main_menu_edit.php">Edycja</a>, lub po kliknięciu na rynnę z prawej strony okna edytora.. Dostępne są następujące polecenia:</p>
 
 <p><b>Idź do zakładki</b><br />
 Kliknij, aby przejść do wybranej zakładki numerowanej.
@@ -108,7 +108,7 @@ Kliknij, aby wybrać linię, do której chcesz przejść(domyślny skrót <tt>Ct
 
 <hr>
 
-<p><b><a href="tool_docinfo_todo_add.html">Dodaj zadanie do wykonania</a></b><br />
+<p><b><a href="tool_docinfo_todo_add.php">Dodaj zadanie do wykonania</a></b><br />
 Kliknij, aby dodać zadanie do wykonania.
 
 <p><b><a href="tool_docinfo.html#todotasks">Zadania do wykonania</a></b><br />
@@ -125,9 +125,9 @@ Kliknij, aby otworzyć okno informacji o biężącym dokumencie i wyświetlić w
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="main_menu_edit.html">Menu Edycja</a>
-	<li><a href="main_editor_navigation.html">Nawigacja po dokumencie</a>
-	<li><a href="settings_toolbars.html">Ustawienia programu - Ustawienia pasków, menu i skrótów</a>
+	<li><a href="main_menu_edit.php">Menu Edycja</a>
+	<li><a href="main_editor_navigation.php">Nawigacja po dokumencie</a>
+	<li><a href="settings_toolbars.php">Ustawienia programu - Ustawienia pasków, menu i skrótów</a>
 </td>
 </tr>
 </table>

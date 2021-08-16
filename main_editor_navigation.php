@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -77,22 +77,22 @@
 <p>W celu ułatwienia orientacji i nawigacji po kodzie dokumentu Pająk dostarcza szereg różnych narzędzi. Są to:
 
 <ul>
-	<li><a href="main_tabs_navigator.html">Nawigatory dokumentów na Zakładce "Nawigator"</a></li>
-	<li><a href="main_editor_todotasks.html">Zadania do wykonania</a></li>
-	<li><a href="main_editor_bookmarks.html">Zakładki w dokumencie</a></li>
+	<li><a href="main_tabs_navigator.php">Nawigatory dokumentów na Zakładce "Nawigator"</a></li>
+	<li><a href="main_editor_todotasks.php">Zadania do wykonania</a></li>
+	<li><a href="main_editor_bookmarks.php">Zakładki w dokumencie</a></li>
 	<li><a href="find_text.html#goto">Narzędzie do przechodzenia do wybranych elementów dokumentu</a></li>
-	<li><a href="main_menu_tools_navigation.html">Polecenia nawigacji po znacznikach i dokumencie</a></li>
-	<li><a href="zen-coding.html">Obsługa biblioteki zen-coding z funkcjami nawigacyjnymi</a></li>
+	<li><a href="main_menu_tools_navigation.php">Polecenia nawigacji po znacznikach i dokumencie</a></li>
+	<li><a href="zen-coding.php">Obsługa biblioteki zen-coding z funkcjami nawigacyjnymi</a></li>
 </ul>
 
 <p>Ponadto często używane do wyszukiwania różnych miejsc w dokumencie są narzędzia
 
 <ul>
-	<li><a href="find_text.html">Wyszukiwanie, zamiana, przenoszenie</a></li>
-	<li><a href="find_ext.html">Rozszerzone wyszukiwanie i zamiana</a></li>
+	<li><a href="find_text.php">Wyszukiwanie, zamiana, przenoszenie</a></li>
+	<li><a href="find_ext.php">Rozszerzone wyszukiwanie i zamiana</a></li>
 </ul></p>
 
-<p>Ponadto edytor posiada kilka poleceń pomagających przenosić się do różnych fragmentów kodu, jak np. przenoszenie do następnego znacznika, przenoszenie do odpowiadającego nawiasu itp. Wszystkie te polecenia zostały ujęte w <a href="main_menu_main.html">Menu głównym</a> / <a href="main_menu_tools.html">Narzędzia</a> / <a href="main_menu_tools_navigation.html">Nawigacja po dokumencie</a> oraz obsługę nawigacji <a href="zen-coding.html">biblioteki zen-coding</a>.</p>
+<p>Ponadto edytor posiada kilka poleceń pomagających przenosić się do różnych fragmentów kodu, jak np. przenoszenie do następnego znacznika, przenoszenie do odpowiadającego nawiasu itp. Wszystkie te polecenia zostały ujęte w <a href="main_menu_main.php">Menu głównym</a> / <a href="main_menu_tools.php">Narzędzia</a> / <a href="main_menu_tools_navigation.php">Nawigacja po dokumencie</a> oraz obsługę nawigacji <a href="zen-coding.php">biblioteki zen-coding</a>.</p>
 
 
 </td>
@@ -105,12 +105,12 @@
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="main_tabs_navigator.html">Zakładka "Nawigator"</a>
+	<li><a href="main_tabs_navigator.php">Zakładka "Nawigator"</a>
 	<li><a href="tool_docinfo.html#bookmark">Zakładki w dokumencie</a>
-	<li><a href="main_editor_todotasks.html">Zadania do wykonania</a>
+	<li><a href="main_editor_todotasks.php">Zadania do wykonania</a>
 	<li><a href="find_text.html#goto">Wyszukiwanie, zamiana, przenoszenie</a>
-	<li><a href="main_menu_tools_navigation.html">Nawigacja po dokumencie</a></li>
-	<li><a href="zen-coding.html">Biblioteka zen-coding z funkcjami nawigacyjnymi</a></li>
+	<li><a href="main_menu_tools_navigation.php">Nawigacja po dokumencie</a></li>
+	<li><a href="zen-coding.php">Biblioteka zen-coding z funkcjami nawigacyjnymi</a></li>
 </ul>
 </td>
 </tr>

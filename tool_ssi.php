@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -75,7 +75,7 @@
 
 <p>Narzędzie to służy do wstawiania do dokumentu zaawansowanych znaczników SSI+ (Server Side Includes). Umożliwiają one najróżniejsze operacje - od sprawdzania daty ostatniej modyfikacji do obsługi dużych baz danych. Obsługa tych znaczników realizowana jest bezpośrednio na serwerze, jednak nie każdy serwer je obsługuje.
 
-<p>Aby uruchomić to narzędzie wejdź do <a href="main_menu_main.html">Menu głównego</a> / <a href="main_menu_tools.html">Narzędzia</a> / <a href="main_menu_tools_objects.html">Skrypty i obiekty</a> / Wstawianie SSI+. Opisywane narzędzie uruchomisz również z paska narzędzi <a href="toolbars_objects_scripts.html">Java, ActiveX, SSI i inne</a>.
+<p>Aby uruchomić to narzędzie wejdź do <a href="main_menu_main.php">Menu głównego</a> / <a href="main_menu_tools.php">Narzędzia</a> / <a href="main_menu_tools_objects.php">Skrypty i obiekty</a> / Wstawianie SSI+. Opisywane narzędzie uruchomisz również z paska narzędzi <a href="toolbars_objects_scripts.php">Java, ActiveX, SSI i inne</a>.
 
 <p>Po lewej stronie okna znajduje się lista dostępnych znaczników SSI. Po wybraniu któregoś z nich, po prawej stronie pojawiają się ewentualne dodatkowe parametry wybranego polecenia. Naciśnięcie przycisku "Wstaw" powoduje wstawienie wybranego znacznika w miejsce kursora, natomiast przycisk "Zamknij" zamyka okno.
 
@@ -91,9 +91,9 @@
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-        <li><a href="main_menu_tools_objects.html">Inne narzedzia z menu Skrypty i obiekty</a>
-        <li><a href="main_menu_main.html">Menu programu</a>
-        <li><a href="toolbars_general.html">Narzędzia na paskach</a>
+        <li><a href="main_menu_tools_objects.php">Inne narzedzia z menu Skrypty i obiekty</a>
+        <li><a href="main_menu_main.php">Menu programu</a>
+        <li><a href="toolbars_general.php">Narzędzia na paskach</a>
 </ul>
 </td>
 </tr>

@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -80,7 +80,7 @@
 
 <h2>Uruchamianie</h2>
 
-<p>Importer plików możesz za pomoca polecenia oznaczonego ikoną pokazaną powyżej znajdującego się w <a href="main_menu_main.html">Menu głównym</a> / <a href="main_menu_file.html">Plik</a> / Import plików, a także za pomocą menu podręcznego listy plików na zakładce <a href="main_tabs_myservices.html">Moje serwisy</a>. Narzędzie to można również znaleźć na <a href="toolbars_main.html">Głównym pasku narzędzi</a>.
+<p>Importer plików możesz za pomoca polecenia oznaczonego ikoną pokazaną powyżej znajdującego się w <a href="main_menu_main.php">Menu głównym</a> / <a href="main_menu_file.php">Plik</a> / Import plików, a także za pomocą menu podręcznego listy plików na zakładce <a href="main_tabs_myservices.php">Moje serwisy</a>. Narzędzie to można również znaleźć na <a href="toolbars_main.php">Głównym pasku narzędzi</a>.
 
 <h2>Wybór formatu importowanych dokumentów</h2>
 
@@ -132,7 +132,7 @@ Zaznacz ten przełącznik jeśli chcesz, aby umieszczone w tekście adresy URL (
 
 <p>Grupa <b>Styl dokumentu</b> pozwala na określenie stylów przypisywanych do wynikowego dokumentu HTML. Możesz wybrać przypisanie stylu bezpośredniego lub wskazać arkusz stylów, który będzie używany. 
 
-<p>W przypadku wybrania opcji <b>Przypisz styl</b> masz dostęp do dwóch pól edycyjnych, w których możesz określić styl dla tekstu oraz styl dla odsyłaczy. W obu przypadkach edycja stylu odbywa się za pomocą okienka <a href="tool_style_editor.html">edytora stylów</a>.
+<p>W przypadku wybrania opcji <b>Przypisz styl</b> masz dostęp do dwóch pól edycyjnych, w których możesz określić styl dla tekstu oraz styl dla odsyłaczy. W obu przypadkach edycja stylu odbywa się za pomocą okienka <a href="tool_style_editor.php">edytora stylów</a>.
 
 <p>Jeśli wybierzesz opcję <b>Wybierz arkusz stylu</b> będziesz mógł wskazać na dysku arkusz stylu, który chcesz wykorzystać w wynikowych plikach HTML. Dodatkowo możesz zaznaczyć opcję <b>Kopiuj arkusz razem z dokumentem</b> jeśli chcesz, aby wskazany niżej arkusz stylów został skopiowany wraz z wynikowym dokumentem. Jeśli nie zaznaczysz tego przełącznika, wybrany arkusz stylu zostanie włączony do treści dokumentu.
 
@@ -163,7 +163,7 @@ Zaznacz ten przełącznik jeśli chcesz, aby umieszczone w tekście adresy URL (
 <p><b>Zamień adresy URL na klikalne odsyłacze</b><br>
 Zaznacz ten przełącznik jeśli chcesz, aby umieszczone w tekście adresy URL (np. stron WWW czy adresy email) zostały zamienione na odsyłacze, które następnie będzie można klikać.
 
-<p>Druga grupa pozwala zdefiniować kolumnę i wiersz nagłówkowy, które będą specjalnie wyróżnione. Po prostu zaznacz odpowiednie przełączniki wskazujące, że pierwsza kolumna, czy wiersz są nagłówkami. W tej grupie znajdziesz również przycisk pozwalający na uruchomienie <a href="tool_table_tag.html">edytora znacznika <tt>&lt;TABLE&gt;</tt></a>, bowiem plik CSV po imporcie umieszczany jest w tabelce.
+<p>Druga grupa pozwala zdefiniować kolumnę i wiersz nagłówkowy, które będą specjalnie wyróżnione. Po prostu zaznacz odpowiednie przełączniki wskazujące, że pierwsza kolumna, czy wiersz są nagłówkami. W tej grupie znajdziesz również przycisk pozwalający na uruchomienie <a href="tool_table_tag.php">edytora znacznika <tt>&lt;TABLE&gt;</tt></a>, bowiem plik CSV po imporcie umieszczany jest w tabelce.
 
 <h2>Wybór domyślnego kodowania znaków narodowych</h2>
 
@@ -182,7 +182,7 @@ Zaznacz ten przełącznik jeśli chcesz, aby umieszczone w tekście adresy URL (
 
 <p>Grupa <b>Styl dokumentu</b> pozwala na określenie stylów przypisywanych do wynikowego dokumentu HTML. Możesz wybrać przypisanie stylu bezpośredniego lub wskazać arkusz stylów, który będzie używany. 
 
-<p>W przypadku wybrania opcji <b>Przypisz styl</b> masz dostęp do dwóch pól edycyjnych, w których możesz określić styl dla tekstu oraz styl dla odsyłaczy. W obu przypadkach edycja stylu odbywa się za pomocą okienka <a href="tool_style_editor.html">edytora stylów</a>.
+<p>W przypadku wybrania opcji <b>Przypisz styl</b> masz dostęp do dwóch pól edycyjnych, w których możesz określić styl dla tekstu oraz styl dla odsyłaczy. W obu przypadkach edycja stylu odbywa się za pomocą okienka <a href="tool_style_editor.php">edytora stylów</a>.
 
 <p>Jeśli wybierzesz opcję <b>Wybierz arkusz stylu</b> będziesz mógł wskazać na dysku arkusz stylu, który chcesz wykorzystać w wynikowych plikach HTML. Dodatkowo możesz zaznaczyć opcję <b>Kopiuj arkusz razem z dokumentem</b> jeśli chcesz, aby wskazany niżej arkusz stylów został skopiowany wraz z wynikowym dokumentem. Jeśli nie zaznaczysz tego przełącznika, wybrany arkusz stylu zostanie włączony do treści dokumentu.
 
@@ -303,8 +303,8 @@ Wybierając ten przełacznik będziesz miał możliwość wskazania pliku arkusz
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-        <li><a href="main_menu_main.html">Menu programu</a></a>
-        <li><a href="toolbars_general.html">Inne narzędzia na paskach</a></a>
+        <li><a href="main_menu_main.php">Menu programu</a></a>
+        <li><a href="toolbars_general.php">Inne narzędzia na paskach</a></a>
 </ul>
 </td>
 </tr>

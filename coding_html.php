@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -76,28 +76,28 @@
 
 <p>Większość narzędzi Pająka wspomaga tworzenie kodu HTML oraz jego następcy - XHTML (dalej, pisząc o HTML, mam na myśli oba te języki). Liczne kreatory kodu znaczników, narzędzia edycji znaczników itp. zostały zgrupowane w dwóch menu:</p>
 <ul>
-        <li>w <a href="main_menu_main.html"> Menu głównym</a> / <a href="main_menu_htmlcode.html">Kod HTML</a></li>
-        <li>w <a href="main_menu_main.html"> Menu głównym</a> / <a href="main_menu_tools.html">Narzędzia</a></li>
+        <li>w <a href="main_menu_main.php"> Menu głównym</a> / <a href="main_menu_htmlcode.php">Kod HTML</a></li>
+        <li>w <a href="main_menu_main.php"> Menu głównym</a> / <a href="main_menu_tools.php">Narzędzia</a></li>
 </ul>
 
 <p>oraz na paskach narzędzi:</p>
 <ul>
-        <li><a href="toolbars_often.html">Często używane</a></li>
-        <li><a href="toolbars_link_format.html">Odsyłacze, tekst i formatowanie</a></li>
-        <li><a href="toolbars_tables.html">Tabele i formularze</a></li>
-        <li><a href="toolbars_gfx.html">Grafika i multimedia</a></li>
-        <li><a href="toolbars_objects_scripts.html">Java, ActiveX, SSI i inne</a></li>
+        <li><a href="toolbars_often.php">Często używane</a></li>
+        <li><a href="toolbars_link_format.php">Odsyłacze, tekst i formatowanie</a></li>
+        <li><a href="toolbars_tables.php">Tabele i formularze</a></li>
+        <li><a href="toolbars_gfx.php">Grafika i multimedia</a></li>
+        <li><a href="toolbars_objects_scripts.php">Java, ActiveX, SSI i inne</a></li>
 </ul></p>
 
 <p>Ponadto podczas pracy nad dokumentem HTML bardzo pomocne są:</p>
 
 <ul>
         <li><a href="main_tabs_navigator.html#html">Nawigator znaczników</a></li>
-        <li><a href="coding_markuplangs_codeinsight.html">Dynamiczny kod</a></li>
+        <li><a href="coding_markuplangs_codeinsight.php">Dynamiczny kod</a></li>
         <li><a href="main_tabs_navigator.html#html_categorized">Skategoryzowany nawigator HTML</a></li>
-        <li><a href="coding_html_macrocodes.html">Makrokody zawierające szablony dokumentów itp.</a></li>
-        <li><a href="coding_html_help.html">Pomoc kontekstowa dla HTML na dolnym panelu</a></li>
- <li><a href="coding_markuplangs_formatting.html">Formatowanie kodu źródłowego języków znacznikowych</a></li>
+        <li><a href="coding_html_macrocodes.php">Makrokody zawierające szablony dokumentów itp.</a></li>
+        <li><a href="coding_html_help.php">Pomoc kontekstowa dla HTML na dolnym panelu</a></li>
+ <li><a href="coding_markuplangs_formatting.php">Formatowanie kodu źródłowego języków znacznikowych</a></li>
 </ul></p>
 
 
@@ -111,12 +111,12 @@
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-        <li><a href="syntax.html">Kolorowanie składni w Pająku</a>
-        <li><a href="main_editor_codeinsight.html">Dynamiczny kod</a></li>
-        <li><a href="main_tabs_navigator.html">Zakładka "Nawigator"</a></li>
-        <li><a href="main_tabs_macrocodes.html">Zakładka "Makrokody"</a></li>
-        <li><a href="settings_codeinsight.html">Ustawienia programu - Ułatwienia, dynamiczne atrybuty, inne</a>
-        <li><a href="formatter_general.html">Formatowanie kodu źródłowego</a> - <a href="formatter_markuplangs.html">Ustawienia dla języków znacznikowych</a>, <a href="formatter_tidy.html">ustawienia dla TIDY (r)</a></li>
+        <li><a href="syntax.php">Kolorowanie składni w Pająku</a>
+        <li><a href="main_editor_codeinsight.php">Dynamiczny kod</a></li>
+        <li><a href="main_tabs_navigator.php">Zakładka "Nawigator"</a></li>
+        <li><a href="main_tabs_macrocodes.php">Zakładka "Makrokody"</a></li>
+        <li><a href="settings_codeinsight.php">Ustawienia programu - Ułatwienia, dynamiczne atrybuty, inne</a>
+        <li><a href="formatter_general.php">Formatowanie kodu źródłowego</a> - <a href="formatter_markuplangs.php">Ustawienia dla języków znacznikowych</a>, <a href="formatter_tidy.php">ustawienia dla TIDY (r)</a></li>
 </ul>
 </td>
 </tr>

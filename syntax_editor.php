@@ -28,23 +28,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -86,23 +86,23 @@ Zmiany wprowadzone za pomocą edytora są nieodwracalne. Dlatego edytując schem
 
 <p>Okno edytora składa się następujących obszarów:</p>
 
-<p><a href="syntax_read_save.html">Wybór schematu</a><br />
+<p><a href="syntax_read_save.php">Wybór schematu</a><br />
 Pozwala na tworzenie, otwieranie i zapisywanie schematów kolorowania.</p>
 
-<p><a href="syntax_blocks_styles_list.html">Bloki składniowe, Style</a><br />
-Pozwala na tworzenie i modyfikacje ustawień bloków składniowych i stylów. Do edycji i tworzenia stylów służy okno '<a href="syntax_style_properties.html">Właściwości stylu</a>'.</p>
+<p><a href="syntax_blocks_styles_list.php">Bloki składniowe, Style</a><br />
+Pozwala na tworzenie i modyfikacje ustawień bloków składniowych i stylów. Do edycji i tworzenia stylów służy okno '<a href="syntax_style_properties.php">Właściwości stylu</a>'.</p>
 
 <p><b>Obszar ustawień</b>:
 <ul>
-	<li><a href="syntax_blocks.html">Bloki</a> - ogólne ustawienia dla bloku</li>
-	<li><a href="syntax_comments.html">Komentarz</a> - ustawienia rozpoznawania i kolorowania komentarzy</li>
-	<li><a href="syntax_strings.html">Ciągi znaków</a> - ustawienia dla ciągów znaków</li>
-	<li><a href="syntax_numbers.html">Liczby</a> - ustawienia kolorowania liczb</li>
-	<li><a href="syntax_identifiers.html">Identyfikatory</a> - ustawienia kolorowania identyfikatorów, definicje znaków dozwolonych w kolorowanych słowach kluczowych</li>
-	<li><a href="syntax_keywords.html">Słowa kluczowe</a> - zbiory słów kluczowych</li>
+	<li><a href="syntax_blocks.php">Bloki</a> - ogólne ustawienia dla bloku</li>
+	<li><a href="syntax_comments.php">Komentarz</a> - ustawienia rozpoznawania i kolorowania komentarzy</li>
+	<li><a href="syntax_strings.php">Ciągi znaków</a> - ustawienia dla ciągów znaków</li>
+	<li><a href="syntax_numbers.php">Liczby</a> - ustawienia kolorowania liczb</li>
+	<li><a href="syntax_identifiers.php">Identyfikatory</a> - ustawienia kolorowania identyfikatorów, definicje znaków dozwolonych w kolorowanych słowach kluczowych</li>
+	<li><a href="syntax_keywords.php">Słowa kluczowe</a> - zbiory słów kluczowych</li>
 </ul></p>
 
-<p><a href="syntax_preview.html">Podgląd schematu kolorowania</a><br />
+<p><a href="syntax_preview.php">Podgląd schematu kolorowania</a><br />
 Okno służące do wpisywania tekstu, w którym na bieżąco można śledzić zmiany w kolorowaniu składni wprowadzane w schemacie.</p>
 
  Standardowo okno to wywołuje się za pomocą skrótu klawiszowego Ctrl+Shift+F8, z menu Narzędzia za pomocą przycisku pokazanego obok, lub z poziomu okna 'Ustawienia programu'.</p>
@@ -117,9 +117,9 @@ Okno służące do wpisywania tekstu, w którym na bieżąco można śledzić zm
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="syntax_instruction.html">Jak utworzyć schemat kolorowania? Instrukcja krok po kroku.</a>
-	<li><a href="settings_editor_syntax.html">Ustawienia programu - Kolorowanie składni</a>
-	<li><a href="syntax.html">Ogólnie o kolorowaniu składni w Pająku</a></li>
+	<li><a href="syntax_instruction.php">Jak utworzyć schemat kolorowania? Instrukcja krok po kroku.</a>
+	<li><a href="settings_editor_syntax.php">Ustawienia programu - Kolorowanie składni</a>
+	<li><a href="syntax.php">Ogólnie o kolorowaniu składni w Pająku</a></li>
 </ul>
 </td>
 </tr>

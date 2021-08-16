@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -74,7 +74,7 @@
 
 <p>Paleta kolorów to narzędzie pozwalające na łatwe wybieranie i umieszczanie kolorów w dokumencie lub wybieranie kolorów w okienkach narzędziowych. Paleta pozwala również na tworzenie wielu różnych palet, z których korzystasz przy tworzeniu swojego serwisu.
 
-<p>Paletę kolorów można uruchomić na kilka sposobów. Przede wszystkim z mini-paska narzędzi znajdującego się obok edytora. Dodatkowo za pomocą skrótu klawiszowego Shift+Ctrl+C oraz z <a href="main_menu_main.html">Menu głównego</a> / <a href="main_menu_tools.html">Narzędzia</a> / <a href="main_menu_tools_other.html">Inne narzędzia</a> / Paleta kolorów. Jak już zostało wspomniane, okno palety jest również wyświetlane przy wyborze koloru w okienkach narzędziowych różnego rodzaju. We wszystkich przypadkach polecenie uruchamiające paletę kolorów oznaczone jest ikoną pokazaną powyżej
+<p>Paletę kolorów można uruchomić na kilka sposobów. Przede wszystkim z mini-paska narzędzi znajdującego się obok edytora. Dodatkowo za pomocą skrótu klawiszowego Shift+Ctrl+C oraz z <a href="main_menu_main.php">Menu głównego</a> / <a href="main_menu_tools.php">Narzędzia</a> / <a href="main_menu_tools_other.php">Inne narzędzia</a> / Paleta kolorów. Jak już zostało wspomniane, okno palety jest również wyświetlane przy wyborze koloru w okienkach narzędziowych różnego rodzaju. We wszystkich przypadkach polecenie uruchamiające paletę kolorów oznaczone jest ikoną pokazaną powyżej
 
 <p>Paletę po otwarciu przez menu główne lub przycisk na mini pasku narzędzi jest dokowalna w obrębie okna głównego. Można ją na przykład zadokować po prawej stronie ekranu i mieć cały czas na widoku.</p>
 
@@ -106,7 +106,7 @@
 	<li>Dodanie wybranego koloru do palety (siatki kolorów).
 	<li>Usunięcie koloru wybranego na siatce z palety.
 	<li>Zamiana wybranego na siatce koloru na kolor wybrany.
-	<li>Wybranie koloru z ekranu (pipeta) - za pomocą tego przycisku możesz wybrać kolor z dowolnego miejsca na ekranie. Myszką przesuwasz po ekranie, a w okienku palety widać kolor, który jest pod myszką. Aby zakończyć wybieranie wciskasz skrót klawiszowy ustawiony w oknie <a href="settings_general.html">ustawień ogólnych</a>.
+	<li>Wybranie koloru z ekranu (pipeta) - za pomocą tego przycisku możesz wybrać kolor z dowolnego miejsca na ekranie. Myszką przesuwasz po ekranie, a w okienku palety widać kolor, który jest pod myszką. Aby zakończyć wybieranie wciskasz skrót klawiszowy ustawiony w oknie <a href="settings_general.php">ustawień ogólnych</a>.
    <li>Wstawienie koloru do dokumentu lub narzędzia. Zaznaczenie dowolnego tekstu, gdy nie jest on kodem koloru (np. #0000ff lub red) w edytorze i wybranie polecenia "Wstawienie wybranego koloru" na dokowalnej palecie kolorów powoduje objęcie zaznaczonego tekstu kolorem (a dokładniej znacznikiem <tt>&lt;div&gt;</tt> z ustawieniem odpowiedniego koloru). Gdy zaznaczony tekst jest kodem koloru, jest on zamieniany na kolor wstawiany z palety kolorów.
 </ul>
 
@@ -120,9 +120,9 @@
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="settings_general.html">Ogólne ustawienia i przypisanie skrótu pipety</a>
-	<li><a href="main_menu_main.html">Menu programu</a></a>
-	<li><a href="toolbars_general.html">Inne narzędzia na paskach</</ul>
+	<li><a href="settings_general.php">Ogólne ustawienia i przypisanie skrótu pipety</a>
+	<li><a href="main_menu_main.php">Menu programu</a></a>
+	<li><a href="toolbars_general.php">Inne narzędzia na paskach</</ul>
 </td>
 </tr>
 </table>

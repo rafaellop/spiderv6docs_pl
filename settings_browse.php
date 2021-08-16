@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -114,11 +114,11 @@ Na tym pasku ustal czas nieaktywności, po którym odświeżony zostanie dynamic
 
 <h2>Wbudowana przeglądarka</h2>
 
-<p>W tej podgrupie możesz wybrać, której przeglądarki chcesz używać jako domyślnej do wyświetlania dokumentów w zakładce <a href="main_preview_embed.html">Przeglądanie</a>. Możesz wybrać MS Internet Explorera lub Mozillę.
+<p>W tej podgrupie możesz wybrać, której przeglądarki chcesz używać jako domyślnej do wyświetlania dokumentów w zakładce <a href="main_preview_embed.php">Przeglądanie</a>. Możesz wybrać MS Internet Explorera lub Mozillę.
 
 <h2>Przeglądarki zewnętrzne</h2>
 
-<p>Ta podgrupa składa się z listy i przycisków służących do zarządzania tą listą. Możesz na przykład chcieć korzystać z podglądu w zewnętrznych programach przeglądarek. Na tej liście możesz określić jakie przeglądarki chcesz udostępnić do podglądu zewnętrznego. Listę dostępnych przeglądarek możesz modyfikować za pomocą przycisków umieszczonych obok. Domyślna przeglądarka zewnętrzna oznaczana jest czerwoną ikoną i używana jest w przypadku wywołania domyślnego <a href="main_preview_external.html">podglądu zewnętrznego</a>.
+<p>Ta podgrupa składa się z listy i przycisków służących do zarządzania tą listą. Możesz na przykład chcieć korzystać z podglądu w zewnętrznych programach przeglądarek. Na tej liście możesz określić jakie przeglądarki chcesz udostępnić do podglądu zewnętrznego. Listę dostępnych przeglądarek możesz modyfikować za pomocą przycisków umieszczonych obok. Domyślna przeglądarka zewnętrzna oznaczana jest czerwoną ikoną i używana jest w przypadku wywołania domyślnego <a href="main_preview_external.php">podglądu zewnętrznego</a>.
 
 </td>
 </tr>
@@ -131,10 +131,10 @@ Na tym pasku ustal czas nieaktywności, po którym odświeżony zostanie dynamic
 <h4>Pokrewne tematy</h4>
 <ul>
 	<li><a href="settings.html#settingslist">Inne ustawienia</a>
-	<li><a href="main_preview_general.html">Przeglądanie dokumentów</a>
-	<li><a href="main_preview_dynamic.html">Korzystanie z funkcji dynamicznego podglądu</a>
-	<li><a href="main_preview_embed.html">Korzystanie z funkcji wbudowanego podglądu</a>
-	<li><a href="main_preview_external.html">Korzystanie z zewnętrznego podglądu</a>
+	<li><a href="main_preview_general.php">Przeglądanie dokumentów</a>
+	<li><a href="main_preview_dynamic.php">Korzystanie z funkcji dynamicznego podglądu</a>
+	<li><a href="main_preview_embed.php">Korzystanie z funkcji wbudowanego podglądu</a>
+	<li><a href="main_preview_external.php">Korzystanie z zewnętrznego podglądu</a>
 </ul>
 </td>
 </tr>

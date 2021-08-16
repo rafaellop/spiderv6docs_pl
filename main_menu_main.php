@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -76,27 +76,27 @@
 
 <p>Pająk posiada dziesięć pozycji w menu głównym. Układ poleceń w poszczególnych menu został specjalnie opracowany pod kątem ergonomii pracy. </p>
 
-<p>Niektóre pozycje w różnych menu powtarzają się, dzięki czemu łatwiej jest znaleźć narzędzia, w zależności od kontekstu, w jakim go szukasz. Np. niektóre narzędzia edycji znaczników umieszczone zostały zarówno w menu Kod HTML, jak i w menu Narzędzia. Dodatkowo te same polecenia możesz znaleźć na <a href="toolbars_general.html">paskach narzędzi</a>.</p>
+<p>Niektóre pozycje w różnych menu powtarzają się, dzięki czemu łatwiej jest znaleźć narzędzia, w zależności od kontekstu, w jakim go szukasz. Np. niektóre narzędzia edycji znaczników umieszczone zostały zarówno w menu Kod HTML, jak i w menu Narzędzia. Dodatkowo te same polecenia możesz znaleźć na <a href="toolbars_general.php">paskach narzędzi</a>.</p>
 
 <h2>Lista pozycji w menu głównym</h2>
 
 <ul>
-	<li><b><a href="main_menu_file.html">Plik</a></b> - menu służy do wykonywania podstawowych operacji na dokumentach i programie, jak otwieranie, zamykanie, zapis, bądź drukowanie.<br /><br /></li>
-	<li><b><a href="main_menu_services.html">Serwisy</a></b> - polecenia w tym menu służą do pracy z plikami i folderami znajdującymi się na dysku lokalnym. Za pomocą tego menu możesz również tworzyć <a href="services_general.html">serwisy</a> i przełączać się między nimi.<br /><br /></li>
-	<li><b><a href="main_menu_edit.html">Edycja</a></b> - menu zawiera polecenia przydatne podczas pracy z dokumentem.<br /><br /></li>
-	<li><b><a href="main_menu_find.html">Szukaj</a></b> - menu służy uruchamiania narzędzie do operacji wyszukiwania i zamiany tekstu w dokumentach otwartych w programie, a także zapisanych na dysku.<br /><br /></li>
-	<li><b><a href="main_menu_htmlcode.html">Kod HTML</a></b> - w tym menu znajdziesz polecenia służące do wstawiania wszelkich znaczników HTML.<br /><br /></li>
-	<li><b><a href="main_menu_htmlhelp.html">HTML Help</a></b> - menu zawiera szereg poleceń służących do szybkiej obsługi <a href="tool_htmlhelp_general.html">HTML Help</a>.<br /><br /></li>
-	<li><b><a href="main_menu_spelling.html">Pisownia</a></b> - polecenia w tym menu służą sprawdzania poprawności pisowni, kodowania znaków itp.<br /><br /></li>
-	<li><b><a href="main_menu_tools.html">Narzędzia</a></b> - menu zawiera szereg podmenu, w których umieszczone zostały różne narzędzia dostępne w Pająku.<br /><br /></li>
-	<li><b><a href="main_menu_view.html">Wyświetl</a></b> - za pomocą tego menu możesz wyświetlić różne elementy programu, jak np. poszczególne panele, okna ustawień itp.<br /><br /></li>
-	<li><b><a href="main_menu_help.html">Pomoc</a></b> - za pomocą tego menu masz dostęp do poleceń ułatwiających uzyskiwanie pomocy w zakresie używania programu i technologii internetowych.<br /><br /></li>
+	<li><b><a href="main_menu_file.php">Plik</a></b> - menu służy do wykonywania podstawowych operacji na dokumentach i programie, jak otwieranie, zamykanie, zapis, bądź drukowanie.<br /><br /></li>
+	<li><b><a href="main_menu_services.php">Serwisy</a></b> - polecenia w tym menu służą do pracy z plikami i folderami znajdującymi się na dysku lokalnym. Za pomocą tego menu możesz również tworzyć <a href="services_general.php">serwisy</a> i przełączać się między nimi.<br /><br /></li>
+	<li><b><a href="main_menu_edit.php">Edycja</a></b> - menu zawiera polecenia przydatne podczas pracy z dokumentem.<br /><br /></li>
+	<li><b><a href="main_menu_find.php">Szukaj</a></b> - menu służy uruchamiania narzędzie do operacji wyszukiwania i zamiany tekstu w dokumentach otwartych w programie, a także zapisanych na dysku.<br /><br /></li>
+	<li><b><a href="main_menu_htmlcode.php">Kod HTML</a></b> - w tym menu znajdziesz polecenia służące do wstawiania wszelkich znaczników HTML.<br /><br /></li>
+	<li><b><a href="main_menu_htmlhelp.php">HTML Help</a></b> - menu zawiera szereg poleceń służących do szybkiej obsługi <a href="tool_htmlhelp_general.php">HTML Help</a>.<br /><br /></li>
+	<li><b><a href="main_menu_spelling.php">Pisownia</a></b> - polecenia w tym menu służą sprawdzania poprawności pisowni, kodowania znaków itp.<br /><br /></li>
+	<li><b><a href="main_menu_tools.php">Narzędzia</a></b> - menu zawiera szereg podmenu, w których umieszczone zostały różne narzędzia dostępne w Pająku.<br /><br /></li>
+	<li><b><a href="main_menu_view.php">Wyświetl</a></b> - za pomocą tego menu możesz wyświetlić różne elementy programu, jak np. poszczególne panele, okna ustawień itp.<br /><br /></li>
+	<li><b><a href="main_menu_help.php">Pomoc</a></b> - za pomocą tego menu masz dostęp do poleceń ułatwiających uzyskiwanie pomocy w zakresie używania programu i technologii internetowych.<br /><br /></li>
 </ul>
 
 <h2>Dostosowywanie menu</h2>
 
 <p>
-Nie możesz zmienic układu menu, możesz jednak dostosować jego kolorystykę. W tym celu kliknij na menu prawym klawiszem myszki i wybierz polecenie <a href="settings_toolbars_look.html">Dostosuj paski, menu i skróty</a>.</p>
+Nie możesz zmienic układu menu, możesz jednak dostosować jego kolorystykę. W tym celu kliknij na menu prawym klawiszem myszki i wybierz polecenie <a href="settings_toolbars_look.php">Dostosuj paski, menu i skróty</a>.</p>
 
 </td>
 </tr>
@@ -108,8 +108,8 @@ Nie możesz zmienic układu menu, możesz jednak dostosować jego kolorystykę. 
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="toolbars_general.html">Paski narzędzi</a>
-	<li><a href="settings_toolbars.html">Ustawienia programu - Ustawienia pasków, menu i skrótów</a>
+	<li><a href="toolbars_general.php">Paski narzędzi</a>
+	<li><a href="settings_toolbars.php">Ustawienia programu - Ustawienia pasków, menu i skrótów</a>
 </td>
 </tr>
 </table>

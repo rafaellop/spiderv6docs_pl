@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -74,7 +74,7 @@
 
 <!-- treść pomocy -->
 
-<p>Okno <b>Zadania do wykonania</b> w serwisie służy do przeglądania i tworzenia <a href="main_editor_todotasks.html">zadań</a> zdefiniowanych dla poszczególnych dokumentów w bieżącym <a href="services_general.html">serwisie</a>, jak i dla całego <a href="services_general.html">serwisu</a>. Za jego pomocą możesz również otwierać dokumenty i przechodzić do linii, w których zdefiniowano zadanie. Aby wyświetlić to okno skorzystaj z polecenia <b>Lista zadań do wykonania</b> w menu <a href="main_menu_services_properties.html">Serwisy / Własności serwisu</a>.</p>
+<p>Okno <b>Zadania do wykonania</b> w serwisie służy do przeglądania i tworzenia <a href="main_editor_todotasks.php">zadań</a> zdefiniowanych dla poszczególnych dokumentów w bieżącym <a href="services_general.php">serwisie</a>, jak i dla całego <a href="services_general.php">serwisu</a>. Za jego pomocą możesz również otwierać dokumenty i przechodzić do linii, w których zdefiniowano zadanie. Aby wyświetlić to okno skorzystaj z polecenia <b>Lista zadań do wykonania</b> w menu <a href="main_menu_services_properties.php">Serwisy / Własności serwisu</a>.</p>
 
 <p>Zadania dla dokumentów i dla serwisu zostały umieszczone na dwóch osobnych zakładkach. Powyżej zakładek znajduje się pasek przycisków zawierający następujące polecenia: </p>
 
@@ -88,7 +88,7 @@ Kliknij, aby dodać nowe zadanie do listy. W zależności od aktywnej zakładki,
 Kliknij, aby usunąć zadanie wskazane na liście (tej operacji nie można cofnąć!).
 
 <p><b>Modyfikacja wybranego zadania</b><br />
-Kliknij, aby otworzyć okno służące do <a href="tool_docinfo_todo_add.html">tworzenia i edycji zadań</a> do wykonania. Jeśli dokument, dla którego chcesz zmodyfikować zadanie nie jest otwarty, zostanie wyświetlone pytanie, czy go otworzyć. 
+Kliknij, aby otworzyć okno służące do <a href="tool_docinfo_todo_add.php">tworzenia i edycji zadań</a> do wykonania. Jeśli dokument, dla którego chcesz zmodyfikować zadanie nie jest otwarty, zostanie wyświetlone pytanie, czy go otworzyć. 
 
 <p><b>Przejście do wybranego zadania</b><br />
 Kliknij, aby przejść do wybranego zadania do wykonania. Po otwarciu dokumentu zostanie wyświetlone pytanie, czy chcesz obejrzeć listę zadań dla tego dokumentu.
@@ -135,8 +135,8 @@ Wyświetla to okno pomocy.</p>
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="main_editor_todotasks.html">Zadania do wykonania - ogólnie</a>
-	<li><a href="services_general.html">Serwisy - ogólnie</a>
+	<li><a href="main_editor_todotasks.php">Zadania do wykonania - ogólnie</a>
+	<li><a href="services_general.php">Serwisy - ogólnie</a>
 </ul>
 </td>
 </tr>

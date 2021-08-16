@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -77,7 +77,7 @@
 
 
 
-<p>Zakładka "Przeglądanie" umieszczona jest w <a href="main_tabs_general.html#tabs_center">środkowym panelu</a>, którego nie możesz wyłączyć. Na tej zakładce możesz przeglądać aktualnie tworzony dokument. Umożliwia ona tez podgląd makrokodów, jeśli na <a href="main_tabs_macrocodes.html">zakładce Makrokody</a> została ustawiona taka opcja.</p>
+<p>Zakładka "Przeglądanie" umieszczona jest w <a href="main_tabs_general.html#tabs_center">środkowym panelu</a>, którego nie możesz wyłączyć. Na tej zakładce możesz przeglądać aktualnie tworzony dokument. Umożliwia ona tez podgląd makrokodów, jeśli na <a href="main_tabs_macrocodes.php">zakładce Makrokody</a> została ustawiona taka opcja.</p>
 
 <p>Ze względu na bardzo szybko zmieniająca się ofertę programową wielkich firm i coraz nowsze rozszerzenia wprowadzane przez nie do języka HTML, zdecydowano, że Pająk nie zostanie wyposażony we własny system podglądu tworzonej strony. Położono natomiast silny nacisk na ułatwienie pracy z dostępnymi na rynku przeglądarkami.
 </p>
@@ -144,11 +144,11 @@ Kliknij, aby wybrać, lub wyłączyć <a href="service_properites.html#service_p
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="main_preview_general.html">Przeglądanie - ogólnie</a>
-	<li><a href="main_preview_external.html">Używanie zewnętrznych przeglądarek</a>
-	<li><a href="main_preview_prevdoc.html">Ustawienie dokumentu podglądu</a>
-	<li><a href="main_tabs_general.html">Inne zakładki</a>
-	<li><a href="main_window_desc.html">Główne okno programu</a>
+	<li><a href="main_preview_general.php">Przeglądanie - ogólnie</a>
+	<li><a href="main_preview_external.php">Używanie zewnętrznych przeglądarek</a>
+	<li><a href="main_preview_prevdoc.php">Ustawienie dokumentu podglądu</a>
+	<li><a href="main_tabs_general.php">Inne zakładki</a>
+	<li><a href="main_window_desc.php">Główne okno programu</a>
 
 </ul>
 </td>

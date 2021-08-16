@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -110,19 +110,19 @@ Kliknij, aby pokazać, bądź ukryć znaki specjalne w edytorze (jak znak końca
 Kliknij, aby włączyć zawijanie wierszy, które nie mieszczą się jednej linii w edytorze.
 
 <p><b>Ustawienie dokumentu podglądu</b><br />
-Kliknij, aby otworzyć narzędzie służące do ustawienia <a href="main_preview_prevdoc.html">dokumentu podglądu</a>.
+Kliknij, aby otworzyć narzędzie służące do ustawienia <a href="main_preview_prevdoc.php">dokumentu podglądu</a>.
 
 <p><b>Wybór schematu kolorowania składni</b><br />
-Kliknij, aby wyświetlić listę dostępnych schematów kolorowania i zmienić schemat dla bieżącego dokumentu. W zależności od <a href="settings_editor_syntax.html">ustawień programu</a> schematy mogą być pogrupowane, lub nie.
+Kliknij, aby wyświetlić listę dostępnych schematów kolorowania i zmienić schemat dla bieżącego dokumentu. W zależności od <a href="settings_editor_syntax.php">ustawień programu</a> schematy mogą być pogrupowane, lub nie.
 
 <p><b>Wybór schematu kolorowania składni</b><br />
 Kliknij, aby zmienić wyświetlić listę dostępnych schematów kolorowania i zmienić schemat.
 
 <p><b>Podświetlanie par nawiasów</b><br />
-Kliknij, aby włączyć, bądź wyłączyć <a href="settings_editor_syntax.html">podświetlanie odpowiadających sobie par nawiasów</a>.
+Kliknij, aby włączyć, bądź wyłączyć <a href="settings_editor_syntax.php">podświetlanie odpowiadających sobie par nawiasów</a>.
 
 <p><b>Tryb edycji wizualnej</b><br />
-Kliknij, aby włączyć, lub wyłączyć <a href="main_editor_wysiwyg.html">tryb edycji wizualnej</a>.
+Kliknij, aby włączyć, lub wyłączyć <a href="main_editor_wysiwyg.php">tryb edycji wizualnej</a>.
 
 <p><b>Podział poziomy</b><br />
 Kliknij, aby włączyć, lub wyłączyć poziomy podział <a href="main_editor.html#twoparts">okna edytora</a> na dwie części.
@@ -146,7 +146,7 @@ Kliknij, aby ustawić wcięcie dla zaznaczonego tekstu.
 Kliknij, aby usunąć wcięcie dla zaznaczonego tekstu.
 
 <p><b>Informacje o dokumencie</b><br />
-Kliknij, aby otworzyć okno <a href="tool_docinfo.html">Informacje o dokumencie</a>.
+Kliknij, aby otworzyć okno <a href="tool_docinfo.php">Informacje o dokumencie</a>.
 
 
 <p><b>Nawigator zakładek</b><br />
@@ -156,10 +156,10 @@ Kliknij, aby otworzyć okno <a href="tool_docinfo.html#bookmark">Nawigator zakł
 Kliknij, aby otworzyć okno <a href="tool_docinfo.html#todotasks">Zadania do wykonania</a>
 
 <p><b>Paleta kolorów</b><br />
-Kliknij, aby uruchomić <a href="tool_colorpalette.html">paletę kolorów</a> (domyślny skrót <tt>Shift+Ctrl+C</tt>). narzędzie umożliwia wybór koloru z palety, a także pobranie próbki koloru z dowolnego miejsca na ekranie za pomocą pipety.
+Kliknij, aby uruchomić <a href="tool_colorpalette.php">paletę kolorów</a> (domyślny skrót <tt>Shift+Ctrl+C</tt>). narzędzie umożliwia wybór koloru z palety, a także pobranie próbki koloru z dowolnego miejsca na ekranie za pomocą pipety.
 
 <p><b>Dynamiczny podgląd</b><br />
-Kliknij, aby wyświetlić, bądź ukryć okno <a href="main_preview_dynamic.html">dynamicznego podglądu</a>.
+Kliknij, aby wyświetlić, bądź ukryć okno <a href="main_preview_dynamic.php">dynamicznego podglądu</a>.
 
 
 
@@ -173,7 +173,7 @@ Kliknij, aby wyświetlić, bądź ukryć okno <a href="main_preview_dynamic.html
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="settings_toolbars.html">Ustawienia programu - Ustawienia pasków, menu i skrótów</a>
+	<li><a href="settings_toolbars.php">Ustawienia programu - Ustawienia pasków, menu i skrótów</a>
 </td>
 </tr>
 </table>

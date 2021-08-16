@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -76,54 +76,54 @@
 
 
 
-<p><b><a href="main_menu_main.html">Menu główne</a></b><br />
+<p><b><a href="main_menu_main.php">Menu główne</a></b><br />
 Zawiera szereg menu, które udostępniają wszystkie narzędzia programu.
 
 <p><b>Lewy panel zasobów</b><br />
-Lewy panel zasobów możesz wyświetlić korzystając z polecenia w <a href="main_menu_main.html">Menu głównym</a> / <a href="main_menu_view.html">Wyświetl</a> / <a href="main_menu_view_view.html">Widok</a>, a także za pomocą standardowego skrótu klawiszowego <tt>F9</tt>.
+Lewy panel zasobów możesz wyświetlić korzystając z polecenia w <a href="main_menu_main.php">Menu głównym</a> / <a href="main_menu_view.php">Wyświetl</a> / <a href="main_menu_view_view.php">Widok</a>, a także za pomocą standardowego skrótu klawiszowego <tt>F9</tt>.
 <p>Zawiera zakładki:</p>
 <ul>
-	<li><a href="main_tabs_myservices.html">Moje serwisy</a> - służy do zarządzania <a href="services_general.html">serwisami</a> (wyświetlana skrótem klawiszowym <tt>Ctrl+1</tt>)</li>
-	<li><a href="main_tabs_inspector_tags.html">Inspektor znaczników</a> - służy do tworzenia i edycji znaczników w językach znacznikowych (wyświetlana skrótem klawiszowym <tt>Ctrl+2</tt>)</li>
-	<li><a href="main_tabs_inspector_css.html">Inspektor CSS</a> - służy do tworzenie i edycji arkuszy stylów CSS  (wyświetlana skrótem klawiszowym <tt>Ctrl+3</tt>)</li>
-	<li><a href="main_tabs_macrocodes.html">Makrokody</a> - służy do tworzenia, edycji i korzystania z <a href="macrocodes.html">makrokodów (wyświetlana skrótem klawiszowym <tt>Ctrl+4</tt>)</a>.</li>
+	<li><a href="main_tabs_myservices.php">Moje serwisy</a> - służy do zarządzania <a href="services_general.php">serwisami</a> (wyświetlana skrótem klawiszowym <tt>Ctrl+1</tt>)</li>
+	<li><a href="main_tabs_inspector_tags.php">Inspektor znaczników</a> - służy do tworzenia i edycji znaczników w językach znacznikowych (wyświetlana skrótem klawiszowym <tt>Ctrl+2</tt>)</li>
+	<li><a href="main_tabs_inspector_css.php">Inspektor CSS</a> - służy do tworzenie i edycji arkuszy stylów CSS  (wyświetlana skrótem klawiszowym <tt>Ctrl+3</tt>)</li>
+	<li><a href="main_tabs_macrocodes.php">Makrokody</a> - służy do tworzenia, edycji i korzystania z <a href="macrocodes.php">makrokodów (wyświetlana skrótem klawiszowym <tt>Ctrl+4</tt>)</a>.</li>
 </ul>
 
 
 <p><b>Panel środkowy</b><br />
 Panel środkowy jest wyświetlany cały czas i nie możesz go wyłączyć. Zawiera zakładki:</p>
 <ul>
-	<li><b>Tworzenie</b> - zawiera edytor w <a href="main_editor.html">trybie tekstowym</a> i w <a href="main_editor_wysiwyg.html">trybie graficznym (wysiwyg)</a></li>
-	<li><a href="main_preview_general.html">Przeglądanie</a> - służy do przeglądania tworzonego dokumentu w oknie przeglądarki internetowej.</li>
+	<li><b>Tworzenie</b> - zawiera edytor w <a href="main_editor.php">trybie tekstowym</a> i w <a href="main_editor_wysiwyg.php">trybie graficznym (wysiwyg)</a></li>
+	<li><a href="main_preview_general.php">Przeglądanie</a> - służy do przeglądania tworzonego dokumentu w oknie przeglądarki internetowej.</li>
 </ul>
 
 
 <p><b>Prawy panel zasobów</b><br />
-Prawy panel zasobów możesz wyświetlić korzystając z polecenia w <a href="main_menu_main.html">Menu głównym</a> / <a href="main_menu_view.html">Wyświetl</a> / <a href="main_menu_view_view.html">Widok</a>, a także za pomocą standardowego skrótu klawiszowego <tt>Ctrl+F9</tt>.
+Prawy panel zasobów możesz wyświetlić korzystając z polecenia w <a href="main_menu_main.php">Menu głównym</a> / <a href="main_menu_view.php">Wyświetl</a> / <a href="main_menu_view_view.php">Widok</a>, a także za pomocą standardowego skrótu klawiszowego <tt>Ctrl+F9</tt>.
 <p>Zawiera zakładki:</p>
 <ul>
-	<li><a href="main_tabs_myftpservers.html">Moje serwery</a> - służy do publikowania dokumentów w Sieci (wyświetlana skrótem klawiszowym <tt>Ctrl+5</tt>)</li>
-	<li><a href="main_tabs_inspector_mysql.html">Inspektor MySQL</a> - służy do pracy z serwerami baz danych MySQL (wyświetlana skrótem klawiszowym <tt>Ctrl+6</tt>)</li>
-	<li><a href="main_tabs_navigator.html">Nawigator</a> - zawiera nawigatory dokumentów tworzonych w HTML i innych językach (wyświetlana skrótem klawiszowym <tt>Ctrl+7</tt>)</li>
-	<li><a href="main_tabs_languages.html">Języki programowania</a> - zawiera zestaw definicji dla kilku języków programowania (wyświetlana skrótem klawiszowym <tt>Ctrl+8</tt>)</li>
+	<li><a href="main_tabs_myftpservers.php">Moje serwery</a> - służy do publikowania dokumentów w Sieci (wyświetlana skrótem klawiszowym <tt>Ctrl+5</tt>)</li>
+	<li><a href="main_tabs_inspector_mysql.php">Inspektor MySQL</a> - służy do pracy z serwerami baz danych MySQL (wyświetlana skrótem klawiszowym <tt>Ctrl+6</tt>)</li>
+	<li><a href="main_tabs_navigator.php">Nawigator</a> - zawiera nawigatory dokumentów tworzonych w HTML i innych językach (wyświetlana skrótem klawiszowym <tt>Ctrl+7</tt>)</li>
+	<li><a href="main_tabs_languages.php">Języki programowania</a> - zawiera zestaw definicji dla kilku języków programowania (wyświetlana skrótem klawiszowym <tt>Ctrl+8</tt>)</li>
 </ul>
 
 <p><b>Dolny panel wyników</b><br />
-Dolny panel możesz wyświetlić korzystając z polecenia w <a href="main_menu_main.html">Menu głównym</a> / <a href="main_menu_view.html">Wyświetl</a> / <a href="main_menu_view_view.html">Widok</a>, a także za pomocą standardowego skrótu klawiszowego <tt>Alt+F9</tt>.
+Dolny panel możesz wyświetlić korzystając z polecenia w <a href="main_menu_main.php">Menu głównym</a> / <a href="main_menu_view.php">Wyświetl</a> / <a href="main_menu_view_view.php">Widok</a>, a także za pomocą standardowego skrótu klawiszowego <tt>Alt+F9</tt>.
 <p>Zawiera zakładki:</p>
 <ul>
-	<li><a href="down_links_verify.html">Poprawność odsyłaczy</a> - wyświetla raporty po wykonaniu operacji sprawdzania poprawności odsyłaczy</li>
-	<li><a href="down_syntax_check.html">Poprawność składni</a> - wyświetla raporty po wykonaniu operacji sprawdzania poprawności składni dokumentów</li>
-	<li><a href="down_integrity.html">Spójność serwisu</a> - wyświetla raporty po wykonaniu operacji sprawdzania spójności serwisu</li>
-	<li><a href="down_find_report.html">Raport wyszukiwania</a> - wyświetla raporty po wykonaniu operacji wyszukiwania, bądź sprawdzania pisowni.</li>
-	<li><a href="down_publishing.html">Operacje publikowania</a> - wyświetla listy plików przeznaczonych do publikacji (kolejkę FTP i synchronizacji)oraz raporty na temat operacji publikowania.</li>
-	<li><a href="down_help.html">Pomoc do programu</a> - zawiera różne tematy pomocy do programu i obsługiwanych przez Pająka języków programowania</li>
+	<li><a href="down_links_verify.php">Poprawność odsyłaczy</a> - wyświetla raporty po wykonaniu operacji sprawdzania poprawności odsyłaczy</li>
+	<li><a href="down_syntax_check.php">Poprawność składni</a> - wyświetla raporty po wykonaniu operacji sprawdzania poprawności składni dokumentów</li>
+	<li><a href="down_integrity.php">Spójność serwisu</a> - wyświetla raporty po wykonaniu operacji sprawdzania spójności serwisu</li>
+	<li><a href="down_find_report.php">Raport wyszukiwania</a> - wyświetla raporty po wykonaniu operacji wyszukiwania, bądź sprawdzania pisowni.</li>
+	<li><a href="down_publishing.php">Operacje publikowania</a> - wyświetla listy plików przeznaczonych do publikacji (kolejkę FTP i synchronizacji)oraz raporty na temat operacji publikowania.</li>
+	<li><a href="down_help.php">Pomoc do programu</a> - zawiera różne tematy pomocy do programu i obsługiwanych przez Pająka języków programowania</li>
 </ul>
 
 
 
 <p><b>Paski narzędzi</b><br />
-W oknie głównym programu może być wyświetlane również kilka <a href="toolbars_general.html">pasków narzędzi</a> zawierających polecenia uruchamiające różne narzędzia. 
+W oknie głównym programu może być wyświetlane również kilka <a href="toolbars_general.php">pasków narzędzi</a> zawierających polecenia uruchamiające różne narzędzia. 
 
 
 </td>

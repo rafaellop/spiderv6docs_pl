@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -74,7 +74,7 @@
 
 <!-- treść pomocy -->
 <p>
-W tej kategorii znajdziesz ustawienia odpowiedzialne za ogólne funkcjonowanie wbudowanego w Pająka klienta FTP znajdującego się na zakładce <a href="main_tabs_myftpservers.html">Moje serwery</a> oraz <a href="down_publishing_ftpqueue.html">kolejki plików FTP i WebDAV</a> na dolnym panelu. Kategoria ta składa się z kilku grup ustawień. Oto one:
+W tej kategorii znajdziesz ustawienia odpowiedzialne za ogólne funkcjonowanie wbudowanego w Pająka klienta FTP znajdującego się na zakładce <a href="main_tabs_myftpservers.php">Moje serwery</a> oraz <a href="down_publishing_ftpqueue.php">kolejki plików FTP i WebDAV</a> na dolnym panelu. Kategoria ta składa się z kilku grup ustawień. Oto one:
 
 <h2>Lista plików na serwerze</h2>
 
@@ -116,7 +116,7 @@ W wypadku gdy plik, na którym ma być wykonana operacja jest zablokowany, progr
 
 <h2>Blokowanie dokumentów na serwerze FTP</h2>
 
-<p>Pająk pozwala na blokowanie dokumentów, nad którymi pracujesz. Temat jest szerzej poruszony w opisie okienka <a href="main_tabs_myftpservers_lockfile.html">Blokowania dokumentów</a>. Tutaj znajdziesz kilka ustawień odpowiedzialnych za działanie tej funkcji:
+<p>Pająk pozwala na blokowanie dokumentów, nad którymi pracujesz. Temat jest szerzej poruszony w opisie okienka <a href="main_tabs_myftpservers_lockfile.php">Blokowania dokumentów</a>. Tutaj znajdziesz kilka ustawień odpowiedzialnych za działanie tej funkcji:
 
 <p><b>Nie pytaj o tekst komentarza przy blokowaniu plików</b><br>
 Pliki, nad którymi pracujesz, możesz blokować, aby nikt inny nie mógł ich w tym czasie otworzyć. Kiedy ktoś będzie próbował otworzyć taki plik w Pająku wyświetlony mu zostanie tekst komentarza, o który zapytany zostaniesz w momencie nakładania blokady. Jeśli nie chcesz, aby program pytał o tekst tego komentarza, zaznacz tę opcję.
@@ -155,7 +155,7 @@ Znajac czas przy którym serwer rozłącza bezczynne połączenie możesz ustali
 
 <h2>Praca w trybie offline</h2>
 
-<p>Pająk potrafi pracować z serwerami FTP nawet gdy nie ma aktywnego połączenia z siecią Internet. Ta unikalna funkcja opisana została w temacie poświęconym pracy w <a href="main_tabs_myftpservers_on-offline.html">trybach online i offline</a>. Tutaj znajdziesz kilka ustawień związanych z pracą w trybie offline:
+<p>Pająk potrafi pracować z serwerami FTP nawet gdy nie ma aktywnego połączenia z siecią Internet. Ta unikalna funkcja opisana została w temacie poświęconym pracy w <a href="main_tabs_myftpservers_on-offline.php">trybach online i offline</a>. Tutaj znajdziesz kilka ustawień związanych z pracą w trybie offline:
 
 <p><b>Przy braku połączenia pracuj w trybie offline</b><br>
 Jeśli nie ma połączenia z serwerem program może pracować na tzw. cache, czyli zapisanej na dysku ostatniej reprezentacji zawartości serwera. Jeśli wyłączysz tę opcję, utracisz tę możliwość.
@@ -178,11 +178,11 @@ Kliknięcie tego przycisku powoduje wyczyszczenie pliku cache, w którym pamięt
 <h4>Pokrewne tematy</h4>
 <ul>
 	<li><a href="settings_network.html#settingslistnetwork">Inne ustawienia sieci</a>
-	<li><a href="main_tabs_myftpservers.html">Zakładka Moje serwery</a>
-	<li><a href="down_publishing_ftpqueue.html">Kolejka plików FTP</a>
-	<li><a href="main_tabs_myftpservers_on-offline.html">Praca w trybie online i offline</a>
-	<li><a href="network_publishing_general.html">Publikowanie w Pająku</a>
-	<li><a href="service_tool_synchronization.html">Synchronizacja serwisów</a>
+	<li><a href="main_tabs_myftpservers.php">Zakładka Moje serwery</a>
+	<li><a href="down_publishing_ftpqueue.php">Kolejka plików FTP</a>
+	<li><a href="main_tabs_myftpservers_on-offline.php">Praca w trybie online i offline</a>
+	<li><a href="network_publishing_general.php">Publikowanie w Pająku</a>
+	<li><a href="service_tool_synchronization.php">Synchronizacja serwisów</a>
 </ul>
 </td>
 </tr>

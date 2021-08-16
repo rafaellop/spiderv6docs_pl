@@ -28,23 +28,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -89,10 +89,10 @@ Kliknij, jeśli chcesz zdefiniować zakres dla znaku, który musi wystąpić jak
 Kliknij, jeśli chcesz zdefiniować zakres znaków, które mogą wystąpić w dalszej części w identyfikatora. Sposób definiowania zakresów - patrz '<b>Pierwszy symbol</b>'. </p>
 
 <p><b>UWAGA!</b><br />
-Zdefiniowany pierwszy symbol i inne symbole mają wpływ również na kolorowanie <a href="syntax_keywords.html">słów kluczowych</a>! Jeśli słowo kluczowe zawiera niezdefiniowany tutaj znak, nie będzie ono poprawnie kolorowane! Ważna jest wielkość liter (bez względu na ustawienie opcji 'Rozróżniaj wielkość liter' na zakładce '<a href="syntax_blocks.html">Blok</a>'). Dla przykładu - gdy zakres 'Pierwszy symbol' zawiera 'A-Z', a słowo kluczowe rozpoczynane jest małą literą, nie będzie ono poprawnie kolorowane.</p>
+Zdefiniowany pierwszy symbol i inne symbole mają wpływ również na kolorowanie <a href="syntax_keywords.php">słów kluczowych</a>! Jeśli słowo kluczowe zawiera niezdefiniowany tutaj znak, nie będzie ono poprawnie kolorowane! Ważna jest wielkość liter (bez względu na ustawienie opcji 'Rozróżniaj wielkość liter' na zakładce '<a href="syntax_blocks.php">Blok</a>'). Dla przykładu - gdy zakres 'Pierwszy symbol' zawiera 'A-Z', a słowo kluczowe rozpoczynane jest małą literą, nie będzie ono poprawnie kolorowane.</p>
 
 <h2>Specjalne</h2>
-Wybierz, w którym miejscu identyfikatora mogą się znaleźć znaki specjalne, tzn. takie, które nie zostały zdefiniowane jako 'Pierwszy symbol' i 'Inne symbole'. Dzięki temu możliwe jest na przykład kolorowanie znaku '$' (dolar) w nazwach zmiennych języka PHP, gdy jednocześnie nie może on występować w <a href="syntax_keywords.html">słowach kluczowych</a>. 
+Wybierz, w którym miejscu identyfikatora mogą się znaleźć znaki specjalne, tzn. takie, które nie zostały zdefiniowane jako 'Pierwszy symbol' i 'Inne symbole'. Dzięki temu możliwe jest na przykład kolorowanie znaku '$' (dolar) w nazwach zmiennych języka PHP, gdy jednocześnie nie może on występować w <a href="syntax_keywords.php">słowach kluczowych</a>. 
 
 <ul>
 	<li><p><b>z prefiksami</b>
@@ -117,10 +117,10 @@ Wybierz, w którym miejscu identyfikatora mogą się znaleźć znaki specjalne, 
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="syntax_editor.html">Edytor schematów kolorowania</a></li>
-	<li><a href="syntax_keywords.html">Edytor schematów kolorowania - Słowa kluczowe</a></li>
-	<li><a href="syntax_blocks_styles_list.html">Edytor schematów kolorowania - Bloki składniowe, Style</a></li>
-	<li><a href="syntax.html">Ogólnie o kolorowaniu składni w Pająku</a><li>
+	<li><a href="syntax_editor.php">Edytor schematów kolorowania</a></li>
+	<li><a href="syntax_keywords.php">Edytor schematów kolorowania - Słowa kluczowe</a></li>
+	<li><a href="syntax_blocks_styles_list.php">Edytor schematów kolorowania - Bloki składniowe, Style</a></li>
+	<li><a href="syntax.php">Ogólnie o kolorowaniu składni w Pająku</a><li>
 </ul>
 </td>
 </tr>

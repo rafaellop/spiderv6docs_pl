@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -77,16 +77,16 @@
 <p>Menu zawiera polecenia uruchamiające narzędzia do edycji i tworzenia podstawowych sekcji dokumentu META i BODY. </p>
 
 
-<p><b><a href="tool_quickstart.html">Szybki start</a></b><br />
+<p><b><a href="tool_quickstart.php">Szybki start</a></b><br />
 Kliknij, aby uruchomić narzędzie Szybki start służące do szybkiego stworzenia szkieletu strony zawierającego najważniejsze sekcje.
 
-<p><b><a href="tool_meta.html">Edytor sekcji &lt;META&gt;</a></b><br />
+<p><b><a href="tool_meta.php">Edytor sekcji &lt;META&gt;</a></b><br />
 Kliknij, aby uruchomić edytor sekcji <tt>&lt;META&gt;</tt> (domyślny skrót <tt>Shift+Ctrl+M</tt>).
 
-<p><b><a href="tool_body.html">Edytor sekcji &lt;BODY&gt;</a></b><br />
+<p><b><a href="tool_body.php">Edytor sekcji &lt;BODY&gt;</a></b><br />
 Kliknij, aby uruchomić edytor sekcji <tt>&lt;BODY&gt;</tt> (domyślny skrót <tt>Shift+Ctrl+B</tt>).
 
-<p><b><a href="tool_keywords_generator.html">Generator słów kluczowych</a></b><br />
+<p><b><a href="tool_keywords_generator.php">Generator słów kluczowych</a></b><br />
 Kliknij, aby uruchomić "Generator słów kluczowych.
 
 
@@ -100,8 +100,8 @@ Kliknij, aby uruchomić "Generator słów kluczowych.
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-   <li><a href="main_menu_tools.html">Menu główne - Narzędzia</a></li>
-   <li><a href="settings_toolbars.html">Ustawienia programu - Ustawienia pasków, menu i skrótów</a></li>
+   <li><a href="main_menu_tools.php">Menu główne - Narzędzia</a></li>
+   <li><a href="settings_toolbars.php">Ustawienia programu - Ustawienia pasków, menu i skrótów</a></li>
 </ul>
 </td>
 </tr>

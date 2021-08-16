@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -80,38 +80,38 @@
 </p>
 
 
-<p><b><a href="tool_insert_script.html">Wstawienie skryptu</a></b><br />
+<p><b><a href="tool_insert_script.php">Wstawienie skryptu</a></b><br />
 Kliknij, aby uruchomić narzędzie ułatwiające wstawienia do dokumentu skryptów <tt>JavaScript</tt>, <tt>PHP</tt> i innych.
 
-<p><b><a href="tool_noscript.html">Znacznik &lt;NOSCRIPT&gt;</a></b><br />
+<p><b><a href="tool_noscript.php">Znacznik &lt;NOSCRIPT&gt;</a></b><br />
 Kliknij, aby wstawić do dokumentu znacznik <tt>&lt;NOSCRIPT&gt;</tt> używany przez przeglądarkę w przypadku, gdy nie obsługuje ona skryptów.
 
-<p><b><a href="tool_script_newwindow.html">Otwarcie nowego okna</a></b><br />
+<p><b><a href="tool_script_newwindow.php">Otwarcie nowego okna</a></b><br />
 Kliknij, aby uruchomić kreator skryptu otwierającego nowe okno przeglądarki.
 
-<p><b><a href="tool_script_dialog.html">Okienko komunikatu JavaScript</a></b><br />
+<p><b><a href="tool_script_dialog.php">Okienko komunikatu JavaScript</a></b><br />
 Kliknij, aby uruchomić kreator skryptu pokazującego komunikat.
 
 
-<p><b><a href="tool_multimedia_insert.html">Osadzanie multimediów</a></b><br />
+<p><b><a href="tool_multimedia_insert.php">Osadzanie multimediów</a></b><br />
 Kliknij, aby otworzyć narzędzie ułatwiające wstawianie do dokumentu multimediów, jak filmy Flash, RealMedia itp..
 
-<p><b><a href="tool_objects.html">Obiekt osadzony</a></b><br />
+<p><b><a href="tool_objects.php">Obiekt osadzony</a></b><br />
 Kliknij, aby uruchomić narzędzie ułatwiające wstawianie do dokumentu obiektów osadzonych <tt>&lt;OBJECT&gt;</tt>.
 
-<p><b><a href="tool_objects.html">Wstawienie apletu Java</a></b><br />
+<p><b><a href="tool_objects.php">Wstawienie apletu Java</a></b><br />
 Kliknij, aby uruchomić narzędzie ułatwiające wstawianie do dokumentu apletów Java - <tt>&lt;APPLET&gt;</tt>.
 
-<p><b><a href="tool_objects.html">Wstawienie ActiveX</a></b><br />
+<p><b><a href="tool_objects.php">Wstawienie ActiveX</a></b><br />
 Kliknij, aby uruchomić narzędzie ułatwiające wstawianie do dokumentu kontrolek ActiveX.
 
-<p><b><a href="tool_param.html">Parametr obiektu</a></b><br />
+<p><b><a href="tool_param.php">Parametr obiektu</a></b><br />
 Kliknij, aby uruchomić narzędzie ułatwiające wstawianie do dokumentu parametru obiektu osadzonego <tt>&lt;PARAM&gt;</tt>.
 
-<p><b><a href="tool_embed.html">Obiekt &lt;EMBED&gt;</a></b><br />
+<p><b><a href="tool_embed.php">Obiekt &lt;EMBED&gt;</a></b><br />
 Kliknij, aby otworzyć narzędzie ułatwiające wstawianie do dokumentuobiektu za pomocą znacznika <tt>&lt;EMBED&gt;</tt>.
 
-<p><b><a href="tool_ssi.html">Wstawienie SSI+</a></b><br />
+<p><b><a href="tool_ssi.php">Wstawienie SSI+</a></b><br />
 Kliknij, aby otworzyć narzędzie ułatwiające wstawianie do dokumentu poleceń SSI+ (Server Side Includes).
 
 
@@ -126,7 +126,7 @@ Kliknij, aby otworzyć narzędzie ułatwiające wstawianie do dokumentu poleceń
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="settings_toolbars.html">Ustawienia programu - Ustawienia pasków, menu i skrótów</a>
+	<li><a href="settings_toolbars.php">Ustawienia programu - Ustawienia pasków, menu i skrótów</a>
 </td>
 </tr>
 </table>

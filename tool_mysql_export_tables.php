@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -81,7 +81,7 @@
 
 <h2>Uruchamianie</h2>
 
-<p> Kreator możesz uruchomić poleceniami w menu podręcznego dwóch elementów drzewka zakładki <a href="main_tabs_inspector_mysql.html">Inspektor MySQL</a> (ikona polecenia pokazana została obok):
+<p> Kreator możesz uruchomić poleceniami w menu podręcznego dwóch elementów drzewka zakładki <a href="main_tabs_inspector_mysql.php">Inspektor MySQL</a> (ikona polecenia pokazana została obok):
 
 <p><b>Nazwa bazy danych - Eksportuj zawartość</b><br />
 Uruchamia kreator z ustawieniami wstępnymi odpowiednimi do eksportu zawartości bieżącej bazy danych. Wyświetlona zostanie od razu plansza <a href="#wybor_wielu_tabel">wyboru tabel do wyeksportowania</a>.
@@ -108,7 +108,7 @@ Zaznacz tę opcję, by na następnej planszy móc wybrać jedną, bądź więcej
 Zaznacz tę opcję, by uaktywnić pole do wprowadzenie własnego zapytania. Na następnej planszy będzie można podejrzeć wyniki. Z prawej strony pola tekstowego znajdują się przyciski:
 
 <ul>
-	<li><b>Kreator zapytania SQL</b><br />Uruchamia <a href="tool_mysql_query_creator.html">Kreatora zapytania SQL</a> w celu ułatwienia zbudowania prostego zapytania pobierającego dane z nie więcej niż jednej tabeli.</li>
+	<li><b>Kreator zapytania SQL</b><br />Uruchamia <a href="tool_mysql_query_creator.php">Kreatora zapytania SQL</a> w celu ułatwienia zbudowania prostego zapytania pobierającego dane z nie więcej niż jednej tabeli.</li>
 	<li><b>Pobierz polecenie z bieżącego dokumentu</b><br />Pozwala na odczytanie i wprowadzenie do pola tekstowego obok zapytania z bieżącego dokumentu w edytorze.</li>
 	<li><b>Pobierz polecenie z pliku</b><br />Pozwala na odczytanie i wprowadzenie do pola tekstowego obok zapytania z pliku SQL zapisanego na dysku.</li>
 	<li><b>Ulubione zapytania SQL</b><br />Wyświetla listę <a href="main_tabs_inspector_mysql.html#ulubione">Ulubionych zapytań SQL</a> w celu wyboru zapytania, które chcesz wykonać.</li>
@@ -120,7 +120,7 @@ Zaznacz tę opcję, by uaktywnić pole do wprowadzenie własnego zapytania. Na n
 <p>Plansza "Wybór tabel do wyeksportowania" zostanie wyświetlona w dwóch przypadkach:</p>
 <ul>
 	<li>gdy wybierzesz na pierwszej planszy opcję eksportu kilku tabel, bądź całej bazy danych, </li>
-	<li>gdy uruchomisz Kreator dla eksportu całej bazy danych (z menu kontekstowego dla gałęzi "<a href="main_tabs_inspector_mysql.html#dbtree_dbname">Nazwa bazy danych</a>" drzewka na zakładce <a href="main_tabs_inspector_mysql.html">Inspektor MySQL</a>)</li>
+	<li>gdy uruchomisz Kreator dla eksportu całej bazy danych (z menu kontekstowego dla gałęzi "<a href="main_tabs_inspector_mysql.html#dbtree_dbname">Nazwa bazy danych</a>" drzewka na zakładce <a href="main_tabs_inspector_mysql.php">Inspektor MySQL</a>)</li>
 </ul>
 
 <p>Większą część zajmuje lista tabel bieżącej bazy danych. Wybierz z nich jedną, lub więcej. Jeśli chcesz zaznaczyć, bądź odznaczyć wszystkie tabele, skorzystaj z przycisków umieszczonych poniżej. Poniżej listy znajdziesz tez informację, ile tabel jest zaznaczonych. Musisz wybrać przynajmniej jedną tabelę, aby przejść dalej.</p>
@@ -213,9 +213,9 @@ Do eksportowanego pliku w formacie HTML (ta opcja dostępna jest wyłącznie dla
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="main_tabs_inspector_mysql.html">Zakładka Inspektor MySQL</a></li>
-	<li><a href="tool_mysql_query.html">Wykonaj zapytanie SQL</a></li>
-	<li><a href="tool_mysql_query_creator.html">Kreator zapytania SQL</a></li>
+	<li><a href="main_tabs_inspector_mysql.php">Zakładka Inspektor MySQL</a></li>
+	<li><a href="tool_mysql_query.php">Wykonaj zapytanie SQL</a></li>
+	<li><a href="tool_mysql_query_creator.php">Kreator zapytania SQL</a></li>
 </ul>
 </td>
 </tr>

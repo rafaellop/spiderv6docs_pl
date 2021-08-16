@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -76,7 +76,7 @@
 
 <p>Przy użyciu tego narzędzia można definiować parametry startowe dowolnego obiektu osadzonego na stronie WWW (apletu Javy, kontrolki ActiveX itp.).
 
-<p>Aby uruchomić to narzędzie wejdź do <a href="main_menu_main.html">Menu głównego</a> / <a href="main_menu_tools.html">Narzędzia</a> / <a href="main_menu_tools_objects.html">Skrypty i obiekty</a> / Parametr obiektu. Opisywane narzędzie uruchomisz również z paska narzędzi <a href="toolbars_objects_scripts.html">Java, ActiveX, SSI i inne</a>.
+<p>Aby uruchomić to narzędzie wejdź do <a href="main_menu_main.php">Menu głównego</a> / <a href="main_menu_tools.php">Narzędzia</a> / <a href="main_menu_tools_objects.php">Skrypty i obiekty</a> / Parametr obiektu. Opisywane narzędzie uruchomisz również z paska narzędzi <a href="toolbars_objects_scripts.php">Java, ActiveX, SSI i inne</a>.
 
 <p>W okienku masz dostęp do następujących ustawień:
 
@@ -92,7 +92,7 @@ Korzystając z tej listy możesz określić typ parametru.
 <p><b>Typ pliku</b><br/>
 Z tej listy możesz wybrać typ pliku, jeśli przekazywana wartość parametru wskazuje na plik. Plik wybierzesz przyciskiem znajdującym się powyżej. Możesz również podać adres URL do pliku.
 
-<p>Wskazówka: Jeżeli wstawiasz na stronę obiekt za pomocą narzędzia <a href="tool_objects.html">Wstawianie obiektu</a>, to parametry startowe apleta możesz określić bezpośrednio w okienku tego narzędzia - na jego drugiej zakładce.
+<p>Wskazówka: Jeżeli wstawiasz na stronę obiekt za pomocą narzędzia <a href="tool_objects.php">Wstawianie obiektu</a>, to parametry startowe apleta możesz określić bezpośrednio w okienku tego narzędzia - na jego drugiej zakładce.
 
 </td>
 </tr>
@@ -104,10 +104,10 @@ Z tej listy możesz wybrać typ pliku, jeśli przekazywana wartość parametru w
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-        <li><a href="tool_objects.html">Wstawianie obiektu</a>
-        <li><a href="main_menu_tools_objects.html">Inne narzedzia z menu Skrypty i obiekty</a>
-        <li><a href="main_menu_main.html">Menu programu</a>
-        <li><a href="toolbars_general.html">Narzędzia na paskach</a>
+        <li><a href="tool_objects.php">Wstawianie obiektu</a>
+        <li><a href="main_menu_tools_objects.php">Inne narzedzia z menu Skrypty i obiekty</a>
+        <li><a href="main_menu_main.php">Menu programu</a>
+        <li><a href="toolbars_general.php">Narzędzia na paskach</a>
 </ul>
 </td>
 </tr>

@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -79,13 +79,13 @@
 
 <ul>
 	<a name="settingslistaddtools"></a>
-	<li><a href="settings_addtools_tidy.html">Ustawienia Tidy</a> - ustawienia dotyczące działania programu Tidy.
-	<li><a href="settings_addtools_tools.html">Dodatkowe programy</a> - konfiguracja dodatkowych programów, które mogą być uruchamiane z Pająka.
-	<li><a href="settings_addtools_htmlhelp.html">HTML Help</a> - ustawienia dla narzędzia HTML Help.
+	<li><a href="settings_addtools_tidy.php">Ustawienia Tidy</a> - ustawienia dotyczące działania programu Tidy.
+	<li><a href="settings_addtools_tools.php">Dodatkowe programy</a> - konfiguracja dodatkowych programów, które mogą być uruchamiane z Pająka.
+	<li><a href="settings_addtools_htmlhelp.php">HTML Help</a> - ustawienia dla narzędzia HTML Help.
 </ul>
 
 <p>
-&nbsp;Okno to wywołuje się za pomocą polecenia w menu znajdującym się pod przyciskiem pokazanym obok. Możesz również dostać się do tych ustawień korzystając z głównego okna ustawień oraz kategorii znajdujących się na drugiej zakładce <a href="settings.html">głównego okna ustawień</a>.
+&nbsp;Okno to wywołuje się za pomocą polecenia w menu znajdującym się pod przyciskiem pokazanym obok. Możesz również dostać się do tych ustawień korzystając z głównego okna ustawień oraz kategorii znajdujących się na drugiej zakładce <a href="settings.php">głównego okna ustawień</a>.
 
 </td>
 </tr>
@@ -98,9 +98,9 @@
 <h4>Pokrewne tematy</h4>
 <ul>
 	<li><a href="settings.html#settingslist">Główne ustawienia</a>
-	<li><a href="formatter_general.html">Formatowanie kodu źródłowego dokumentów</a>
-	<li><a href="tool_htmlhelp_general.html">HTMLHelp - tworzenie w Pająku</a>
-	<li><a href="main_window_desc.html">Główne okno programu</a>
+	<li><a href="formatter_general.php">Formatowanie kodu źródłowego dokumentów</a>
+	<li><a href="tool_htmlhelp_general.php">HTMLHelp - tworzenie w Pająku</a>
+	<li><a href="main_window_desc.php">Główne okno programu</a>
 </ul>
 </td>
 </tr>

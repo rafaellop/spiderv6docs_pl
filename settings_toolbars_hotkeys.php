@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -77,7 +77,7 @@
 
 <!-- treść pomocy -->
 <p>
-W tej kategorii znajdują się narzędzia pozwalające na modyfikację głównych skrótów klawiszowych dla akcji powiązanych z menu głównym oraz paskami narzędzi. Nie możesz w tym miejscu ustawiać skrótów klawiszowych dla makrokodów, bowiem te skróty przypisywane są dla każdego makrokodu osobno w oknie <a href="macrocodes_editor.html">dodawania lub modyfikacji makrokodu</a>.
+W tej kategorii znajdują się narzędzia pozwalające na modyfikację głównych skrótów klawiszowych dla akcji powiązanych z menu głównym oraz paskami narzędzi. Nie możesz w tym miejscu ustawiać skrótów klawiszowych dla makrokodów, bowiem te skróty przypisywane są dla każdego makrokodu osobno w oknie <a href="macrocodes_editor.php">dodawania lub modyfikacji makrokodu</a>.
 
 <p>
 Ta kategoria składa się z listy wszystkich dostępnych w programie akcji/poleceń, których nazwy znajdują się w pierwszej kolumnie listy. Dwie następne kolumny wyświetlają przypisany do polecenia skrót główny oraz skrót dodatkowy, alternatywny. Poniżej listy znajdziesz miejsce na podanie nowego skrótu dla wybranego polecenia.
@@ -100,8 +100,8 @@ Zapisuje bieżącą listę skrótów klawiszowych w postaci pliku HTML.
 <h4>Pokrewne tematy</h4>
 <ul>
 	<li><a href="settings_toolbars.html#settingslisttoolbars">Inne ustawienia wyglądu i pasków</a>
-	<li><a href="main_window_desc.html">Główne okno programu</a>
-	<li><a href="macrocodes_editor.html">Makrokody - tworzenie</a>
+	<li><a href="main_window_desc.php">Główne okno programu</a>
+	<li><a href="macrocodes_editor.php">Makrokody - tworzenie</a>
 </ul>
 </td>
 </tr>

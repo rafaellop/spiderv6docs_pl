@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -75,7 +75,7 @@
 <!-- treść pomocy -->
 <p>W tym oknie możesz ustawić opcje formatowania dla języków znacznikowych (jak HTML, XML), które zostaną przekazane jako parametry do zewnętrznego programu <a href="https://tidy.sourceforge.net/" target="_blank">Tidy(r)</a>. Możliwe jest także ustawienie opcji formatowania języków skryptowych. </p>
 
-<p>Okno można wywołać za pomocą polecenia <b>Dodaj profil formatowania</b>, lub <b>Modyfikuj profil formatowania</b> w menu obok listy <b>Predefiniowane ustawienia formatowania Tidy(r)</b> w oknie <a href="settings_codeinsight_formatter.html">Ustawienia programu - Formatowanie kodu źródłowego</a>. </p>
+<p>Okno można wywołać za pomocą polecenia <b>Dodaj profil formatowania</b>, lub <b>Modyfikuj profil formatowania</b> w menu obok listy <b>Predefiniowane ustawienia formatowania Tidy(r)</b> w oknie <a href="settings_codeinsight_formatter.php">Ustawienia programu - Formatowanie kodu źródłowego</a>. </p>
 
 Okno zostało podzielone na trzy zakładki:
 <ul>
@@ -237,14 +237,14 @@ Wybierz z listy typ dokumentu (DOCTYPE) jaki ma zostać wygenerowany przez progr
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-   <li><a href="formatter_general.html">Korzystanie z funkcji formatowania</a></li>
-   <li><a href="settings_codeinsight_formatter.html">Ustawienia formatowań</a></li>
-   <li><a href="formatter_markuplangs.html">Ustawienia formatowania dokumentów znacznikowych</a></li>
-   <li><a href="formatter_javascript.html">Ustawienia formatowania skryptów JavaScript</a></li>
-   <li><a href="formatter_php.html">Ustawienia formatowania skryptów PHP</a></li>
-   <li><a href="formatter_stylesheets.html">Ustawienia formatowania arkuszy CSS</a></li>
-   <li><a href="tool_htmlcompressor.html">Kompresor HTML</a></li>
-   <li><a href="https://tidy.sourceforge.net/docs/quickref.html" target="_blank">Opis opcji konfiguracyjnych TIDY (wymaga połączenia z internetem, otwiera się w nowym oknie)</a></li>
+   <li><a href="formatter_general.php">Korzystanie z funkcji formatowania</a></li>
+   <li><a href="settings_codeinsight_formatter.php">Ustawienia formatowań</a></li>
+   <li><a href="formatter_markuplangs.php">Ustawienia formatowania dokumentów znacznikowych</a></li>
+   <li><a href="formatter_javascript.php">Ustawienia formatowania skryptów JavaScript</a></li>
+   <li><a href="formatter_php.php">Ustawienia formatowania skryptów PHP</a></li>
+   <li><a href="formatter_stylesheets.php">Ustawienia formatowania arkuszy CSS</a></li>
+   <li><a href="tool_htmlcompressor.php">Kompresor HTML</a></li>
+   <li><a href="https://tidy.sourceforge.net/docs/quickref.php" target="_blank">Opis opcji konfiguracyjnych TIDY (wymaga połączenia z internetem, otwiera się w nowym oknie)</a></li>
 </ul>
 </td>
 </tr>

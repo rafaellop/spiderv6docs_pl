@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -88,14 +88,14 @@
 
 <p>Kolejną czynnością jest wskazanie w ustawieniach Pająka ścieżki dostępu do kompilatora HTML Help - programu <b>hhc.exe</b>. Standardowo jest ona następująca: <tt>C:\Program Files (x86)\HTML Help Workshop\hhc.exe</tt>. </p>
 
-<p>Okno ustawień służące do wskazania ścieżki dostępu możesz wyświetlić korzystając z polecenia w <a href="main_menu_main.html">Menu głównym</a> / <a href="main_menu_view.html">Wyświetl</a> / <a href="main_menu_view_settings.html">Ogólne ustawienia programu</a> / <a href="settings_addtools.html">Dostosuj Tidy i dodatkowe narzędzia</a>. Po uruchomieniu ww. okna przejdź do <a href="settings_addtools_htmlhelp.html">zakładki HTML Help</a> i wskaż ścieżkę.</p>
+<p>Okno ustawień służące do wskazania ścieżki dostępu możesz wyświetlić korzystając z polecenia w <a href="main_menu_main.php">Menu głównym</a> / <a href="main_menu_view.php">Wyświetl</a> / <a href="main_menu_view_settings.php">Ogólne ustawienia programu</a> / <a href="settings_addtools.php">Dostosuj Tidy i dodatkowe narzędzia</a>. Po uruchomieniu ww. okna przejdź do <a href="settings_addtools_htmlhelp.php">zakładki HTML Help</a> i wskaż ścieżkę.</p>
 
 
 <h2>Szybkie kompilowanie folderu do pliku CHM</h2>
 
-<p>Najprostszym sposobem utworzenia pliku w formacie HTML Help jest skompilowanie całego folderu do pliku CHM. Możesz to zrobić korzystając narzędzia <a href="tool_htmlhelp_folder_to_chm.html">Szybki HTML Help z folderu</a>. Narzędzie to uruchomisz korzystając z polecenia w <a href="main_menu_main.html">Menu głównym</a> / <a href="main_menu_htmlhelp.html">HTML Help</a> / <b>Kompilacja folderu do HTML Help</b>.</p>
+<p>Najprostszym sposobem utworzenia pliku w formacie HTML Help jest skompilowanie całego folderu do pliku CHM. Możesz to zrobić korzystając narzędzia <a href="tool_htmlhelp_folder_to_chm.php">Szybki HTML Help z folderu</a>. Narzędzie to uruchomisz korzystając z polecenia w <a href="main_menu_main.php">Menu głównym</a> / <a href="main_menu_htmlhelp.php">HTML Help</a> / <b>Kompilacja folderu do HTML Help</b>.</p>
 
-<p>Po wybraniu folderu do skompilowania i ustawieniu pozostałych opcji (<a href="tool_htmlhelp_folder_to_chm.html">tutaj dokładny opis okna</a>) kliknij na przycisk "Kompiluj". narzędzie utworzy listę plików, a następnie skompiluje plik pomocy. </p>
+<p>Po wybraniu folderu do skompilowania i ustawieniu pozostałych opcji (<a href="tool_htmlhelp_folder_to_chm.php">tutaj dokładny opis okna</a>) kliknij na przycisk "Kompiluj". narzędzie utworzy listę plików, a następnie skompiluje plik pomocy. </p>
 
 <p>Jeśli kompilacja zostanie ukończona pomyślnie, wyświetlony zostanie raport o przebiegu kompilacji, a następnie pytanie, czy chcesz obejrzeć skompilowany plik CHM.</p>
 
@@ -106,12 +106,12 @@
 
 <h2>Korzystanie z Serwisu będącego projektem HTML Help</h2>
 
-<p>Znaczącym ułatwieniem podczas tworzenia pomocy w formacie CHM jest możliwość zdefiniowania Serwisu jako Projektu HTML Help. W tym celu zaznacz opcję "Ten serwis jest również projektem HTML Help" w drugiej zakładce okna <a href="service_properites.html">Właściwości serwisu</a>. Dzięki temu wszystkie ustawienia bieżącego projektu HTML Help będziesz miał w dostępne z jednego miejsca.</p>
+<p>Znaczącym ułatwieniem podczas tworzenia pomocy w formacie CHM jest możliwość zdefiniowania Serwisu jako Projektu HTML Help. W tym celu zaznacz opcję "Ten serwis jest również projektem HTML Help" w drugiej zakładce okna <a href="service_properites.php">Właściwości serwisu</a>. Dzięki temu wszystkie ustawienia bieżącego projektu HTML Help będziesz miał w dostępne z jednego miejsca.</p>
 
 
 <p><b>Przygotowanie projektu w Edytorze HTML Help</b><br>
 
-<p>Po zaznaczeniu ww. opcji musisz jeszcze wykonać kilka czynności, aby utworzyć główny plik projektu (*.HHP). W tym celu kliknij w oknie ustawień serwisu na polecenie "Edytuj projekt". Spowoduje to otwarcie <a href="tool_htmlhelp_hhp_editor.html">Edytora projektu HTML Help</a>.</p>
+<p>Po zaznaczeniu ww. opcji musisz jeszcze wykonać kilka czynności, aby utworzyć główny plik projektu (*.HHP). W tym celu kliknij w oknie ustawień serwisu na polecenie "Edytuj projekt". Spowoduje to otwarcie <a href="tool_htmlhelp_hhp_editor.php">Edytora projektu HTML Help</a>.</p>
 
 <p>Pierwszą czynnością będzie wskazanie folderu, w którym znajdują się pliki mające wejść w skład projektu HTML Help. Wskazane jest, by wszystkie pliki wchodzące w skład tego projektu znajdowały się w tym folderze, lub w znajdujących się w nim podfolderach. Folder projektu wskażesz za pomocą polecenia w górnej części okna.</p>
 
@@ -124,32 +124,32 @@
 
 <p><b>Utworzenie spisu treści</b><br>
 
-<p>Aby ułatwić użytkownikom korzystanie z pomocy, należy utworzyć spis treści. W tym celu uruchom <a href="tool_htmlhelp_hhc_editor.html">Edytor spisu treści HTML Help</a>. Możesz to zrobić korzystając z polecenia w drugiej zakładce Edytora projektu HTML Help, jak również w <a href="main_menu_main.html">Menu głównym</a> / <a href="main_menu_htmlhelp.html">HTML Help</a>. W pierwszym przypadku, po zapisaniu pliku spisu treści, zostanie on automatycznie przypisany do projektu. W przeciwnym wypadku nazwę pliku spisu treści będziesz musiał wpisać w ręcznie edytorze projektu.</p>
+<p>Aby ułatwić użytkownikom korzystanie z pomocy, należy utworzyć spis treści. W tym celu uruchom <a href="tool_htmlhelp_hhc_editor.php">Edytor spisu treści HTML Help</a>. Możesz to zrobić korzystając z polecenia w drugiej zakładce Edytora projektu HTML Help, jak również w <a href="main_menu_main.php">Menu głównym</a> / <a href="main_menu_htmlhelp.php">HTML Help</a>. W pierwszym przypadku, po zapisaniu pliku spisu treści, zostanie on automatycznie przypisany do projektu. W przeciwnym wypadku nazwę pliku spisu treści będziesz musiał wpisać w ręcznie edytorze projektu.</p>
 
 <p>W spisie treści możesz wstawiać <b>Kategorie</b> (w pomocy do Pająka są to np. 'foldery' <i>Jak to wykonać?</i> itp.), a w każdej kategorii możesz umieszczać jej elementy, jak kolejne podkategorie i pozycje. Możesz to zrobić korzystając z poleceń z prawej strony listy pozycji spisu treści.
 
 <p>Pozycja różni się od kategorii tym, iż nie może zawierać podelemetów. Możliwa jest jednak zamiana kategorii na pozycje i odwrotnie (w zakładce "Ustawienia elementu"). W tej samej zakładce możesz przypisać do każdej kategorii i pozycji dokument, który zostanie wyświetlony na ten element w spisie treści. Pamiętaj, aby po każdej zmianie w ustawieniach elementu kliknąć na przycisk "Aktualizuj dane elementu".
 
-<p>Szczegółowy opis narzędzia znajdziesz w temacie pomocy <a href="tool_htmlhelp_hhc_editor.html">Edytor spisu treści HTML Help</a></p>
+<p>Szczegółowy opis narzędzia znajdziesz w temacie pomocy <a href="tool_htmlhelp_hhc_editor.php">Edytor spisu treści HTML Help</a></p>
 
 
 <p><b>Utworzenie indeksu</b><br>
 
 <p>Indeks (skorowidz) umożliwia przeglądanie wszystkich tematów pomocy. Jest to lista wszystkich tematów, jakie są zawarte w pliku CHM.
 
-<p>Korzystając z <a href="tool_htmlhelp_hhk_editor.html">Edytora indeksu HTML Help</a> możesz utworzyć projekt skorowidza (plik *.HHK). Tworzenie go jest bardzo podobne do tworzenia spisu treści, przy czym nie można tworzyć kategorii - wszystkie elementy umieszczone są kolejno na jednej liście.</p>
+<p>Korzystając z <a href="tool_htmlhelp_hhk_editor.php">Edytora indeksu HTML Help</a> możesz utworzyć projekt skorowidza (plik *.HHK). Tworzenie go jest bardzo podobne do tworzenia spisu treści, przy czym nie można tworzyć kategorii - wszystkie elementy umieszczone są kolejno na jednej liście.</p>
 
 <p>Aby szybko utworzyć skorowidz, możesz skorzystać z polecenia "Przekształć zawartość folderu na skorowidz", które znajdującego się z prawej strony listy skorowidza. W podmenu, które się pokaże, możesz ustawić kilka opcji w celu lepszego dopasowania skorowidza do Twoich potrzeb.</p>
 
 
 <p><b>Wyszukiwanie w pomocy HTML Help</b><br>
 
-Aby dodać do pliku pomocy zestaw słów kluczowych ułatwiających wyszukiwanie, zaznacz opcję "Włącz słowa kluczowe z plików HTML" w <a href="tool_htmlhelp_hhp_editor.html">Edytorze projektu HTML Help</a>, w zakładce "Ogólne ustawienia projektu". </p>
+Aby dodać do pliku pomocy zestaw słów kluczowych ułatwiających wyszukiwanie, zaznacz opcję "Włącz słowa kluczowe z plików HTML" w <a href="tool_htmlhelp_hhp_editor.php">Edytorze projektu HTML Help</a>, w zakładce "Ogólne ustawienia projektu". </p>
 
 
 <p><b>Kompilacja projektu w bieżącym serwisie</b><br>
 
-<p>Gdy wszystko jest już przygotowane, możesz skompilować projekt. W tym celu skorzystaj z polecenia "Skompiluj projekt" w <a href="main_menu_main.html">Menu głównym</a> / <a href="main_menu_htmlhelp.html">HTML Help</a> / <b>HTML Help w bieżącym serwisie</b>, bądź w oknie <a href="service_properites.html">Właściwości serwisu</a>.</p>
+<p>Gdy wszystko jest już przygotowane, możesz skompilować projekt. W tym celu skorzystaj z polecenia "Skompiluj projekt" w <a href="main_menu_main.php">Menu głównym</a> / <a href="main_menu_htmlhelp.php">HTML Help</a> / <b>HTML Help w bieżącym serwisie</b>, bądź w oknie <a href="service_properites.php">Właściwości serwisu</a>.</p>
 
 
 
@@ -163,11 +163,11 @@ Aby dodać do pliku pomocy zestaw słów kluczowych ułatwiających wyszukiwanie
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="tool_htmlhelp_hhp_editor.html">Edytor projektu HTML Help</a>
-	<li><a href="tool_htmlhelp_hhc_editor.html">Edytor spisu treści HTML Help</a>
-	<li><a href="tool_htmlhelp_hhk_editor.html">Edytor skorowidza (indeksu) HTML Help</a>
-	<li><a href="tool_htmlhelp_folder_to_chm.html">Szybki HTML Help z folderu</a>
-	<li><a href="main_menu_htmlhelp.html">Menu HTML Help</a>
+	<li><a href="tool_htmlhelp_hhp_editor.php">Edytor projektu HTML Help</a>
+	<li><a href="tool_htmlhelp_hhc_editor.php">Edytor spisu treści HTML Help</a>
+	<li><a href="tool_htmlhelp_hhk_editor.php">Edytor skorowidza (indeksu) HTML Help</a>
+	<li><a href="tool_htmlhelp_folder_to_chm.php">Szybki HTML Help z folderu</a>
+	<li><a href="main_menu_htmlhelp.php">Menu HTML Help</a>
 </td>
 </tr>
 </table>

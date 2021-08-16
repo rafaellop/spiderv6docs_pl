@@ -28,23 +28,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -75,9 +75,9 @@
 
 <!-- treść pomocy -->
 
-<p>Zakładka Szablony służy do pracy <a href="macrocodes.html">szablonami</a>, które znacznie ułatwiają i przyspieszają proces tworzenia dokumentów w Pająku. Za pomocą tej zakładki możesz również tworzyć i używać szablony
+<p>Zakładka Szablony służy do pracy <a href="macrocodes.php">szablonami</a>, które znacznie ułatwiają i przyspieszają proces tworzenia dokumentów w Pająku. Za pomocą tej zakładki możesz również tworzyć i używać szablony
 
-<p>Zakładkę Szablony włączysz za pomocą panelu po lewej lub skrótu klawiszowego CTRL+4, a także z menu pod przyciskiem pokazanym powyżej czy z <a href="main_menu_main.html">Menu głównego</a> / <a href="main_menu_view.html">Wyświetl</a>.
+<p>Zakładkę Szablony włączysz za pomocą panelu po lewej lub skrótu klawiszowego CTRL+4, a także z menu pod przyciskiem pokazanym powyżej czy z <a href="main_menu_main.php">Menu głównego</a> / <a href="main_menu_view.php">Wyświetl</a>.
 
 
 
@@ -90,7 +90,7 @@
 Kliknij, aby dodać nową kategorię (folder na drzewku) szablonów.</p>
 
 <p> <b>Dodanie nowego szablonu</b><br />
-Kliknij aby utworzyć nowy szablon w aktualnie wybranej kategorii. Do tworzenia i wprowadzania zmian w szablonach służy <a href="macrocodes_editor.html" title="Pomoc do Edytora szablonów">Edytor szablonów</a></p>
+Kliknij aby utworzyć nowy szablon w aktualnie wybranej kategorii. Do tworzenia i wprowadzania zmian w szablonach służy <a href="macrocodes_editor.php" title="Pomoc do Edytora szablonów">Edytor szablonów</a></p>
 
 <p> <b>Usunięcie wybranego szablonu lub kategorii.</b><br />
 Kliknij, jeśli chcesz usunąć szablon lub kategorię. Po kliknięciu pojawi się pytanie o potwierdzenie. Jeśli szablon, lub kategorię usunięto przypadkowo, jest możliwość przywrócenia ich z "Kosza" Windows.</p>
@@ -120,12 +120,12 @@ Kliknij, aby użyć szablonu. Po kliknięciu na strzałkę obok przycisku dostę
 			Kliknij, jeśli chcesz utworzyć z szablonu nowy dokument. Pojawi się okienko z pytaniem o nazwę pliku docelowego i miejsce, w którym ma zostać zapisany. Nazwa nowego dokumentu będzie zaproponowana na podstawie nazwy szablonu, z którego dokument ma zostać utworzony.</p>
 			<p>Jeśli w szablonzie umieszczono odnośniki do obrazków i inny dokumentów, zostaną one skopiowane we wskazane miejsce.</p>
 			<p>Nowy dokument zostanie automatycznie otwarty do edycji w oknie Tworzenie.</p>
-			<p>Jeśli w <a href="settings_macrocodes.html">Ustawieniach programu</a> nie zdefiniowano inaczej, jest to domyślna opcja dla szablonów typu "Szablon dokumentu".</p>
+			<p>Jeśli w <a href="settings_macrocodes.php">Ustawieniach programu</a> nie zdefiniowano inaczej, jest to domyślna opcja dla szablonów typu "Szablon dokumentu".</p>
 			</li>
 </ul>
 
 <p><a name="default_template"></a><b>Ustawienie szablonu domyślnym szablonem</b><br />
-Umożliwia ustawienie wskazanego szablonu domyślnym szablonem nowego dokumentu. Szablon ten można wywołać za pomocą skrótu klawiszowego (standardowo Ctrl+Shift+N), lub z menu <a href="main_menu_file.html">Plik</a> / <a href="main_menu_file_new.html">Nowy dokument</a>.
+Umożliwia ustawienie wskazanego szablonu domyślnym szablonem nowego dokumentu. Szablon ten można wywołać za pomocą skrótu klawiszowego (standardowo Ctrl+Shift+N), lub z menu <a href="main_menu_file.php">Plik</a> / <a href="main_menu_file_new.php">Nowy dokument</a>.
 
 </p>
 
@@ -160,7 +160,7 @@ Wyświetla ten temat Pomocy. </p>
 </ul></p>
 
 <p>&nbsp;<b>Wybór wykorzystywanej przeglądarki</b><br />
-Kliknij, aby wybrać przeglądarkę używana do przeglądania w tej zakładce. O ile jest zainstalowana w systemie (<a href="main_preview_embed.html">czytaj więcej na ten temat</a>), możesz skorzystać z przeglądarki:
+Kliknij, aby wybrać przeglądarkę używana do przeglądania w tej zakładce. O ile jest zainstalowana w systemie (<a href="main_preview_embed.php">czytaj więcej na ten temat</a>), możesz skorzystać z przeglądarki:
 <ul>
 	<li>MS Internet Explorer</li>
 	<li>Mozilla</li>
@@ -201,13 +201,13 @@ Do najczęściej wykorzystywanych szablonów możesz przypisać skróty klawiszo
 	<li><tt>Ctrl+J</tt>, a następnie skrót szablonu</li>
 </ul>
 
-<p>Po wciśnięciu <tt>Ctrl+J</tt>, przez okres zdefiniowany w <a href="settings_macrocodes.html">Ustawieniach szablonów</a>, w zakładce Szablony (standardowo 3 s.) Pająk deaktywuje wszystkie skróty klawiszowe programu i włącza skróty klawiszowe szablonów. Po upłynięciu ustalonego czasu lub kliknięciu w edytorze skróty przypisane do szablonów są deaktywowane i na powrót w programie działają skróty ogólne.</p>
+<p>Po wciśnięciu <tt>Ctrl+J</tt>, przez okres zdefiniowany w <a href="settings_macrocodes.php">Ustawieniach szablonów</a>, w zakładce Szablony (standardowo 3 s.) Pająk deaktywuje wszystkie skróty klawiszowe programu i włącza skróty klawiszowe szablonów. Po upłynięciu ustalonego czasu lub kliknięciu w edytorze skróty przypisane do szablonów są deaktywowane i na powrót w programie działają skróty ogólne.</p>
 
 <p>Skrót przypisany do danego szablonu można zobaczyć w polu opisu szablonu (pod małym okienkiem podglądu) u dołu zakładki Szablony.</p>
 
 
 <p><b>Przypisywanie skrótów klawiszowych do szablonów</b><br />
-Aby przypisać do szablonu skrót klawiszowy należy skorzystać z <a href="macrocodes_editor.html">Edytora szablonów</a>. W tym celu zaznacz na drzewku szablon, który chcesz edytować i kliknij w przycisk "Modyfikacja wybranego szablonu lub kategorii" (w menu nad drzewkiem szablonów), lub wciśnij przycisk <tt>F2</tt>.</p>
+Aby przypisać do szablonu skrót klawiszowy należy skorzystać z <a href="macrocodes_editor.php">Edytora szablonów</a>. W tym celu zaznacz na drzewku szablon, który chcesz edytować i kliknij w przycisk "Modyfikacja wybranego szablonu lub kategorii" (w menu nad drzewkiem szablonów), lub wciśnij przycisk <tt>F2</tt>.</p>
 
 
 </td>
@@ -220,12 +220,12 @@ Aby przypisać do szablonu skrót klawiszowy należy skorzystać z <a href="macr
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="macrocodes.html">Szablony - ogólnie</a>
-	<li><a href="settings_macrocodes.html">Ustawienia szablonów</a>
-	<li><a href="macrocodes_editor.html">Edytor szablonów</a>
-	<li><a href="macrocodes_instruction.html">Tworzenie szablonu - instrukcja krok po kroku</a>
-	<li><a href="main_tabs_general.html">Inne zakładki</a>
-	<li><a href="main_window_desc.html">Główne okno programu</a>
+	<li><a href="macrocodes.php">Szablony - ogólnie</a>
+	<li><a href="settings_macrocodes.php">Ustawienia szablonów</a>
+	<li><a href="macrocodes_editor.php">Edytor szablonów</a>
+	<li><a href="macrocodes_instruction.php">Tworzenie szablonu - instrukcja krok po kroku</a>
+	<li><a href="main_tabs_general.php">Inne zakładki</a>
+	<li><a href="main_window_desc.php">Główne okno programu</a>
 </ul>
 </td>
 </tr>

@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -85,7 +85,7 @@ Narzędzie to umożliwia umieszczenie w projekcie dwóch rodzajów słów kluczo
 <h2>Słowa kluczowe</h2>
 
 <p>
-Słowa kluczowe są uzupełnieniem przy tworzeniu skorowidza. Aby zostały uwzględnione, należy w <a href="tool_htmlhelp_hhp_editor.html">edytorze projektu</a>, w zakładce ogólnych ustawień zaznaczyć opcję "Włącz słowa kluczowe z plików HTML". Uwaga! Słowa kluczowe, chociaż umieszczane w procesie kompilacji jako elementy indeksu, nie są jego częściami składowymi rejestrowanymi w pliku skorowidza.
+Słowa kluczowe są uzupełnieniem przy tworzeniu skorowidza. Aby zostały uwzględnione, należy w <a href="tool_htmlhelp_hhp_editor.php">edytorze projektu</a>, w zakładce ogólnych ustawień zaznaczyć opcję "Włącz słowa kluczowe z plików HTML". Uwaga! Słowa kluczowe, chociaż umieszczane w procesie kompilacji jako elementy indeksu, nie są jego częściami składowymi rejestrowanymi w pliku skorowidza.
 </p>
 
 <p><b>Słowo kluczowe</b><br />
@@ -118,13 +118,13 @@ Pole to zawiera zestaw nazw ALink, jakie zostały wprowadzone. Możemy je usuwa�
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="tool_htmlhelp_general.html">HTML Help - ogólne informacje</a>
-	<li><a href="tool_htmlhelp_hhp_editor.html">Edytor projektu HTML Help</a>
-	<li><a href="tool_htmlhelp_hhc_editor.html">Edytor spisu treści HTML Help</a>
-	<li><a href="tool_htmlhelp_hhk_editor.html">Edytor skorowidza (indeksu) HTML Help</a>
-	<li><a href="tool_htmlhelp_folder_to_chm.html">Szybki HTML Help z folderu</a>
-	<li><a href="tool_htmlhelp_hhp_compilation.html">Kompiluj dokument HTML Help</a>
-	<li><a href="tool_htmlhelp_compiler_services.html">HTML Help a serwisy w Pająku</a>
+	<li><a href="tool_htmlhelp_general.php">HTML Help - ogólne informacje</a>
+	<li><a href="tool_htmlhelp_hhp_editor.php">Edytor projektu HTML Help</a>
+	<li><a href="tool_htmlhelp_hhc_editor.php">Edytor spisu treści HTML Help</a>
+	<li><a href="tool_htmlhelp_hhk_editor.php">Edytor skorowidza (indeksu) HTML Help</a>
+	<li><a href="tool_htmlhelp_folder_to_chm.php">Szybki HTML Help z folderu</a>
+	<li><a href="tool_htmlhelp_hhp_compilation.php">Kompiluj dokument HTML Help</a>
+	<li><a href="tool_htmlhelp_compiler_services.php">HTML Help a serwisy w Pająku</a>
 
 </ul>
 </td>

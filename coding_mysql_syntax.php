@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -74,7 +74,7 @@
 
 <!-- treść pomocy -->
 
-<p>Pająk wspomaga tworzenie zapytań na kilka sposobów. Możesz korzystać z <a href="tool_mysql_query_creator.html">Kreatora zapytania SQL</a>, czy <a href="tool_mysql_export_tables.html">Kreatora eksportu z bazy danych</a>, możesz też tworzyć zapytania ręcznie. W przypadku pobierania danych z jednej tabeli, nie ma nawet potrzeby kolorowania jego składni. </p>
+<p>Pająk wspomaga tworzenie zapytań na kilka sposobów. Możesz korzystać z <a href="tool_mysql_query_creator.php">Kreatora zapytania SQL</a>, czy <a href="tool_mysql_export_tables.php">Kreatora eksportu z bazy danych</a>, możesz też tworzyć zapytania ręcznie. W przypadku pobierania danych z jednej tabeli, nie ma nawet potrzeby kolorowania jego składni. </p>
 Sprawa komplikuje się jednak, gdy zapytanie obejmuje dane z wielu pól różnych tabel z wykorzystaniem różnych sposobów łączenia, funkcji itp. W takim wypadku bardzo wygodne może okazać się kolorowanie słów kluczowych zapytania (operatorów, instrukcji, funkcji). Pająk dostarcza schemat kolorowania kodu zapytań SQL w trzech odmianach:
 <ul>
 	<li><b>MySQL</b></li>
@@ -82,13 +82,13 @@ Sprawa komplikuje się jednak, gdy zapytanie obejmuje dane z wielu pól różnyc
 	<li><b>SQL</b> (standardowy)</li>
 </ul>
 
-<p>Jeśli utworzysz zapytanie w nowym dokumencie, bardzo przydatna jest możliwość wykonania go za pomocą polecenia "Wykonaj polecenia z bieżącego dokumentu" umieszczonego w <a href="main_tabs_inspector_mysql.html#dbtree_dbname">menu podręcznym gałęzi "Nazwa bazy danych"</a> na drzewku struktury bazy danych na zakładce <a href="main_tabs_inspector_mysql.html">Inspektor MySQL</a>.</p>
+<p>Jeśli utworzysz zapytanie w nowym dokumencie, bardzo przydatna jest możliwość wykonania go za pomocą polecenia "Wykonaj polecenia z bieżącego dokumentu" umieszczonego w <a href="main_tabs_inspector_mysql.html#dbtree_dbname">menu podręcznym gałęzi "Nazwa bazy danych"</a> na drzewku struktury bazy danych na zakładce <a href="main_tabs_inspector_mysql.php">Inspektor MySQL</a>.</p>
 
 
 <p>Możesz również dostosować kolorowanie składni. Służą do tego:</p>
 <ul>
-	<li><a href="syntax_editor.html">Edytor schematów kolorowania</a> - umożliwia edycję schematu kolorowania, czyli dodawanie nowych funkcji itp. Należy go używać z rozwagą, gdy wprowadzonych zmian nie można cofnąć</li>
-	<li><a href="settings_editor_syntax.html">Ustawienia programu - kolorowanie składni</a> - umożliwia dopasowanie schematu kolorowania składni, jednak bez wpływu na sam schemat. Zmiany w każdej chwili można cofnąć do stanu domyślnego. Za pomocą tego okna możesz również przypisać rozszerzenia nazw plików, dla jakich dany schemat ma być domyślnym.</li>
+	<li><a href="syntax_editor.php">Edytor schematów kolorowania</a> - umożliwia edycję schematu kolorowania, czyli dodawanie nowych funkcji itp. Należy go używać z rozwagą, gdy wprowadzonych zmian nie można cofnąć</li>
+	<li><a href="settings_editor_syntax.php">Ustawienia programu - kolorowanie składni</a> - umożliwia dopasowanie schematu kolorowania składni, jednak bez wpływu na sam schemat. Zmiany w każdej chwili można cofnąć do stanu domyślnego. Za pomocą tego okna możesz również przypisać rozszerzenia nazw plików, dla jakich dany schemat ma być domyślnym.</li>
 </ul>
 
 </td>
@@ -101,9 +101,9 @@ Sprawa komplikuje się jednak, gdy zapytanie obejmuje dane z wielu pól różnyc
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="coding_mysql.html">Wspomaganie dla MySQL - ogólnie</a></li>
-	<li><a href="syntax_editor.html">Edytor schematów kolorowania</a></li>
-	<li><a href="settings_editor_syntax.html">Ustawienia programu - kolorowanie składni</a></li>
+	<li><a href="coding_mysql.php">Wspomaganie dla MySQL - ogólnie</a></li>
+	<li><a href="syntax_editor.php">Edytor schematów kolorowania</a></li>
+	<li><a href="settings_editor_syntax.php">Ustawienia programu - kolorowanie składni</a></li>
 </ul>
 </td>
 </tr>

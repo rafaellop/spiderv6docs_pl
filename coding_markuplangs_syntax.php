@@ -26,23 +26,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -77,7 +77,7 @@
 
 
 
-<p>Dużą pomocą przy tworzeniu dokumentów różnego typu służy <a href="syntax.html">kolorowanie składni</a>. Pająk posiada wiele schematów kolorowania składni języków znacznikowych. Najwięcej, bo kilkanaście, schematów kolorowania zostało przygotowanych <a href="coding_html_syntax.html">dla języka HTML</a>. Ponadto dostępne są schematy dla:
+<p>Dużą pomocą przy tworzeniu dokumentów różnego typu służy <a href="syntax.php">kolorowanie składni</a>. Pająk posiada wiele schematów kolorowania składni języków znacznikowych. Najwięcej, bo kilkanaście, schematów kolorowania zostało przygotowanych <a href="coding_html_syntax.php">dla języka HTML</a>. Ponadto dostępne są schematy dla:
 
 <ul>
 	<li><b>MathML</b></li>
@@ -93,8 +93,8 @@
 
 <p>Możesz również dostosować kolorowanie składni. Służą do tego:</p>
 <ul>
-	<li><a href="syntax_editor.html">Edytor schematów kolorowania</a> - umożliwia edycję schematu kolorowania, czyli dodawanie nowych funkcji itp. Należy go używać z rozwagą, gdy wprowadzonych zmian nie można cofnąć</li>
-	<li><a href="settings_editor_syntax.html">Ustawienia programu - kolorowanie składni</a> - umożliwia dopasowanie schematu kolorowania składni, jednak bez wpływu na sam schemat. Zmiany w każdej chwili można cofnąć do stanu domyślnego. Za pomocą tego okna możesz również przypisać rozszerzenia nazw plików, dla jakich dany schemat ma być domyślnym.</li>
+	<li><a href="syntax_editor.php">Edytor schematów kolorowania</a> - umożliwia edycję schematu kolorowania, czyli dodawanie nowych funkcji itp. Należy go używać z rozwagą, gdy wprowadzonych zmian nie można cofnąć</li>
+	<li><a href="settings_editor_syntax.php">Ustawienia programu - kolorowanie składni</a> - umożliwia dopasowanie schematu kolorowania składni, jednak bez wpływu na sam schemat. Zmiany w każdej chwili można cofnąć do stanu domyślnego. Za pomocą tego okna możesz również przypisać rozszerzenia nazw plików, dla jakich dany schemat ma być domyślnym.</li>
 </ul>
 
 </td>
@@ -107,9 +107,9 @@
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="coding_markuplangs.html">Wspomaganie dla języków znacznikowych - ogólnie</a></li>
-	<li><a href="syntax_editor.html">Edytor schematów kolorowania</a></li>
-	<li><a href="settings_editor_syntax.html">Ustawienia programu - kolorowanie składni</a></li>
+	<li><a href="coding_markuplangs.php">Wspomaganie dla języków znacznikowych - ogólnie</a></li>
+	<li><a href="syntax_editor.php">Edytor schematów kolorowania</a></li>
+	<li><a href="settings_editor_syntax.php">Ustawienia programu - kolorowanie składni</a></li>
 </ul>
 </td>
 </tr>

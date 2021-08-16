@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -78,38 +78,38 @@
 
 
 <p><b>Nowy według domyślnego makrokodu</b><br />
-Kliknij, aby utworzyć nowy dokument na podstawie <a href="main_tabs_macrocodes.html#default_template">domyślnego makrokodu</a>. Jeśli żaden makrokod nie jest wybrany domyślnym, Pająk zaproponuje przejście do <a href="main_tabs_macrocodes.html">zakładki Makrokody</a> i wskazanie go.</p>
+Kliknij, aby utworzyć nowy dokument na podstawie <a href="main_tabs_macrocodes.html#default_template">domyślnego makrokodu</a>. Jeśli żaden makrokod nie jest wybrany domyślnym, Pająk zaproponuje przejście do <a href="main_tabs_macrocodes.php">zakładki Makrokody</a> i wskazanie go.</p>
 
 <hr>
 
 
-<p><b><a href="tool_quickstart.html">Szybki start</a></b><br />
+<p><b><a href="tool_quickstart.php">Szybki start</a></b><br />
 Kliknij, aby uruchomić narzędzie Szybki start służące do szybkiego stworzenia szkieletu strony zawierającego najważniejsze sekcje.
 
-<p><b><a href="tool_frameeditor.html">Kreator ramek</a></b><br />
+<p><b><a href="tool_frameeditor.php">Kreator ramek</a></b><br />
 Kliknij, aby otworzyć Kreatora ramek. Za pomocą tego narzędzi możesz w szybki sposób utworzyć stronę zbudowana z ramek.
 
-<p><b><a href="tool_content_list.html">Kreator spisu treści</a></b><br />
+<p><b><a href="tool_content_list.php">Kreator spisu treści</a></b><br />
 kliknij, aby otworzyć Kreatora spisu treści. Za pomocą tego narzędzia możesz w szybki sposób utworzyć spis odnośników istniejących w dokumencie.
 
 
-<p><b><a href="tool_gallery.html">Kreator galerii grafik</a></b><br />
+<p><b><a href="tool_gallery.php">Kreator galerii grafik</a></b><br />
 Kliknij, aby otworzyć kreatora galerii grafik. Narzędzie w łatwy sposób umożliwia stworzenie galerii obrazków.
 
-<p><b><a href="tool_table_quick.html">Szkielet tabeli</a></b><br />
+<p><b><a href="tool_table_quick.php">Szkielet tabeli</a></b><br />
 Kliknij, aby otworzyć Kreatora tabeli, który poprowadzi Cię przez proces tworzenia nowej tabeli.
 
-<p><b><a href="tool_table_quick.html">Bardzo szybka tabela</a></b><br />
+<p><b><a href="tool_table_quick.php">Bardzo szybka tabela</a></b><br />
 Kliknij,aby w bardzo szybki sposób utworzyć nową tabelę.
 
 
 <hr>
 
-<p><b><a href="tool_rss_creator.html">Kreator kanału RSS</a></b><br />
+<p><b><a href="tool_rss_creator.php">Kreator kanału RSS</a></b><br />
 Kliknij, aby otworzyć kreator kanału RSS - łatwego sposobu na rozpowszechnianie nowości i informacji.
 
 
-<p><b><a href="tool_xml_trans.html">Kreator tranformacji XSLT</a></b><br />
+<p><b><a href="tool_xml_trans.php">Kreator tranformacji XSLT</a></b><br />
 Kliknij, aby otworzyć kreator transformacji XSLT umożliwiający transformację dokumentu XML za pomocą arkusza XSLT.
 
 
@@ -124,8 +124,8 @@ Kliknij, aby otworzyć kreator transformacji XSLT umożliwiający transformację
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="main_menu_file.html">Menu Plik</a>
-	<li><a href="settings_toolbars.html">Ustawienia programu - Ustawienia pasków, menu i skrótów</a>
+	<li><a href="main_menu_file.php">Menu Plik</a>
+	<li><a href="settings_toolbars.php">Ustawienia programu - Ustawienia pasków, menu i skrótów</a>
 </td>
 </tr>
 </table>

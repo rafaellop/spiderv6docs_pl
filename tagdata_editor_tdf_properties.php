@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -78,7 +78,7 @@
 
 
 
-<p>Za pomocą tego narzędzia możesz określić podstawowe właściwości kategorii znaczników (języka znacznikowego) aktualnie edytowanej w <a href="tagdata_editor_tdf.html">Edytorze plików definicyjnych języków znacznikowych</a>. Dostępne są następujące ustawienia:
+<p>Za pomocą tego narzędzia możesz określić podstawowe właściwości kategorii znaczników (języka znacznikowego) aktualnie edytowanej w <a href="tagdata_editor_tdf.php">Edytorze plików definicyjnych języków znacznikowych</a>. Dostępne są następujące ustawienia:
 
 <p><b>Nazwa kategorii</b><br>
 Nazwa kategorii (języka), której definicję znaczników edytujesz (tylko podgląd, bez możliwości zmiany - do tego służy odpowiednie polecenie w edytorze TDF).
@@ -115,9 +115,9 @@ Przydatne jest to w przypadku języków, które nie posiadają jednego, stałego
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="tagdata_editor_tdf.html">Edytor plików definicyjnych języków znacznikowych</a></li>
-	<li><a href="main_editor_codeinsight.html">Uzupełnianie znaczników</a>
-	<li><a href="settings_codeinsight_tags.html">Ustawienia Dynamicznego kodu</a>
+	<li><a href="tagdata_editor_tdf.php">Edytor plików definicyjnych języków znacznikowych</a></li>
+	<li><a href="main_editor_codeinsight.php">Uzupełnianie znaczników</a>
+	<li><a href="settings_codeinsight_tags.php">Ustawienia Dynamicznego kodu</a>
 </ul>
 </td>
 </tr>

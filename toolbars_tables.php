@@ -26,23 +26,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -75,37 +75,37 @@
 <h2>Polecenia dotyczące tabel</h2>
                         <p>
 
-                        <b><a href="tool_table_editor.html">Edytor tabel</a></b><br />
+                        <b><a href="tool_table_editor.php">Edytor tabel</a></b><br />
                         Kliknij, aby uruchomić edytor tabel (domyślny skrót<tt>Ctrl+T</tt>).
                         <p>
 
-                        <b><a href="tool_table_quick.html">Bardzo szybka tabela</a></b><br />
+                        <b><a href="tool_table_quick.php">Bardzo szybka tabela</a></b><br />
                         Kliknij,aby w bardzo szybki sposób utworzyć nową tabelę.
                         <p>
 
-                        <b><a href="tool_table_quick2.html">Szkielet tabeli</a></b><br />
+                        <b><a href="tool_table_quick2.php">Szkielet tabeli</a></b><br />
                         Kliknij, aby otworzyć Kreatora tabeli, który poprowadzi Cię przez proces tworzenia nowej tabeli.
                         <p>
 
-                        <b><a href="tool_table_tag.html">Edytor znacznika &lt;TABLE&gt;</a></b><br />
+                        <b><a href="tool_table_tag.php">Edytor znacznika &lt;TABLE&gt;</a></b><br />
                         Kliknij, aby uruchomić edytor znacznika<tt>&lt;TABLE&gt;</tt>.
                         <p>
 
-                        <b><a href="tool_table_caption.html">Opis tabeli</a></b><br />
+                        <b><a href="tool_table_caption.php">Opis tabeli</a></b><br />
                         Kliknij, aby wstawić opis tabeli<tt>&lt;CAPTION&gt;</tt>;
                         <p>
 
-                        <b><a href="tool_table_row.html">Wiersz tabeli</a></b><br />
+                        <b><a href="tool_table_row.php">Wiersz tabeli</a></b><br />
                         Kliknij, aby wstawić wiersz tabeli<tt>&lt;TR&gt;</tt>.
                         <p>
 
-                        <b><a href="tool_table_cell.html">Komórka tabeli</a></b><br />
+                        <b><a href="tool_table_cell.php">Komórka tabeli</a></b><br />
                         Kliknij, aby wstawić komórkę tabeli<tt>&lt;TD&gt;</tt>.
                         <p>
 
-                        <b><a href="tool_table_tag.html">Znacznik nowej tabeli</a></b><br />
+                        <b><a href="tool_table_tag.php">Znacznik nowej tabeli</a></b><br />
                         Kliknij aby wstawić znacznik<tt>&lt;TABLE&gt;&lt;/TABLE&gt;</tt>. <br />
-                        Możesz również skorzystać ze strzałki obok przycisku, by rozwinąć menu umożliwiające szybkie wstawienie znaczników. Układ poleceń tego menu jest identyczny, jak w <a href="main_menu_htmlcode_tables.html">Menu głównym / Kod HTML / Tabele</a>
+                        Możesz również skorzystać ze strzałki obok przycisku, by rozwinąć menu umożliwiające szybkie wstawienie znaczników. Układ poleceń tego menu jest identyczny, jak w <a href="main_menu_htmlcode_tables.php">Menu głównym / Kod HTML / Tabele</a>
                         <br />
 
 
@@ -114,25 +114,25 @@
 <h2>Polecenia dotyczące formularzy</h2>
                         <p>
 
-                        <b><a href="tool_form_editor.html">Edytor formularzy</a></b><br />
+                        <b><a href="tool_form_editor.php">Edytor formularzy</a></b><br />
                         Kliknij, aby uruchomić edytor formularzy<tt>&lt;FORM&gt;</tt>.
                         <p>
 
-                        <b><a href="tool_form_selectlist.html">Lista wyboru w formularzu</a></b><br />
+                        <b><a href="tool_form_selectlist.php">Lista wyboru w formularzu</a></b><br />
                         Kliknij, aby uruchomić kreator listy wyboru w formularzu<tt>&lt;SELECT&gt;</tt>.
                         <p>
 
-                        <b><a href="tool_form_textarea.html">Okienko tekstowe w formularzu</a></b><br />
+                        <b><a href="tool_form_textarea.php">Okienko tekstowe w formularzu</a></b><br />
                         Kliknij, aby utworzyć edytor okienka tekstowego w formularzu<tt>&lt;TEXTAREA&gt;</tt>.
                         <p>
 
-                        <b><a href="tool_form_others.html">Inne elementy formularza</a></b><br />
+                        <b><a href="tool_form_others.php">Inne elementy formularza</a></b><br />
                         Kliknij, aby uruchomić kreator dodawania do formularza innych elementów formularza, jak przyciski, pola tekstowe itp.
                         <p>
 
                         <b>Znacznik szkieletu formularza</b><br />
                         Kliknij, aby wstawić szkielet znacznika formularza wraz z niezbędnymi atrybutami. <br />
-                        Możesz również skorzystać ze strzałki obok przycisku, by rozwinąć menu umożliwiające szybkie wstawienie znaczników. Układ poleceń tego menu jest identyczny, jak w <a href="main_menu_htmlcode_forms.html">Menu głównym / Kod HTML / Formularze</a>
+                        Możesz również skorzystać ze strzałki obok przycisku, by rozwinąć menu umożliwiające szybkie wstawienie znaczników. Układ poleceń tego menu jest identyczny, jak w <a href="main_menu_htmlcode_forms.php">Menu głównym / Kod HTML / Formularze</a>
                 </td>
         </tr>
         </table>
@@ -142,8 +142,8 @@
  <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-   <li><a href="main_menu_tools.html">Menu główne - Narzędzia</a>
-   <li><a href="settings_toolbars.html">Ustawienia programu - Ustawienia pasków, menu i skrótów</a></td>
+   <li><a href="main_menu_tools.php">Menu główne - Narzędzia</a>
+   <li><a href="settings_toolbars.php">Ustawienia programu - Ustawienia pasków, menu i skrótów</a></td>
 </tr>
 </table>
 <!-- pokrewne tematy koniec-->

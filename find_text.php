@@ -28,23 +28,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -118,7 +118,7 @@ Podaj tekst, który ma zostać znaleziony w dokumencie. Możesz skorzystać z li
 <p><b>Ustawienia</b> - umożliwia ustawienie opcji dla wyszukiwanego tekstu
 <ul>
    <li><b>Uwzględniaj wielkość liter</b> - zaznacz, aby w wyszukiwanym tekście wielkość liter miała znaczenie.</li>
-   <li><b>Wyrażenia regularne</b> - zaznacz, aby w wyszukiwanym tekście można było używać <a href="find_regexp.html">wyrażeń regularnych</a>.</li>
+   <li><b>Wyrażenia regularne</b> - zaznacz, aby w wyszukiwanym tekście można było używać <a href="find_regexp.php">wyrażeń regularnych</a>.</li>
    <li><b>Uwzględniaj całe wyrazy</b> - zaznacz, aby wyszukana fraza musiała być całym słowem, a nie fragmentem dłuższego słowa (np. szukając frazy 'mar' odszukane zostaną wszystkie słowa 'mar', ale nie 'marek').</li>
 </ul>
 </p>
@@ -158,7 +158,7 @@ Podaj tekst, na który ma zostać zamieniona fraza podana w polu "Znajdź tekst"
 <ul>
    <li><b>Uwzględniaj wielkość liter</b> - zaznacz, aby w wyszukiwanym tekście wielkość liter miała znaczenie.</li>
    <li><b>Pytaj przy zamianie</b> - zaznacz, aby przy znalezieniu każdej frazy zezwalać, bądź nie zezwalać na zamianę tekstu.</a>.</li>
-   <li><b>Wyrażenia regularne</b> - zaznacz, aby w wyszukiwanym tekście można było używać <a href="find_regexp.html">wyrażeń regularnych</a>.</li>
+   <li><b>Wyrażenia regularne</b> - zaznacz, aby w wyszukiwanym tekście można było używać <a href="find_regexp.php">wyrażeń regularnych</a>.</li>
    <li><b>Uwzględniaj całe wyrazy</b> - zaznacz, aby wyszukana fraza musiała być całym słowem, a nie fragmentem dłuższego słowa (np. szukając frazy 'mar' odszukane zostaną wszystkie słowa 'mar', ale nie 'marek').</li>
 </ul>
 </p>
@@ -196,7 +196,7 @@ Kliknij, aby odnaleźć i zamienić wszystkie odnalezione frazy na tekst podany 
    <li><b>etykiety</b> -  lub inaczej kotwicy, czyli do znacznika HTML o określonym atrybucie ID</li>
    <li><b>zakładki</b> - do miejsca w którym ustawiona jest wybrana <a href="main_editor_bookmarks.html#numbered">zakładka numerowana</a></li>
    <li><b>zakładki nazwanej</b> - do miejsca w którym ustawiona jest wybrana <a href="main_editor_bookmarks.html#named">zakładka nazwana</a></li>
-   <li><b>zadania do wykonania</b> - do miejsca, w którym ustawione jest <a href="main_editor_todotasks.html">Zadanie do wykonania</a></li>
+   <li><b>zadania do wykonania</b> - do miejsca, w którym ustawione jest <a href="main_editor_todotasks.php">Zadanie do wykonania</a></li>
    <li><b>wiersza o numerze</b> - do określonego wiersza w dokumencie</li>
 </ul>
 
@@ -221,12 +221,12 @@ W dolnej części okna znajduje się grupa przełączników odpowiadających za 
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-   <li><a href="find.html">Wyszukiwanie w Pająku</a>
-   <li><a href="find_ext.html">Rozszerzone wyszukiwanie i zamiana</a>
-   <li><a href="find_regexp.html">Wyszukiwanie - wyrażenia regularne</a>
-   <li><a href="main_editor_navigation.html">Inne sposoby nawigacji po dokumencie</a>
-   <li><a href="main_tabs_navigator.html">Zakładka "Nawigator"</a>
-   <li><a href="main_menu_find.html">Menu Szukaj</a>
+   <li><a href="find.php">Wyszukiwanie w Pająku</a>
+   <li><a href="find_ext.php">Rozszerzone wyszukiwanie i zamiana</a>
+   <li><a href="find_regexp.php">Wyszukiwanie - wyrażenia regularne</a>
+   <li><a href="main_editor_navigation.php">Inne sposoby nawigacji po dokumencie</a>
+   <li><a href="main_tabs_navigator.php">Zakładka "Nawigator"</a>
+   <li><a href="main_menu_find.php">Menu Szukaj</a>
 </ul>
 </td>
 </tr>

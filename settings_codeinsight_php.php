@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -116,7 +116,7 @@ Zaznacz tę opcję, jeśli chcesz, aby program wyświetlał w podpowiedzi dla fu
 
 <h2>Edytor pliku definicyjnego dla PHP</h2>
 
-<p>Korzystając z przycisku znajdującego się w tej grupie włączysz narzędzie <a href="tagdata_editor_tdf_php.html">edytora pliku definicyjnego dla PHP</a>, które pozwala na tworzenie definicji dla nowych elementów języka PHP czy też modyfikację definicji dla zdefiniowanych już funkcji i obiektów PHP.
+<p>Korzystając z przycisku znajdującego się w tej grupie włączysz narzędzie <a href="tagdata_editor_tdf_php.php">edytora pliku definicyjnego dla PHP</a>, które pozwala na tworzenie definicji dla nowych elementów języka PHP czy też modyfikację definicji dla zdefiniowanych już funkcji i obiektów PHP.
 
 </td>
 </tr>
@@ -129,9 +129,9 @@ Zaznacz tę opcję, jeśli chcesz, aby program wyświetlał w podpowiedzi dla fu
 <h4>Pokrewne tematy</h4>
 <ul>
 	<li><a href="settings_codeinsight.html#settingslistcodeinsight">Inne ustawienia ułatwień</a>
-	<li><a href="main_editor_codeinsight.html">Dynamiczny kod</a>
-	<li><a href="coding_php.html">Korzystanie z PHP w Pająku</a>
-	<li><a href="tagdata_editor_tdf_php.html">Edytor pliku definicyjnego dla PHP</a>
+	<li><a href="main_editor_codeinsight.php">Dynamiczny kod</a>
+	<li><a href="coding_php.php">Korzystanie z PHP w Pająku</a>
+	<li><a href="tagdata_editor_tdf_php.php">Edytor pliku definicyjnego dla PHP</a>
 </ul>
 </td>
 </tr>

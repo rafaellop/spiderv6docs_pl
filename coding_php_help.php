@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -79,7 +79,7 @@
 
 
 <p>Bardzo pomocne podczas pracy może okazać się skorzystanie z pomocy kontekstowej dla PHP. Pomoc kontekstowa opiera się na ogólnie dostępnym <a href="https://www.php.net/manual/pl/" target="_blank">podręczniku PHP</a>. </p>
-<p>Dzięki wbudowaniu mechanizmu obsługi podręcznika w program, możesz skorzystać z niej w dowolnej chwili i od razu przejść do tematu dotyczącego wybranej funkcji! Aby przeczytać informację na temat wybranej funkcji, postaw na niej kursor i skorzystać ze skrótu klawiszowego <tt>Ctrl+F1</tt>. Możesz również skorzystać z polecenia w <a href="main_menu_editor.html">menu podręcznym edytora</a>. Tekst pomocy wyświetli się na <a href="down_help.html">dolnym panelu</a>.</p>
+<p>Dzięki wbudowaniu mechanizmu obsługi podręcznika w program, możesz skorzystać z niej w dowolnej chwili i od razu przejść do tematu dotyczącego wybranej funkcji! Aby przeczytać informację na temat wybranej funkcji, postaw na niej kursor i skorzystać ze skrótu klawiszowego <tt>Ctrl+F1</tt>. Możesz również skorzystać z polecenia w <a href="main_menu_editor.php">menu podręcznym edytora</a>. Tekst pomocy wyświetli się na <a href="down_help.php">dolnym panelu</a>.</p>
 
 <p>Przykładowo - możesz wpisać w edytorze <tt>mysql_fetch_row()</tt>, następnie postawić kursor na tej funkcji i wcisnąć Cltr+F1. Pojawi się dolny panel, a w nim od razu będzie wyświetlona strona dotycząca tej funkcji.</p>
 
@@ -100,8 +100,8 @@ Do chwili obecnej nie cały podręcznik PHP został przetłumaczony na język po
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="coding_php.html">Wspomaganie dla PHP - ogólnie</a></li>
-	<li><a href="down_help.html">Dolny panel wyników - Pomoc do programu</a></li>
+	<li><a href="coding_php.php">Wspomaganie dla PHP - ogólnie</a></li>
+	<li><a href="down_help.php">Dolny panel wyników - Pomoc do programu</a></li>
 </ul>
 </td>
 </tr>

@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -82,7 +82,7 @@
 
 <h2>Uruchamianie</h2>
 
-<p>Kreator transformacji XSLT możesz uruchomić za pomocą polecenia oznaczonego ikoną pokazaną powyżej znajdującego się w <a href="main_menu_main.html">Menu głównym</a> / <a href="main_menu_tools.html">Narzędzia</a> / <a href="main_menu_tools_creators.html">Kreatory kodu znaczników</a>, a także za pomocą przycisku pokazanego wyżej umieszczonego na pasku narzędzi.
+<p>Kreator transformacji XSLT możesz uruchomić za pomocą polecenia oznaczonego ikoną pokazaną powyżej znajdującego się w <a href="main_menu_main.php">Menu głównym</a> / <a href="main_menu_tools.php">Narzędzia</a> / <a href="main_menu_tools_creators.php">Kreatory kodu znaczników</a>, a także za pomocą przycisku pokazanego wyżej umieszczonego na pasku narzędzi.
 
 
 <p>Pomiędzy planszami poruszasz się za pomocą przycisków Dalej i Wstecz.
@@ -99,7 +99,7 @@
 	<li>dokumenty z wybranego serwisu WWW</li>
 </ul></p>
 
-<p>Jeśli wybierzesz jedną z trzech ostatnich pozycji, w następnej planszy będziesz mógł wybrać odpowiednio plik, folder (z podfolderami i wskazać rodzaje dokumentów), bądź <a href="services_general.html">serwis WWW</a> (i wskazać rodzaje dokumentów).</p>
+<p>Jeśli wybierzesz jedną z trzech ostatnich pozycji, w następnej planszy będziesz mógł wybrać odpowiednio plik, folder (z podfolderami i wskazać rodzaje dokumentów), bądź <a href="services_general.php">serwis WWW</a> (i wskazać rodzaje dokumentów).</p>
 
 
 
@@ -186,8 +186,8 @@ Podaj ścieżkę do foldera, w którym zapisane zostaną dokumenty docelowe. Mo�
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="main_menu_main.html">Menu programu</a>
-	<li><a href="toolbars_general.html">Inne narzędzia na paskach</a>
+	<li><a href="main_menu_main.php">Menu programu</a>
+	<li><a href="toolbars_general.php">Inne narzędzia na paskach</a>
 </ul>
 </td>
 </tr>

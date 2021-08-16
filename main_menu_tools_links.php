@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -77,13 +77,13 @@
 <p>Menu zawiera polecenia uruchamiające narzędzia do tworzenia, edycji i weryfikacji odsyłaczy w dokumencie.</p>
 
 
-<p><b><a href="tool_link.html">Edytor odsyłaczy</a></b><br />
+<p><b><a href="tool_link.php">Edytor odsyłaczy</a></b><br />
 Kliknij, aby uruchomić edytor odsyłaczy <tt>&lt;A&gt;</tt> (domyślny skrót <tt>Shift+Ctrl+A</tt>).
 
-<p><b><a href="tool_link_map_editor.html">Edytor map odsyłaczy</a></b><br />
+<p><b><a href="tool_link_map_editor.php">Edytor map odsyłaczy</a></b><br />
 Kliknij, aby uruchomić edytor map odsyłaczy.
 
-<p><b><a href="down_links_verify.html">Sprawdź odsyłacze</a></b><br />
+<p><b><a href="down_links_verify.php">Sprawdź odsyłacze</a></b><br />
 Kliknij, aby sprawdzić poprawność odsyłaczy w dokumencie.
 
 
@@ -97,8 +97,8 @@ Kliknij, aby sprawdzić poprawność odsyłaczy w dokumencie.
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-   <li><a href="main_menu_tools.html">Menu główne - Narzędzia</a></li>
-   <li><a href="settings_toolbars.html">Ustawienia programu - Ustawienia pasków, menu i skrótów</a></li>
+   <li><a href="main_menu_tools.php">Menu główne - Narzędzia</a></li>
+   <li><a href="settings_toolbars.php">Ustawienia programu - Ustawienia pasków, menu i skrótów</a></li>
 </ul>
 </td>
 </tr>

@@ -28,23 +28,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -94,7 +94,7 @@
 	<li>użycie makrokodu ma spowodować skopiowanie arkusza CSS w miejsce, gdzie jest zapisany dokument, do którego znacznik będzie wstawiany.</li>
 </ul></p>
 
-<p>Po otworzeniu <a href="macrocodes_editor.html">Edytora makrokodów</a> wybierz dla niego nazwę. W tym wypadku najlepsza będzie "LINK - dołączanie CSS"</p>
+<p>Po otworzeniu <a href="macrocodes_editor.php">Edytora makrokodów</a> wybierz dla niego nazwę. W tym wypadku najlepsza będzie "LINK - dołączanie CSS"</p>
 
 <p>Typ makrokodu może pozostać domyślny - "Po prostu makrokod".</p>
 
@@ -141,11 +141,11 @@ Aby utworzyć zmienną, kliknij w ikonę "Dodanie nowej zmiennej" w menu nad okn
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="settings_macrocodes.html">Ustawienia programu - Makrokody.</a>
-	<li><a href="macrocodes_editor.html">Edytor makrokodów.</a>
-	<li><a href="macrocodes_instruction.html">Tworzenie makrokodu - instrukcja krok po kroku - wstęp.</a>
-	<li><a href="main_tabs_macrocodes.html">Zakładka Makrokody</a>
-	<li><a href="macrocodes.html">Makrokody - ogólnie</a>
+	<li><a href="settings_macrocodes.php">Ustawienia programu - Makrokody.</a>
+	<li><a href="macrocodes_editor.php">Edytor makrokodów.</a>
+	<li><a href="macrocodes_instruction.php">Tworzenie makrokodu - instrukcja krok po kroku - wstęp.</a>
+	<li><a href="main_tabs_macrocodes.php">Zakładka Makrokody</a>
+	<li><a href="macrocodes.php">Makrokody - ogólnie</a>
 </ul>
 </td>
 </tr>

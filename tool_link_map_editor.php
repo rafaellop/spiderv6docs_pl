@@ -28,23 +28,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -77,7 +77,7 @@
 
 <p>Okno służy do generowania mapy odsyłaczy (znacznik <tt>MAP</tt> w języku HTML). 
 
-<p> Narzędzie można uruchomić z poziomu menu <a href="main_menu_main.html">Menu głównego</a> / <a href="main_menu_tools.html">Narzędzia</a> / <a href="main_menu_tools_links.html">Odsyłacze</a> (lub <a href="main_menu_tools_gfx.html">Grafika i multimedia</a>), a także z pasków narzędzi. Ikona polecenia przedstawiona została powyżej.</p>
+<p> Narzędzie można uruchomić z poziomu menu <a href="main_menu_main.php">Menu głównego</a> / <a href="main_menu_tools.php">Narzędzia</a> / <a href="main_menu_tools_links.php">Odsyłacze</a> (lub <a href="main_menu_tools_gfx.php">Grafika i multimedia</a>), a także z pasków narzędzi. Ikona polecenia przedstawiona została powyżej.</p>
 
 <p>Okno podzielone zostało kilka części:
 
@@ -125,7 +125,7 @@ Zawiera ustawienia dla wybranego obszaru.</p>
 
 <b>Graficzna mapa</b><br />
 <ul>
-	<li><b>Lokalizacja grafiki mapy</b> - podaj ścieżkę do pliku graficznego. Możesz skorzystać z <a href="tool_graphic_browser.html">przeglądarki grafik</a> uruchamianej przyciskiem z prawej strony pola.</li>
+	<li><b>Lokalizacja grafiki mapy</b> - podaj ścieżkę do pliku graficznego. Możesz skorzystać z <a href="tool_graphic_browser.php">przeglądarki grafik</a> uruchamianej przyciskiem z prawej strony pola.</li>
 	<li><b>Opis obrazka</b> - podaj opis obrazka, który pojawi się zamiast grafiki, jeśli użytkownik nie ma włączonego wyświetlania obrazków. Opis pozwoli mu się zorientować, co przedstawia obrazek.</li>
 </ul>
 
@@ -136,8 +136,8 @@ Zaznacz, jeśli nie chcesz wstawiać znaczników wygenerowanej mapy do dokumentu
 Ta grupa pozwala na określenie stylu dla obrazka. Znajdziesz tutaj trzy pola pozwalające na określenie:
 
 <ul>
-	<li><b>Styl</b> - W tym polu określasz styl dla obrazka umieszczanego w dokumencie. Przycisk obok uruchamia narzędzie <a href="tool_style_editor.html">edytora stylów</a> umożliwiające stworzenie definicji stylu w przyjazny i wygodny sposób. Klikając tam możesz również modyfikować istniejący styl.</li>
-	<li><b>Klasa</b> - W tym polu podajesz identyfikator klasy przypisany znacznikowi. Rozwijana lista umożliwia dostęp do klas zdefiniowanych w bieżącym dokumencie oraz w dołączonych do niego zewnętrznych arkuszach stylów. Przycisk znajdujący się obok uruchamia <a href="tool_style_class.html">narzędzie tworzenia nowej klasy</a>. </li>
+	<li><b>Styl</b> - W tym polu określasz styl dla obrazka umieszczanego w dokumencie. Przycisk obok uruchamia narzędzie <a href="tool_style_editor.php">edytora stylów</a> umożliwiające stworzenie definicji stylu w przyjazny i wygodny sposób. Klikając tam możesz również modyfikować istniejący styl.</li>
+	<li><b>Klasa</b> - W tym polu podajesz identyfikator klasy przypisany znacznikowi. Rozwijana lista umożliwia dostęp do klas zdefiniowanych w bieżącym dokumencie oraz w dołączonych do niego zewnętrznych arkuszach stylów. Przycisk znajdujący się obok uruchamia <a href="tool_style_class.php">narzędzie tworzenia nowej klasy</a>. </li>
 	<li><b>Identyfikator elementu</b> - Tutaj podajesz unikalny identyfikator tego elementu w dokumencie. Identyfikatory te mogą być wykorzystywane np. przy wykonywaniu skoków do określonych części strony bądź w skryptach.</li>
 </ul>
 </p>
@@ -198,7 +198,7 @@ Podaj klawisz skrótu, jakiego będzie można użyć w celu przejścia pod adres
 Wybierz z listy okno, w którym ma zostać wyświetlony element docelowy.
 
 <p><b>Dodatkowe zdarzenie i atrybuty dla tego obszaru</b><br>
-Kliknij ten przycisk, aby otworzyć okno służące do definiowania <a href="tool_events_attributes.html">dodatkowych atrybutów znacznika obszaru &lt;area&gt; i obsługi jego zdarzeń</a>. 
+Kliknij ten przycisk, aby otworzyć okno służące do definiowania <a href="tool_events_attributes.php">dodatkowych atrybutów znacznika obszaru &lt;area&gt; i obsługi jego zdarzeń</a>. 
 
 
 
@@ -208,17 +208,17 @@ Kliknij ten przycisk, aby otworzyć okno służące do definiowania <a href="too
 <p>Ta grupa pozwala na określenie stylu dla znacznika. Znajdziesz tutaj trzy pola pozwalające na określenie:
 
 <p><b>Definicja stylu</b><br>
-W tym polu określasz styl dla elementu umieszczanego w dokumencie. Przycisk obok uruchamia narzędzie <a href="tool_style_editor.html">edytora stylów</a> umożliwiające stworzenie definicji stylu w przyjazny i wygodny sposób. Klikając tam możesz również modyfikować istniejący styl.
+W tym polu określasz styl dla elementu umieszczanego w dokumencie. Przycisk obok uruchamia narzędzie <a href="tool_style_editor.php">edytora stylów</a> umożliwiające stworzenie definicji stylu w przyjazny i wygodny sposób. Klikając tam możesz również modyfikować istniejący styl.
 
 <p><b>Wybór klasy</b><br>
-W tym polu podajesz identyfikator klasy przypisany znacznikowi. Rozwijana lista umożliwia dostęp do klas zdefiniowanych w bieżącym dokumencie oraz w dołączonych do niego zewnętrznych arkuszach stylów. Przycisk znajdujący się obok uruchamia <a href="tool_style_class.html">narzędzie tworzenia nowej klasy</a>. 
+W tym polu podajesz identyfikator klasy przypisany znacznikowi. Rozwijana lista umożliwia dostęp do klas zdefiniowanych w bieżącym dokumencie oraz w dołączonych do niego zewnętrznych arkuszach stylów. Przycisk znajdujący się obok uruchamia <a href="tool_style_class.php">narzędzie tworzenia nowej klasy</a>. 
 
 <p><b>Identyfikator elementu</b><br>
 Tutaj podajesz unikalny identyfikator tego elementu w dokumencie. Identyfikatory te mogą być wykorzystywane np. przy wykonywaniu skoków do określonych części strony bądź w skryptach.
 
 <h2>Przycisk "Zdarzenia i atrybuty"</h2>
 
-<p>Przycisk "Zdarzenia i atrybuty" umożliwia otwarcie okna <a href="tool_events_attributes.html">Zdarzenia i inne atrybuty</a>. Okno to umożliwia określenie dodatkowych atrybutów edytowanego znacznika, które nie mają swoich odpowiedników w oknie narzędzia. Możesz tam również określić zdarzenia dla języków skryptowych pozwalające na uzyskanie różnych efektów specjalnych.
+<p>Przycisk "Zdarzenia i atrybuty" umożliwia otwarcie okna <a href="tool_events_attributes.php">Zdarzenia i inne atrybuty</a>. Okno to umożliwia określenie dodatkowych atrybutów edytowanego znacznika, które nie mają swoich odpowiedników w oknie narzędzia. Możesz tam również określić zdarzenia dla języków skryptowych pozwalające na uzyskanie różnych efektów specjalnych.
 
 
 </td>
@@ -231,8 +231,8 @@ Tutaj podajesz unikalny identyfikator tego elementu w dokumencie. Identyfikatory
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="tool_graphic_insert.html">Wstawienie grafiki</a>
-	<li><a href="tool_link.html">Wstawianie odnośnika</a>
+	<li><a href="tool_graphic_insert.php">Wstawienie grafiki</a>
+	<li><a href="tool_link.php">Wstawianie odnośnika</a>
 </ul>
 </td>
 </tr>

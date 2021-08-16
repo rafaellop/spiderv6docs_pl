@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -78,7 +78,7 @@
 
 
 
-<p>Jeśli nie pamiętasz do czego służy dana funkcja JavaScript, lub VBScript, bądź szukasz funkcji odpowiedniej do wykonania określonego zadania, bardzo przydatna jest  zakładka <a href="main_tabs_languages.html">Języki programowania</a>. </p>
+<p>Jeśli nie pamiętasz do czego służy dana funkcja JavaScript, lub VBScript, bądź szukasz funkcji odpowiedniej do wykonania określonego zadania, bardzo przydatna jest  zakładka <a href="main_tabs_languages.php">Języki programowania</a>. </p>
 
 <h2>Opis narzędzia</h2>
 
@@ -100,7 +100,7 @@
 
 <h2>Edytowanie pliku definicyjnego</h2>
 
-<p>Do edycji danych, z których korzysta narzędzie służy <a href="tagdata_editor_tdf_scripts.html">Edytor pliku definicyjnego dla JavaScript i VBScript</a>. Przy jego pomocy możesz zmienić opis istniejącej funkcji, dodawać nowe funkcje itd. </p>
+<p>Do edycji danych, z których korzysta narzędzie służy <a href="tagdata_editor_tdf_scripts.php">Edytor pliku definicyjnego dla JavaScript i VBScript</a>. Przy jego pomocy możesz zmienić opis istniejącej funkcji, dodawać nowe funkcje itd. </p>
 
 
 </td>
@@ -113,8 +113,8 @@
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="main_tabs_languages.html">Zakładka "Języki programowania"</a></li>
-	<li><a href="tagdata_editor_tdf_scripts.html">Edytor pliku definicyjnego dla JavaScript i VBScript</a>
+	<li><a href="main_tabs_languages.php">Zakładka "Języki programowania"</a></li>
+	<li><a href="tagdata_editor_tdf_scripts.php">Edytor pliku definicyjnego dla JavaScript i VBScript</a>
 </ul>
 </td>
 </tr>

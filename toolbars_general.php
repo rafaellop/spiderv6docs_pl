@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -89,14 +89,14 @@
 <p>Pająk posiada osiem pasków narzędzi, na których umieszczone zostały przyciski i rozwijane menu służące do wstawiania elementów strony, sterowania pracą programu itp.: </p>
 
 <ul>
-        <li><a href="toolbars_main.html">Główny pasek</a> - zawiera polecenia tworzenia nowego dokumentu, operacji cofania i ponawiania, drukowania itp.<br /><br /></li>
-        <li><a href="toolbars_often.html">Często używane</a> - zawiera często używane polecenia, jak np. wstawianie obrazków, odsyłaczy, narzędzia formatowania kodu i weryfikacji składni itp.<br /><br /></li>
-        <li><a href="toolbars_link_format.html">Odsyłacze, tekst i formatowanie</a> - zawiera polecenia wstawiające służące do dokumentu wszelkie znaczniki HTML.<br /><br /></li>
-        <li><a href="toolbars_tables.html">Tabele i formularze</a> - zawiera polecenia uruchamiające narzędzia służące do tworzenia i edycji tabel i formularzy<br /><br /></li>
-        <li><a href="toolbars_gfx.html">Grafika i multimedia</a> - zawiera polecenia uruchamiające narzędzia służące do wstawiania do dokumentu grafik, multimediów, tworzenia galerii i konwersji grafik itp.<br /><br /></li>
-        <li><a href="toolbars_objects_scripts.html">Java, ActiveX, SSi i inne</a> - zawiera polecenia uruchamiające narzędzia służące do osadzania w dokumencie różnych obiektów, jak aplety Java, kontrolki ActiveX, skrypty itp.<br /><br /></li>
-        <li><a href="toolbars_minitoolbar.html">Mini pasek edytora</a> - zawiera polecenia do bieżącej obsługi dokumentu, jak np. zmiana kolorowania składni, włączanie i wyłączanie edycji wizualnej, uruchamiania okna informacji o dokumencie i inne.<br /><br /></li>
-        <li><a href="toolbars_htmlhelp.html">Narzedzia HTML Help</a> - zawiera narzędzie do obsługi HTML Help.<br /><br /></li>
+        <li><a href="toolbars_main.php">Główny pasek</a> - zawiera polecenia tworzenia nowego dokumentu, operacji cofania i ponawiania, drukowania itp.<br /><br /></li>
+        <li><a href="toolbars_often.php">Często używane</a> - zawiera często używane polecenia, jak np. wstawianie obrazków, odsyłaczy, narzędzia formatowania kodu i weryfikacji składni itp.<br /><br /></li>
+        <li><a href="toolbars_link_format.php">Odsyłacze, tekst i formatowanie</a> - zawiera polecenia wstawiające służące do dokumentu wszelkie znaczniki HTML.<br /><br /></li>
+        <li><a href="toolbars_tables.php">Tabele i formularze</a> - zawiera polecenia uruchamiające narzędzia służące do tworzenia i edycji tabel i formularzy<br /><br /></li>
+        <li><a href="toolbars_gfx.php">Grafika i multimedia</a> - zawiera polecenia uruchamiające narzędzia służące do wstawiania do dokumentu grafik, multimediów, tworzenia galerii i konwersji grafik itp.<br /><br /></li>
+        <li><a href="toolbars_objects_scripts.php">Java, ActiveX, SSi i inne</a> - zawiera polecenia uruchamiające narzędzia służące do osadzania w dokumencie różnych obiektów, jak aplety Java, kontrolki ActiveX, skrypty itp.<br /><br /></li>
+        <li><a href="toolbars_minitoolbar.php">Mini pasek edytora</a> - zawiera polecenia do bieżącej obsługi dokumentu, jak np. zmiana kolorowania składni, włączanie i wyłączanie edycji wizualnej, uruchamiania okna informacji o dokumencie i inne.<br /><br /></li>
+        <li><a href="toolbars_htmlhelp.php">Narzedzia HTML Help</a> - zawiera narzędzie do obsługi HTML Help.<br /><br /></li>
 </ul>
 
 <p>Możesz także skorzystać z trzech dodatkowych pasków, na których możesz umieścić dowolne polecenia dostępne w Pająku.</p>
@@ -107,11 +107,11 @@
 Aby przemieścić pasek narzędzi w inne miejsce, chwyć go z lewej strony (jeśli pasek ułożony jest pionowo, to u góry) i przeciągnij w docelowe miejsce. Jeśli to możliwe, pasek zadokuje się w tym miejscu. W przeciwnym razie utworzy pływające okno.</p>
 
 <p><b>Dostosowywanie istniejących pasków</b>
-Aby dostosować paski do swoich potrzeb, kliknij na którymś z pasków prawym klawiszem myszki i wybierz polecenie <a href="settings_toolbars_toolbars.html">Dostosuj paski, menu i skróty</a>.</p>
+Aby dostosować paski do swoich potrzeb, kliknij na którymś z pasków prawym klawiszem myszki i wybierz polecenie <a href="settings_toolbars_toolbars.php">Dostosuj paski, menu i skróty</a>.</p>
 
 <p><b>Zawijanie zbyt długich pasków narzędzi</b><br />
 Jeśli pasek narzędzie jest zbyt długi, by się zmieścić w przewidzianym dla niego miejscu, może on zostać zawinięty. W przypadku pasków wyświetlanych w pionie, ikony, które się nie zmieściły, zostaną wyświetlone w kolejnej kolumnie. W przypadku pasków poziomych - w kolejnych wierszu. <br>
-Alternatywnie, zamiast zawijania zbyt długich pasków, na końcu każdego takiego paska może się pojawić przycisk, którego kliknięcie spowoduje wyświetlenie pozostałej zawartości tego paska. Odpowiednie opcje znajdziesz w oknie <a href="settings_toolbars_look.html">Ustawienia programu - Wygląd pasków i menu</a>, do którego najszybciej można się dostać za pomocą polecenia <b>Dostosuj paski,menu i skrótu</b> w menu kontekstowym dla dowolnego paska narzędzi i menu.
+Alternatywnie, zamiast zawijania zbyt długich pasków, na końcu każdego takiego paska może się pojawić przycisk, którego kliknięcie spowoduje wyświetlenie pozostałej zawartości tego paska. Odpowiednie opcje znajdziesz w oknie <a href="settings_toolbars_look.php">Ustawienia programu - Wygląd pasków i menu</a>, do którego najszybciej można się dostać za pomocą polecenia <b>Dostosuj paski,menu i skrótu</b> w menu kontekstowym dla dowolnego paska narzędzi i menu.
 
 
 </td>
@@ -124,7 +124,7 @@ Alternatywnie, zamiast zawijania zbyt długich pasków, na końcu każdego takie
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-        <li><a href="settings_toolbars_toolbars.html">Ustawienia programu - Ustawienia pasków narzędzi</a>
+        <li><a href="settings_toolbars_toolbars.php">Ustawienia programu - Ustawienia pasków narzędzi</a>
 </td>
 </tr>
 </table>

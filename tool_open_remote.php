@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -74,7 +74,7 @@
 
 <!-- nagłowek podtematu -->
 
-<p>Okno służy do otwierania dokumentów zdalnych na serwerze HTTP (serwer www) bądź FTP. Możesz je otworzyć z menu <a href="main_menu_file.html">Plik</a> / Otwórz z Sieci, lub za pomocą standardowego skrótu klawiszowego <tt>Ctrl+D</tt>. Ikona polecenia została pokazana obok.</p>
+<p>Okno służy do otwierania dokumentów zdalnych na serwerze HTTP (serwer www) bądź FTP. Możesz je otworzyć z menu <a href="main_menu_file.php">Plik</a> / Otwórz z Sieci, lub za pomocą standardowego skrótu klawiszowego <tt>Ctrl+D</tt>. Ikona polecenia została pokazana obok.</p>
 
 <p>Okno zostało podzielone na dwie zakładki:</p>
 
@@ -117,7 +117,7 @@ Podaj numer portu, na którym pracuje serwer FTP. Standardowo jest to port nr 21
 Podaj nazwę użytkownika i hasło.</p>
 
 <p><b>Lista serwerów FTP</b><br />
-Kliknij, aby wybrać z listy nazwę <a href="settings_network_ftpservers_add.html">serwera FTP</a>, z którego mają być skopiowane i przypisane w tym okienku ustawienia.</p>
+Kliknij, aby wybrać z listy nazwę <a href="settings_network_ftpservers_add.php">serwera FTP</a>, z którego mają być skopiowane i przypisane w tym okienku ustawienia.</p>
 
 <p><b>Pamiętaj hasło</b><br />
 Zaznacz, jeśli program ma zapamiętać hasło dla tej nazwy użytkownika.</p>
@@ -135,8 +135,8 @@ Podaj ścieżkę do pliku na serwerze.</p>
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="main_menu_file.html">Menu Plik</a>
-	<li><a href="network_opendoc_ftp.html">Otwieranie i edycja dokumentów bezpośrednio na serwerze - ogólnie</a>
+	<li><a href="main_menu_file.php">Menu Plik</a>
+	<li><a href="network_opendoc_ftp.php">Otwieranie i edycja dokumentów bezpośrednio na serwerze - ogólnie</a>
 </ul>
 </td>
 </tr>

@@ -28,23 +28,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -82,7 +82,7 @@ Kategoria o nazwie "Kolorowanie składni" pozwala na dostosowanie kolorowania sk
 <p>Okno to umożliwia dostosowanie poszczególnych schematów kolorowania do własnych potrzeb i preferencji. Aby dostosować właściwości schematu, wybierz go z listy, a następnie skorzystaj z przycisków z prawej strony listy:</p>
 
 <p><b>Właściwości schematu kolorowania</b><br />
-Kliknij, aby otworzyć okno <a href="settings_editor_syntax_properties.html">Właściwości schematu kolorowania</a> służące do zmian w ustawieniach schematu kolorowania wybranego z listy. 
+Kliknij, aby otworzyć okno <a href="settings_editor_syntax_properties.php">Właściwości schematu kolorowania</a> służące do zmian w ustawieniach schematu kolorowania wybranego z listy. 
 Możliwe jest dopasowanie kolorów i stylów tekstu, a także rozszerzeń nazw plików, dla których dany schemat kolorowania będzie domyślnie stosowany oraz przypisanie schematu do grupy schematów kolorowania.</p>
 
 
@@ -94,13 +94,13 @@ Kliknij, aby wybrać danych schemat jako domyślny dla nowych dokumentów. </p>
 
 
 <p><b>Edycja schematu kolorowania</b><br />
-Kliknij, aby otworzyć '<a href="syntax_editor.html">Edytor schematów kolorowania</a>'. Narzędzie to umożliwia tworzenie nowych i edycję istniejących schematów kolorowania. Zmiany wprowadzone za pomocą 'Edytora schematów kolorowania' są nieodwracalne, dlatego zalecane jest zapisywanie zmian w nowym pliku pozostawiając oryginalny schemat niezmieniony!</p>
+Kliknij, aby otworzyć '<a href="syntax_editor.php">Edytor schematów kolorowania</a>'. Narzędzie to umożliwia tworzenie nowych i edycję istniejących schematów kolorowania. Zmiany wprowadzone za pomocą 'Edytora schematów kolorowania' są nieodwracalne, dlatego zalecane jest zapisywanie zmian w nowym pliku pozostawiając oryginalny schemat niezmieniony!</p>
 
 <p><b>Zawsze używaj domyślnego schematu niezależnie od rozszerzenia</b><br>
 Zaznacz, jeśli chcesz, aby program stosował zawsze tylko domyślnie wybrany schemat kolorowania do wszystkich otwieranych i tworzonych dokumentów, niezależnie od ich rozszerzenia i przypisanego do niego schematu kolorowania na liście.</p>
 
 <p><b>Wyświetlaj pogrupowane schematy</b><br />
-Jeśli włączysz ten przełącznik, schematy kolorowania na liście schematów w głównym oknie (na <a href="toolbars_minitoolbar.html">mini pasku przycisków</a> i w <a href="main_menu_editor.html">menu podręcznym edytora</a>) programu będą wyświetlane w sposób pogrupowany wg typów wybranych dla schematów kolorowania.
+Jeśli włączysz ten przełącznik, schematy kolorowania na liście schematów w głównym oknie (na <a href="toolbars_minitoolbar.php">mini pasku przycisków</a> i w <a href="main_menu_editor.php">menu podręcznym edytora</a>) programu będą wyświetlane w sposób pogrupowany wg typów wybranych dla schematów kolorowania.
 
 <h2>Podświetlanie nawiasów</h2>
 
@@ -118,9 +118,9 @@ Dzięki podświetlaniu odpowiadających sobie par nawiasów, w łatwy sposób mo
 <h4>Pokrewne tematy</h4>
 <ul>
 	<li><a href="settings.html#settingslist">Inne ustawienia</a>
-	<li><a href="settings_editor_syntax_properties.html">Właściwości schematu kolorowania</a>
-	<li><a href="syntax_editor.html">Edytor kolorowania składni</a>
-	<li><a href="syntax.html">Ogólnie o kolorowaniu składni w Pająku</a>
+	<li><a href="settings_editor_syntax_properties.php">Właściwości schematu kolorowania</a>
+	<li><a href="syntax_editor.php">Edytor kolorowania składni</a>
+	<li><a href="syntax.php">Ogólnie o kolorowaniu składni w Pająku</a>
 </ul>
 </td>
 </tr>

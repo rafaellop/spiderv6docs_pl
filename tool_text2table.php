@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -74,7 +74,7 @@
 
 <p>Narzędzie to pozwala na zamianę zaznaczonego tekstu na tabelę, przy czym podział na kolumny i wiersze odbywa się wg jednego z separatorów wybranych w oknie narzędzia.
 
-<p>Aby skorzystać z narzędzia zamiany tekstu na tabelę wejdź do <a href="main_menu_main.html">Menu głównego</a> / <a href="main_menu_edit.html">Edycja</a> / <a href="main_menu_edit_change_selected.html">Zaznaczony tekst na ...</a> / Zaznaczony na tabelę. Opisywane narzędzie uruchomisz również z paska narzędzi <a href="toolbars_link_format.html">Odsyłacze, tekst, formatowanie</a>.
+<p>Aby skorzystać z narzędzia zamiany tekstu na tabelę wejdź do <a href="main_menu_main.php">Menu głównego</a> / <a href="main_menu_edit.php">Edycja</a> / <a href="main_menu_edit_change_selected.php">Zaznaczony tekst na ...</a> / Zaznaczony na tabelę. Opisywane narzędzie uruchomisz również z paska narzędzi <a href="toolbars_link_format.php">Odsyłacze, tekst, formatowanie</a>.
    
 <p>Jak już wspomniano, aby można było utworzyć tabelę składającą się z kilku kolumn, należy w oknie narzędzia wskazać separator, który będzie używany do rozpoznania kolumn lub wierszy. Możesz wybrać jeden z predefiniowanych (i najczęściej zresztą używanych) separatorów, jak średnik, spacja, czy przecinek, bądź wprowadzić własny separator poszczególnych kolumn tabeli, zaś każdy wiersz zaznaczonego tekstu stanie się wierszem tabeli. 
 
@@ -97,7 +97,7 @@ wiśnie;truskawki;orzechy</tt>
 </tr>
 </table>
 
-<p>W oknie narzędzia znajduje się również przełącznik <b>Wstaw znacznik tabeli</b>. Zaznaczenie tego przełącznika powoduje wstawienie znacznika <tt>table</tt> wokół teksu przetworzonego na wiersze i kolumny. Jeśli przełącznik ten jest włączony możesz również określić parametry znacznika <tt>table</tt> klikając przycisk Właściwości tabeli, który otworzy okienko <a href="tool_table_tag.html">ustawień znacznika <tt>table</tt></a>, gdzie będziesz mógł określić np. obramowanie czy styl tabeli.
+<p>W oknie narzędzia znajduje się również przełącznik <b>Wstaw znacznik tabeli</b>. Zaznaczenie tego przełącznika powoduje wstawienie znacznika <tt>table</tt> wokół teksu przetworzonego na wiersze i kolumny. Jeśli przełącznik ten jest włączony możesz również określić parametry znacznika <tt>table</tt> klikając przycisk Właściwości tabeli, który otworzy okienko <a href="tool_table_tag.php">ustawień znacznika <tt>table</tt></a>, gdzie będziesz mógł określić np. obramowanie czy styl tabeli.
 
 </td>
 </tr>
@@ -109,12 +109,12 @@ wiśnie;truskawki;orzechy</tt>
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-        <li><a href="main_menu_edit_change_selected.html">Inne operacje na zaznaczonym tekście</a>
-        <li><a href="tool_table_tag.html">Znacznik table</a>
-        <li><a href="tool_table_editor.html">Edytor tabel</a>
-        <li><a href="tool_table_quick.html">Bardzo szybka tabela</a>
-        <li><a href="main_menu_main.html">Menu programu</a>
-        <li><a href="toolbars_general.html">Narzędzia na paskach</a>
+        <li><a href="main_menu_edit_change_selected.php">Inne operacje na zaznaczonym tekście</a>
+        <li><a href="tool_table_tag.php">Znacznik table</a>
+        <li><a href="tool_table_editor.php">Edytor tabel</a>
+        <li><a href="tool_table_quick.php">Bardzo szybka tabela</a>
+        <li><a href="main_menu_main.php">Menu programu</a>
+        <li><a href="toolbars_general.php">Narzędzia na paskach</a>
 </ul>
 </td>
 </tr>

@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -83,21 +83,21 @@ Do konfiguracji wszystkich możliwych aspektów działania programu służy okie
 	<a name="settingslist"></a>
    <li>Zakładka <b>Ogólne</b>
    <ul>
-      <li><a href="settings_general.html">Ogólne</a> - ustawienia związane z ogólnym działaniem programu.
-      <li><a href="settings_browse.html">Przeglądanie</a> - związane z funkcjami przeglądania edytowanych dokumentów.
-      <li><a href="settings_user.html">Użytkownik programu i sprawdzanie wersji</a> - pozwalające określić użytkownika programu oraz częstotliwość sprawdzania aktualności wersji programu i wyświetlania informacji o nowościach.
-      <li><a href="settings_startup.html">Przy starcie</a> - dotyczy ustawień związanych z uruchamianiem programu.
-      <li><a href="settings_history.html">Historia</a> - ustawienia dotyczące zarządzania historiami np. otwieranych plików.
-      <li><a href="settings_filelist.html">Lista plików</a> - ustawienia dotyczące zachowania listy plików w panelu "Moje serwisy", obsługi mechanizmu "przeciągnij i upuść"
-   	<li><a href="settings_macrocodes.html">Makrokody</a> - związane z funkcją Makrokodów oferowaną przez program.
+      <li><a href="settings_general.php">Ogólne</a> - ustawienia związane z ogólnym działaniem programu.
+      <li><a href="settings_browse.php">Przeglądanie</a> - związane z funkcjami przeglądania edytowanych dokumentów.
+      <li><a href="settings_user.php">Użytkownik programu i sprawdzanie wersji</a> - pozwalające określić użytkownika programu oraz częstotliwość sprawdzania aktualności wersji programu i wyświetlania informacji o nowościach.
+      <li><a href="settings_startup.php">Przy starcie</a> - dotyczy ustawień związanych z uruchamianiem programu.
+      <li><a href="settings_history.php">Historia</a> - ustawienia dotyczące zarządzania historiami np. otwieranych plików.
+      <li><a href="settings_filelist.php">Lista plików</a> - ustawienia dotyczące zachowania listy plików w panelu "Moje serwisy", obsługi mechanizmu "przeciągnij i upuść"
+   	<li><a href="settings_macrocodes.php">Makrokody</a> - związane z funkcją Makrokodów oferowaną przez program.
    </ul>
    <li>Zakładka <b>Inne ustawienia</b>
    <ul>
-      <li><a href="settings_editor.html">Edytor, schematy kolorowania, pisownia</a> - konfiguracja edytora i ustawienia schematów kolorowania oraz opcje związane ze sprawdzaniem pisowni.
-      <li><a href="settings_toolbars.html">Paski narzędzi, menu, skróty klawiszowe</a> - określają wygląd programu, konfigurację skrótów klawiszowych i zawartość pasków narzędzi.
-      <li><a href="settings_codeinsight.html">Ułatwienia, dynamiczne atrybuty, inne</a> - konfiguracja funkcji ułatwień edycyjnych.
-      <li><a href="settings_network.html">Ustawienia sieci i serwerów</a> - związane z obsługą sieci w programie.
-      <li><a href="settings_addtools.html">Inne programy, Tidy, HTML Help </a> - umożliwiające konfigurację dodatkowych programów używanych z Pająka.
+      <li><a href="settings_editor.php">Edytor, schematy kolorowania, pisownia</a> - konfiguracja edytora i ustawienia schematów kolorowania oraz opcje związane ze sprawdzaniem pisowni.
+      <li><a href="settings_toolbars.php">Paski narzędzi, menu, skróty klawiszowe</a> - określają wygląd programu, konfigurację skrótów klawiszowych i zawartość pasków narzędzi.
+      <li><a href="settings_codeinsight.php">Ułatwienia, dynamiczne atrybuty, inne</a> - konfiguracja funkcji ułatwień edycyjnych.
+      <li><a href="settings_network.php">Ustawienia sieci i serwerów</a> - związane z obsługą sieci w programie.
+      <li><a href="settings_addtools.php">Inne programy, Tidy, HTML Help </a> - umożliwiające konfigurację dodatkowych programów używanych z Pająka.
    </ul>
 </ul>
 

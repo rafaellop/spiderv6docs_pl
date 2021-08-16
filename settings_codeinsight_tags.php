@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -141,7 +141,7 @@ Zaznacz ten przełacznik, aby w dymku pomocy pojawiała się informacja o wsparc
 
 
 
-<p>Korzystając z przycisku znajdującego się w tej grupie włączysz narzędzie <a href="tagdata_editor_tdf.html">edytora plików definicyjnych znaczników</a>, które pozwala na tworzenie definicji dla nowych znaczników czy też modyfikację definicji dla zdefiniowanych już w Pająku języków znacznikowych np. zasad automatycznego uzupełniania czy obsługiwanych przez znaczniki atrybutów.
+<p>Korzystając z przycisku znajdującego się w tej grupie włączysz narzędzie <a href="tagdata_editor_tdf.php">edytora plików definicyjnych znaczników</a>, które pozwala na tworzenie definicji dla nowych znaczników czy też modyfikację definicji dla zdefiniowanych już w Pająku języków znacznikowych np. zasad automatycznego uzupełniania czy obsługiwanych przez znaczniki atrybutów.
 
 </td>
 </tr>
@@ -154,9 +154,9 @@ Zaznacz ten przełacznik, aby w dymku pomocy pojawiała się informacja o wsparc
 <h4>Pokrewne tematy</h4>
 <ul>
 	<li><a href="settings_codeinsight.html#settingslistcodeinsight">Inne ustawienia ułatwień</a>
-	<li><a href="main_editor_codeinsight.html">Dynamiczny kod</a>
-	<li><a href="coding_css.html">Tworzenie arkuszy stylów</a>
-	<li><a href="tagdata_editor_tdf.html">Edytor plików definicyjnych znaczników</a>
+	<li><a href="main_editor_codeinsight.php">Dynamiczny kod</a>
+	<li><a href="coding_css.php">Tworzenie arkuszy stylów</a>
+	<li><a href="tagdata_editor_tdf.php">Edytor plików definicyjnych znaczników</a>
 </ul>
 </td>
 </tr>

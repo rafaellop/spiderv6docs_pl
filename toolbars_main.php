@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -76,11 +76,11 @@
 
 <p>Pasek ten zawiera często używane polecenia służące do obsługi programu.</p>
 
-<p><b><a href="main_menu_file_new.html">Nowy dokument</a></b><br />
+<p><b><a href="main_menu_file_new.php">Nowy dokument</a></b><br />
 Kliknij, aby utworzyć nowy, pusty dokument. Klikając na strzałkę z prawej, możesz skorzystać z podmenu w celu uruchomienia dodatkowych narzędzi.</p>
 
 
-<p><b><a href="tool_importer.html">Importuj...</a></b><br />
+<p><b><a href="tool_importer.php">Importuj...</a></b><br />
 Kliknij, aby otworzyć Importer plików.</p>
 
 <p><b>Otwórz</b><br />
@@ -117,10 +117,10 @@ To polecenie pozwala włączyć lub wyłączyć tryb pełnoekranowy, podczas kt�
 Podmenu zawierające przełączniki pozwalające na uaktywnienie jednej z zakładek <a href="main_tabs_general.html#tabs_rightpanel">panelu znajdującego się po prawej</a> stronie w głównym oknie programu. Domyślny skrót klawiszowy to <tt>Ctrl+F9</tt>
 
 <p><b>Ustawienia programu</b><br />
-Kliknij, aby zmienić bieżące ustawienia programu otwierając okno <a href="settings.html">ustawień programu</a>. Podmenu dostępne po kliknięciu strzałki rozwija menu poleceń dotyczących ustawień (identyczne jak <a href="main_menu_view_settings.html">Menu główne / Wyświetl / Ustawienia</a>).
+Kliknij, aby zmienić bieżące ustawienia programu otwierając okno <a href="settings.php">ustawień programu</a>. Podmenu dostępne po kliknięciu strzałki rozwija menu poleceń dotyczących ustawień (identyczne jak <a href="main_menu_view_settings.php">Menu główne / Wyświetl / Ustawienia</a>).
 
 <p><b>Podgląd dokumentu</b><br />
-Kliknij ten przycisk, aby wykonać podgląd bieżącego dokumentu w domyślnej przeglądarce. Domyślną przeglądarkę możesz określić w <a href="settings_browse.html">Ustawieniach przeglądania</a>.Jeśli klikniesz strzałkę obok przycisku, będziesz mógł wybrać z menu dodatkowe przeglądarki, które definiuje się również we wspomnianym wyżej oknie ustawień. Dzięki temu możesz wywołać podgląd bieżącego dokumentu w innych przeglądarkach niż ta domyślnie wybrana. Menu pod przyciskiem jest identyczne, jak <a href="main_menu_main.html">Menu główne</a> / <a href="main_menu_view.html">Wyświetl</a> / Podgląd.
+Kliknij ten przycisk, aby wykonać podgląd bieżącego dokumentu w domyślnej przeglądarce. Domyślną przeglądarkę możesz określić w <a href="settings_browse.php">Ustawieniach przeglądania</a>.Jeśli klikniesz strzałkę obok przycisku, będziesz mógł wybrać z menu dodatkowe przeglądarki, które definiuje się również we wspomnianym wyżej oknie ustawień. Dzięki temu możesz wywołać podgląd bieżącego dokumentu w innych przeglądarkach niż ta domyślnie wybrana. Menu pod przyciskiem jest identyczne, jak <a href="main_menu_main.php">Menu główne</a> / <a href="main_menu_view.php">Wyświetl</a> / Podgląd.
 
 </td>
 </tr>
@@ -132,7 +132,7 @@ Kliknij ten przycisk, aby wykonać podgląd bieżącego dokumentu w domyślnej p
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="settings_toolbars.html">Ustawienia programu - Ustawienia pasków, menu i skrótów</a>
+	<li><a href="settings_toolbars.php">Ustawienia programu - Ustawienia pasków, menu i skrótów</a>
 </td>
 </tr>
 </table>

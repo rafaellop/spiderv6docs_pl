@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -84,40 +84,40 @@ Kliknij, aby dołączyć do dokumentu ikonkę, która pojawi się obok adresu st
 
 <hr />
 
-<p><a href="main_menu_htmlcode_structure.html">Struktura</a><br />
+<p><a href="main_menu_htmlcode_structure.php">Struktura</a><br />
 Kliknij, aby rozwinąć menu służące do wstawiania znaczników struktury dokumentów HTML.
 
-<p><a href="main_menu_htmlcode_align.html">Wyrównanie tekstu</a><br />
+<p><a href="main_menu_htmlcode_align.php">Wyrównanie tekstu</a><br />
 Kliknij, aby rozwinąć menu służące do wstawiania znaczników wyrównania tekstu.
 
-<p><b> <a href="tool_text_attributes.html">Formatowanie tekstu</a></b><br />
-Kliknij, aby uruchomić narzędzie do wstawiania znaczników formatowania tekstu. Jeśli klikniesz w strzałkę z prawej strony polecenia rozwinie się <a href="main_menu_htmlcode_format.html">podmenu</a> pozwalające na wybór poleceń formatowania.
+<p><b> <a href="tool_text_attributes.php">Formatowanie tekstu</a></b><br />
+Kliknij, aby uruchomić narzędzie do wstawiania znaczników formatowania tekstu. Jeśli klikniesz w strzałkę z prawej strony polecenia rozwinie się <a href="main_menu_htmlcode_format.php">podmenu</a> pozwalające na wybór poleceń formatowania.
 
-<p><a href="main_menu_htmlcode_changes.html">Zmiany</a><br />
+<p><a href="main_menu_htmlcode_changes.php">Zmiany</a><br />
 Kliknij, aby rozwinąć menu służące do wstawiania znaczników oznaczania zmian w dokumencie.
 
 <p><b>Znacznik niełamliwej spacji</b><br />
 Kliknij, aby wstawić kod oznaczający niełamliwą spację - <tt>&amp;nbsp;</tt>. Domyślny skrót klawiszowy <tt>Alt+Spacja</tt>.
 
-<p><a href="main_menu_htmlcode_headers.html">Nagłówek</a><br />
+<p><a href="main_menu_htmlcode_headers.php">Nagłówek</a><br />
 Kliknij, aby rozwinąć menu służące do wstawiania znaczników nagłówka.
 
 <p><b>Znacznik poziomej linii</b><br />
 Kliknij, aby wstawić znacznik poziomej linii - &lt;hr&gt;. Domyślny skrót klawiszowy <tt>Ctrl+L</tt>.
 
-<p><a href="main_menu_htmlcode_forms.html">Formularze</a><br />
+<p><a href="main_menu_htmlcode_forms.php">Formularze</a><br />
 Kliknij, aby rozwinąć menu służące do wstawiania na stronę znaczników formularzy.
 
-<p><a href="main_menu_htmlcode_tables.html">Tabele</a><br />
+<p><a href="main_menu_htmlcode_tables.php">Tabele</a><br />
 Kliknij, aby rozwinąć menu służące do wstawiania na stronę znaczników tabel.
 
-<p><a href="main_menu_htmlcode_lists.html">Wyliczenia</a><br />
+<p><a href="main_menu_htmlcode_lists.php">Wyliczenia</a><br />
 Kliknij, aby rozwinąć menu służące do wstawiania znaczników list wyliczeniowych.
 
-<p><a href="main_menu_htmlcode_frames.html">Ramki</a><br />
+<p><a href="main_menu_htmlcode_frames.php">Ramki</a><br />
 Kliknij, aby rozwinąć menu służące do wstawiania na stronę znaczników ramek.
 
-<p><a href="main_menu_htmlcode_brnewline.html">Łamanie linii &lt;BR&gt;</a><br />
+<p><a href="main_menu_htmlcode_brnewline.php">Łamanie linii &lt;BR&gt;</a><br />
 Kliknij, aby rozwinąć menu wstawiania znaczników łamania linii <tt>&lt;br&gt;</tt>.
 
 </td>
@@ -130,8 +130,8 @@ Kliknij, aby rozwinąć menu wstawiania znaczników łamania linii <tt>&lt;br&gt
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-    <li><a href="main_menu_main.html">Menu główne</a></li>
-    <li><a href="settings_toolbars.html">Ustawienia programu - Ustawienia pasków, menu i skrótów</a>
+    <li><a href="main_menu_main.php">Menu główne</a></li>
+    <li><a href="settings_toolbars.php">Ustawienia programu - Ustawienia pasków, menu i skrótów</a>
 </td>
 </tr>
 </table>

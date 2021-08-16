@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -77,7 +77,7 @@
 <p>Za pomocą tego menu możesz zmieniać wygląd głównego okna programu, a więc włączać widok paneli, pasków narzędzi, itp:</p>
 
 <p><b>Paski narzędzi</b><br />
-Podmenu zawierające przełączniki pozwalające na wybór <a href="toolbars_general.html">pasków narzędzi</a> widocznych w głównym oknie programu.
+Podmenu zawierające przełączniki pozwalające na wybór <a href="toolbars_general.php">pasków narzędzi</a> widocznych w głównym oknie programu.
 
 <p><b>Panel zasobów z lewej</b><br />
 Podmenu zawierające przełączniki pozwalające na uaktywnienie jednej z zakładek <a href="main_tabs_general.html#tabs_leftpanel">panelu znajdującego się po lewej</a> stronie w głównym oknie programu. Domyślny skrót klawiszowy to <tt>F9</tt>
@@ -86,7 +86,7 @@ Podmenu zawierające przełączniki pozwalające na uaktywnienie jednej z zakła
 Podmenu zawierające przełączniki pozwalające na uaktywnienie jednej z zakładek <a href="main_tabs_general.html#tabs_rightpanel">panelu znajdującego się po prawej</a> stronie w głównym oknie programu. Domyślny skrót klawiszowy to <tt>Ctrl+F9</tt>
 
 <p><b>Panel wyników</b><br />
-Podmenu zawierające przełączniki pozwalające na uaktywnienie jednej z zakładek <a href="down_panel.html">panelu znajdującego się na dole</a> głównym oknie programu. Domyślny skrót klawiszowy to <tt>Lewy Alt+F9</tt>
+Podmenu zawierające przełączniki pozwalające na uaktywnienie jednej z zakładek <a href="down_panel.php">panelu znajdującego się na dole</a> głównym oknie programu. Domyślny skrót klawiszowy to <tt>Lewy Alt+F9</tt>
 
 <p><b>Pasek stanu</b><br />
 Kliknij, aby włączyć lub wyłączyć widok paska stanu na dole głównego okna programu.
@@ -109,7 +109,7 @@ Kliknij, aby przywrócić na ekran zminimalizowane okno programu.
 <hr />
 
 <p><b>Tryb pracy głównego okna</b><br />
-Kliknij, aby uruchomić narzędzie, które pozwoli w łatwy sposób wybrać preferowany tryb pracy programu. Opis narzędzia znajduje się w <a href="tool_welcometo.html">osobnym rozdziale</a>.
+Kliknij, aby uruchomić narzędzie, które pozwoli w łatwy sposób wybrać preferowany tryb pracy programu. Opis narzędzia znajduje się w <a href="tool_welcometo.php">osobnym rozdziale</a>.
 
 </td>
 </tr>
@@ -121,7 +121,7 @@ Kliknij, aby uruchomić narzędzie, które pozwoli w łatwy sposób wybrać pref
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-        <li><a href="main_menu_view.html">Menu Wyświetl</a></li>
+        <li><a href="main_menu_view.php">Menu Wyświetl</a></li>
 </ul>
 </td>
 </tr>

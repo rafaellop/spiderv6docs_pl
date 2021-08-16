@@ -26,23 +26,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -80,21 +80,21 @@
 <!-- pokrewne tematy -->
 
 <ul>
-               <li><a href="info_install.html">Instalacja</a></li>
-               <li><a href="info_uninstall.html">Deinstalacja</a></li>
-               <li><a href="info_activate.html">Aktywacja programu</a></li>
-               <li><a href="info_whatsnew.html">Co nowego?</a></li>
-               <li><a href="info_history.html">Historia programu</a></li>
-               <li><a href="info_changes.html">Historia zmian w Pająku</a></li>
-               <li><a href="info_help_using.html">Używanie pomocy</a></li>
-               <li><a href="info_fulltrial.html">Wersja testowa i pełna</a></li>
-               <li><a href="info_trademarks.html">Znaki handlowe</a></li>
-               <li><a href="info_credits.html">Autorzy i podziękowania</a></li>
+               <li><a href="info_install.php">Instalacja</a></li>
+               <li><a href="info_uninstall.php">Deinstalacja</a></li>
+               <li><a href="info_activate.php">Aktywacja programu</a></li>
+               <li><a href="info_whatsnew.php">Co nowego?</a></li>
+               <li><a href="info_history.php">Historia programu</a></li>
+               <li><a href="info_changes.php">Historia zmian w Pająku</a></li>
+               <li><a href="info_help_using.php">Używanie pomocy</a></li>
+               <li><a href="info_fulltrial.php">Wersja testowa i pełna</a></li>
+               <li><a href="info_trademarks.php">Znaki handlowe</a></li>
+               <li><a href="info_credits.php">Autorzy i podziękowania</a></li>
 </ul>
 </td>
 </tr>
 </table>
-<p class="prawa"><a href="contents_main.html">Powrót do spisu treści</a></p>
+<p class="prawa"><a href="contents_main.php">Powrót do spisu treści</a></p>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.slim.min.js" integrity="sha512-/DXTXr6nQodMUiq+IUJYCt2PPOUjrHJ9wFrqpJ3XkgPNOZVfMok7cRw6CSxyCQxXn6ozlESsSh1/sMCTF1rL/g==" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/js/bootstrap.bundle.min.js" integrity="sha512-kBFfSXuTKZcABVouRYGnUo35KKa1FBrYgwG4PAx7Z2Heroknm0ca2Fm2TosdrrI356EDHMW383S3ISrwKcVPUw==" crossorigin="anonymous"></script>

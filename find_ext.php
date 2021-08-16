@@ -28,23 +28,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -84,11 +84,11 @@
 
 <p><b>Konwersja kodowania znaków</b><br />
 Wybierz tę opcję, by zmienić w dokumentach stronę kodową używaną na wybraną z listy. Dzięki tej funkcji możliwa jest na przykład zmiana strony kodowania z używanej wyłącznie w MS Windows strony kodowej WINDOWS-CP-1250 na ISO-8859-2 (zgodny z normą ISO standard używany na pozostałych platformach).</p>
-<p>Aby przeczytać więcej na temat konwersji kodowania znaków - <a href="charset_encoding.html">kliknij tutaj</a>.</p>
+<p>Aby przeczytać więcej na temat konwersji kodowania znaków - <a href="charset_encoding.php">kliknij tutaj</a>.</p>
 
 <p><b>Sprawdzanie pisowni</b><br />
 Wybierz tę opcję, by przeprowadzić sprawdzenie pisowni.<br />
-Aby przeczytać więcej na temat sprawdzania pisowni - <a href="spelling.html">kliknij tutaj</a>.</p>
+Aby przeczytać więcej na temat sprawdzania pisowni - <a href="spelling.php">kliknij tutaj</a>.</p>
 
 <h2><a name="find_settings"></a>Sposób działania - Wyszukiwanie i zamiana tekstu</h2>
 
@@ -115,7 +115,7 @@ Wyszukiwany tekst może zawierać symbole wieloznacznych (tzw. wildcards), któr
 
 
 <p><b>Używaj wyrażeń regularnych</b><br />
-Wyszukiwany tekst może zawierać <a href="find_regexp.html">wyrażenia regularne</a> opisane szerzej w osobnym temacie.</p>
+Wyszukiwany tekst może zawierać <a href="find_regexp.php">wyrażenia regularne</a> opisane szerzej w osobnym temacie.</p>
 
 <p>Przykład użycia wyrażeń regularnych: aby znaleźć w dokumencie HTML wszystkie znaczniki otwierające nagłówek dowolnego stopnia (<tt>&lt;H1&gt; do &lt;H6&gt;</tt>), pisane wielkimi, bądź małymi literami, należy wprowadzić tekst <tt>&lt;[hH]\d&gt;</tt>.</p>
                                                                                                                                   
@@ -126,11 +126,11 @@ Zaznacz, aby w wyszukiwanym tekście wielkość użytych liter miała znaczenie.
 Zaznacz, aby wyszukana fraza musiała być całym słowem, a nie fragmentem dłuższego słowa (np. szukając frazy 'mar' odszukane zostaną wszystkie słowa 'mar', ale nie 'marek').</p>
 
 <p><b>Nie pokazuj wyników zamiany</b><br />
-Zaznacz tę opcję, jeśli nie chcesz, by po wykonanej zamianie pokazywał się "Panel wyników" z <a href="down_find_report.html">raportem wyszukiwania i zamiany</a>.</p>
+Zaznacz tę opcję, jeśli nie chcesz, by po wykonanej zamianie pokazywał się "Panel wyników" z <a href="down_find_report.php">raportem wyszukiwania i zamiany</a>.</p>
 
 <a name="backups"></a>
 <p><b>Twórz kopie bezpieczeństwa przy modyfikacji plików</b><br />
-<p>Zaznacz tę opcję, jeśli podczas zmian w dokumentach otwieranych bezpośrednio z twardego dysku (opcje 'w wybranym serwisie', 'w folderach', lub 'w plikach' w sekcji Źródło) mają być tworzone <a href="main_editor_backups.html">kopie bezpieczeństwa</a> oryginalnych, nie zmienionych dokumentów. Dzięki tej opcji, w przypadku gdy zmiany będą inne od zamierzonych, możesz przywrócić oryginalne dokumenty.</p>
+<p>Zaznacz tę opcję, jeśli podczas zmian w dokumentach otwieranych bezpośrednio z twardego dysku (opcje 'w wybranym serwisie', 'w folderach', lub 'w plikach' w sekcji Źródło) mają być tworzone <a href="main_editor_backups.php">kopie bezpieczeństwa</a> oryginalnych, nie zmienionych dokumentów. Dzięki tej opcji, w przypadku gdy zmiany będą inne od zamierzonych, możesz przywrócić oryginalne dokumenty.</p>
 
 <p><b>Nie konwertuj przy wyszukiwaniu</b><br />
 Zaznacz, aby przy wyszukiwaniu tekstu nie była przeprowadzana konwersja kodowania. Zaznaczenie tej opcji ta jest potrzebne w przypadku, gdy w przeszukiwanych dokumentach nie ma w sekcji HEAD oznaczenia kodowania, a jednocześnie nie ma być zmieniane kodowanie (np. dla plików dołączanych do innych dokumentów w skryptach serwer-side, np. za pomocą include w PHP).</p>
@@ -146,7 +146,7 @@ Zaznacz, aby przy wyszukiwaniu tekstu nie była przeprowadzana konwersja kodowan
 
 <p><b>we wszystkich otwartych</b> - operacje będą przeprowadzane na wszystkich dokumentach otwartych aktualnie w Pająku. Nie ma dodatkowych opcji.</p>
 
-<p><b>w wybranym serwisie</b> - operacje będą wykonywane na wszystkich plikach <a href="services_general.html">Serwisu</a> wybranego z listy (przy czym pomijane są pliki i foldery <a href="service_properites.html#servicepropertiesoftenused">wyłączone z widoku w ustawieniach serwisu</a>. Można zawęzić rodzaje plików do:
+<p><b>w wybranym serwisie</b> - operacje będą wykonywane na wszystkich plikach <a href="services_general.php">Serwisu</a> wybranego z listy (przy czym pomijane są pliki i foldery <a href="service_properites.html#servicepropertiesoftenused">wyłączone z widoku w ustawieniach serwisu</a>. Można zawęzić rodzaje plików do:
 	<ul>
 		<li><b>dokumenty HTML</b> - pliki o rozszerzeniach określonych jako "dokumenty HTML" w oknie "Ustawienia programu" na zakładce "Lista plików"</li>
 		<li><b>pliki:</b> - pole tekstowe umożliwia wpisanie rozszerzeń plików w celu zawężenia rodzajów dokumentów, jakie mają być brane pod uwagę. Rozszerzenia należy podawać w postaci np. <tt>*.php;*.php3;*.php4</tt>.</li>
@@ -224,13 +224,13 @@ Lista zawiera szablony wyszukiwania. Domyślnie dostępne są najczęściej uży
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="find.html">Wyszukiwanie w Pająku</a>
-	<li><a href="find_text.html">Wyszukiwanie, zamiana, przenoszenie do wybranych elementów dokumentu</a>
-	<li><a href="down_find_report.html">Okno "Raport wyszukiwania"</a>
-	<li><a href="find_regexp.html">Wyszukiwanie - wyrażenia regularne</a>
-	<li><a href="spelling.html">Sprawdzanie pisowni</a>
-	<li><a href="charset_encoding.html">Konwersja znaków narodowych</a>
-	<li><a href="main_menu_find.html">Menu Szukaj</a>
+	<li><a href="find.php">Wyszukiwanie w Pająku</a>
+	<li><a href="find_text.php">Wyszukiwanie, zamiana, przenoszenie do wybranych elementów dokumentu</a>
+	<li><a href="down_find_report.php">Okno "Raport wyszukiwania"</a>
+	<li><a href="find_regexp.php">Wyszukiwanie - wyrażenia regularne</a>
+	<li><a href="spelling.php">Sprawdzanie pisowni</a>
+	<li><a href="charset_encoding.php">Konwersja znaków narodowych</a>
+	<li><a href="main_menu_find.php">Menu Szukaj</a>
 </ul>
 </td>
 </tr>

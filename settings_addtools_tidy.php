@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -73,7 +73,7 @@
 <h1>Ustawienia programu - Nowe znaczniki dla TIDY</h1>
 
 <!-- treść pomocy -->
-<p>Pająk posiada własne funkcje <a href="formatter_general.html">formatowania kodu źródłowego dokumentów</a> do postaci preferowanej przez użytkownika. Pająk oprócz własnych narzędzi pozwala na formatowanie kodu źródłowego za pomocą programu <a href="https://www.w3.org/People/Raggett/tidy/" target="_blank">Tidy(r)</a>. W tej kategorii znajdziesz kilka ustawień dotyczących <a href="formatter_tidy.html">formatowania za pomocą Tidy(r)</a>.
+<p>Pająk posiada własne funkcje <a href="formatter_general.php">formatowania kodu źródłowego dokumentów</a> do postaci preferowanej przez użytkownika. Pająk oprócz własnych narzędzi pozwala na formatowanie kodu źródłowego za pomocą programu <a href="https://www.w3.org/People/Raggett/tidy/" target="_blank">Tidy(r)</a>. W tej kategorii znajdziesz kilka ustawień dotyczących <a href="formatter_tidy.php">formatowania za pomocą Tidy(r)</a>.
 
 <h2>Nowe znaczniki dla TIDY</h2>
 
@@ -91,8 +91,8 @@
 <h4>Pokrewne tematy</h4>
 <ul>
 	<li><a href="settings_addtools.html#settingslistaddtools">Inne ustawienia</a>
-	<li><a href="formatter_tidy.html">Formatowanie za pomocą Tidy(r)</a>
-	<li><a href="formatter_general.html">Formatowanie - ogólne informacje</a>
+	<li><a href="formatter_tidy.php">Formatowanie za pomocą Tidy(r)</a>
+	<li><a href="formatter_general.php">Formatowanie - ogólne informacje</a>
 </ul>
 </td>
 </tr>

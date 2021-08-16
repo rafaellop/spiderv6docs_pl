@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -75,11 +75,11 @@
 <!-- treść pomocy -->
 
 
-<p>Dla osób, które używają innych przeglądarek Pająk został także wyposażony w inną możliwość podglądu strony. Używany mechanizm komunikacyjny DDE powoduje, ze po naciśnięciu skrótu klawiszowego <tt>Ctrl+F11</tt>, strona aktualnie wyświetlana w edytorze, natychmiast pojawia się w oknie domyślnej przeglądarki (domyślną przeglądarkę możesz ustawić w oknie <a href="settings_browse.html">Ustawień programu</a>) w takiej postaci, w jakiej zobaczą ją użytkownicy sieci Internet na całym świecie. W ten sposób Pająk może pracować z kilkoma różnymi przeglądarkami na raz. </p>
+<p>Dla osób, które używają innych przeglądarek Pająk został także wyposażony w inną możliwość podglądu strony. Używany mechanizm komunikacyjny DDE powoduje, ze po naciśnięciu skrótu klawiszowego <tt>Ctrl+F11</tt>, strona aktualnie wyświetlana w edytorze, natychmiast pojawia się w oknie domyślnej przeglądarki (domyślną przeglądarkę możesz ustawić w oknie <a href="settings_browse.php">Ustawień programu</a>) w takiej postaci, w jakiej zobaczą ją użytkownicy sieci Internet na całym świecie. W ten sposób Pająk może pracować z kilkoma różnymi przeglądarkami na raz. </p>
 
-<p>Przeglądarki są wykrywane przez Pająka przy starcie. Można również ręcznie zdefiniować przeglądarki korzystając z okienka <a href="settings_browse.html">Ustawień programu</a> lub (również z tego samego okienka) przeprowadzić ich powtórną detekcję.</p>
+<p>Przeglądarki są wykrywane przez Pająka przy starcie. Można również ręcznie zdefiniować przeglądarki korzystając z okienka <a href="settings_browse.php">Ustawień programu</a> lub (również z tego samego okienka) przeprowadzić ich powtórną detekcję.</p>
 
-<p>Aby wskazać konkretną przeglądarkę zainstalowana w systemie, w jakiej chcesz obejrzeć stronę, wybierz ją z listy rozwijanej pod przyciskiem Przeglądanie w <a href="main_menu_view.html">menu Wyświetl</a>. Identyczny przycisk znajdziesz na <a href="toolbars_main.html">głównym pasku narzędzi</a>.</p>
+<p>Aby wskazać konkretną przeglądarkę zainstalowana w systemie, w jakiej chcesz obejrzeć stronę, wybierz ją z listy rozwijanej pod przyciskiem Przeglądanie w <a href="main_menu_view.php">menu Wyświetl</a>. Identyczny przycisk znajdziesz na <a href="toolbars_main.php">głównym pasku narzędzi</a>.</p>
 
 
 
@@ -93,10 +93,10 @@
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="main_preview_general.html">Przeglądanie - ogólnie</a>
-	<li><a href="main_preview_embed.html">Zakładka "Przeglądanie"</a>
-	<li><a href="main_tabs_general.html">Inne zakładki</a>
-	<li><a href="main_window_desc.html">Główne okno programu</a>
+	<li><a href="main_preview_general.php">Przeglądanie - ogólnie</a>
+	<li><a href="main_preview_embed.php">Zakładka "Przeglądanie"</a>
+	<li><a href="main_tabs_general.php">Inne zakładki</a>
+	<li><a href="main_window_desc.php">Główne okno programu</a>
 	
 </ul>
 </td>

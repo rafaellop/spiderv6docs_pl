@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -77,18 +77,18 @@
 <p>Menu zawiera polecenia uruchamiające narzędzia do wstawiania i edycji ramek w dokumencie.</p>
 
 
-<p><b><a href="tool_frameeditor.html">Kreator ramek</a></b><br />
+<p><b><a href="tool_frameeditor.php">Kreator ramek</a></b><br />
 Kliknij, aby otworzyć Kreatora ramek. Za pomocą tego narzędzia możesz w szybki sposób utworzyć stronę zbudowana z ramek.
 
 <hr>
 
-<p><b><a href="tool_frameset.html">Edytor &lt;FRAMESET&gt;</a></b><br />
+<p><b><a href="tool_frameset.php">Edytor &lt;FRAMESET&gt;</a></b><br />
 Kliknij, aby uruchomić edytor znacznika <tt>&lt;FRAMESET&gt;</tt> służącego do definiowania układu ramek w dokumencie.
 
-<p><b><a href="tool_frame.html">Edytor &lt;FRAME&gt;</a></b><br />
+<p><b><a href="tool_frame.php">Edytor &lt;FRAME&gt;</a></b><br />
 Kliknij, aby uruchomić edytor znacznika <tt>&lt;FRAME&gt;</tt> służącego do wstawiania ramki do dokumentu.
 
-<p><b><a href="tool_iframe.html">Edytor pływającej ramki</a></b><br />
+<p><b><a href="tool_iframe.php">Edytor pływającej ramki</a></b><br />
 Kliknij, aby uruchomić edytor pływającej ramki <tt>&lt;IFRAME&gt;</tt>. 
 
 
@@ -103,8 +103,8 @@ Kliknij, aby uruchomić edytor pływającej ramki <tt>&lt;IFRAME&gt;</tt>.
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-   <li><a href="main_menu_tools.html">Menu główne - Narzędzia</a></li>
-   <li><a href="settings_toolbars.html">Ustawienia programu - Ustawienia pasków, menu i skrótów</a></li>
+   <li><a href="main_menu_tools.php">Menu główne - Narzędzia</a></li>
+   <li><a href="settings_toolbars.php">Ustawienia programu - Ustawienia pasków, menu i skrótów</a></li>
 </ul>
 </td>
 </tr>

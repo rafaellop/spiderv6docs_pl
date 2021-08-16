@@ -28,23 +28,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -96,7 +96,7 @@ Pozwala na wybór typu makrokodu (domyślnie "Po prostu makrokod"). Ustawienie t
 	<li><b>Skrypt Perl</b> - zawiera skrypt w języku Perl</li>
 	<li><b>Obrazek</b> - zawiera kod służący do wstawienia obrazka</li>
 	<li><b>Obiekt</b> - zawiera kod obiektu</li>
-	<li><b>Szablon dokumentu</b> - zawiera szablon dokumentu. Domyślnie użycie makrokodu tego typu powoduje automatyczne utworzenie nowego dokumentu (można to zmienić w oknie <a href="settings_macrocodes.html">Ustawienia makrokodów</a>).</li>
+	<li><b>Szablon dokumentu</b> - zawiera szablon dokumentu. Domyślnie użycie makrokodu tego typu powoduje automatyczne utworzenie nowego dokumentu (można to zmienić w oknie <a href="settings_macrocodes.php">Ustawienia makrokodów</a>).</li>
 	<li><b>Znak specjalny</b> - zawiera znak specjalny, np. encję dla liter alfabetu greckiego itp.</li>
 </ul>
 
@@ -113,10 +113,10 @@ Umożliwia wybór skrótu klawiszowego dla danego makrokodu. Można wybrać komb
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="settings_macrocodes.html">Ustawienia programu - Makrokody.</a>
-	<li><a href="macrocodes_editor.html">Edytor makrokodów - wstęp</a>
-	<li><a href="main_tabs_macrocodes.html">Zakładka Makrokody</a>
-	<li><a href="macrocodes.html">Makrokody - ogólnie</a>
+	<li><a href="settings_macrocodes.php">Ustawienia programu - Makrokody.</a>
+	<li><a href="macrocodes_editor.php">Edytor makrokodów - wstęp</a>
+	<li><a href="main_tabs_macrocodes.php">Zakładka Makrokody</a>
+	<li><a href="macrocodes.php">Makrokody - ogólnie</a>
 </ul>
 </td>
 </tr>

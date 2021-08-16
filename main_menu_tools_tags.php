@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -77,128 +77,128 @@
 <p>Zawiera polecenia uruchamiające narzędzia, które umożliwiają tworzenie różnego typu znaczników i całych grup znaczników, jak tabele, ramki, formularze itp.</p>
 
 
-<p><b><a href="tool_meta.html">Edytor sekcji &lt;META&gt;</a></b><br />
+<p><b><a href="tool_meta.php">Edytor sekcji &lt;META&gt;</a></b><br />
 Kliknij, aby uruchomić edytor sekcji <tt>&lt;META&gt;</tt> (domyślny skrót <tt>Shift+Ctrl+M</tt>).
 
-<p><b><a href="tool_body.html">Edytor sekcji &lt;BODY&gt;</a></b><br />
+<p><b><a href="tool_body.php">Edytor sekcji &lt;BODY&gt;</a></b><br />
 Kliknij, aby uruchomić edytor sekcji <tt>&lt;BODY&gt;</tt> (domyślny skrót <tt>Shift+Ctrl+B</tt>).
 
 <hr />
 
 
-<p><b><a href="tool_link.html">Edytor odsyłaczy</a></b><br />
+<p><b><a href="tool_link.php">Edytor odsyłaczy</a></b><br />
 Kliknij, aby uruchomić edytor odsyłaczy <tt>&lt;A&gt;</tt> (domyślny skrót <tt>Shift+Ctrl+A</tt>).
 
-<p><b><a href="tool_bgsound.html">Wstawienie dźwięku</a></b><br />
+<p><b><a href="tool_bgsound.php">Wstawienie dźwięku</a></b><br />
 Kliknij, aby uruchomić narzędzie do wstawiania dźwięku w tle.
 
-<p><b><a href="tool_graphic_insert.html">Wstawienie grafiki</a></b><br />
+<p><b><a href="tool_graphic_insert.php">Wstawienie grafiki</a></b><br />
 Kliknij, aby uruchomić narzędzie ułatwiające wstawianie grafik, <tt>&lt;I&gt;</tt>,  (domyślny skrót <tt>Shift+Ctrl+I</tt>).
 
-<p><b><a href="tool_link_map_editor.html">Edytor map odsyłaczy</a></b><br />
+<p><b><a href="tool_link_map_editor.php">Edytor map odsyłaczy</a></b><br />
 Kliknij, aby uruchomić edytor map odsyłaczy.
 
-<p><b><a href="tool_hr.html">Wstawienie poziomej linii</a></b><br />
+<p><b><a href="tool_hr.php">Wstawienie poziomej linii</a></b><br />
 Kliknij, aby uruchomić narzędzie do wstawiania poziomej linii <tt>&lt;HR&gt;</tt>.
 
-<p><b><a href="tool_comment.html">Wstawienie komentarza</a></b><br />
+<p><b><a href="tool_comment.php">Wstawienie komentarza</a></b><br />
 Kliknij, aby uruchomić narzędzie do wstawiania komentarzy. Narzędzie automatycznie rozpoznaje bieżący język programowania i wstawia odpowiednie znaki komentarza. Domyślny skrót <tt>Shift+Ctrl+K</tt>.
 
-<p><b><a href="tool_marquee.html">Animowany tekst</a></b><br />
+<p><b><a href="tool_marquee.php">Animowany tekst</a></b><br />
 Kliknij, aby uruchomić narzędzie ułatwiające wstawienie animowanego tekstu <tt>&lt;MARQUEE&gt;</tt>.
 
-<p><b><a href="tool_text_attributes.html">Formatowanie tekstu</a></b><br />
+<p><b><a href="tool_text_attributes.php">Formatowanie tekstu</a></b><br />
 Kliknij, aby uruchomić narzędzie do wstawiania znaczników formatowania tekstu.
 
-<p><b><a href="tool_lists.html">Edytor list wyliczeniowych</a></b><br />
+<p><b><a href="tool_lists.php">Edytor list wyliczeniowych</a></b><br />
 Kliknij, aby uruchomić edytor list wyliczeniowych <tt>&lt;OL&gt;</tt> (numerowana) i <tt>&lt;UL&gt;</tt> (nienumerowana). Domyślny skrót <tt>Shift+Ctrl+L</tt>.
 
 
 <hr />
 
-<p><b><a href="tool_frameset.html">Edytor &lt;FRAMESET&gt;</a></b><br />
+<p><b><a href="tool_frameset.php">Edytor &lt;FRAMESET&gt;</a></b><br />
 Kliknij, aby uruchomić edytor znacznika <tt>&lt;FRAMESET&gt;</tt> służącego do definiowania układu ramek w dokumencie.
 
-<p><b><a href="tool_frame.html">Edytor &lt;FRAME&gt;</a></b><br />
+<p><b><a href="tool_frame.php">Edytor &lt;FRAME&gt;</a></b><br />
 Kliknij, aby uruchomić edytor znacznika <tt>&lt;FRAME&gt;</tt> służącego do wstawiania ramki do dokumentu.
 
-<p><b><a href="tool_iframe.html">Edytor pływającej ramki</a></b><br />
+<p><b><a href="tool_iframe.php">Edytor pływającej ramki</a></b><br />
 Kliknij, aby uruchomić edytor pływającej ramki <tt>&lt;IFRAME&gt;</tt>. 
 
 
 <hr />
 
-<p><b><a href="tool_form_editor.html">Edytor formularzy</a></b><br />
+<p><b><a href="tool_form_editor.php">Edytor formularzy</a></b><br />
 Kliknij, aby uruchomić edytor formularzy <tt>&lt;FORM&gt;</tt>.
 
-<p><b><a href="tool_form_selectlist.html">Lista wyboru w formularzu</a></b><br />
+<p><b><a href="tool_form_selectlist.php">Lista wyboru w formularzu</a></b><br />
 Kliknij, aby uruchomić kreator listy wyboru w formularzu <tt>&lt;SELECT&gt;</tt>.
 
-<p><b><a href="tool_form_textarea.html">Okienko tekstowe w formularzu</a></b><br />
+<p><b><a href="tool_form_textarea.php">Okienko tekstowe w formularzu</a></b><br />
 Kliknij, aby utworzyć edytor okienka tekstowego w formularzu <tt>&lt;TEXTAREA&gt;</tt>.
 
-<p><b><a href="tool_form_others.html">Inne elementy formularza</a></b><br />
+<p><b><a href="tool_form_others.php">Inne elementy formularza</a></b><br />
 Kliknij, aby uruchomić kreator dodawania do formularza innych elementów formularza, jak przyciski, pola tekstowe itp.
 
 
 <hr />
 
 
-<p><b><a href="tool_table_editor.html">Edytor tabel</a></b><br />
+<p><b><a href="tool_table_editor.php">Edytor tabel</a></b><br />
 Kliknij, aby uruchomić edytor tabel (domyślny skrót <tt>Ctrl+T</tt>).
 
 
-<p><b><a href="tool_table_quick.html">Bardzo szybka tabela</a></b><br />
+<p><b><a href="tool_table_quick.php">Bardzo szybka tabela</a></b><br />
 Kliknij,aby w bardzo szybki sposób utworzyć nową tabelę.
 
 
-<p><b><a href="tool_table_quick2.html">Szkielet tabeli</a></b><br />
+<p><b><a href="tool_table_quick2.php">Szkielet tabeli</a></b><br />
 Kliknij, aby otworzyć Kreatora tabeli, który poprowadzi Cię przez proces tworzenia nowej tabeli.
 
 
-<p><b><a href="tool_table_tag.html">Edytor znacznika &lt;TABLE&gt;</a></b><br />
+<p><b><a href="tool_table_tag.php">Edytor znacznika &lt;TABLE&gt;</a></b><br />
 Kliknij, aby uruchomić edytor znacznika <tt>&lt;TABLE&gt;</tt>.
 
-<p><b><a href="tool_table_caption.html">Opis tabeli</a></b><br />
+<p><b><a href="tool_table_caption.php">Opis tabeli</a></b><br />
 Kliknij, aby wstawić opis tabeli <tt>&lt;CAPTION&gt;</tt>;
 
-<p><b><a href="tool_table_row.html">Wiersz tabeli</a></b><br />
+<p><b><a href="tool_table_row.php">Wiersz tabeli</a></b><br />
 Kliknij, aby wstawić wiersz tabeli <tt>&lt;TR&gt;</tt>.
 
-<p><b><a href="tool_table_cell.html">Komórka tabeli</a></b><br />
+<p><b><a href="tool_table_cell.php">Komórka tabeli</a></b><br />
 Kliknij, aby wstawić komórkę tabeli <tt>&lt;TD&gt;</tt>.
 
 <hr />
 
 
-<p><b><a href="tool_insert_script.html">Wstawienie skryptu</a></b><br />
+<p><b><a href="tool_insert_script.php">Wstawienie skryptu</a></b><br />
 Kliknij, aby uruchomić narzędzie ułatwiające wstawienia do dokumentu skryptów <tt>JavaScript</tt>, <tt>PHP</tt> i innych.
 
-<p><b><a href="tool_noscript.html">Znacznik &lt;NOSCRIPT&gt;</a></b><br />
+<p><b><a href="tool_noscript.php">Znacznik &lt;NOSCRIPT&gt;</a></b><br />
 Kliknij, aby wstawić do dokumentu znacznik <tt>&lt;NOSCRIPT&gt;</tt> używany przez przeglądarkę w przypadku, gdy nie obsługuje ona skryptów.
 
-<p><b><a href="tool_script_newwindow.html">Otwarcie nowego okna</a></b><br />
+<p><b><a href="tool_script_newwindow.php">Otwarcie nowego okna</a></b><br />
 Kliknij, aby uruchomić kreator skryptu otwierającego nowe okno przeglądarki.
 
-<p><b><a href="tool_script_dialog.html">Okienko komunikatu JavaScript</a></b><br />
+<p><b><a href="tool_script_dialog.php">Okienko komunikatu JavaScript</a></b><br />
 Kliknij, aby uruchomić kreator skryptu pokazującego komunikat.
 
-<p><b><a href="tool_objects.html">Obiekt osadzony</a></b><br />
+<p><b><a href="tool_objects.php">Obiekt osadzony</a></b><br />
 Kliknij, aby uruchomić narzędzie ułatwiające wstawianie do dokumentu obiektów osadzonych <tt>&lt;OBJECT&gt;</tt>.
 
-<p><b><a href="tool_objects.html">Wstawienie apletu Java</a></b><br />
+<p><b><a href="tool_objects.php">Wstawienie apletu Java</a></b><br />
 Kliknij, aby uruchomić narzędzie ułatwiające wstawianie do dokumentu apletów Java - <tt>&lt;APPLET&gt;</tt>.
 
-<p><b><a href="tool_objects.html">Wstawienie ActiveX</a></b><br />
+<p><b><a href="tool_objects.php">Wstawienie ActiveX</a></b><br />
 Kliknij, aby uruchomić narzędzie ułatwiające wstawianie do dokumentu kontrolek ActiveX.
 
-<p><b><a href="tool_param.html">Parametr obiektu</a></b><br />
+<p><b><a href="tool_param.php">Parametr obiektu</a></b><br />
 Kliknij, aby uruchomić narzędzie ułatwiające wstawianie do dokumentu parametru obiektu osadzonego <tt>&lt;PARAM&gt;</tt>.
 
-<p><b><a href="tool_embed.html">Obiekt &lt;EMBED&gt;</a></b><br />
+<p><b><a href="tool_embed.php">Obiekt &lt;EMBED&gt;</a></b><br />
 Kliknij, aby otworzyć narzędzie ułatwiające wstawianie do dokumentu obiektu za pomocą znacznika <tt>&lt;EMBED&gt;</tt>.
 
-<p><b><a href="tool_ssi.html">Wstawienie SSI+</a></b><br />
+<p><b><a href="tool_ssi.php">Wstawienie SSI+</a></b><br />
 Kliknij, aby otworzyć narzędzie ułatwiające wstawianie do dokumentu poleceń SSI+ (Server Side Includes).
 
 
@@ -212,8 +212,8 @@ Kliknij, aby otworzyć narzędzie ułatwiające wstawianie do dokumentu poleceń
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-   <li><a href="main_menu_tools.html">Menu główne - Narzędzia</a></li>
-   <li><a href="settings_toolbars.html">Ustawienia programu - Ustawienia pasków, menu i skrótów</a></li>
+   <li><a href="main_menu_tools.php">Menu główne - Narzędzia</a></li>
+   <li><a href="settings_toolbars.php">Ustawienia programu - Ustawienia pasków, menu i skrótów</a></li>
 </ul>
 </td>
 </tr>

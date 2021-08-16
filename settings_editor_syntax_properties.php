@@ -28,23 +28,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -77,7 +77,7 @@
 
 <p>Okno 'Właściwości schematu kolorowania' pozwala na wprowadzenie zmian w ustawieniach schematu kolorowania. Możliwe jest dopasowanie kolorów i stylów tekstu, a także rozszerzeń nazw plików przypisanych do danego schematu kolorowania.</p>
 
-<p>W odróżnieniu od '<a href="syntax_editor.html">Edytora schematów kolorowania</a>', zmiany w ustawieniach kolorów i stylów tekstu wprowadzone w tym oknie nie mają wpływ na sam schemat i możliwe jest przywrócenie ustawień domyślnych danego schematu.</p>
+<p>W odróżnieniu od '<a href="syntax_editor.php">Edytora schematów kolorowania</a>', zmiany w ustawieniach kolorów i stylów tekstu wprowadzone w tym oknie nie mają wpływ na sam schemat i możliwe jest przywrócenie ustawień domyślnych danego schematu.</p>
 
 <p>Okno dzieli się na trzy zasadnicze części - 'Rozszerzenia przypisane do schematu' i 'Ustawienia kolorowania stylów' i 'Okno podglądu kolorowania'.</p>
 
@@ -93,7 +93,7 @@ Pająk umożliwia zmianę schematu kolorowania w trakcie pracy. Służy do tego 
 W polu tym możesz wpisać rozszerzenia nazw plików, dla których wybrany schemat kolorowania będzie domyślnym. Rozszerzenia należy wpisywać w postaci <tt>*.rozszerzenie1;*.rozszerzenie2</tt>, czyli np. dla dokumentów HTML mogą to być: <tt>*.html;*.htm</tt>. Gwiazdka przed kropką oznacza dowolny ciąg, w związku z czym plik może mieć dowolną nazwę + rozszerzenie zdefiniowane tutaj.
 
 <p><b>Typ schematu kolorowania</b><br />
-Typ schematu kolorowania określa grupę, do której należy wybrany schemat. Grupowanie schematów kolorowania ułatwia zarządzanie schematami i ma również wpływ na ich prezentację na liście schematów kolorowania w głównym oknie programu. Schematy mogą być wyświetlane grupami lub pojedynczo w zależności od ustawienia opcji <b>Wyświetlaj pogrupowane schematy</b> w oknie <a href="settings_editor_syntax.html">Ustawienia programu - Kolorowanie składni</a>.</p>
+Typ schematu kolorowania określa grupę, do której należy wybrany schemat. Grupowanie schematów kolorowania ułatwia zarządzanie schematami i ma również wpływ na ich prezentację na liście schematów kolorowania w głównym oknie programu. Schematy mogą być wyświetlane grupami lub pojedynczo w zależności od ustawienia opcji <b>Wyświetlaj pogrupowane schematy</b> w oknie <a href="settings_editor_syntax.php">Ustawienia programu - Kolorowanie składni</a>.</p>
 
 <h2>Ustawienia kolorowania stylów</h2>
 
@@ -143,9 +143,9 @@ Kliknij, aby umożliwić modyfikację tekstu podglądu. Modyfikacje te nie zosta
 <h4>Pokrewne tematy</h4>
 <ul>
 	<li><a href="settings.html#settingslist">Inne ustawienia</a>
-	<li><a href="settings_editor_syntax.html">Ustawienia programu - Kolorowani składni</a>
-	<li><a href="syntax_editor.html">Edytor schematów kolorowania</a>
-	<li><a href="syntax.html">Ogólnie o kolorowaniu składni w Pająku</a><li>
+	<li><a href="settings_editor_syntax.php">Ustawienia programu - Kolorowani składni</a>
+	<li><a href="syntax_editor.php">Edytor schematów kolorowania</a>
+	<li><a href="syntax.php">Ogólnie o kolorowaniu składni w Pająku</a><li>
 </ul>
 </td>
 </tr>

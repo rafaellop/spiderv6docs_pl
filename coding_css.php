@@ -26,23 +26,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -82,23 +82,23 @@
 <p>Pająk wspomaga tworzenie stron z wykorzystaniem CSS, na co składają się następujące funkcje i narzędzia:
 
 <ul>
-   <li><a href="main_tabs_inspector_css.html">Zakładka "Inspektor CSS" na lewym panelu zasobów</a>
-   <li><a href="coding_css_syntax.html">Kolorowanie składni</a></li>
-   <li><a href="coding_css_codeinsight.html">Dynamiczny kod</a></li>
+   <li><a href="main_tabs_inspector_css.php">Zakładka "Inspektor CSS" na lewym panelu zasobów</a>
+   <li><a href="coding_css_syntax.php">Kolorowanie składni</a></li>
+   <li><a href="coding_css_codeinsight.php">Dynamiczny kod</a></li>
    <li><a href="main_tabs_navigator.html#css">Nawigator CSS</a></li>
-   <li><a href="coding_css_help.html">Pomoc kontekstowa dla CSS na dolnym panelu</a>
-   <li><a href="coding_css_macrocodes.html">Makrokody - szablony dokumentów wykorzystujące CSS</a></li>
-   <li><a href="coding_css_formatting.html">Formatowanie kodu arkuszy stylów</a></li>
+   <li><a href="coding_css_help.php">Pomoc kontekstowa dla CSS na dolnym panelu</a>
+   <li><a href="coding_css_macrocodes.php">Makrokody - szablony dokumentów wykorzystujące CSS</a></li>
+   <li><a href="coding_css_formatting.php">Formatowanie kodu arkuszy stylów</a></li>
 </ul></p>
 
-<p>Wiele narzędzi służących do edycji znaczników posiada również opcje do <a href="tool_style_editor.html">tworzenia stylów CSS</a> i <a href="tool_style_class.html">używania klas</a>.</p>
+<p>Wiele narzędzi służących do edycji znaczników posiada również opcje do <a href="tool_style_editor.php">tworzenia stylów CSS</a> i <a href="tool_style_class.php">używania klas</a>.</p>
 
 
 <h2>Tworzenie prostego selektora CSS w bieżącym dokumencie</h2>
 
 <p><b>Utworzenie nowego, pustego selektora</b><br />
 
-<p>W celu utworzenia prostego arkusza CSS włącz zakładkę <a href="main_tabs_inspector_css.html">Inspektor CSS</a> (standardowy skrót <tt>Ctrl+3</tt>). Następnie użyj polecenia <b>Nowy selektor</b> . Utworzy się sekcja stylu w bieżącym dokumencie i szkielet pustego selektora bez nazwy.</p>
+<p>W celu utworzenia prostego arkusza CSS włącz zakładkę <a href="main_tabs_inspector_css.php">Inspektor CSS</a> (standardowy skrót <tt>Ctrl+3</tt>). Następnie użyj polecenia <b>Nowy selektor</b> . Utworzy się sekcja stylu w bieżącym dokumencie i szkielet pustego selektora bez nazwy.</p>
 
 <p>Teraz trzeba nadać nazwę selektorowi - może to być np. nazwa znacznika - <tt>DIV</tt>. Wpisz ją przed nawiasem klamrowym <tt><b>{</b></tt>. W ten sposób sprawimy, że wszystkie znaczniki <tt>DIV</tt> w dokumencie będą korzystały z tego stylu.</p>
 
@@ -106,7 +106,7 @@
 
 <p>Kolejną, najważniejszą czynnością jest utworzenie stylu. Postaw kursor pomiędzy nawiasami <tt><b>{</b></tt> i <tt><b>}</b></tt> i przejdź do Inspektora CSS. W górnej części zakładki, na liście z prawej strony pojawi się nazwa selektora <tt>DIV</tt>.</p>
 
-<p>Wcześniej tylko przygotowywałeś dokument do tworzenia stylu - w tym momencie zaczynasz naprawdę tworzyć styl dla wybranego znacznika. Styl tworzony jest za pomocą przypisywania odpowiednich wartości do własności stylu, które zostały umieszczone na liście poniżej menu. Własności te domyślnie są pogrupowane w kategorie, możesz to jednak zmienić (<a href="main_tabs_inspector_css.html">więcej w pomocy do Inspektora CSS</a>).</p>
+<p>Wcześniej tylko przygotowywałeś dokument do tworzenia stylu - w tym momencie zaczynasz naprawdę tworzyć styl dla wybranego znacznika. Styl tworzony jest za pomocą przypisywania odpowiednich wartości do własności stylu, które zostały umieszczone na liście poniżej menu. Własności te domyślnie są pogrupowane w kategorie, możesz to jednak zmienić (<a href="main_tabs_inspector_css.php">więcej w pomocy do Inspektora CSS</a>).</p>
 
 <p>W celu ułatwienia wprowadzania wartości dla własnościCSS skorzystaj z dedykowanych narzędzi umożliwiających wybór czcionki, koloru itp. Możesz je otworzyć za pomocą przycisków znajdujących się z prawej strony pola do wpisywania wartości. W każdym takim polu znajdują się odpowiednie narzędzia dostosowane do wymaganych w nim wartości.</p>
 
@@ -114,13 +114,13 @@
 
 <p>Aby ustawić formatowania czcionki, rozwiń kategorię <b>Czcionka</b> i ustaw odpowiednie własności stylu, np:
 <ul>
-   <li><b>font family</b>: <tt>Arial, Tahoma, sans-serif</tt> <br />(krój czcionki - pomoże Ci w wyborze okno <a href="tool_fonts_select.html">Wybierz czcionki</a>)</li>
+   <li><b>font family</b>: <tt>Arial, Tahoma, sans-serif</tt> <br />(krój czcionki - pomoże Ci w wyborze okno <a href="tool_fonts_select.php">Wybierz czcionki</a>)</li>
    <li><b>font-size</b>: <tt>9pt</tt> <br />(rozmiar czcionki - pomocą służą: lista wartości predefiniowanych oraz lista możliwych do ustawienia opcji)</li>
 </ul></p>
 
 Kolor tekstu (w tym przykładzie bordowy) ustaw w kategorii <b>Kolory i tło</b>:
 <ul>
- <li><b>color</b>: <tt>#800000</tt> <br />(skorzystaj z okna <a href="tool_colorpalette.html">Paleta kolorów</a>)</li>
+ <li><b>color</b>: <tt>#800000</tt> <br />(skorzystaj z okna <a href="tool_colorpalette.php">Paleta kolorów</a>)</li>
 </ul>
 
 
@@ -157,12 +157,12 @@ Kolor tekstu (w tym przykładzie bordowy) ustaw w kategorii <b>Kolory i tło</b>
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-   <li><a href="syntax.html">Kolorowanie składni w Pająku</a>
-   <li><a href="main_editor_codeinsight.html">Dynamiczny kod</a></li>
-   <li><a href="main_tabs_navigator.html">Zakładka "Nawigator"</a></li>
-   <li><a href="main_tabs_macrocodes.html">Zakładka "Makrokody"</a></li>
-   <li><a href="settings_codeinsight.html">Ustawienia programu - Ułatwienia, dynamiczne atrybuty, inne</a>
-   <li><a href="formatter_general.html">Formatowanie kodu źródłowego</a> - <a href="formatter_stylesheets.html">Ustawienia dla CSS</a></li>
+   <li><a href="syntax.php">Kolorowanie składni w Pająku</a>
+   <li><a href="main_editor_codeinsight.php">Dynamiczny kod</a></li>
+   <li><a href="main_tabs_navigator.php">Zakładka "Nawigator"</a></li>
+   <li><a href="main_tabs_macrocodes.php">Zakładka "Makrokody"</a></li>
+   <li><a href="settings_codeinsight.php">Ustawienia programu - Ułatwienia, dynamiczne atrybuty, inne</a>
+   <li><a href="formatter_general.php">Formatowanie kodu źródłowego</a> - <a href="formatter_stylesheets.php">Ustawienia dla CSS</a></li>
 </ul>
 </td>
 </tr>

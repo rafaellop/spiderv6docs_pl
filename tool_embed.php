@@ -28,23 +28,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -77,7 +77,7 @@
 
 <p> Okno ułatwia wstawianie do dokumentu obiektów osadzonych za pomocą znacznika <tt>&lt;EMBED&gt;</tt>, jak np. filmy AVI, pliki MIDI itp. Obiekty te będą odtwarzane w przeglądarce za pomocą odtwarzacza (o ile zostałe zainstalowany w systemie oglądającego stronę). Znacznik ten jest oznaczony w specyfikacji HTML jako przestarzały (ang <i>depreceted</i>).
 
-<p> Narzędzie można uruchomić z poziomu menu <a href="main_menu_main.html">Menu głównego</a> / <a href="main_menu_tools.html">Narzędzia</a> / <a href="main_menu_tools_links.html">Skrypty i obiekty</a>. Ikona polecenia przedstawiona została obok.</p>
+<p> Narzędzie można uruchomić z poziomu menu <a href="main_menu_main.php">Menu głównego</a> / <a href="main_menu_tools.php">Narzędzia</a> / <a href="main_menu_tools_links.php">Skrypty i obiekty</a>. Ikona polecenia przedstawiona została obok.</p>
 
 <p><b>Obiekt</b><br />
 Podaj ścieżkę dostępu do obiektu.</p>
@@ -124,12 +124,12 @@ Zaznacz tę opcję, jeśli dźwięk lub film ma być wyświetlany w nieskończon
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="tool_objects.html">Wstawianie obiektów osadzonych  - APPLET, INSERT, OBJECT</a>
-	<li><a href="tool_embed.html">Wstawianie obiektów EMBED do dokumentu</a>
-	<li><a href="tool_bgsound.html">Wstawianie dźwięku w tle</a>
-	<li><a href="tool_graphic_insert.html">Wstawienia grafiki</a>
-	<li><a href="main_menu_main.html">Menu programu</a>
-	<li><a href="toolbars_general.html">Inne narzędzia na paskach</a>
+	<li><a href="tool_objects.php">Wstawianie obiektów osadzonych  - APPLET, INSERT, OBJECT</a>
+	<li><a href="tool_embed.php">Wstawianie obiektów EMBED do dokumentu</a>
+	<li><a href="tool_bgsound.php">Wstawianie dźwięku w tle</a>
+	<li><a href="tool_graphic_insert.php">Wstawienia grafiki</a>
+	<li><a href="main_menu_main.php">Menu programu</a>
+	<li><a href="toolbars_general.php">Inne narzędzia na paskach</a>
 </ul>
 </td>
 </tr>

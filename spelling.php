@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -78,9 +78,9 @@
 
 <p>Pająk posiada wbudowane narzędzia sprawdzania poprawności pisowni dokumentów. </p>
 
-<p>Korzystając z poleceń <a href="main_menu_main.html">Menu głównego</a> / <a href="main_menu_spelling.html">Pisownia</a> możesz uruchomić sprawdzanie pisowni zarówno dla bieżącego dokumentu, jak i - po uruchomieniu narzędzia <a href="find_ext.html">Rozszerzone wyszukiwanie i zamiana</a> - dla dokumentów całego serwisu i wybranych folderów.</p>
+<p>Korzystając z poleceń <a href="main_menu_main.php">Menu głównego</a> / <a href="main_menu_spelling.php">Pisownia</a> możesz uruchomić sprawdzanie pisowni zarówno dla bieżącego dokumentu, jak i - po uruchomieniu narzędzia <a href="find_ext.php">Rozszerzone wyszukiwanie i zamiana</a> - dla dokumentów całego serwisu i wybranych folderów.</p>
 
-<p>Podczas pracy w edytorze, w <a href="main_editor.html">trybie edycji kodu źródłowego</a>, możesz włączyć podkreślanie błędów pisowni (poleceniem na <a href="toolbars_minitoolbar.html">mini pasku edytora</a>).</p>
+<p>Podczas pracy w edytorze, w <a href="main_editor.php">trybie edycji kodu źródłowego</a>, możesz włączyć podkreślanie błędów pisowni (poleceniem na <a href="toolbars_minitoolbar.php">mini pasku edytora</a>).</p>
 
 <p>Razem z Pająkiem dostarczone zostały słowniki dla wielu języków, w tym oczywiście polski i angielski.</p>
 
@@ -88,19 +88,19 @@
 
 <p>Oprócz sprawdzania pisowni, możesz skorzystac także z Tezaurusa (słownik wyrazów bliskoznacznych). Dla tezaurusa dostępny jest jedynie słownik jęz. angielskiego.</p>
 
-<p>Aby używać tezaurusa, wybierz słownik, a następnie uaktywnij tezaurusa poleceniem z <a href="main_menu_spelling.html">Menu Pisownia</a>.</p>
+<p>Aby używać tezaurusa, wybierz słownik, a następnie uaktywnij tezaurusa poleceniem z <a href="main_menu_spelling.php">Menu Pisownia</a>.</p>
 
 <h2>Autokorekta</h2>
 
 
 
-Autokorekta umożliwia automatyczną poprawę błędnych słów już podczas wpisywania. Odpowiednie opcje znajdziesz w oknie <a href="settings_editor_spelling.html">Ustawienia programu / Inne ustawienia / Edytor ... / Sprawdzanie pisowni</a>.
+Autokorekta umożliwia automatyczną poprawę błędnych słów już podczas wpisywania. Odpowiednie opcje znajdziesz w oknie <a href="settings_editor_spelling.php">Ustawienia programu / Inne ustawienia / Edytor ... / Sprawdzanie pisowni</a>.
 
 <h2>Inne narzędzia</h2>
 
-<p>Oprócz typowego sprawdzania pisowni, możesz również użyć funkcji <a href="tool_typo_correct.html">Korekty typograficznej</a>, która szybko dostosuje tekst tak, by ładnie się układał na stronie.</p>
+<p>Oprócz typowego sprawdzania pisowni, możesz również użyć funkcji <a href="tool_typo_correct.php">Korekty typograficznej</a>, która szybko dostosuje tekst tak, by ładnie się układał na stronie.</p>
 
-<p>W <a href="main_menu_spelling.html">menu Pisownia</a> dostępne są również narzędzia umożliwiające szybką konwersję <a href="charset_encoding.html">kodowania znaków narodowych</a>, czy usuwania polskich liter z dokumentów.</p>
+<p>W <a href="main_menu_spelling.php">menu Pisownia</a> dostępne są również narzędzia umożliwiające szybką konwersję <a href="charset_encoding.php">kodowania znaków narodowych</a>, czy usuwania polskich liter z dokumentów.</p>
 
 </p>
 
@@ -114,9 +114,9 @@ Autokorekta umożliwia automatyczną poprawę błędnych słów już podczas wpi
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="down_integrity.html">Sprawdzanie spójności serwisu</a>
-	<li><a href="down_syntax_check.html">Sprawdzanie poprawności składni</a>
-	<li><a href="down_links_verify.html">Sprawdzanie poprawności odsyłaczy</a>
+	<li><a href="down_integrity.php">Sprawdzanie spójności serwisu</a>
+	<li><a href="down_syntax_check.php">Sprawdzanie poprawności składni</a>
+	<li><a href="down_links_verify.php">Sprawdzanie poprawności odsyłaczy</a>
 </ul>
 </td>
 </tr>

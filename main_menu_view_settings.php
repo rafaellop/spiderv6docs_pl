@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -77,46 +77,46 @@
 <p>Za pomocą tego menu możesz włączać różnorakie ustawienia programu:</p>
 
 <p><b>Opcje edytora</b><br />
-Podmenu zawierające przełączniki sterujące edytorem. Zawartość tego menu jest zbliżona do zawartości <a href="toolbars_minitoolbar.html">mini-paska narzędzi edytora</a>.
+Podmenu zawierające przełączniki sterujące edytorem. Zawartość tego menu jest zbliżona do zawartości <a href="toolbars_minitoolbar.php">mini-paska narzędzi edytora</a>.
 
 <hr />
 
 <p><b>Ogólne ustawienia programu</b><br />
-Wyświetla okno <a href="settings.html">ustawień programu</a>. Domyślny skrót klawiszowy <tt>F8</tt>.
+Wyświetla okno <a href="settings.php">ustawień programu</a>. Domyślny skrót klawiszowy <tt>F8</tt>.
 
 <hr />
 
 <p><b>Dostosuj edytor, schematy, pisownię</b><br />
-Wyświetla okno <a href="settings_editor.html">ustawień edytora</a>.
+Wyświetla okno <a href="settings_editor.php">ustawień edytora</a>.
 
 <p><b>Dostosuj paski, menu i skróty</b><br />
-Wyświetla okno <a href="settings_toolbars.html">ustawień pasków narzędzi, menu i skrótów klawiszowych</a>.
+Wyświetla okno <a href="settings_toolbars.php">ustawień pasków narzędzi, menu i skrótów klawiszowych</a>.
 
 <p><b>Dostosuj ułatwienia i uzupełnianie</b><br />
-Wyświetla okno <a href="settings_codeinsight.html">ustawień ułatwień i uzupełniania</a>.
+Wyświetla okno <a href="settings_codeinsight.php">ustawień ułatwień i uzupełniania</a>.
 
 <p><b>Dostosuj sieć i serwery</b><br />
-Wyświetla okno <a href="settings_network.html">ustawień sieci i serwerów FTP</a>.
+Wyświetla okno <a href="settings_network.php">ustawień sieci i serwerów FTP</a>.
 
 <p><b>Dostosuj dodatkowe narzędzia, Tidy i HTML Help</b><br />
-Wyświetla okno <a href="settings_addtools.html">ustawień dodatkowych narzędzi, Tidy i HTML Help</a>.
+Wyświetla okno <a href="settings_addtools.php">ustawień dodatkowych narzędzi, Tidy i HTML Help</a>.
 
 <hr />
 
 <p><b>Edytor plików definicyjnych TDF</b><br />
-Wyświetla okno <a href="tagdata_editor_tdf.html">edytora plików definicyjnych języków znacznikowych (TDF)</a>.
+Wyświetla okno <a href="tagdata_editor_tdf.php">edytora plików definicyjnych języków znacznikowych (TDF)</a>.
 
 <p><b>Edytor pliku definicyjnego PHP</b><br />
-Wyświetla okno <a href="tagdata_editor_tdf_php.html">edytora plików definicyjnego języka PHP</a>.
+Wyświetla okno <a href="tagdata_editor_tdf_php.php">edytora plików definicyjnego języka PHP</a>.
 
 <p><b>Edytor pliku definicyjnego CSS</b><br />
-Wyświetla okno <a href="tagdata_editor_tdf_css.html">edytora pliku definicyjnego CSS</a>.
+Wyświetla okno <a href="tagdata_editor_tdf_css.php">edytora pliku definicyjnego CSS</a>.
 
 <p><b>Edytor skryptowych plików definicyjnych</b><br />
-Wyświetla okno <a href="tagdata_editor_tdf_scripts.html">edytora skryptowych plików definicyjnych</a>.
+Wyświetla okno <a href="tagdata_editor_tdf_scripts.php">edytora skryptowych plików definicyjnych</a>.
 
 <p><b>Edytor schematów kolorowania</b><br />
-Wyświetla okno <a href="syntax_editor.html">edytora schematów kolorowania</a> dla edytowanych dokumentów.
+Wyświetla okno <a href="syntax_editor.php">edytora schematów kolorowania</a> dla edytowanych dokumentów.
 
 </td>
 </tr>
@@ -128,9 +128,9 @@ Wyświetla okno <a href="syntax_editor.html">edytora schematów kolorowania</a> 
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-        <li><a href="settings.html">Ustawienia programu</a></li>
-        <li><a href="main_menu_view.html">Menu Wyświetl</a></li>
-        <li><a href="toolbars_main.html">Główny pasek narzędzi</a></li>
+        <li><a href="settings.php">Ustawienia programu</a></li>
+        <li><a href="main_menu_view.php">Menu Wyświetl</a></li>
+        <li><a href="toolbars_main.php">Główny pasek narzędzi</a></li>
 </ul>
 </td>
 </tr>

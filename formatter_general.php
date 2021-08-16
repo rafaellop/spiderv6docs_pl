@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -78,7 +78,7 @@
 <!-- treść pomocy -->
 <p>Za pomocą narzędzia do formatowania kodu źródłowego możesz szybko uporządkować i sformatować kod w Twoich dokumentach. Ponadto możesz samodzielnie określać reguły formatowania kodu dla różnych języków.</p>
 
-<p> Narzędzie do formatowania kodu możesz uruchomić za pomocą polecenia oznaczonego ikoną pokazaną powyżej znajdującego się w menu <a href="main_menu_tools.html">Narzędzia</a> / <a href="main_menu_tools_formatting.html">Formatowanie i kompresja kodu</a>, a także za pomocą przycisku pokazanego wyżej umieszczonego na pasku narzędzi. </p>
+<p> Narzędzie do formatowania kodu możesz uruchomić za pomocą polecenia oznaczonego ikoną pokazaną powyżej znajdującego się w menu <a href="main_menu_tools.php">Narzędzia</a> / <a href="main_menu_tools_formatting.php">Formatowanie i kompresja kodu</a>, a także za pomocą przycisku pokazanego wyżej umieszczonego na pasku narzędzi. </p>
 
 <p><b>Okno narzędzia zawiera dwie zakładki:</b>
 <ul>
@@ -86,7 +86,7 @@
 	<li><b>Opcje formatowania</b> - zawiera opcje formatowania kodu</li>
 </ul></p>
 
-Możesz również użyć utworzonych wcześniej stylów formatowania wybierając określony styl z listy rozwijanej po kliknięciu strzałki przy ikonie narzędzia formatowania na <b>Często używanych narzędzi</b>, lub korzystając z menu <a href="main_menu_tools.html">Narzędzia</a> / <a href="main_menu_tools_formatting.html">Formatowanie i kompresja kodu</a> / <b>Szybkie formatowanie bieżącego</b>. Jeśli zaznaczysz fragment tekstu w dokumencie, tylko on zostanie sformatowany.
+Możesz również użyć utworzonych wcześniej stylów formatowania wybierając określony styl z listy rozwijanej po kliknięciu strzałki przy ikonie narzędzia formatowania na <b>Często używanych narzędzi</b>, lub korzystając z menu <a href="main_menu_tools.php">Narzędzia</a> / <a href="main_menu_tools_formatting.php">Formatowanie i kompresja kodu</a> / <b>Szybkie formatowanie bieżącego</b>. Jeśli zaznaczysz fragment tekstu w dokumencie, tylko on zostanie sformatowany.
 
 <h2>Źródło formatowania</h2><br />
 
@@ -98,7 +98,7 @@ Możesz również użyć utworzonych wcześniej stylów formatowania wybierając
 
 <p><b>we wszystkich otwartych</b> - operacje będą przeprowadzane na wszystkich dokumentach otwartych aktualnie w Pająku.</p>
 
-<p><b>w wybranym Serwisie</b> - operacje będą wykonywane na wszystkich plikach <a href="services_general.html">Serwisu</a> wybranego z listy. Można zawęzić rodzaje plików do plików z określonym rozszerzeniem:
+<p><b>w wybranym Serwisie</b> - operacje będą wykonywane na wszystkich plikach <a href="services_general.php">Serwisu</a> wybranego z listy. Można zawęzić rodzaje plików do plików z określonym rozszerzeniem:
 	<ul>
 		<li><b>pliki:</b> - pole tekstowe umożliwia wpisanie rozszerzeń plików w celu zawężenia rodzajów dokumentów, jakie mają być brane pod uwagę. Rozszerzenia należy podawać w postaci np. <tt>*.php;*.php3;*.php4</tt>.</li>
 	</ul>
@@ -156,14 +156,14 @@ Zaznacz tę opcję, aby formatować arkusze CSS (osadzone w dokumentach, lub w o
 
 <a name="javascript"></a>
 <p><b>Formatuj JavaScript</b><br />
-Zaznacz tę opcję, aby formatować kod skryptów JavaScript. Za pomocą polecenia <a href="formatter_javascript.html">Ustawienia formatowania</a> możesz dostosować styl formatowania dla JavaScript.</p>
+Zaznacz tę opcję, aby formatować kod skryptów JavaScript. Za pomocą polecenia <a href="formatter_javascript.php">Ustawienia formatowania</a> możesz dostosować styl formatowania dla JavaScript.</p>
 
 <a name="php"></a>
 <p><b>Formatuj skrypty PHP</b><br />
-Zaznacz tę opcję, aby formatować kod skryptów PHP. Za pomocą polecenia <a href="formatter_php.html">Ustawienia formatowania</a> możesz dostosować styl formatowania dla PHP.</p>
+Zaznacz tę opcję, aby formatować kod skryptów PHP. Za pomocą polecenia <a href="formatter_php.php">Ustawienia formatowania</a> możesz dostosować styl formatowania dla PHP.</p>
 
 <p><b>Dostosowanie stylów formatowania</b><br />
-Możesz również utworzyć własne style formatowania lub dostosować istniejące za pomocą opcji okna <a href="settings_codeinsight_formatter.html">Ustawienia programu - Formatowanie kodu źródłowego</a></p>
+Możesz również utworzyć własne style formatowania lub dostosować istniejące za pomocą opcji okna <a href="settings_codeinsight_formatter.php">Ustawienia programu - Formatowanie kodu źródłowego</a></p>
 
 
 
@@ -197,7 +197,7 @@ Możesz również utworzyć własne style formatowania lub dostosować istnieją
 Użyj tego przycisku, aby sformatować dokumenty używając wybranych opcji.</p>
 
 <p><b>Ustawienia</b><br />
-Użyj tego przycisku, otworzyć okno <a href="settings_codeinsight_formatter.html">Ustawienia programu / Inne ustawienia / Ułatwienia(...) / Formatowanie kodu źródłowego</a> w celu dopasowania opcji formatowania. W tym oknie możesz również edytować i tworzyć nowe style formatowania kodu</p>
+Użyj tego przycisku, otworzyć okno <a href="settings_codeinsight_formatter.php">Ustawienia programu / Inne ustawienia / Ułatwienia(...) / Formatowanie kodu źródłowego</a> w celu dopasowania opcji formatowania. W tym oknie możesz również edytować i tworzyć nowe style formatowania kodu</p>
 
  
 </td>
@@ -210,13 +210,13 @@ Użyj tego przycisku, otworzyć okno <a href="settings_codeinsight_formatter.htm
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-   <li><a href="settings_codeinsight_formatter.html">Ustawienia formatowań</a></li>
-   <li><a href="formatter_markuplangs.html">Ustawienia formatowania dokumentów znacznikowych</a></li>
-   <li><a href="formatter_stylesheets.html">Ustawienia formatowania arkuszy stylów CSS</a></li>
-   <li><a href="formatter_javascript.html">Ustawienia formatowania skryptów JavaScript</a></li>
-   <li><a href="formatter_php.html">Ustawienia formatowania skryptów PHP</a></li>
-   <li><a href="formatter_tidy.html">Ustawienia formatowania za pomocą programu Tidy</a></li>
-   <li><a href="tool_htmlcompressor.html">Kompresor HTML</a></li>
+   <li><a href="settings_codeinsight_formatter.php">Ustawienia formatowań</a></li>
+   <li><a href="formatter_markuplangs.php">Ustawienia formatowania dokumentów znacznikowych</a></li>
+   <li><a href="formatter_stylesheets.php">Ustawienia formatowania arkuszy stylów CSS</a></li>
+   <li><a href="formatter_javascript.php">Ustawienia formatowania skryptów JavaScript</a></li>
+   <li><a href="formatter_php.php">Ustawienia formatowania skryptów PHP</a></li>
+   <li><a href="formatter_tidy.php">Ustawienia formatowania za pomocą programu Tidy</a></li>
+   <li><a href="tool_htmlcompressor.php">Kompresor HTML</a></li>
 </ul>
 </td>
 </tr>

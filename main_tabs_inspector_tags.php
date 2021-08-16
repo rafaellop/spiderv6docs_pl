@@ -26,23 +26,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -71,9 +71,9 @@
 <!-- nagłowek głowny tematu -->
 <h1>Zakładka "Inspektor znaczników"</h1>
 
-<p>Zakładka "Inspektor znaczników" służy do tworzenia i reedycji znaczników. Umożliwia edycję znaczników w różnych językach, dla których zostały wprowadzone dane w <a href="tagdata_editor_tdf.html">Edytorze plików definicyjnych znaczników TDF.</a>
+<p>Zakładka "Inspektor znaczników" służy do tworzenia i reedycji znaczników. Umożliwia edycję znaczników w różnych językach, dla których zostały wprowadzone dane w <a href="tagdata_editor_tdf.php">Edytorze plików definicyjnych znaczników TDF.</a>
 
-<p>Zakładkę Inspektor znaczników włączysz za pomocą panelu po lewej lub skrótu klawiszowego CTRL+2, a także z menu pod przyciskiem pokazanym powyżej czy z <a href="main_menu_main.html">Menu głównego</a> / <a href="main_menu_view.html">Wyświetl</a>. Zakładka ta otwierana jest też po użyciu skrótu <tt>F6</tt>, gdy kursor stoi w obrębie znacznika.
+<p>Zakładkę Inspektor znaczników włączysz za pomocą panelu po lewej lub skrótu klawiszowego CTRL+2, a także z menu pod przyciskiem pokazanym powyżej czy z <a href="main_menu_main.php">Menu głównego</a> / <a href="main_menu_view.php">Wyświetl</a>. Zakładka ta otwierana jest też po użyciu skrótu <tt>F6</tt>, gdy kursor stoi w obrębie znacznika.
 
 <p>Obecnie obsługiwane są języki wg następujących specyfikacji:</p>
 
@@ -106,7 +106,7 @@
 <p>W menu dostępne są następujące pozycje:</p>
 
 <p><b>Grupa</b><br />
-Zawiera listę obsługiwanych przez inspektora języków znacznikowych. Ustawienia dla języków możesz edytować za pomocą <a href="tagdata_editor_tdf.html">Edytora plików definicyjnych znaczników TDF</a> Jeśli Pająk nie może określić, w jakim języku znaczników tworzony jest dokument, domyślnie przyjmowane jest, iż jest to HTML  4.01. Jeśli wybrałeś inny język, zablokuj wybór za pomocą przycisku z kłódką umieszczonego po prawej stronie listy.</p>
+Zawiera listę obsługiwanych przez inspektora języków znacznikowych. Ustawienia dla języków możesz edytować za pomocą <a href="tagdata_editor_tdf.php">Edytora plików definicyjnych znaczników TDF</a> Jeśli Pająk nie może określić, w jakim języku znaczników tworzony jest dokument, domyślnie przyjmowane jest, iż jest to HTML  4.01. Jeśli wybrałeś inny język, zablokuj wybór za pomocą przycisku z kłódką umieszczonego po prawej stronie listy.</p>
 
 <p><b>Znacznik</b><br />
 Zawiera listę wszystkich znaczników wybranej grupy.</p>
@@ -143,7 +143,7 @@ Zamknięcie: <b>Wymagane</b></tt></p>
 <p>Okienko podglądu znajduje się u dołu zakładki. Umożliwia ono podgląd formatowania wybranego znacznika przed wstawieniem go do dokumentu.</p>
 
 <p>&nbsp;<b>Wybór wykorzystywanej przeglądarki</b><br />
-Kliknij, aby wybrać przeglądarkę używana do przeglądania w tej zakładce. O ile jest zainstalowana w systemie (<a href="main_preview_embed.html">czytaj więcej na ten temat</a>), możesz skorzystać z przeglądarki:
+Kliknij, aby wybrać przeglądarkę używana do przeglądania w tej zakładce. O ile jest zainstalowana w systemie (<a href="main_preview_embed.php">czytaj więcej na ten temat</a>), możesz skorzystać z przeglądarki:
 <ul>
         <li>MS Internet Explorer</li>
         <li>Mozilla</li>
@@ -165,9 +165,9 @@ Ten przycisk jest przełącznikiem umożliwiającym podglądanie formatowania bi
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-        <li><a href="main_tabs_general.html">Inne zakładki</a>
-        <li><a href="tagdata_editor_tdf.html">Edytorze plików definicyjnych znaczników TDF</a>
-        <li><a href="main_window_desc.html">Główne okno programu</a>
+        <li><a href="main_tabs_general.php">Inne zakładki</a>
+        <li><a href="tagdata_editor_tdf.php">Edytorze plików definicyjnych znaczników TDF</a>
+        <li><a href="main_window_desc.php">Główne okno programu</a>
 </ul>
 </td>
 </tr>

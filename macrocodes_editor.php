@@ -28,23 +28,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -77,24 +77,24 @@
 
 
 <!-- treść pomocy -->
-<p>Szablony pozwalają na szybkie wstawianie do dokumentu często wykorzystywanych lub skomplikowanych fragmentów kodu. Szerszy opis szablonów znajdziesz w opisie <a href="macrocodes.html">Szablonów</a>.</p>
+<p>Szablony pozwalają na szybkie wstawianie do dokumentu często wykorzystywanych lub skomplikowanych fragmentów kodu. Szerszy opis szablonów znajdziesz w opisie <a href="macrocodes.php">Szablonów</a>.</p>
 
 <p>Edytor szablonów służy do tworzenia nowych i edycji istniejących szablonów. </p>
 
 <p>Okno edytora składa się z kilku obszarów:</p>
 
 <ul>
-   <li><b><a href="macrocodes_editor_settings.html">Ustawienia szablonu</a></b> - przypisanie do kategorii, nazwa, typ, skrót klawiszowy</li>
+   <li><b><a href="macrocodes_editor_settings.php">Ustawienia szablonu</a></b> - przypisanie do kategorii, nazwa, typ, skrót klawiszowy</li>
 	<li>Zakładki do tworzenia zawartości szablonu:</li>
 	<ul>
-	<li><b><a href="macrocodes_editor_sites.html">Lewa strona, środek, prawa strona</a></b> - trzy zakładki zawierające okna do wpisywania treści.</li>
-   <li><b><a href="macrocodes_editor_vars.html">Zmienne</a></b> - zakładka zawiera okno inspektora zmiennych użytych w szablonie. Do tworzenia nowych i edycji istniejących zmiennych służy okno <a href="macrocodes_editor_addvar.html">Nowa zmienna szablonu/Edycja zmiennej szablonu</a>.</li>
-   <li><b><a href="macrocodes_editor_blocks.html">Bloki</a></b> - zakładka zawiera listę bloków użytych w szablonie. Do tworzenia nowych i edycji istniejących bloków służy okno <a href="macrocodes_editor_addblock.html">Dodanie nowego bloku/Edycja bloku szablonu</a>.</li>
+	<li><b><a href="macrocodes_editor_sites.php">Lewa strona, środek, prawa strona</a></b> - trzy zakładki zawierające okna do wpisywania treści.</li>
+   <li><b><a href="macrocodes_editor_vars.php">Zmienne</a></b> - zakładka zawiera okno inspektora zmiennych użytych w szablonie. Do tworzenia nowych i edycji istniejących zmiennych służy okno <a href="macrocodes_editor_addvar.php">Nowa zmienna szablonu/Edycja zmiennej szablonu</a>.</li>
+   <li><b><a href="macrocodes_editor_blocks.php">Bloki</a></b> - zakładka zawiera listę bloków użytych w szablonie. Do tworzenia nowych i edycji istniejących bloków służy okno <a href="macrocodes_editor_addblock.php">Dodanie nowego bloku/Edycja bloku szablonu</a>.</li>
 </ul>
 	<li><b>Zawijaj wiersze w edytorze poszczególnych części szablonu</b> - Po zaznaczeniu tego przełącznika tekst każdej z trzech stron szablonu będzie zawijany. Dzięki temu cały wiersz tekstu będzie widoczny w sytuacji, gdy ma ono niewielkie rozmiary (okno Edytora szablonów można powiększać i pomniejszać).</li>
 </ul>
 
-<p>Standardowo okno to wywołuje się po zaznaczeniu szablonu za pomocą ikon w górnej części zakładki <a href="main_tabs_macrocodes.html">Szablony</a>, lub za pomocą wciśnięcia klawisza F2 po zaznaczeniu szablonu na drzewku.</p>
+<p>Standardowo okno to wywołuje się po zaznaczeniu szablonu za pomocą ikon w górnej części zakładki <a href="main_tabs_macrocodes.php">Szablony</a>, lub za pomocą wciśnięcia klawisza F2 po zaznaczeniu szablonu na drzewku.</p>
 
 </td>
 </tr>
@@ -106,10 +106,10 @@
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="main_tabs_macrocodes.html">Zakładka Szablony</a>
-	<li><a href="macrocodes.html">Szablony - ogólnie</a>
-	<li><a href="settings_macrocodes.html">Ustawienia programu - Szablony.</a>
-	<li><a href="macrocodes_instruction.html">Tworzenie szablonu - instrukcja krok po kroku.</a>
+	<li><a href="main_tabs_macrocodes.php">Zakładka Szablony</a>
+	<li><a href="macrocodes.php">Szablony - ogólnie</a>
+	<li><a href="settings_macrocodes.php">Ustawienia programu - Szablony.</a>
+	<li><a href="macrocodes_instruction.php">Tworzenie szablonu - instrukcja krok po kroku.</a>
 </ul>
 </td>
 </tr>

@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -95,8 +95,8 @@ Nie jest możliwe sprawdzanie poprawności odsyłaczy w dokumentach edytowanych 
 <p>Sprawdzanie odsyłaczy w bieżącym dokumencie można uruchomić na dwa sposoby:
 
 <ul>
-   <li>z <a href="main_menu_main.html">Menu głównego</a> / <a href="main_menu_tools.html">Narzędzia</a> / <a href="main_menu_tools_verify.html">Weryfikacja kodu</a></li>
-	<li>z poziomu zakładki Poprawność odsyłaczy - otwórz <a href="down_panel.html">dolny panel wyników</a> - kliknij przycisk "Weryfikacja odnośników w bieżącym dokumencie".</li>
+   <li>z <a href="main_menu_main.php">Menu głównego</a> / <a href="main_menu_tools.php">Narzędzia</a> / <a href="main_menu_tools_verify.php">Weryfikacja kodu</a></li>
+	<li>z poziomu zakładki Poprawność odsyłaczy - otwórz <a href="down_panel.php">dolny panel wyników</a> - kliknij przycisk "Weryfikacja odnośników w bieżącym dokumencie".</li>
 </ul></p>
 
 <p><b>Uwaga!</b><br />
@@ -104,7 +104,7 @@ Z uwagi na ewentualną konieczność połączenia z Internetem, co może bardzo 
 
 <h2>Sprawdzanie poprawności odsyłaczy w bieżącym Serwisie</h2>
 
-<p>Sprawdzanie odsyłaczy w bieżącym Serwisie (wybranym na zakładce <a href="main_tabs_myservices.html">Moje serwisy</a>) obejmuje wszystkie dokumenty umieszczone w folderach należących do bieżącego Serwisu. Narzędzie można uruchomić za pomocą polecenia <a href="main_menu_main.html">Menu głównego</a> / <a href="main_menu_services.html">Serwisy</a> / Weryfikacja odnośników.
+<p>Sprawdzanie odsyłaczy w bieżącym Serwisie (wybranym na zakładce <a href="main_tabs_myservices.php">Moje serwisy</a>) obejmuje wszystkie dokumenty umieszczone w folderach należących do bieżącego Serwisu. Narzędzie można uruchomić za pomocą polecenia <a href="main_menu_main.php">Menu głównego</a> / <a href="main_menu_services.php">Serwisy</a> / Weryfikacja odnośników.
 
 <p><b>Uwaga!</b><br />
 Z uwagi na ewentualną konieczność połączenia z Internetem, co może bardzo wydłużyć proces weryfikacji, za pomocą tej opcji nie będą sprawdzane odnośniki zdalne (podane za pomocą bezwzględnego adresu, czyli wraz z domeną i protokołem). Możesz natomiast osobnym przyciskiem wywołać weryfikację zdalnych odsyłaczy.</p>
@@ -113,14 +113,14 @@ Z uwagi na ewentualną konieczność połączenia z Internetem, co może bardzo 
 
 <p>Sprawdzanie zdalnych odsyłaczy obejmuje wszystkie odnośniki, których adres jest adresem URL (z ang. <i>Universal Resource Locator</i> - uniwersalny identyfikator zasobu), składającym się z nazwy protokołu, adresu hosta (IP lub nazwa domenowa) oraz nazwy dokumentu. </p>
 
-<p>Aby uruchomić weryfikację odnośników zdalnych, otwórz <a href="down_panel.html">dolny panel wyników</a>, a następnie kliknij przycisk "Weryfikacja zdalnych odnośników".</p>
+<p>Aby uruchomić weryfikację odnośników zdalnych, otwórz <a href="down_panel.php">dolny panel wyników</a>, a następnie kliknij przycisk "Weryfikacja zdalnych odnośników".</p>
 
 <p><b>Uwaga!</b><br />
 Sprawdzanie zdalnych odnośników może bardzo się wydłużyć jeśli sieć będzie bardzo obciążona, lub odpowiedzi od serwerów będą przychodziły z dużym opóźnieniem. Do uruchomienia tej opcji konieczne jest aktywne połączenie sieciowe.</p>
 
 <h2>Wyniki sprawdzania poprawności odnośników</h2>
 
-<p>Wyniki działania narzędzia prezentowane są na liście w zakładce Poprawność odsyłaczy na <a href="down_panel.html">dolnym panelu wyników</a>. Okno wyników zawiera sześć kolumn:</p>
+<p>Wyniki działania narzędzia prezentowane są na liście w zakładce Poprawność odsyłaczy na <a href="down_panel.php">dolnym panelu wyników</a>. Okno wyników zawiera sześć kolumn:</p>
 
 <ul>
 	<li>lewa kolumna - ikona z kulką informuje o typie komunikatu:<br />
@@ -167,13 +167,13 @@ Za pomocą  tego przycisku możesz włączyć wyświetlanie tytułów dokumentó
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-   <li><a href="down_integrity.html">Sprawdzanie spójności serwisu</a></li>
-   <li><a href="down_syntax_check.html">Sprawdzanie poprawności składni</a></li>
-   <li><a href="network_publishing_general.html">Publikowanie w Pająku</a></li>
-   <li><a href="service_tool_synchronization.html">Automatyczna synchronizacja serwisu</a></li>
-   <li><a href="services_general.html">Serwisy ogólnie</a></li>
+   <li><a href="down_integrity.php">Sprawdzanie spójności serwisu</a></li>
+   <li><a href="down_syntax_check.php">Sprawdzanie poprawności składni</a></li>
+   <li><a href="network_publishing_general.php">Publikowanie w Pająku</a></li>
+   <li><a href="service_tool_synchronization.php">Automatyczna synchronizacja serwisu</a></li>
+   <li><a href="services_general.php">Serwisy ogólnie</a></li>
    <li><a href="down_panel.html#downpanellist">Inne zakładki dolnego panelu wyników</a></li>
-   <li><a href="main_window_desc.html">Główne okno programu</a></li>
+   <li><a href="main_window_desc.php">Główne okno programu</a></li>
 </ul>
 </td>
 </tr>

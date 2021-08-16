@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -75,7 +75,7 @@
 
 
 <!-- treść pomocy -->
-<p>Nagrywarkę czynności uruchomisz z poziomu <a href="main_menu_main.html">Menu głównego</a> / <a href="main_menu_tools.html">Narzędzia</a> / <a href="main_menu_tools_other.html">Inne narzędzia</a> / Nagrywarka czynności, a także z <a href="main_menu_view.html">Menu Wyświetl</a>. ikona narzędzia pokazana została powyżej.</p>
+<p>Nagrywarkę czynności uruchomisz z poziomu <a href="main_menu_main.php">Menu głównego</a> / <a href="main_menu_tools.php">Narzędzia</a> / <a href="main_menu_tools_other.php">Inne narzędzia</a> / Nagrywarka czynności, a także z <a href="main_menu_view.php">Menu Wyświetl</a>. ikona narzędzia pokazana została powyżej.</p>
 
 <p>Narzędzie umożliwia nagrywanie czynności w celu ich późniejszego ponownego wykorzystania. Możesz nagrywać nie tylko czynności w Pająku, ale i w systemie. Należy jednak uważać na to, by narzędzia odtwarzało nagranie w takich samych warunkach, w jakich zostało ono nagrane. W przeciwnym razie mogą wystąpić błędy. </p>
 
@@ -112,7 +112,7 @@ Wyświetla nazwę bieżącego nagrania.</p>
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="tool_zoomek.html">Inne narzędzia ułatwiające pracę - Szkło powiększające</a>
+	<li><a href="tool_zoomek.php">Inne narzędzia ułatwiające pracę - Szkło powiększające</a>
 </ul>
 </td>
 </tr>

@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -81,7 +81,7 @@
 
 <h2>Uruchamianie</h2>
 
-<p> Kreator możesz uruchomić poleceniem umieszczonym w<a href="main_tabs_inspector_mysql.html#dbtree_tablename"> menu podręcznym dla tabeli na drzewku</a> w zakładce <a href="main_tabs_inspector_mysql.html">Inspektor MySQL</a>. Ikona polecenia została pokazana obok.</p>
+<p> Kreator możesz uruchomić poleceniem umieszczonym w<a href="main_tabs_inspector_mysql.html#dbtree_tablename"> menu podręcznym dla tabeli na drzewku</a> w zakładce <a href="main_tabs_inspector_mysql.php">Inspektor MySQL</a>. Ikona polecenia została pokazana obok.</p>
 <p>Drugim miejscem, z którego możesz otworzyć Kreatora zapytania SQL jest plansza tworzenia zapytania do bazy danych w <a href="tool_mysql_export_tables.html#wybor_zakresu_danych">Kreatorze eksportu z bazy danych</a>.</p>
 
 
@@ -147,7 +147,7 @@ Tutaj znajdziesz przełącznik umożliwiający wstawienia do zapytania instrukcj
 
 <p>Ostatnia plansza to podsumowanie. Znajduje się na niej pole tekstowe wyświetlające gotowe zapytanie. Dodatkowo możesz skorzystać z przycisku Dodaj zapytanie do ulubionych, dzięki czemu możesz zbudowane zapytanie zachować do późniejszego wielokrotnego użycia (przycisk umożliwiający skorzystanie z jednego z  "Ulubione zapytania" znajdziesz na zakładce <a href="main_tabs_inspector_mysql.html#table_content">Inspektor MySQL</a> na pasku przycisków obok listy zawartości tabeli).</p>
 
-<p>Ostatnią czynnością, jaką należy wykonać jest kliknięcie przycisku <b>Zakończ</b>, co spowoduje wykonanie zapytania i zamknięcie Kreatora. Wyniki działania Kreatora zostaną wyświetlone na liście <a href="main_tabs_inspector_mysql.html#table_content">zawartości tabeli</a> w dolnej części zakładki <a href="main_tabs_inspector_mysql.html">Inspektor MySQL</a>.</p>
+<p>Ostatnią czynnością, jaką należy wykonać jest kliknięcie przycisku <b>Zakończ</b>, co spowoduje wykonanie zapytania i zamknięcie Kreatora. Wyniki działania Kreatora zostaną wyświetlone na liście <a href="main_tabs_inspector_mysql.html#table_content">zawartości tabeli</a> w dolnej części zakładki <a href="main_tabs_inspector_mysql.php">Inspektor MySQL</a>.</p>
 
 
 </td>
@@ -160,9 +160,9 @@ Tutaj znajdziesz przełącznik umożliwiający wstawienia do zapytania instrukcj
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="main_tabs_inspector_mysql.html">Zakładka Inspektor MySQL</a></li>
-	<li><a href="tool_mysql_query.html">Wykonaj zapytanie SQL</a></li>
-	<li><a href="tool_mysql_export_tables.html">Kreator eksportu z bazy danych</a></li>
+	<li><a href="main_tabs_inspector_mysql.php">Zakładka Inspektor MySQL</a></li>
+	<li><a href="tool_mysql_query.php">Wykonaj zapytanie SQL</a></li>
+	<li><a href="tool_mysql_export_tables.php">Kreator eksportu z bazy danych</a></li>
 </ul>
 </td>
 </tr>

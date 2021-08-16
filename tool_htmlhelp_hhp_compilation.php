@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -73,7 +73,7 @@
 <h1>HTML Help - Kompilacja dokumentu HTML Help</h1>
 
 
-<p>Za pomocą tego niewielkiego okienka dialogowego uruchamiamy kompilację przygotowanego projektu. Przed rozpoczęciem kompilacji projektu  należy pamiętać, aby w <a href="settings_addtools_htmlhelp.html">ustawieniach</a> zdefiniowana była ścieżka dostępu do kompilatora HTML Help wersja 1. Kompilator zawarty jest w pakiecie MS HTML Help Workshop, który możesz pobrać za darmo ze strony <a href="https://msdn.microsoft.com/en-us/library/windows/desktop/ms669985(v=vs.85).aspx" target="_blank">Microsoft MSDN</a>.
+<p>Za pomocą tego niewielkiego okienka dialogowego uruchamiamy kompilację przygotowanego projektu. Przed rozpoczęciem kompilacji projektu  należy pamiętać, aby w <a href="settings_addtools_htmlhelp.php">ustawieniach</a> zdefiniowana była ścieżka dostępu do kompilatora HTML Help wersja 1. Kompilator zawarty jest w pakiecie MS HTML Help Workshop, który możesz pobrać za darmo ze strony <a href="https://msdn.microsoft.com/en-us/library/windows/desktop/ms669985(v=vs.85).aspx" target="_blank">Microsoft MSDN</a>.
 
 <h2>Uruchamianie</h2>
 
@@ -100,13 +100,13 @@ W polu tym możemy wpisać nazwę pliku projektu HHP wraz z pełną ścieżką d
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-        <li><a href="tool_htmlhelp_general.html">HTML Help - ogólne informacje</a>
-        <li><a href="tool_htmlhelp_hhp_editor.html">Edytor projektu HTML Help</a>
-        <li><a href="tool_htmlhelp_hhc_editor.html">Edytor spisu treści HTML Help</a>
-        <li><a href="tool_htmlhelp_hhk_editor.html">Edytor skorowidza (indeksu) HTML Help</a>
-        <li><a href="tool_htmlhelp_folder_to_chm.html">Szybki HTML Help z folderu</a>
-        <li><a href="tool_htmlhelp_compiler_info.html">Informacja dla kompilatora HTML Help</a>
-        <li><a href="tool_htmlhelp_compiler_services.html">HTML Help a serwisy w Pająku</a>
+        <li><a href="tool_htmlhelp_general.php">HTML Help - ogólne informacje</a>
+        <li><a href="tool_htmlhelp_hhp_editor.php">Edytor projektu HTML Help</a>
+        <li><a href="tool_htmlhelp_hhc_editor.php">Edytor spisu treści HTML Help</a>
+        <li><a href="tool_htmlhelp_hhk_editor.php">Edytor skorowidza (indeksu) HTML Help</a>
+        <li><a href="tool_htmlhelp_folder_to_chm.php">Szybki HTML Help z folderu</a>
+        <li><a href="tool_htmlhelp_compiler_info.php">Informacja dla kompilatora HTML Help</a>
+        <li><a href="tool_htmlhelp_compiler_services.php">HTML Help a serwisy w Pająku</a>
 
 </ul>
 </td>

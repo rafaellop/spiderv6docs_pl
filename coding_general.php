@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -81,15 +81,15 @@
 <p>Narzędzia wspomagające tworzenie kodu w największym stopniu obsługują języki:</p>
 
 <ul>
- <li><a href="coding_html.html">język HTML i XHTML</a>, a także inne <a href="coding_markuplangs.html">języki znacznikowe</a>, jak SMIL, WML, SVG itp. ,</li>
- <li><a href="coding_css.html">Kaskadowe Arkusze Stylów (CSS)</a>,</li>
- <li><a href="coding_php.html">PHP (Hypertext Preprocesor)</a> - język skryptowy typu server-side (obsługiwany po stronie serwera) ,</li>
- <li><a href="coding_scripts_jsvb.html">JavaScript i VBScrpt</a> - języki skryptowe client-side (obsługiwane przez przeglądarkę internetową),</li>
- <li><a href="coding_asp.html">ASP (Active Server Pages)</a> - technologię typu server-side firmy Microsoft, przede wszystkim dla serwerów opartych na Windows ,</li>
- <li><b>SQL</b> (język obsługi zapytań baz danych) w różnych wersjach (<a href="coding_mysql.html">MySQL</a>, PostgreSQL), przy czym <a href="coding_mysql.html">wsparcie dla baz danych MySQL</a> istnieje  w postaci szeregu dodatkowych  narzędzi .</li>
+ <li><a href="coding_html.php">język HTML i XHTML</a>, a także inne <a href="coding_markuplangs.php">języki znacznikowe</a>, jak SMIL, WML, SVG itp. ,</li>
+ <li><a href="coding_css.php">Kaskadowe Arkusze Stylów (CSS)</a>,</li>
+ <li><a href="coding_php.php">PHP (Hypertext Preprocesor)</a> - język skryptowy typu server-side (obsługiwany po stronie serwera) ,</li>
+ <li><a href="coding_scripts_jsvb.php">JavaScript i VBScrpt</a> - języki skryptowe client-side (obsługiwane przez przeglądarkę internetową),</li>
+ <li><a href="coding_asp.php">ASP (Active Server Pages)</a> - technologię typu server-side firmy Microsoft, przede wszystkim dla serwerów opartych na Windows ,</li>
+ <li><b>SQL</b> (język obsługi zapytań baz danych) w różnych wersjach (<a href="coding_mysql.php">MySQL</a>, PostgreSQL), przy czym <a href="coding_mysql.php">wsparcie dla baz danych MySQL</a> istnieje  w postaci szeregu dodatkowych  narzędzi .</li>
 </ul></p>
 
-<p>Pająk zawiera również niespotykane w innych programach wsparcie dla tworzenie plików pomocy <a href="tool_htmlhelp_general.html">HTML Help</a> . Dokument pomocy, który w tej chwili oglądasz, również w całości został przygotowany w Pająku.</p>
+<p>Pająk zawiera również niespotykane w innych programach wsparcie dla tworzenie plików pomocy <a href="tool_htmlhelp_general.php">HTML Help</a> . Dokument pomocy, który w tej chwili oglądasz, również w całości został przygotowany w Pająku.</p>
 
 
 <p>W mniejszym stopniu wspomagane są inne języki:</p>
@@ -102,7 +102,7 @@
  <li><b>C</b>, <b>C++</b>, <b>C#</b>,</li>
  <li>inne.</li>
 </ul>
-<p>Wspomaganie tych języków polega przede wszystkim na <a href="syntax.html">kolorowaniu ich składni</a>.</p>
+<p>Wspomaganie tych języków polega przede wszystkim na <a href="syntax.php">kolorowaniu ich składni</a>.</p>
 
 
 
@@ -116,7 +116,7 @@
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="main_editor_general.html">Edytor - ogólnie</a>
+	<li><a href="main_editor_general.php">Edytor - ogólnie</a>
 </ul>
 </td>
 </tr>

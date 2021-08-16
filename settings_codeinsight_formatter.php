@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -75,7 +75,7 @@
 
 
 <!-- treść pomocy -->
-<p>Ta kategoria ustawień pozwala na określenie ustawień <a href="formatter_general.html">formatowania kodu źródłowego</a> dokumentów różnego typu. Dzięki tej funkcji możesz w szybki sposób przejrzyście poukładać swój kod.
+<p>Ta kategoria ustawień pozwala na określenie ustawień <a href="formatter_general.php">formatowania kodu źródłowego</a> dokumentów różnego typu. Dzięki tej funkcji możesz w szybki sposób przejrzyście poukładać swój kod.
 
 <p>Dla formatowań języków znacznikowych, CSS oraz dla Tidy możesz tworzyć predefiniowane ustawienia, tzw. profile, które pozwalają na określenie różnych sposobów formatowania. Dla formatowania kodu PHP oraz JavaScript nie można tworzyć profili i dostępne jest tylko jedno ustawienie.
 
@@ -83,19 +83,19 @@
 
 <h2>Predefiniowane ustawienia formatowania znaczników</h2>
 
-<p>W tej grupie znajduje się lista profili formatowania dla języków znacznikowych (np. HTML), które to profile możesz dostosowywać do własnych potrzeb za pomocą okienka <a href="formatter_markuplangs.html">Ustawienia formatowania znaczników</a> uruchamianego jednym z przycisków obok listy. Możesz też tworzyć formatowania od zera.
+<p>W tej grupie znajduje się lista profili formatowania dla języków znacznikowych (np. HTML), które to profile możesz dostosowywać do własnych potrzeb za pomocą okienka <a href="formatter_markuplangs.php">Ustawienia formatowania znaczników</a> uruchamianego jednym z przycisków obok listy. Możesz też tworzyć formatowania od zera.
 
 <h2>Predefiniowane ustawienia formatowania CSS</h2>
 
-<p>W tej grupie znajduje się lista profili formatowania dla arkuszy stylów CSS, które to profile możesz dostosowywać do własnych potrzeb za pomocą okienka <a href="formatter_stylesheets.html">Ustawienia formatowania CSS</a> uruchamianego jednym z przycisków obok listy. Możesz też tworzyć formatowania od zera.
+<p>W tej grupie znajduje się lista profili formatowania dla arkuszy stylów CSS, które to profile możesz dostosowywać do własnych potrzeb za pomocą okienka <a href="formatter_stylesheets.php">Ustawienia formatowania CSS</a> uruchamianego jednym z przycisków obok listy. Możesz też tworzyć formatowania od zera.
 
 <h2>Predefiniowane ustawienia formatowania Tidy(r)</h2>
 
-<p>W tej grupie znajduje się lista profili formatowania dla programu <a href="https://www.w3.org/People/Raggett/tidy/" target="_blank">Tidy(r)</a>, które to profile możesz dostosowywać do własnych potrzeb za pomocą okienka <a href="formatter_tidy.html">Ustawienia formatowania dla Tidy(r)</a> uruchamianego jednym z przycisków obok listy. Możesz też tworzyć formatowania od zera.
+<p>W tej grupie znajduje się lista profili formatowania dla programu <a href="https://www.w3.org/People/Raggett/tidy/" target="_blank">Tidy(r)</a>, które to profile możesz dostosowywać do własnych potrzeb za pomocą okienka <a href="formatter_tidy.php">Ustawienia formatowania dla Tidy(r)</a> uruchamianego jednym z przycisków obok listy. Możesz też tworzyć formatowania od zera.
 
 <h2>Ustawienia formatowania języków skryptowych</h2>
 
-<p>W tej grupie ustawień formatowania znajdują się dwa przyciski uruchamiające okienka ustawień formatowania kodu źródłowego dla języka JavaScript (<a href="formatter_javascript.html">Ustawienia JavaScript</a>) oraz PHP (<a href="formatter_php.html">Ustawienia PHP</a>).
+<p>W tej grupie ustawień formatowania znajdują się dwa przyciski uruchamiające okienka ustawień formatowania kodu źródłowego dla języka JavaScript (<a href="formatter_javascript.php">Ustawienia JavaScript</a>) oraz PHP (<a href="formatter_php.php">Ustawienia PHP</a>).
 
 </td>
 </tr>
@@ -108,13 +108,13 @@
 <h4>Pokrewne tematy</h4>
 <ul>
 	<li><a href="settings_codeinsight.html#settingslistcodeinsight">Inne ustawienia ułatwień</a>
-	<li><a href="formatter_general.html">Korzystanie z funkcji formatowania</a>
-	<li><a href="tool_htmlcompressor.html">Kompresor HTML</a>
-	<li><a href="formatter_markuplangs.html">Ustawienia formatowania dokumentów znacznikowych</a>
-	<li><a href="formatter_stylesheets.html">Ustawienia formatowania arkuszy stylów CSS</a>
-	<li><a href="formatter_javascript.html">Ustawienia formatowania skryptów JavaScript</a>
-	<li><a href="formatter_php.html">Ustawienia formatowania skryptów PHP</a>
-   <li><a href="formatter_tidy.html">Ustawienia formatowania za pomocą programu Tidy</a>
+	<li><a href="formatter_general.php">Korzystanie z funkcji formatowania</a>
+	<li><a href="tool_htmlcompressor.php">Kompresor HTML</a>
+	<li><a href="formatter_markuplangs.php">Ustawienia formatowania dokumentów znacznikowych</a>
+	<li><a href="formatter_stylesheets.php">Ustawienia formatowania arkuszy stylów CSS</a>
+	<li><a href="formatter_javascript.php">Ustawienia formatowania skryptów JavaScript</a>
+	<li><a href="formatter_php.php">Ustawienia formatowania skryptów PHP</a>
+   <li><a href="formatter_tidy.php">Ustawienia formatowania za pomocą programu Tidy</a>
 </ul>
 </td>
 </tr>

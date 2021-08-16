@@ -26,23 +26,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -73,7 +73,7 @@
 
 <p>Podpowiedzi i sztuczki to okienko, które wyświetla kolejne podpowiedzi, które pomagają w poznaniu funkcji Pająka. W okienku możesz przełączać się na kolejne podpowiedzi wciskając przycisk Następna.
 
-<p>Okno podpowiedzi uruchamia się automatycznie przy każdym uruchomieniu programu o ile go nie wyłączysz w <a href="settings_startup.html">ustawieniach kategorii Przy starcie</a> lub za pomocą przełącznika znajdującego się w tym oknie. Dodatkowo możesz wyświetlić okienko Popowiedzi z <a href="main_menu_main.html">Menu głównego</a> / <a href="main_menu_help.html">Pomoc</a> / Podpowiedzi i sztuczki.
+<p>Okno podpowiedzi uruchamia się automatycznie przy każdym uruchomieniu programu o ile go nie wyłączysz w <a href="settings_startup.php">ustawieniach kategorii Przy starcie</a> lub za pomocą przełącznika znajdującego się w tym oknie. Dodatkowo możesz wyświetlić okienko Popowiedzi z <a href="main_menu_main.php">Menu głównego</a> / <a href="main_menu_help.php">Pomoc</a> / Podpowiedzi i sztuczki.
 
 <h2>Tworzenie własnych podpowiedzi i sztuczek</h2>
 
@@ -89,8 +89,8 @@
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="settings_startup.html">Ustawienia Przy starcie</a>
-	<li><a href="main_menu_main.html">Menu programu</a>
+	<li><a href="settings_startup.php">Ustawienia Przy starcie</a>
+	<li><a href="main_menu_main.php">Menu programu</a>
 </ul>
 </td>
 </tr>

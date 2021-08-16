@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -85,13 +85,13 @@
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="services_general.html">O serwisach ogólnie</a>
+	<li><a href="services_general.php">O serwisach ogólnie</a>
    <li><a href="service_properites.html#virtual_include">Własności serwisu</a>
-	<li><a href="service_tool_synchronization.html">Synchronizacja serwisów</a>
-	<li><a href="tool_htmlhelp_general.html">HTML Help</a>
-	<li><a href="main_tabs_myservices.html">Zakładka Moje serwisy</a>
-	<li><a href="tool_meta.html">Edytor sekcji META dokumentu</a>
-	<li><a href="main_window_desc.html">Główne okno programu</a>
+	<li><a href="service_tool_synchronization.php">Synchronizacja serwisów</a>
+	<li><a href="tool_htmlhelp_general.php">HTML Help</a>
+	<li><a href="main_tabs_myservices.php">Zakładka Moje serwisy</a>
+	<li><a href="tool_meta.php">Edytor sekcji META dokumentu</a>
+	<li><a href="main_window_desc.php">Główne okno programu</a>
 </ul>
 </td>
 </tr>

@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -81,14 +81,14 @@
 <p>Na wspomaganie PHP składa się kilka różnych narzędzi Pająka:
 
 <ul>
-	<li><a href="coding_php_syntax.html">Kolorowanie składni</a></li>
-	<li><a href="coding_php_codeinsight.html">Dynamiczny kod</a></li>
+	<li><a href="coding_php_syntax.php">Kolorowanie składni</a></li>
+	<li><a href="coding_php_codeinsight.php">Dynamiczny kod</a></li>
 	<li><a href="main_tabs_navigator.html#php">Nawigator PHP</a></li>
-	<li><a href="coding_php_help.html">Pomoc kontekstowa dla PHP na dolnym panelu</a>
-	<li><a href="coding_php_languages.html">Języki programowania - drzewko definicji funkcji dla PHP</a></li>
-	<li><a href="coding_php_macrocodes.html">Makrokody - szablony kodu PHP</a></li>
-	<li><a href="coding_php_formatting.html">Formatowanie kodu źródłowego PHP</a></li>
-	<li><a href="coding_php_mapping.html">Mapowanie ścieżki do pliku na twardym dysku na adres URL</a>
+	<li><a href="coding_php_help.php">Pomoc kontekstowa dla PHP na dolnym panelu</a>
+	<li><a href="coding_php_languages.php">Języki programowania - drzewko definicji funkcji dla PHP</a></li>
+	<li><a href="coding_php_macrocodes.php">Makrokody - szablony kodu PHP</a></li>
+	<li><a href="coding_php_formatting.php">Formatowanie kodu źródłowego PHP</a></li>
+	<li><a href="coding_php_mapping.php">Mapowanie ścieżki do pliku na twardym dysku na adres URL</a>
 </ul></p>
 
 
@@ -104,14 +104,14 @@
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="syntax.html">Kolorowanie składni w Pająku</a>
-	<li><a href="main_editor_codeinsight.html">Dynamiczny kod</a></li>
-	<li><a href="main_tabs_navigator.html">Zakładka "Nawigator"</a></li>
-	<li><a href="main_tabs_languages.html">Zakładka "Języki programowania"</a></li>
-	<li><a href="main_tabs_macrocodes.html">Zakładka "Makrokody"</a></li>
-	<li><a href="settings_codeinsight.html">Ustawienia programu - Ułatwienia, dynamiczne atrybuty, inne</a> - <a href="settings_codeinsight_php.html">Dynamiczne podpowiedzi w PHP</a>
-	<li><a href="formatter_general.html">Formatowanie kodu źródłowego</a> - <a href="formatter_php.html">Ustawienia dla PHP</a></li>
-	<li><a href="coding_mysql.html">Wspomaganie dla MySQL w Pająku</a></li>
+	<li><a href="syntax.php">Kolorowanie składni w Pająku</a>
+	<li><a href="main_editor_codeinsight.php">Dynamiczny kod</a></li>
+	<li><a href="main_tabs_navigator.php">Zakładka "Nawigator"</a></li>
+	<li><a href="main_tabs_languages.php">Zakładka "Języki programowania"</a></li>
+	<li><a href="main_tabs_macrocodes.php">Zakładka "Makrokody"</a></li>
+	<li><a href="settings_codeinsight.php">Ustawienia programu - Ułatwienia, dynamiczne atrybuty, inne</a> - <a href="settings_codeinsight_php.php">Dynamiczne podpowiedzi w PHP</a>
+	<li><a href="formatter_general.php">Formatowanie kodu źródłowego</a> - <a href="formatter_php.php">Ustawienia dla PHP</a></li>
+	<li><a href="coding_mysql.php">Wspomaganie dla MySQL w Pająku</a></li>
 </ul>
 </td>
 </tr>

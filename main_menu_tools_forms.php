@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -78,18 +78,18 @@
 
 
 
-<p><b><a href="tool_form_editor.html">Edytor formularzy</a></b><br />
+<p><b><a href="tool_form_editor.php">Edytor formularzy</a></b><br />
 Kliknij, aby uruchomić edytor formularzy <tt>&lt;FORM&gt;</tt>.
 
 <hr>
 
-<p><b><a href="tool_form_selectlist.html">Lista wyboru w formularzu</a></b><br />
+<p><b><a href="tool_form_selectlist.php">Lista wyboru w formularzu</a></b><br />
 Kliknij, aby uruchomić kreator listy wyboru w formularzu <tt>&lt;SELECT&gt;</tt>.
 
-<p><b><a href="tool_form_textarea.html">Okienko tekstowe w formularzu</a></b><br />
+<p><b><a href="tool_form_textarea.php">Okienko tekstowe w formularzu</a></b><br />
 Kliknij, aby utworzyć edytor okienka tekstowego w formularzu <tt>&lt;TEXTAREA&gt;</tt>.
 
-<p><b><a href="tool_form_others.html">Inne elementy formularza</a></b><br />
+<p><b><a href="tool_form_others.php">Inne elementy formularza</a></b><br />
 Kliknij, aby uruchomić kreator dodawania do formularza innych elementów formularza, jak przyciski, pola tekstowe itp.
 
 
@@ -103,9 +103,9 @@ Kliknij, aby uruchomić kreator dodawania do formularza innych elementów formul
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-   <li><a href="main_menu_tools.html">Menu główne - Narzędzia</a></li>
-   <li><a href="toolbars_tables.html">Pasek narzędzi Tabele i formularze</a></li>
-   <li><a href="settings_toolbars.html">Ustawienia programu - Ustawienia pasków, menu i skrótów</a></li>
+   <li><a href="main_menu_tools.php">Menu główne - Narzędzia</a></li>
+   <li><a href="toolbars_tables.php">Pasek narzędzi Tabele i formularze</a></li>
+   <li><a href="settings_toolbars.php">Ustawienia programu - Ustawienia pasków, menu i skrótów</a></li>
 </ul>
 </td>
 </tr>

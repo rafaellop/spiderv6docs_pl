@@ -28,23 +28,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -91,13 +91,13 @@
 Zawiera listę dostępnych bloków. Zaznacz, jeśli domyślnie podczas korzystania z makrokodu blok ma być użyty.</p>
 
 <p><b>Dodanie nowego bloku</b><br />
-Kliknij, jeśli chcesz dodać nowy blok. Do tworzenia nowych i edycji istniejących bloków służy okno <a href="macrocodes_editor_addblock.html">Edycja bloku makrokodu</a>.</p>
+Kliknij, jeśli chcesz dodać nowy blok. Do tworzenia nowych i edycji istniejących bloków służy okno <a href="macrocodes_editor_addblock.php">Edycja bloku makrokodu</a>.</p>
 
 <p><b>Zmiana nazwy wybranego bloku</b><br />
 Kliknij, jeśli chcesz zmienić nazwę bloku. Jeśli dany blok został użyty w treści makrokodu, jego nazwa zostanie automatycznie zmieniona we wszystkich symbolach wywołania bloku.</p>
 
 <p><b>Edycja wybranego bloku</b><br />
-Kliknij, jeśli chcesz edytować zawartość wybranego bloku. Do tworzenia nowych i edycji istniejących bloków służy okno <a href="macrocodes_editor_addblock.html">Edycja bloku makrokodu</a>.</p>
+Kliknij, jeśli chcesz edytować zawartość wybranego bloku. Do tworzenia nowych i edycji istniejących bloków służy okno <a href="macrocodes_editor_addblock.php">Edycja bloku makrokodu</a>.</p>
 
 <p><b>Usunięcie wybranego bloku.</b><br />
 Kliknij, jeśli chcesz usunąć definicję wybranego bloku z makrokodu. Usunięcie definicji bloku nie usunie jego wywołań z treści makrokodu!</p>
@@ -118,12 +118,12 @@ Kliknij, aby przenieść blok w górę/w dół. </p>
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="macrocodes_editor.html">Edytor makrokodów - wstęp</a>
-	<li><a href="macrocodes_editor_addblock.html">Edytor makrokodów - Edycja bloku makrokodu</a>
-	<li><a href="macrocodes_editor_vars.html">Edytor makrokodów - Zmienne w makrokodzie</a>
-	<li><a href="settings_macrocodes.html">Ustawienia programu - Makrokody</a>
-	<li><a href="main_tabs_macrocodes.html">Zakładka Makrokody</a>
-	<li><a href="macrocodes.html">Makrokody - ogólnie</a>
+	<li><a href="macrocodes_editor.php">Edytor makrokodów - wstęp</a>
+	<li><a href="macrocodes_editor_addblock.php">Edytor makrokodów - Edycja bloku makrokodu</a>
+	<li><a href="macrocodes_editor_vars.php">Edytor makrokodów - Zmienne w makrokodzie</a>
+	<li><a href="settings_macrocodes.php">Ustawienia programu - Makrokody</a>
+	<li><a href="main_tabs_macrocodes.php">Zakładka Makrokody</a>
+	<li><a href="macrocodes.php">Makrokody - ogólnie</a>
 </ul>
 </td>
 </tr>

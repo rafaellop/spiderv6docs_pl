@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -75,7 +75,7 @@
 <!-- treść pomocy -->
 
 
-<p>Zakładka "Przeglądanie" umieszczona jest w <a href="main_tabs_general.html#tabs_center">środkowym panelu</a>, którego nie możesz wyłączyć. Na tej zakładce możesz przeglądać aktualnie tworzony dokument. Umożliwia ona tez podgląd makrokodów, jeśli na <a href="main_tabs_macrocodes.html">zakładce Makrokody</a> została ustawiona taka opcja.</p>
+<p>Zakładka "Przeglądanie" umieszczona jest w <a href="main_tabs_general.html#tabs_center">środkowym panelu</a>, którego nie możesz wyłączyć. Na tej zakładce możesz przeglądać aktualnie tworzony dokument. Umożliwia ona tez podgląd makrokodów, jeśli na <a href="main_tabs_macrocodes.php">zakładce Makrokody</a> została ustawiona taka opcja.</p>
 
 
 <h2>Wbudowany podgląd</h2>
@@ -94,16 +94,16 @@
 
 <h2>Zewnętrzna przeglądarka</h2>
 
-<p>Dla osób, które używają innych przeglądarek Pająk został także wyposażony w inną możliwość podglądu strony. Używany mechanizm komunikacyjny DDE powoduje, ze po naciśnięciu klawisza Ctrl+F11, strona aktualnie wyświetlana w edytorze, natychmiast pojawia się w oknie domyślnej przeglądarki (domyślną przeglądarkę możesz ustawić w oknie <a href="settings_browse.html">Ustawień programu</a>) w takiej postaci, w jakiej zobaczą ją użytkownicy sieci Internet na całym świecie. W ten sposób Pająk może pracować z kilkoma różnymi przeglądarkami na raz. </p>
+<p>Dla osób, które używają innych przeglądarek Pająk został także wyposażony w inną możliwość podglądu strony. Używany mechanizm komunikacyjny DDE powoduje, ze po naciśnięciu klawisza Ctrl+F11, strona aktualnie wyświetlana w edytorze, natychmiast pojawia się w oknie domyślnej przeglądarki (domyślną przeglądarkę możesz ustawić w oknie <a href="settings_browse.php">Ustawień programu</a>) w takiej postaci, w jakiej zobaczą ją użytkownicy sieci Internet na całym świecie. W ten sposób Pająk może pracować z kilkoma różnymi przeglądarkami na raz. </p>
 
-<p>Przeglądarki są wykrywane przez Pająka przy starcie. Można również ręcznie zdefiniować przeglądarki korzystając z okienka <a href="settings_browse.html">Ustawień programu</a> lub (również z tego samego okienka) przeprowadzić ich powtórną detekcję.</p>
+<p>Przeglądarki są wykrywane przez Pająka przy starcie. Można również ręcznie zdefiniować przeglądarki korzystając z okienka <a href="settings_browse.php">Ustawień programu</a> lub (również z tego samego okienka) przeprowadzić ich powtórną detekcję.</p>
 
 
 <h2>Ustawianie dokumentu podglądu</h2>
 
 
 Czasem zdarza się, że edytujesz dokument, który nie ma być jednak bezpośrednio oglądany, lecz jedynie stanowić część innego dokumentu. Możesz też chcieć przekazać do dokumentu jakieś parametry za pomocą metody GET (w adresie URL). W takim wypadku skorzystaj z okna 
-	<li><a href="main_preview_prevdoc.html">Ustawienie dokumentu podglądu</a>.
+	<li><a href="main_preview_prevdoc.php">Ustawienie dokumentu podglądu</a>.
 
 
 </td>
@@ -116,12 +116,12 @@ Czasem zdarza się, że edytujesz dokument, który nie ma być jednak bezpośred
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="main_preview_embed.html">Zakładka "Przeglądanie"</a>
-	<li><a href="main_preview_external.html">Używanie zewnętrznych przeglądarek</a>
-	<li><a href="main_preview_prevdoc.html">Ustawienie dokumentu podglądu</a>
-	<li><a href="main_editor.html">Edytor - ogólnie</a>
-	<li><a href="main_tabs_general.html">Inne zakładki</a>
-	<li><a href="main_window_desc.html">Główne okno programu</a>
+	<li><a href="main_preview_embed.php">Zakładka "Przeglądanie"</a>
+	<li><a href="main_preview_external.php">Używanie zewnętrznych przeglądarek</a>
+	<li><a href="main_preview_prevdoc.php">Ustawienie dokumentu podglądu</a>
+	<li><a href="main_editor.php">Edytor - ogólnie</a>
+	<li><a href="main_tabs_general.php">Inne zakładki</a>
+	<li><a href="main_window_desc.php">Główne okno programu</a>
 	
 </ul>
 </td>

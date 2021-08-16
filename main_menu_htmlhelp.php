@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -76,39 +76,39 @@
 
 <!-- Treść pomocy -->
 
-<p>Menu zawiera szereg poleceń służących do szybkiej obsługi <a href="tool_htmlhelp_general.html">HTML Help</a>:</p>
+<p>Menu zawiera szereg poleceń służących do szybkiej obsługi <a href="tool_htmlhelp_general.php">HTML Help</a>:</p>
 
 
-<p><b><a href="tool_htmlhelp_hhp_editor.html">Edytor projektu HTML Help</a></b><br />
+<p><b><a href="tool_htmlhelp_hhp_editor.php">Edytor projektu HTML Help</a></b><br />
 Kliknij, aby uruchomić edytor projektu HTML Help.
 
-<p><b><a href="tool_htmlhelp_hhc_editor.html">Edytor spisu treści HTML Help</a></b><br />
+<p><b><a href="tool_htmlhelp_hhc_editor.php">Edytor spisu treści HTML Help</a></b><br />
 Kliknij, aby uruchomić edytor spisu treści HTML Help.
 
-<p><b><a href="tool_htmlhelp_hhk_editor.html">Edytor indeksu HTML Help</a></b><br />
+<p><b><a href="tool_htmlhelp_hhk_editor.php">Edytor indeksu HTML Help</a></b><br />
 Kliknij, aby uruchomić edytor indeksu HTML Help.
 
 <hr />
 
-<p><b><a href="tool_htmlhelp_folder_to_chm.html">Kompilacja folderu do HTML Help</a></b><br />
+<p><b><a href="tool_htmlhelp_folder_to_chm.php">Kompilacja folderu do HTML Help</a></b><br />
 Kliknij, aby uruchomić narzędzie do szybkiej kompilacji wskazanego foldera do pliku HTML Help.
 
-<p><b><a href="tool_htmlhelp_hhp_compilation.html">Kompiluj dokument HTML Help</a></b><br />
+<p><b><a href="tool_htmlhelp_hhp_compilation.php">Kompiluj dokument HTML Help</a></b><br />
 Kliknij, aby skompilować projekt na podstawie przygotowanego wcześniej pliku ustawień projektu HTML Help.
 
 <p><b>Podgląd skompilowanego pliku HTML Help</b><br />
 Kliknij, aby obejrzeć skompilowany plik HTML Help, bądź raport z kompilacji.
 
 
-<p><b><a href="tool_htmlhelp_compiler_info.html">Informacja dla kompilatora</a></b><br />
+<p><b><a href="tool_htmlhelp_compiler_info.php">Informacja dla kompilatora</a></b><br />
 Kliknij, aby otworzyć okienko służące do przekazywania do kompilatora dodatkowe słowa kluczowe.
 
 <hr />
 
 <p><b>HTML Help w bieżącym serwisie</b><br />
-Kliknij, aby skorzystać z szybkich opcji obsługi HTML Help. Podmenu to ma układ identyczny, jak menu <a href="main_menu_services_properties_htmlhelp.html">Serwisy/Własności serwisu/HTML Help</a>. Aby dowiedzieć się więcej na temat serwisów i ułatwień dla tworzenia HTML Help zajrzyj do rozdziału poświęconego wsparciu dla <a href="tool_htmlhelp_compiler_services.html">HTML Help i serwisów w Pająku</a>.
+Kliknij, aby skorzystać z szybkich opcji obsługi HTML Help. Podmenu to ma układ identyczny, jak menu <a href="main_menu_services_properties_htmlhelp.php">Serwisy/Własności serwisu/HTML Help</a>. Aby dowiedzieć się więcej na temat serwisów i ułatwień dla tworzenia HTML Help zajrzyj do rozdziału poświęconego wsparciu dla <a href="tool_htmlhelp_compiler_services.php">HTML Help i serwisów w Pająku</a>.
 
-<p><b>Skompiluj szybko serwis do <a href="tool_htmlhelp_general.html">HTML Help</a></b><br />
+<p><b>Skompiluj szybko serwis do <a href="tool_htmlhelp_general.php">HTML Help</a></b><br />
 Kliknij, aby szybko skompilować serwis do pliku HTML Help.
 
 <hr />
@@ -129,9 +129,9 @@ Kliknij, aby uruchomić program MS HTML Help Workshop, z którego korzysta Pają
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-        <li><a href="tool_htmlhelp_general.html">HTML Help - ogólne informacje</a></li>
-        <li><a href="tool_htmlhelp_compiler_services.html">HTML Help a serwisy</a></li>
-        <li><a href="settings_toolbars.html">Ustawienia programu - Ustawienia pasków, menu i skrótów</a></li>
+        <li><a href="tool_htmlhelp_general.php">HTML Help - ogólne informacje</a></li>
+        <li><a href="tool_htmlhelp_compiler_services.php">HTML Help a serwisy</a></li>
+        <li><a href="settings_toolbars.php">Ustawienia programu - Ustawienia pasków, menu i skrótów</a></li>
 </ul>
 </td>
 </tr>

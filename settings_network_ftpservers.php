@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -76,7 +76,7 @@
 <p>
 W tej kategorii ustawień masz możliwość zdefiniowania serwerów FTP i WebDAV, z których korzystasz przy tworzeniu swojej witryny lub do innych celów. Ta kategoria składa się tylko z listy serwerów, do których możesz dodawać nowe serwery, modyfikować istniejące czy w ogóle zarządzać listą, za pomocą przycisków znajdujących się obok listy.
 
-<p>Dodawanie serwerów odbywa się za pomocą osobnego okienka o nazwie <a href="settings_network_ftpservers_add.html">Właściwości serwera FTP</a>, bądź <a href="settings_network_ftpservers_add.html">Właściwości serwera WebDAV</a> (w zależności, jaki typ serwera wskażesz na liście rozwijanej pod przyciskiem  z plusem). W tym samym oknie zmodyfikujesz ustawienia wybranego na liście serwera.
+<p>Dodawanie serwerów odbywa się za pomocą osobnego okienka o nazwie <a href="settings_network_ftpservers_add.php">Właściwości serwera FTP</a>, bądź <a href="settings_network_ftpservers_add.php">Właściwości serwera WebDAV</a> (w zależności, jaki typ serwera wskażesz na liście rozwijanej pod przyciskiem  z plusem). W tym samym oknie zmodyfikujesz ustawienia wybranego na liście serwera.
 
 </td>
 </tr>
@@ -89,10 +89,10 @@ W tej kategorii ustawień masz możliwość zdefiniowania serwerów FTP i WebDAV
 <h4>Pokrewne tematy</h4>
 <ul>
 	<li><a href="settings_network.html#settingslistnetwork">Inne ustawienia sieci</a>
-	<li><a href="settings_network_ftpservers_add.html">Dodawanie nowego serwera</a>
-	<li><a href="network_publishing_general.html">Publikowanie w Pająku</a>
-	<li><a href="main_tabs_myftpservers.html">Zakładka Moje serwery</a>
-	<li><a href="service_tool_synchronization.html">Synchronizacja serwisów</a>
+	<li><a href="settings_network_ftpservers_add.php">Dodawanie nowego serwera</a>
+	<li><a href="network_publishing_general.php">Publikowanie w Pająku</a>
+	<li><a href="main_tabs_myftpservers.php">Zakładka Moje serwery</a>
+	<li><a href="service_tool_synchronization.php">Synchronizacja serwisów</a>
 </ul>
 </td>
 </tr>

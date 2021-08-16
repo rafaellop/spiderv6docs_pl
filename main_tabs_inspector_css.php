@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -99,8 +99,8 @@
 	<li> <b>Nowy selektor na podstawie bieżącego</b> - Tworzy nowy, selektor bez nazwy, który będzie zawierał własności ustawione na liście</li>
 	<li> <b>Nowa klasa</b> - Prosi o podanie nazwy i tworzy nową, pustą klasę</li>
 	<li> <b>Nowa klasa na podstawie bieżącego</b> - Prosi o podanie nazwy i tworzy nową klasę, która będzie zawierała własności ustawione na liście</li>
-	<li> <b><a href="tool_new_selector.html">Kreator selektora</a></b> - Uruchamia kreator nowego, pustego selektora</li>
-	<li> <b><a href="tool_new_selector.html">Kreator selektora</a> na podstawie bieżącego</b> - Uruchamia kreator nowego, pustego selektora, który  będzie zawierał własności ustawione na liście</li>
+	<li> <b><a href="tool_new_selector.php">Kreator selektora</a></b> - Uruchamia kreator nowego, pustego selektora</li>
+	<li> <b><a href="tool_new_selector.php">Kreator selektora</a> na podstawie bieżącego</b> - Uruchamia kreator nowego, pustego selektora, który  będzie zawierał własności ustawione na liście</li>
 </ul>
 <br />
 
@@ -164,7 +164,7 @@ Lista zawiera wszystkie klasy i selektory istniejące w bieżącym dokumencie or
 Jeśli którejś z grup nie widzisz, najpewniej włączyłeś ograniczenie wyświetlania własności do którejś ze specyfikacji.</p>
 
 <p><b>Ctrl+F1 - kontekstowa pomoc do własności stylu</b><br>
-Jeśli chcesz uzyskać pomoc do własności stylu, na której postawiony jest kursor, skorzsytaj ze skrótu klawiszowego Ctrl+F1. Więcej na ten temat w temacie <a href="coding_css_help.html">Wspomaganie dla CSS - Pomoc kontekstowa</a>.
+Jeśli chcesz uzyskać pomoc do własności stylu, na której postawiony jest kursor, skorzsytaj ze skrótu klawiszowego Ctrl+F1. Więcej na ten temat w temacie <a href="coding_css_help.php">Wspomaganie dla CSS - Pomoc kontekstowa</a>.
 </p>
 
 <h2>Okienko podglądu</h2>
@@ -172,7 +172,7 @@ Jeśli chcesz uzyskać pomoc do własności stylu, na której postawiony jest ku
 <p>Okienko podglądu znajduje się u dołu zakładki. Umożliwia ono podgląd formatowania wg ustawionych własności stylu przed wstawieniem go do dokumentu. Z prawej strony znajduje się przycisk:</p>
 
 <p>&nbsp;<b>Wybór wykorzystywanej przeglądarki</b><br />
-Kliknij, aby wybrać przeglądarkę używana do przeglądania w tej zakładce. O ile jest zainstalowana w systemie (<a href="main_preview_embed.html">czytaj więcej na ten temat</a>), możesz skorzystać z przeglądarki:
+Kliknij, aby wybrać przeglądarkę używana do przeglądania w tej zakładce. O ile jest zainstalowana w systemie (<a href="main_preview_embed.php">czytaj więcej na ten temat</a>), możesz skorzystać z przeglądarki:
 <ul>
 	<li>MS Internet Explorer</li>
 	<li>Mozilla</li>
@@ -188,11 +188,11 @@ Kliknij, aby wybrać przeglądarkę używana do przeglądania w tej zakładce. O
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="tool_new_selector.html">Kreator nowego selektora</a>
-	<li><a href="coding_css.html">Wspomaganie dla CSS w Pająku</a>
-	<li><a href="tagdata_editor_tdf_css.html">Edytor plików definicyjnych znaczników CSS</a>
-	<li><a href="main_tabs_general.html">Inne zakładki</a>
-	<li><a href="main_window_desc.html">Główne okno programu</a>
+	<li><a href="tool_new_selector.php">Kreator nowego selektora</a>
+	<li><a href="coding_css.php">Wspomaganie dla CSS w Pająku</a>
+	<li><a href="tagdata_editor_tdf_css.php">Edytor plików definicyjnych znaczników CSS</a>
+	<li><a href="main_tabs_general.php">Inne zakładki</a>
+	<li><a href="main_window_desc.php">Główne okno programu</a>
 </ul>
 </td>
 </tr>

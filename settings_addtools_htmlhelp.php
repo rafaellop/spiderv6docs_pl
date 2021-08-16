@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -75,9 +75,9 @@
 
 
 <!-- treść pomocy -->
-<p>Pająk pozwala na tworzenie pomocy w formacie <a href="tool_htmlhelp_general.html">HTML Help</a>. W tej kategorii ustawień znajdują się ustawienia odpowiedzialne za działanie tej funkcji w Pajaczku 5.
+<p>Pająk pozwala na tworzenie pomocy w formacie <a href="tool_htmlhelp_general.php">HTML Help</a>. W tej kategorii ustawień znajdują się ustawienia odpowiedzialne za działanie tej funkcji w Pajaczku 5.
 
-<p>Obecnie dostępne jest tutaj jedno ustawienie, które służy do wskazania pełnej ścieżki dostępu do kompilatora plików HTML Help. Pająk próbuje automatycznie odszukać kompilator plików HTML Help (Standardowo jest to <tt>C:\Program Files (x86)\HTML Help Workshop\hhc.exe</tt>). Jeśli nie zostało ono automatycznie wypełnione, wprowadź tutaj pełną ścieżkę do pliku HHC.EXE, lub wskaż go na dysku za pomoca narzędzia uruchamianego przyciskiem obok. Jeśli nie podasz tutaj ściezki do kompilatora, nie będzie można <a href="tool_htmlhelp_hhp_compilation.html">kompilować plików HTML Help</a> bezpośrednio z narzędzi wbudowanych w Pająka.
+<p>Obecnie dostępne jest tutaj jedno ustawienie, które służy do wskazania pełnej ścieżki dostępu do kompilatora plików HTML Help. Pająk próbuje automatycznie odszukać kompilator plików HTML Help (Standardowo jest to <tt>C:\Program Files (x86)\HTML Help Workshop\hhc.exe</tt>). Jeśli nie zostało ono automatycznie wypełnione, wprowadź tutaj pełną ścieżkę do pliku HHC.EXE, lub wskaż go na dysku za pomoca narzędzia uruchamianego przyciskiem obok. Jeśli nie podasz tutaj ściezki do kompilatora, nie będzie można <a href="tool_htmlhelp_hhp_compilation.php">kompilować plików HTML Help</a> bezpośrednio z narzędzi wbudowanych w Pająka.
 
 </td>
 </tr>
@@ -90,9 +90,9 @@
 <h4>Pokrewne tematy</h4>
 <ul>
         <li><a href="settings_addtools.html#settingslistaddtools">Inne ustawienia</a>
-        <li><a href="tool_htmlhelp_general.html">HTML Help - tworzenie w Pająku</a>
+        <li><a href="tool_htmlhelp_general.php">HTML Help - tworzenie w Pająku</a>
         <a href="https://msdn.microsoft.com/en-us/library/windows/desktop/ms669985(v=vs.85).aspx" target="_blank">Pobierz HTML Help Workshop</a>
-        <li><a href="main_window_desc.html">Główne okno programu</a>
+        <li><a href="main_window_desc.php">Główne okno programu</a>
 </ul>
 </td>
 </tr>

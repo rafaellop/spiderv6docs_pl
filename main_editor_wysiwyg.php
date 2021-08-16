@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -75,11 +75,11 @@
 				Tryb edycji wizualnej w znacznym stopniu ułatwia pracę nas stroną. Jest
 				on przydatny przede wszystkim dla początkujących webmasterów, którzy nie
 				mają jeszcze dość doświadczenia w tworzeniu stron www bezpośrednio w
-				języku HTML w <a href="main_editor.html">trybie edycji kodu
+				języku HTML w <a href="main_editor.php">trybie edycji kodu
 				źródłowego</a>).
 				<p>
 
-					Aby przełączyć edytor z trybu edycji kodu na tryb wizualny użyj polecenia "Edytor wizualny" w <a href="main_menu_editor.html">menu podręcznym edytora edycji kodu</a> (ikona polecenia pokazana obok), bądź na <a href="toolbars_minitoolbar.html">mini pasku narzędzi</a> (miniaturka ikony
+					Aby przełączyć edytor z trybu edycji kodu na tryb wizualny użyj polecenia "Edytor wizualny" w <a href="main_menu_editor.php">menu podręcznym edytora edycji kodu</a> (ikona polecenia pokazana obok), bądź na <a href="toolbars_minitoolbar.php">mini pasku narzędzi</a> (miniaturka ikony
 					pokazanej obok)
 				</p>
 				<p>
@@ -88,7 +88,7 @@
 				<h2>Ograniczenia trybu edycji wizualnej</h2>
 				<p>
 					Większość narzędzi służących do wstawiania znaczników działa
-					identycznie, jak w <a href="main_editor.html">trybie edycji kodu
+					identycznie, jak w <a href="main_editor.php">trybie edycji kodu
 					źródłowego</a>. Nie działają natomiast niektóre narzędzia służące do
 					obsługi edytora.
 					<p>
@@ -96,20 +96,20 @@
 						wizualnym należą:
 					</p>
 					<ul>
-						<li><a href="main_tabs_inspector_tags.html">Inspektor znaczników</a>
-						<li><a href="find_text.html">Znajdź i zamień</a>
+						<li><a href="main_tabs_inspector_tags.php">Inspektor znaczników</a>
+						<li><a href="find_text.php">Znajdź i zamień</a>
 						<li>Okna edycji niektórych znaczników, jak np. znacznik<tt>&lt;FRAMESET&gt;</tt>itp. Jeśli włączysz okna edycji znaczników
 								struktury dokumentu, jak<tt>&lt;BODY&gt;</tt>, czy<tt>&lt;META&gt;</tt>, edytor automatycznie zostanie przełączony to
 								trybu tekstowego.
-						<li>Podkreślanie błędów pisowni i niektóre narzędzia <a href="spelling.html">sprawdzania pisowni</a>
+						<li>Podkreślanie błędów pisowni i niektóre narzędzia <a href="spelling.php">sprawdzania pisowni</a>
 						<li><a href="main_editor.html#gutter">Rynna edytora </a>, na której umieszczane mogą być dodatkowe informacje
 						<li>Podział okna edytora na dwie części
-						<li><a href="main_preview_dynamic.html">Dynamiczny podgląd</a>
-						<li>Nawigatory kodu na <a href="main_tabs_navigator.html">zakładce
+						<li><a href="main_preview_dynamic.php">Dynamiczny podgląd</a>
+						<li>Nawigatory kodu na <a href="main_tabs_navigator.php">zakładce
 													Nawigator</a> (po użyciu <a href="main_tabs_navigator.html#html_categorized">nawigatora
-													skategoryzowanego HTML</a> Pająk zostanie automatycznie przełączony na <a href="main_editor.html">tryb edycji kodu</a>)
+													skategoryzowanego HTML</a> Pająk zostanie automatycznie przełączony na <a href="main_editor.php">tryb edycji kodu</a>)
 						<li>Narzędzia do wstawiania skryptów
-						<li><a href="tool_docinfo.html">Informacje o dokumencie</a></li>
+						<li><a href="tool_docinfo.php">Informacje o dokumencie</a></li>
 					</ul>
 					<h2>Praca w trybie wizualnym</h2>
 					<p>
@@ -134,16 +134,16 @@
 								<b>Wstawianie obrazków</b>
 								<br>
 								Aby wstawić obrazek na stronę, użyj
-								narzędzia <a href="tool_graphic_insert.html">Wstawianie grafiki</a>.
-								Możesz tez dwukliknąć nazwę pliku obrazka na liście plików w zakładce <a href="main_tabs_myservices.html">Moje serwisy</a>(narzędzie do wstawiania
+								narzędzia <a href="tool_graphic_insert.php">Wstawianie grafiki</a>.
+								Możesz tez dwukliknąć nazwę pliku obrazka na liście plików w zakładce <a href="main_tabs_myservices.php">Moje serwisy</a>(narzędzie do wstawiania
 								grafiki uruchomi się automatycznie). Możesz tez skorzystać ze skrótu
 								klawiszowego (standardowo<tt>Shift+Ctrl+I</tt>). Nie jest obsługiwane
 								natomiast przeciąganie obrazków do dokumentu.
 								<h2>Ustawienia edycji wizualnej</h2>
 								<p>
 									Aby kod utworzony podczas pracy w trybie wizualnym można było łatwo
-									edytować, podczas przełączania do <a href="main_editor.html">trybu edycji
-									kodu</a> może on zostać sformatowany za pomocą narzędzi <a href="formatter_general.html">formatowania kodu</a>. W oknie <a href="settings_editor_wysiwyg.html">Ustawień programu</a> możesz wybrać <a href="formatter_markuplangs.html">schemat formatowania HTML</a>, jaki ma
+									edytować, podczas przełączania do <a href="main_editor.php">trybu edycji
+									kodu</a> może on zostać sformatowany za pomocą narzędzi <a href="formatter_general.php">formatowania kodu</a>. W oknie <a href="settings_editor_wysiwyg.php">Ustawień programu</a> możesz wybrać <a href="formatter_markuplangs.php">schemat formatowania HTML</a>, jaki ma
 									zostać zastosowany. W&nbsp;tym samym oknie możesz ustawić inne opcje trybu
 									wizualnego
 								</p>
@@ -156,11 +156,11 @@
 	<tr>
 		<td width="100%" class="tbrelatedtopics"><!-- pokrewne tematy -->
 			<ul>
-				<li><a href="main_editor_general.html">Edytor - ogólnie</a>
-				<li><a href="main_editor.html">Edycja w trybie edycji kodu źródłowego</a>
-				<li><a href="toolbars_minitoolbar.html">Mini pasek edytora</a>
-				<li><a href="main_tabs_general.html">Inne zakładki</a>
-				<li><a href="main_window_desc.html">Główne okno programu</a></li>
+				<li><a href="main_editor_general.php">Edytor - ogólnie</a>
+				<li><a href="main_editor.php">Edycja w trybie edycji kodu źródłowego</a>
+				<li><a href="toolbars_minitoolbar.php">Mini pasek edytora</a>
+				<li><a href="main_tabs_general.php">Inne zakładki</a>
+				<li><a href="main_window_desc.php">Główne okno programu</a></li>
 			</ul>
 		</td>
 		<td valign="top" class="srodek"><a href="#top">Do&nbsp;góry</a></td>

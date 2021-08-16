@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -76,7 +76,7 @@
 
 
 
-<p>Za pomocą edytora pliku definicyjnego języków skryptowych możesz modyfikować lub rozszerzać definicje języka JavaScript i VBScript obsługiwanych w Pająku w narzędziach dynamicznych podpowiedzi i na zakładce <a href="main_tabs_languages.html">Języki programowania</a>. Aby uzyskać dostęp do edytora użyj polecenia <b>Edytor skryptowych plików definicyjnych</b>, które znajduje się w menu głównym. Możesz również uruchomić go za pomocą przycisku znajdującego się w ustawieniach programu w kategorii <a href="settings_codeinsight_scripts.html">Ułatwienia, dynamiczne atrybuty, inne</a> lub w menu. Przycisk pokazany został powyżej.
+<p>Za pomocą edytora pliku definicyjnego języków skryptowych możesz modyfikować lub rozszerzać definicje języka JavaScript i VBScript obsługiwanych w Pająku w narzędziach dynamicznych podpowiedzi i na zakładce <a href="main_tabs_languages.php">Języki programowania</a>. Aby uzyskać dostęp do edytora użyj polecenia <b>Edytor skryptowych plików definicyjnych</b>, które znajduje się w menu głównym. Możesz również uruchomić go za pomocą przycisku znajdującego się w ustawieniach programu w kategorii <a href="settings_codeinsight_scripts.php">Ułatwienia, dynamiczne atrybuty, inne</a> lub w menu. Przycisk pokazany został powyżej.
 
 <p>Okno edytora pliku definicyjnego skryptów składa się z dwóch zakładek: zakładki "Języki skryptowe" oraz "Typy obiektowe".
 
@@ -84,7 +84,7 @@
 
 <p>Ta zakładka składa się z listy wyboru, z której wybierasz język (JavaScript lub VBScript) dla którego będziesz przygotowywał listę obsługiwanych funkcji i własności.
 
-<p>Znajdująca się poniżej lista pozwala na definiowanie funkcji i własności dla wybranego języka. W pierwszej kolumnie listy znajduje się nazwa metody lub własności obsługiwanej w tym języku. Druga kolumna to opis, który pojawia się np. na zakładce <a href="main_tabs_languages.html">Języki programowania</a> lub w pomocy dynamicznej. Obok nazw elementów znajdują się ikony, które oznaczają:
+<p>Znajdująca się poniżej lista pozwala na definiowanie funkcji i własności dla wybranego języka. W pierwszej kolumnie listy znajduje się nazwa metody lub własności obsługiwanej w tym języku. Druga kolumna to opis, który pojawia się np. na zakładce <a href="main_tabs_languages.php">Języki programowania</a> lub w pomocy dynamicznej. Obok nazw elementów znajdują się ikony, które oznaczają:
 
 <table border="0">
 <tr>
@@ -97,17 +97,17 @@
 </tr>
 </table>
 
-<p>Kolejne elementy możesz dodawać, usuwać i modyfikować za pomocą przycisków znajdujących się obok listy. Podczas dodawania lub usuwania elementów otwiera się okienko <a href="tagdata_editor_tdf_scripts_globals.html">Element języka skryptowego</a> w którym możesz podać definicję nowego elementu.
+<p>Kolejne elementy możesz dodawać, usuwać i modyfikować za pomocą przycisków znajdujących się obok listy. Podczas dodawania lub usuwania elementów otwiera się okienko <a href="tagdata_editor_tdf_scripts_globals.php">Element języka skryptowego</a> w którym możesz podać definicję nowego elementu.
 
 <a name="tdf_scripts_objecttypes"></a>
 <h2>Typy obiektowe</h2>
 
-<p>Ta zakładka jest nieco bardziej skomplikowana. Znajduje się tutaj definicja typów obiektowych używanych w ASP, JavaScript, JavaScript w HTML oraz obiektów JavaScript typu wyrażenie regularne. Aby zmodyfikować wybraną grupę obiektów wybierz typ na liście. Do listy poniżej zostanie wczytana lista typów obiektowych przypisanych do wybranej grupy. Za pomocą przycisku obok listy z grupą obiektów możesz przypisać do wybranej grupy kilka obiektów globalnych w okienku <a href="tagdata_editor_tdf_scripts_globaltypes.html">Globalne obiekty i typy</a>. 
+<p>Ta zakładka jest nieco bardziej skomplikowana. Znajduje się tutaj definicja typów obiektowych używanych w ASP, JavaScript, JavaScript w HTML oraz obiektów JavaScript typu wyrażenie regularne. Aby zmodyfikować wybraną grupę obiektów wybierz typ na liście. Do listy poniżej zostanie wczytana lista typów obiektowych przypisanych do wybranej grupy. Za pomocą przycisku obok listy z grupą obiektów możesz przypisać do wybranej grupy kilka obiektów globalnych w okienku <a href="tagdata_editor_tdf_scripts_globaltypes.php">Globalne obiekty i typy</a>. 
 
 <p>Poniżej listy wyboru grupy obiektów znajdują się dwie listy: "Lista typów" oraz "Właściwości i metody bieżącego typu":
 
 <p><b>Lista typów</b><br>
-Lista typów obiektowych zdefiniowanych w grupie wybranej powyżej. Kliknięcie nazwy typu spowoduje wyświetlenie jego właściwości i metod na liście z prawej strony. Za pomocą przycisków poniżej listy możesz modyfikować listę typów. Po kliknięciu dodania lub modyfikacji wybranego typu pojawi się okienko <a href="tagdata_editor_tdf_scripts_objecttype.html">właściwości typu obiektowego</a>.
+Lista typów obiektowych zdefiniowanych w grupie wybranej powyżej. Kliknięcie nazwy typu spowoduje wyświetlenie jego właściwości i metod na liście z prawej strony. Za pomocą przycisków poniżej listy możesz modyfikować listę typów. Po kliknięciu dodania lub modyfikacji wybranego typu pojawi się okienko <a href="tagdata_editor_tdf_scripts_objecttype.php">właściwości typu obiektowego</a>.
 
 <p><b>Właściwości i metody bieżącego typu</b><br>
 Po wybraniu typu obiektowego na liście opisanej powyżej w opisywanej teraz liście pojawią się przypisane do wybranego typu obiektowego metody i własności. Podobnie jak w przypadku opisanym na początku tej strony pomocy, ikony wyświetlane obok nazw elementów mają następujące znaczenie:
@@ -123,7 +123,7 @@ Po wybraniu typu obiektowego na liście opisanej powyżej w opisywanej teraz li�
 </tr>
 </table>
 
-<p>Za pomocą przycisków poniżej listy możesz modyfikować listę elementów przypisanych do wybranego typu. Po kliknięciu dodania lub modyfikacji wybranego typu pojawi się okienko <a href="tagdata_editor_tdf_scripts_objecttypeprop.html">Właściwość lub metoda</a>.
+<p>Za pomocą przycisków poniżej listy możesz modyfikować listę elementów przypisanych do wybranego typu. Po kliknięciu dodania lub modyfikacji wybranego typu pojawi się okienko <a href="tagdata_editor_tdf_scripts_objecttypeprop.php">Właściwość lub metoda</a>.
 
 
 </td>
@@ -136,12 +136,12 @@ Po wybraniu typu obiektowego na liście opisanej powyżej w opisywanej teraz li�
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="tagdata_editor_tdf_scripts_globals.html">Element języka skryptowego</a>
-	<li><a href="tagdata_editor_tdf_scripts_objecttype.html">właściwości typu obiektowego</a>
-	<li><a href="tagdata_editor_tdf_scripts_globals.html">Element języka skryptowego</a>
-	<li><a href="tagdata_editor_tdf_scripts_objecttypeprop.html">Właściwość lub metoda</a>
-	<li><a href="settings_codeinsight_scripts.html">Dynamiczny kod w skryptach</a>
-	<li><a href="main_tabs_languages.html">Zakładka "Języki programowania"</a>
+	<li><a href="tagdata_editor_tdf_scripts_globals.php">Element języka skryptowego</a>
+	<li><a href="tagdata_editor_tdf_scripts_objecttype.php">właściwości typu obiektowego</a>
+	<li><a href="tagdata_editor_tdf_scripts_globals.php">Element języka skryptowego</a>
+	<li><a href="tagdata_editor_tdf_scripts_objecttypeprop.php">Właściwość lub metoda</a>
+	<li><a href="settings_codeinsight_scripts.php">Dynamiczny kod w skryptach</a>
+	<li><a href="main_tabs_languages.php">Zakładka "Języki programowania"</a>
 </ul>
 </td>
 </tr>

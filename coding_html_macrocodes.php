@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -74,11 +74,11 @@
 
 <!-- treść pomocy -->
 
-<p> Razem z Pająkiem dostarczone zostały makrokody tworzące szkielet dokumentu HTML, a nawet kompletne serwisy składające się z dokumentów HTML i grafik. Makrokody te zostały umieszczone w <a href="main_tabs_macrocodes.html">zakładce Makrokody</a>, w gałęziach <b>Szablony nowych</b> (szkielety dokumentów), Szablony stron (kompletne strony WWW).</p>
+<p> Razem z Pająkiem dostarczone zostały makrokody tworzące szkielet dokumentu HTML, a nawet kompletne serwisy składające się z dokumentów HTML i grafik. Makrokody te zostały umieszczone w <a href="main_tabs_macrocodes.php">zakładce Makrokody</a>, w gałęziach <b>Szablony nowych</b> (szkielety dokumentów), Szablony stron (kompletne strony WWW).</p>
 
 <p>Dostępne są również makrokody zawierające znaki specjalne, jak litery alfabetu greckiego, symbole matematyczne itp.</p>
 
-<p>Więcej o korzystaniu z makrokodów czytaj w temacie <a href="macrocodes_using.html">Makrokody dostarczone z programem</a>.</p>
+<p>Więcej o korzystaniu z makrokodów czytaj w temacie <a href="macrocodes_using.php">Makrokody dostarczone z programem</a>.</p>
 
 </td>
 </tr>
@@ -90,12 +90,12 @@
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="coding_css.html">Wspomaganie dla CSS - ogólnie</a></li>
-	<li><a href="main_tabs_macrocodes.html">Zakładka "Makrokody"</a></li>
- <li><a href="macrocodes.html">Makrokody - ogólnie</a></li>
- <li><a href="settings_macrocodes.html">Ustawienia makrokodów</a></li>
- <li><a href="macrocodes_editor.html">Edytor makrokodów</a></li>
- <li><a href="macrocodes_instruction.html">Tworzenie makrokodu - instrukcja krok po kroku</a></li>
+	<li><a href="coding_css.php">Wspomaganie dla CSS - ogólnie</a></li>
+	<li><a href="main_tabs_macrocodes.php">Zakładka "Makrokody"</a></li>
+ <li><a href="macrocodes.php">Makrokody - ogólnie</a></li>
+ <li><a href="settings_macrocodes.php">Ustawienia makrokodów</a></li>
+ <li><a href="macrocodes_editor.php">Edytor makrokodów</a></li>
+ <li><a href="macrocodes_instruction.php">Tworzenie makrokodu - instrukcja krok po kroku</a></li>
 </ul>
 </td>
 </tr>

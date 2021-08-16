@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -74,7 +74,7 @@
 
 <!-- treść pomocy -->
 <p>
-Kategoria o nazwie "Szablony" pozwala na dostosowanie niektórych aspektów działania funkcji <a href="macrocodes.html">szablonów</a>. W grupie tej znajdują się następujące podgrupy:
+Kategoria o nazwie "Szablony" pozwala na dostosowanie niektórych aspektów działania funkcji <a href="macrocodes.php">szablonów</a>. W grupie tej znajdują się następujące podgrupy:
 
 <h2>Szablony</h2>
 
@@ -121,7 +121,7 @@ Zaznacz tę opcję,  aby program zapamiętał ostatnio używany sposób wstawian
 <h4>Pokrewne tematy</h4>
 <ul>
 	<li><a href="settings.html#settingslist">Inne ustawienia</a>
-	<li><a href="macrocodes.html">Szablony - używanie</a>
+	<li><a href="macrocodes.php">Szablony - używanie</a>
 </ul>
 </td>
 </tr>

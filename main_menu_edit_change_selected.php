@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -82,10 +82,10 @@ Kliknij, aby objąć zaznaczony tekst znacznikiem SPAN, bądź DIV (w zależnoś
 <p><b>Zaznaczony na objęty klasą</b><br />
 Kliknij, aby objąć zaznaczony tekst znacznikiem SPAN, bądź DIV (w zależności od ustawienia w oknie <a href="settings_codeinsight_additional.html#span_div">Ustawienia programu / Inne ustawienia / Ułatwienia ... / Inne ułatwienia</a>)  z klasą CSS.
 
-<p><b><a href="tool_lists.html">Zaznaczony na listę numerowaną</a></b><br />
+<p><b><a href="tool_lists.php">Zaznaczony na listę numerowaną</a></b><br />
 Kliknij, aby utworzyć z zaznaczonego tekstu listę numerowaną. Każdy wiersz zaznaczonego tekstu będzie nowym elementem listy.
 
-<p><b><a href="tool_lists.html">Zaznaczony na listę nienumerowaną</a></b><br />
+<p><b><a href="tool_lists.php">Zaznaczony na listę nienumerowaną</a></b><br />
 Kliknij, aby utworzyć z zaznaczonego tekstu listę nienumerowaną. Każdy wiersz zaznaczonego tekstu będzie nowym elementem listy.
 
 <p><b>Zaznaczony na linie z końcem &lt;br&gt;</b><br />
@@ -94,16 +94,16 @@ Kliknij, aby umieścić na końcu każdej linii zaznaczonego tekstu znacznik ła
 <p><b>Zaznaczony na objęty &amp;quot;</b><br />
 Kliknij, aby objąć zaznaczony tekst znakami specjalnymi <tt>&amp;quot;</tt> (encja przedstawiająca cudzysłów).
 
-<p><b><a href="tool_comment.html">Zaznaczony na komentarz</a></b><br />
+<p><b><a href="tool_comment.php">Zaznaczony na komentarz</a></b><br />
 Kliknij, aby utworzyć z zaznaczonego tekstu komentarz. Narzędzie automatycznie rozpoznaje użyty język i stosuje odpowiednie znaki komentarza.
 
 <p><b>Zaznaczony na obramowany tekst</b><br />
 Kliknij, aby objąć tekst tabelą z obramowaniem.
 
-<p><b><a href="tool_text2table.html">Zaznaczony na tabelę</a></b><br />
+<p><b><a href="tool_text2table.php">Zaznaczony na tabelę</a></b><br />
 Kliknij, aby przekształcić zaznaczony tekst w tabelę. Narzędzie umożliwia zdefiniowanie układu tabeli, stylów itp.
 
-<p><a href="tool_embrace.html">Obejmij tekstem, lub zdejmij objęcie</a><br />
+<p><a href="tool_embrace.php">Obejmij tekstem, lub zdejmij objęcie</a><br />
 Kliknij, aby otworzyć narzędzie umożliwiające objęcie zaznaczonego tekstu podanym tekstem. Możliwe jest również usunięcie objęcia znakami komentarza itp.
 
 <p><b>Duplikuj zaznaczenie</b><br />
@@ -124,7 +124,7 @@ Kliknij, aby rozwinąć podmenu zawierające polecenia formatowania zaznaczonego
 
 <hr>
 
-<p><b><a href="macrocodes.html">Zaznaczony na własny makrokod</a></b><br />
+<p><b><a href="macrocodes.php">Zaznaczony na własny makrokod</a></b><br />
 Kliknij, aby utworzyć nowy makrokod na podstawie zaznaczonego tekstu.
 
 <p><b>Zaznaczony na małe litery</b><br />
@@ -182,7 +182,7 @@ Kliknij, aby zamienić w zaznaczonym tekście encje &amp;lt; i &amp;gt; na znaki
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-        <li><a href="settings_toolbars.html">Ustawienia programu - Ustawienia pasków, menu i skrótów</a>
+        <li><a href="settings_toolbars.php">Ustawienia programu - Ustawienia pasków, menu i skrótów</a>
 </td>
 </tr>
 </table>

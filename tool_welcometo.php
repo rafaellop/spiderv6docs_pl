@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -74,9 +74,9 @@
 
 <!-- treść pomocy -->
 
-<p>Narzędzie to pozwala na dostosowanie wyglądu głównego okna programu w łatwy sposób. Jest uruchamiane przy starcie programu, ale możesz to wyłączyć wyłączając przełącznik znajdujący się na dole okna. Jeśli natomiast chcesz uruchomić to narzędzie samodzielnie zajrzyj do <a href="main_menu_main.html">Menu głównego</a> / <a href="main_menu_view.html">Wyświetl</a> / <a href="main_menu_view_view.html">Widok</a> / Tryb pracy głównego okna. Ikona polecenia pokazana została powyżej.</p>
+<p>Narzędzie to pozwala na dostosowanie wyglądu głównego okna programu w łatwy sposób. Jest uruchamiane przy starcie programu, ale możesz to wyłączyć wyłączając przełącznik znajdujący się na dole okna. Jeśli natomiast chcesz uruchomić to narzędzie samodzielnie zajrzyj do <a href="main_menu_main.php">Menu głównego</a> / <a href="main_menu_view.php">Wyświetl</a> / <a href="main_menu_view_view.php">Widok</a> / Tryb pracy głównego okna. Ikona polecenia pokazana została powyżej.</p>
 
-<p>W oknie tego narzędzia znajdziesz sześć obrazków pokazujących wygląd głównego okna. Kliknięcie na którymś z nich lub zaznaczenie przełącznika znajdującego się poniżej powoduje zmianę trybu wyświetlania głównego okna programu, co od razu możesz zaobserwować. Dodatkowo w oknie tym znajdziesz przycisk pozwalający na wybór widocznych w głównym oknie programu <a href="toolbars_general.html">pasków narzędzi</a> oraz włącznie domyślnego trybu edycji w <a href="main_editor_wysiwyg.html">trybie graficznym</a>.</p>
+<p>W oknie tego narzędzia znajdziesz sześć obrazków pokazujących wygląd głównego okna. Kliknięcie na którymś z nich lub zaznaczenie przełącznika znajdującego się poniżej powoduje zmianę trybu wyświetlania głównego okna programu, co od razu możesz zaobserwować. Dodatkowo w oknie tym znajdziesz przycisk pozwalający na wybór widocznych w głównym oknie programu <a href="toolbars_general.php">pasków narzędzi</a> oraz włącznie domyślnego trybu edycji w <a href="main_editor_wysiwyg.php">trybie graficznym</a>.</p>
 
 </td>
 </tr>
@@ -88,8 +88,8 @@
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-        <li><a href="main_menu_view_view.html">Zmiana wyglądu za pomocą poleceń menu Wyświetl / Widok</a>            
-        <li><a href="settings_toolbars.html">Ustawienia menu i pasków</a>
+        <li><a href="main_menu_view_view.php">Zmiana wyglądu za pomocą poleceń menu Wyświetl / Widok</a>            
+        <li><a href="settings_toolbars.php">Ustawienia menu i pasków</a>
 </ul>
 </td>
 </tr>

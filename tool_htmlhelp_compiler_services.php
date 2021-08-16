@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -75,7 +75,7 @@
 
 
 <p>
-Ponieważ projekt HTML Help jest zawsze oddzielnym przedsięwzięciem, Pająk umożliwia potraktowanie takiego projektu jako osobnego <a href="service_properites.html">serwisu</a>. To pozwala na zastosowanie wobec takiego serwisu wszystkich mechanizmów przewidzianych dla serwisów, np. sprawdzać poprawność składni, prowadzić zaawansowane wyszukiwanie i zamianę, czy otwierać najczęściej używane pliki.<br /><br />
+Ponieważ projekt HTML Help jest zawsze oddzielnym przedsięwzięciem, Pająk umożliwia potraktowanie takiego projektu jako osobnego <a href="service_properites.php">serwisu</a>. To pozwala na zastosowanie wobec takiego serwisu wszystkich mechanizmów przewidzianych dla serwisów, np. sprawdzać poprawność składni, prowadzić zaawansowane wyszukiwanie i zamianę, czy otwierać najczęściej używane pliki.<br /><br />
 Decydowanie czy projekt HTML jest jednocześnie serwisem odbywa się poprzez tworzenie nowego serwisu i zaznaczenie odpowiedniej opcji w jego oknie głównym
 </p>
 
@@ -91,10 +91,10 @@ W oknie tym należy wpisać pełną ścieżkę dostępu do głównego pliku proj
 Przycisk ten uruchamia natychmiastową kompilację wskazanego projektu.
 </p>
 <p><b>Skompiluj szybko ten serwis</b><br />
-Po skorzystaniu z tej opcji uruchomione zostaje okno dialogowe <a href="tool_htmlhelp_folder_to_chm.html">szybkiego kompilowania</a> serwisu do postaci CHM.
+Po skorzystaniu z tej opcji uruchomione zostaje okno dialogowe <a href="tool_htmlhelp_folder_to_chm.php">szybkiego kompilowania</a> serwisu do postaci CHM.
 </p>
 <p><b>Edytuj projekt</b><br />
-Przycisk ten uruchamia <a href="tool_htmlhelp_hhp_editor.html">edytor projektu</a>, co umożliwia wprowadzenie poprawek lub sporządzenie projektu od nowa.
+Przycisk ten uruchamia <a href="tool_htmlhelp_hhp_editor.php">edytor projektu</a>, co umożliwia wprowadzenie poprawek lub sporządzenie projektu od nowa.
 </p>
 <p><b>Przeglądaj skompilowany</b><br />
 Przyciskiem tym uruchamiamy do podglądu już skompilowany plik CHM.
@@ -118,14 +118,14 @@ Jeżeli klikniemy na tym przycisku, otwarty zostanie program HTML Help Workshop,
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="tool_htmlhelp_general.html">HTML Help - ogólne informacje</a>
-	<li><a href="tool_htmlhelp_hhp_editor.html">Edytor projektu HTML Help</a>
-	<li><a href="tool_htmlhelp_hhc_editor.html">Edytor spisu treści HTML Help</a>
-	<li><a href="tool_htmlhelp_hhk_editor.html">Edytor skorowidza (indeksu) HTML Help</a>
-	<li><a href="tool_htmlhelp_folder_to_chm.html">Szybki HTML Help z folderu</a>
-	<li><a href="tool_htmlhelp_hhp_compilation.html">Kompiluj dokument HTML Help</a>
-	<li><a href="tool_htmlhelp_compiler_info.html">Informacja dla kompilatora HTML Help</a>
-	<li><a href="service_properites.html">Właściwości serwisu</a>
+	<li><a href="tool_htmlhelp_general.php">HTML Help - ogólne informacje</a>
+	<li><a href="tool_htmlhelp_hhp_editor.php">Edytor projektu HTML Help</a>
+	<li><a href="tool_htmlhelp_hhc_editor.php">Edytor spisu treści HTML Help</a>
+	<li><a href="tool_htmlhelp_hhk_editor.php">Edytor skorowidza (indeksu) HTML Help</a>
+	<li><a href="tool_htmlhelp_folder_to_chm.php">Szybki HTML Help z folderu</a>
+	<li><a href="tool_htmlhelp_hhp_compilation.php">Kompiluj dokument HTML Help</a>
+	<li><a href="tool_htmlhelp_compiler_info.php">Informacja dla kompilatora HTML Help</a>
+	<li><a href="service_properites.php">Właściwości serwisu</a>
 </ul>
 </td>
 </tr>

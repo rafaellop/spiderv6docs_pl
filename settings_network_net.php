@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -105,7 +105,7 @@ W tym polu wprowadź nazwę użytkownika, której używasz przy łączeniu się 
 W tym polu wprowadź hasło użytkownika, którego używasz przy łączeniu się z serwerem proxy. Aby wprowadzić odpowiednie dane skontaktuj się z administratorem swojej sieci.
 
 <p><b><strike>Łącz z serwerami FTP w trybie pasywnym</strike></b>
-Począwszy od wersji 5.4.0 przełącznik ten znajduje się w oknie <a href="settings_network_ftpservers_add.html">Właściwości serwera FTP i WebDAV</a>, dzięki czemu możliwe jest ustawienie trybu pasywnego/aktywnego oddzielnie dla każdego serwera.
+Począwszy od wersji 5.4.0 przełącznik ten znajduje się w oknie <a href="settings_network_ftpservers_add.php">Właściwości serwera FTP i WebDAV</a>, dzięki czemu możliwe jest ustawienie trybu pasywnego/aktywnego oddzielnie dla każdego serwera.
 
 </td>
 </tr>
@@ -118,9 +118,9 @@ Począwszy od wersji 5.4.0 przełącznik ten znajduje się w oknie <a href="sett
 <h4>Pokrewne tematy</h4>
 <ul>
 	<li><a href="settings_network.html#settingslistnetwork">Inne ustawienia sieci</a>
-	<li><a href="network_publishing_general.html">Publikowanie w Pająku</a>
-	<li><a href="service_tool_synchronization.html">Synchronizacja serwisów</a>
-	<li><a href="main_tabs_myftpservers.html">Wbudowany klient FTP</a>
+	<li><a href="network_publishing_general.php">Publikowanie w Pająku</a>
+	<li><a href="service_tool_synchronization.php">Synchronizacja serwisów</a>
+	<li><a href="main_tabs_myftpservers.php">Wbudowany klient FTP</a>
 </ul>
 </td>
 </tr>

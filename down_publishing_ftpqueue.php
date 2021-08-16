@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -73,18 +73,18 @@
 <h1>Dolny panel wyników - Kolejka plików FTP</h1>
 
 <!-- treść pomocy -->
-<p>Ta lista zakładki <a href="down_publishing.html">Operacje publikowania</a> znajdującej się na <a href="down_panel.html">dolnym panelu wyników</a> przedstawia tzw. "kolejkę plików" wykorzystywaną do tworzenia listy zadań, które mają być wykonane w jednym przebiegu na serwerze FTP lub WebDAV, np. wysłanie pliku na serwer, pobranie pliku czy operacje na katalogach.
+<p>Ta lista zakładki <a href="down_publishing.php">Operacje publikowania</a> znajdującej się na <a href="down_panel.php">dolnym panelu wyników</a> przedstawia tzw. "kolejkę plików" wykorzystywaną do tworzenia listy zadań, które mają być wykonane w jednym przebiegu na serwerze FTP lub WebDAV, np. wysłanie pliku na serwer, pobranie pliku czy operacje na katalogach.
 
-<p>"Kolejka plików" jest ściśle związana z zakładką <a href="main_tabs_myftpservers.html">Moje serwery</a> oraz <a href="main_tabs_myservices.html">Moje serwisy</a>. Tworzenie zadań do kolejki odbywa się podczas przenoszenia plików lub folderów między wspomnianymi zakładkami, a także podczas operacji na zakładce "Moje serwery" w <a href="main_tabs_myftpservers_on-offline.html">trybie offline</a>.
+<p>"Kolejka plików" jest ściśle związana z zakładką <a href="main_tabs_myftpservers.php">Moje serwery</a> oraz <a href="main_tabs_myservices.php">Moje serwisy</a>. Tworzenie zadań do kolejki odbywa się podczas przenoszenia plików lub folderów między wspomnianymi zakładkami, a także podczas operacji na zakładce "Moje serwery" w <a href="main_tabs_myftpservers_on-offline.php">trybie offline</a>.
 
-<p>Lista kolejki włącza się automatycznie zależnie od <a href="settings_network_ftpclient.html">ustawień klienta FTP i WebDAV</a> dotyczących kolejki. Można ją również włączyć pokazując <a href="down_panel.html">dolny panel wyników</a> lub za pomocą przycisku "Pokaż panel z informacjami" na zakładce <a href="main_tabs_myftpservers.html">Moje serwery</a>.
+<p>Lista kolejki włącza się automatycznie zależnie od <a href="settings_network_ftpclient.php">ustawień klienta FTP i WebDAV</a> dotyczących kolejki. Można ją również włączyć pokazując <a href="down_panel.php">dolny panel wyników</a> lub za pomocą przycisku "Pokaż panel z informacjami" na zakładce <a href="main_tabs_myftpservers.php">Moje serwery</a>.
 
 <h2>Wygląd listy</h2>
 
 <p>Informacje na liście kolejki prezentowane są w widoku kolumnowym. Dostępne są następujące kolumny:
 
 <p><b>Nazwa pliku</b><br>
-W tej kolumnie wyświetlane są ikony oznaczające operację publikowania. Mogą to być ikony oznaczające wysyłanie pliku lub katalogu na serwer () lub pobieranie (). Dodatkowo w <a href="main_tabs_myftpservers_on-offline.html">trybie offline</a> niektóre funkcje, które w trybie online są wykonywane natychmiast, w trybie offline są dodawane do kolejki (np. usuwanie plików lub dokumentów, zmiana nazwy czy <a href="main_tabs_myftpservers_rights.html">praw dostępu</a>). <br>
+W tej kolumnie wyświetlane są ikony oznaczające operację publikowania. Mogą to być ikony oznaczające wysyłanie pliku lub katalogu na serwer () lub pobieranie (). Dodatkowo w <a href="main_tabs_myftpservers_on-offline.php">trybie offline</a> niektóre funkcje, które w trybie online są wykonywane natychmiast, w trybie offline są dodawane do kolejki (np. usuwanie plików lub dokumentów, zmiana nazwy czy <a href="main_tabs_myftpservers_rights.php">praw dostępu</a>). <br>
 Obok ikon znajduje się nazwa pliku, którego dotyczy dana operacja. Może to być nazwa pliku lub katalogu lokalnego (przy wysyłaniu) lub nazwa pliku lub katalogu zdalnego przy pobieraniu lub innych kolejkowanych funkcjach.
 
 <p><b>Ścieżka</b><br>
@@ -92,7 +92,7 @@ Kolumna o tej nazwie zawiera informacje na temat ścieżki lokalnej (przy wysył
 
 <p><b>Docelowo</b><br>
 Kolumna o tej nazwie zawiera albo ścieżkę zdalną przy wysyłaniu, która wskazuje, gdzie będzie umieszczony element kolejki, albo ścieżkę lokalną przy pobieraniu pliku, która oznacza gdzie będzie umieszczony pobierany plik zdalny.<br>
-W przypadku innych funkcji kolejkujących wyświetlane są np. informacje o nowej nazwie pliku (przy zmianie nazwy) czy o nowych prawach dostępu (<a href="main_tabs_myftpservers_rights.html">zmiana praw</a>).
+W przypadku innych funkcji kolejkujących wyświetlane są np. informacje o nowej nazwie pliku (przy zmianie nazwy) czy o nowych prawach dostępu (<a href="main_tabs_myftpservers_rights.php">zmiana praw</a>).
 
 <p><b>Rozmiar</b><br>
 W tej kolumnie jest zawsze podawany rozmiar pliku, którego dotyczy dana operacja.
@@ -131,9 +131,9 @@ Ten przyciskm pozwala na przemieszczanie zadań w kolejce w dół.
 
 <p>Możesz pobierać lub wysyłać na serwer całe foldery włącznie z całą ich zawartością. Po napotkaniu folderu na kolejce plików są one rozwijane i pobierana jest ich zawartość aż do zakończenia kolejki.
 
-<p>Możesz ukryć panel kolejki i pracować w Pająku, a po zakończeniu kolejki usłyszysz dźwięk powiadomienia. Również na zakładce <a href="main_tabs_myftpservers.html">Moje serwery</a> w trakcie wykonywania kolejki pasek stanu jest wyświetlany na czerwono i informuje o wykonywaniu kolejki.
+<p>Możesz ukryć panel kolejki i pracować w Pająku, a po zakończeniu kolejki usłyszysz dźwięk powiadomienia. Również na zakładce <a href="main_tabs_myftpservers.php">Moje serwery</a> w trakcie wykonywania kolejki pasek stanu jest wyświetlany na czerwono i informuje o wykonywaniu kolejki.
 
-<p>Jeśli masz jakieś problemy z połączeniem możesz sprawdzić zapis komunikacji z serwerem FTP na  <a href="down_publishing_serverlog.html">logu połączenia z serwerem FTP</a>.
+<p>Jeśli masz jakieś problemy z połączeniem możesz sprawdzić zapis komunikacji z serwerem FTP na  <a href="down_publishing_serverlog.php">logu połączenia z serwerem FTP</a>.
 
 <p>Podczas wykonywania kolejki plików możesz swobodnie korzystać z zakładki "Moje serwery". Teraz oba narzędzia działają niezależnie od siebie (w poprzednich wydaniach Pająka można było jednocześnie korzystać tylko z jednego z nich).</p>
 
@@ -151,9 +151,9 @@ Ten przyciskm pozwala na przemieszczanie zadań w kolejce w dół.
 <ul>
 	<li><a href="down_publishing.html#downpanelpublishinglist">Inne zakładki operacji publikowania</a>
 	<li><a href="down_panel.html#downpanellist">Inne zakładki dolnego panelu</a>
-	<li><a href="main_tabs_myftpservers.html">Zakładka "Moje serwery"</a>
-	<li><a href="settings_network_ftpclient.html">Ustawienia klienta FTP</a>
-	<li><a href="main_window_desc.html">Główne okno programu</a>
+	<li><a href="main_tabs_myftpservers.php">Zakładka "Moje serwery"</a>
+	<li><a href="settings_network_ftpclient.php">Ustawienia klienta FTP</a>
+	<li><a href="main_window_desc.php">Główne okno programu</a>
 </ul>
 </td>
 </tr>

@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -89,7 +89,7 @@ W typ polu wprowadź szczegółowy opis zadania.
 Priorytet określa wagę zadania. Jeśli zadanie, które tworzysz jest bardzo ważne, nadaj mu priorytet <tt>1 - najwyższy</tt>. W przeciwnym wypadku możesz nadać mu niższy priorytet. Dzięki temu przeglądają zadania do wykonania będziesz wiedział, którymi musisz zająć się przede wszystkim.</p>
 
 <p><b>Zaznaczone jako wykonane</b><br />
-Zaznaczenie tego przełącznika oznacza zadanie jako wykonane. Dzięki temu (w zależności od ustawień programu w oknie <a href="settings_editor_general.html">Ustawienia programu / Inne ustawienia / Edytor ... / ogólne</a>), linia zawierająca to zadanie nie będzie wyróżniana w edytorze.</p>
+Zaznaczenie tego przełącznika oznacza zadanie jako wykonane. Dzięki temu (w zależności od ustawień programu w oknie <a href="settings_editor_general.php">Ustawienia programu / Inne ustawienia / Edytor ... / ogólne</a>), linia zawierająca to zadanie nie będzie wyróżniana w edytorze.</p>
 
 <p><b>Przenieś to zadanie do wykonania</b><br />
 Kliknij ten przycisk, wyświetlić okienko umożliwiające wprowadzenie numeru wiersza w dokumencie, do którego zadanie ma zostać przeniesione. Przycisk ten dostępny jest wyłącznie dla zadań zdefiniowanych dla dokumentu, a nie dla całego serwisu.</p>
@@ -112,8 +112,8 @@ Kliknij ten przycisk, aby usunąć bieżące zadanie. Jest to przydatne szczegó
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="main_editor_todotasks.html">Zadania do wykonania - ogólnie</a>
-	<li><a href="main_editor_general.html">Praca z edytorem - ogólnie</a>
+	<li><a href="main_editor_todotasks.php">Zadania do wykonania - ogólnie</a>
+	<li><a href="main_editor_general.php">Praca z edytorem - ogólnie</a>
 </ul>
 </td>
 </tr>

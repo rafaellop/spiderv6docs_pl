@@ -28,23 +28,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -79,7 +79,7 @@
 
 <!-- treść pomocy -->
 
-<p>Okno wywołuje się za pomocą skrótu ALT+F9 lub pozycji z <a href="main_menu_main.html">Menu głownego</a> \ <a href="main_menu_view.html">Wyświetl</a>. Dodatkowo okno jest wywoływane automatycznie w przypadku użycia funkcji pomocy kontekstowej do znaczników lub elementów języka programowania po wciśnięciu skrótu CTRL+F1 na wybranym poleceniu języka HTML, CSS, PHP.</p>
+<p>Okno wywołuje się za pomocą skrótu ALT+F9 lub pozycji z <a href="main_menu_main.php">Menu głownego</a> \ <a href="main_menu_view.php">Wyświetl</a>. Dodatkowo okno jest wywoływane automatycznie w przypadku użycia funkcji pomocy kontekstowej do znaczników lub elementów języka programowania po wciśnięciu skrótu CTRL+F1 na wybranym poleceniu języka HTML, CSS, PHP.</p>
 
 <p>W oknie tym dostępne są tematy pomocy dla różnych języków obsługiwanych przez Pająka (HTML, JavaScript, PHP, itd), a także pomoc online.</p>
 
@@ -92,7 +92,7 @@ Kliknij, aby przejść na poprzednią, lub następną stronę Pomocy w aktualnym
 Kliknij aby otworzyć aktualną stronę Pomocy w nowym oknie domyślnej przeglądarki internetowej.</p>
 
 <p><b>Kanały RSS</b><br />
-Wyświetla menu umożliwiające przeglądanie kanałów najnowszych wiadomości RSS i zarządzanie nimi. Układ poleceń jest identyczny jak w <a href="main_menu_help.html#rss" title="Menu Pomoc / Kanały RSS">Menu Pomoc / Kanały RSS</a>. Więcej o kanałach RSS czytaj w temacie <a href="settings_network_rss.html" title="Ustawienia kanałów RSS">Ustawienia kanałów RSS</a></p>
+Wyświetla menu umożliwiające przeglądanie kanałów najnowszych wiadomości RSS i zarządzanie nimi. Układ poleceń jest identyczny jak w <a href="main_menu_help.html#rss" title="Menu Pomoc / Kanały RSS">Menu Pomoc / Kanały RSS</a>. Więcej o kanałach RSS czytaj w temacie <a href="settings_network_rss.php" title="Ustawienia kanałów RSS">Ustawienia kanałów RSS</a></p>
 
 <hr />
 <p><b>Kurs HTML</b>
@@ -150,14 +150,14 @@ Kliknij, aby otworzyć Specyfikację MathML 2.0. Strona jest kopią zawartości 
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-   <li><a href="info_help_using.html">Korzystanie z pomocy w Pająku</a></li>
-   <li><a href="main_menu_help.html">Menu główne / Pomoc</a></li>
-   <li><a href="coding_html_help.html">Wspomaganie dla HTML - Pomoc kontekstowa</a></li>
-   <li><a href="coding_scripts_jsvb_help.html">Wspomaganie dla JavaScript - Pomoc kontekstowa</a></li>
-   <li><a href="coding_css_help.html">Wspomaganie dla CSS - Pomoc kontekstowa</a></li>
-   <li><a href="coding_php_help.html">Wspomaganie dla PHP - Pomoc kontekstowa</a></li>
+   <li><a href="info_help_using.php">Korzystanie z pomocy w Pająku</a></li>
+   <li><a href="main_menu_help.php">Menu główne / Pomoc</a></li>
+   <li><a href="coding_html_help.php">Wspomaganie dla HTML - Pomoc kontekstowa</a></li>
+   <li><a href="coding_scripts_jsvb_help.php">Wspomaganie dla JavaScript - Pomoc kontekstowa</a></li>
+   <li><a href="coding_css_help.php">Wspomaganie dla CSS - Pomoc kontekstowa</a></li>
+   <li><a href="coding_php_help.php">Wspomaganie dla PHP - Pomoc kontekstowa</a></li>
    <li><a href="down_panel.html#downpanellist">Inne zakładki dolnego panelu wyników</a></li>
-   <li><a href="main_window_desc.html">Główne okno programu</a></li>
+   <li><a href="main_window_desc.php">Główne okno programu</a></li>
 </ul>
 </td>
 </tr>

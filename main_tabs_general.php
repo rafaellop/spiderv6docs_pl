@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -72,30 +72,30 @@
 <!-- nagłowek głowny tematu -->
 <h1>Zakładki głównego okna programu</h1>
 
-<p>Główne okno programu jest podzielone na liczne części logiczne pełniące różne funkcje. Szerszy <a href="main_window_desc.html">opis głównego okna</a> znajdziesz w innym temacie. Tutaj skupimy się na zakładkach powszechnie dostępnych w głównym oknie.
+<p>Główne okno programu jest podzielone na liczne części logiczne pełniące różne funkcje. Szerszy <a href="main_window_desc.php">opis głównego okna</a> znajdziesz w innym temacie. Tutaj skupimy się na zakładkach powszechnie dostępnych w głównym oknie.
 
-<p>Zakładki w Pająku mają postać animowanych obszarów, między którymi przełacza się po kliknięciu w pasek tytułowy zakładki lub przycisk oznaczony strzałką, który zmienia zakładkę na kolejną. W ten sposób zbudowane są zakładki na lewy i prawym panelu oraz w części środkowej <a href="main_window_desc.html">głownego okna programu</a>. Jedynie na <a href="down_panel.html">dolnym panelu</a> układ zakładek jest poziomy, aby umożliwić umieszczenie większej liczby elementów na niewysokim obszarze.
+<p>Zakładki w Pająku mają postać animowanych obszarów, między którymi przełacza się po kliknięciu w pasek tytułowy zakładki lub przycisk oznaczony strzałką, który zmienia zakładkę na kolejną. W ten sposób zbudowane są zakładki na lewy i prawym panelu oraz w części środkowej <a href="main_window_desc.php">głownego okna programu</a>. Jedynie na <a href="down_panel.php">dolnym panelu</a> układ zakładek jest poziomy, aby umożliwić umieszczenie większej liczby elementów na niewysokim obszarze.
 
 <h2><a name="tabs_leftpanel"></a>Zakładki w panelu po lewej</h2>
 
-<p>Panel po lewej można wyświetlić lub ukryć za pomocą skrótu klawiszowego F9, polecenia <a href="main_menu_main.html">Menu głównego</a> / <a href="main_menu_view.html">Wyświetl</a> lub przycisku na pasku przycisków oznaczonego ikoną pokazaną powyżej. Panel po lewej składa się z następujących zakładek:
+<p>Panel po lewej można wyświetlić lub ukryć za pomocą skrótu klawiszowego F9, polecenia <a href="main_menu_main.php">Menu głównego</a> / <a href="main_menu_view.php">Wyświetl</a> lub przycisku na pasku przycisków oznaczonego ikoną pokazaną powyżej. Panel po lewej składa się z następujących zakładek:
 
 <ul>
-	<li><a href="main_tabs_myservices.html">Moje serwisy</a> - zakładka pozwala na zarządzanie plikami znajdującymi się na dysku lokalnym
-	<li><a href="main_tabs_inspector_tags.html">Inspektor znaczników</a> - zakładka inspektora znaczników pozwala na dynamiczną modyfikację znaczników, w których znajduje się kursor.
-	<li><a href="main_tabs_inspector_css.html">Inspektor CSS</a> - zakładka inspektora CSS pozwala na dynamiczną modyfikację selektorów stylów używanych w dokumentach lub dowiązanych do dokumentów arkuszach stylów.
-	<li><a href="main_tabs_macrocodes.html">Makrokody</a> - zakładka ta pozwala na dostęp do tzw. makrokodów, czyli fragmentów kodu programów, które mogą być umieszczane w dokumentach.
+	<li><a href="main_tabs_myservices.php">Moje serwisy</a> - zakładka pozwala na zarządzanie plikami znajdującymi się na dysku lokalnym
+	<li><a href="main_tabs_inspector_tags.php">Inspektor znaczników</a> - zakładka inspektora znaczników pozwala na dynamiczną modyfikację znaczników, w których znajduje się kursor.
+	<li><a href="main_tabs_inspector_css.php">Inspektor CSS</a> - zakładka inspektora CSS pozwala na dynamiczną modyfikację selektorów stylów używanych w dokumentach lub dowiązanych do dokumentów arkuszach stylów.
+	<li><a href="main_tabs_macrocodes.php">Makrokody</a> - zakładka ta pozwala na dostęp do tzw. makrokodów, czyli fragmentów kodu programów, które mogą być umieszczane w dokumentach.
 </ul>
 
 <h2><a name="tabs_rightpanel"></a>Zakładki w panelu po prawej</h2>
 
-<p>Panel po prawej można wyświetlić lub ukryć za pomocą skrótu klawiszowego Ctrl+F9, polecenia <a href="main_menu_main.html">Menu głównego</a> / <a href="main_menu_view.html">Wyświetl</a> lub przycisku na pasku przycisków oznaczonego ikoną pokazaną powyżej. Panel po prawej składa się z następujących zakładek:
+<p>Panel po prawej można wyświetlić lub ukryć za pomocą skrótu klawiszowego Ctrl+F9, polecenia <a href="main_menu_main.php">Menu głównego</a> / <a href="main_menu_view.php">Wyświetl</a> lub przycisku na pasku przycisków oznaczonego ikoną pokazaną powyżej. Panel po prawej składa się z następujących zakładek:
 
 <ul>
-	<li><a href="main_tabs_myftpservers.html">Moje serwery</a> - zakładka umożliwia zdalną pracę na wybranym serwerze FTP lub WebDAV.
-	<li><a href="main_tabs_navigator.html">Inspektor MySQL</a> - zakładka umożliwia pracę z serwerem baz danych MySQL.
-	<li><a href="main_tabs_navigator.html">Nawigator</a> - zakładka nawigatora umożliwia łatwą nawigację po kodzie źródłowym dokumentu czy to HTML, PHP czy innym.
-	<li><a href="main_tabs_languages.html">Języki programowania</a> - zakładka ta zawiera zestaw definicji dla kilku języków programowania wspieranych przez Pająka.
+	<li><a href="main_tabs_myftpservers.php">Moje serwery</a> - zakładka umożliwia zdalną pracę na wybranym serwerze FTP lub WebDAV.
+	<li><a href="main_tabs_navigator.php">Inspektor MySQL</a> - zakładka umożliwia pracę z serwerem baz danych MySQL.
+	<li><a href="main_tabs_navigator.php">Nawigator</a> - zakładka nawigatora umożliwia łatwą nawigację po kodzie źródłowym dokumentu czy to HTML, PHP czy innym.
+	<li><a href="main_tabs_languages.php">Języki programowania</a> - zakładka ta zawiera zestaw definicji dla kilku języków programowania wspieranych przez Pająka.
 </ul>
 
 
@@ -105,13 +105,13 @@
 <p>Zakładek głównych nie można ukryć. Są one bowiem miejscem gdzie tworzy się i testuje dokumenty. Możesz się jednak między nimi przełączać za pomocą klikania oraz skrótów klawiszowych (F10 dla zakładki Tworzenie oraz F11 dla zakładki Przeglądanie). 
 
 <ul>
-	<li><a href="main_editor_general.html">Tworzenie</a> - ta zakładka jest edytorem dokumentów, który pracuje w <a href="main_editor.html">trybie edycji kodu źródłowego</a> lub w <a href="main_editor_wysiwyg.html">trybie graficznym</a>. Dostępny jest tutaj również <a href="main_preview_dynamic.html">dynamiczny podgląd</a>.
-	<li><a href="main_preview_embed.html">Przeglądanie</a> - ta zakładka umożliwia przeglądanie i testowanie edytowanych dokumentów o ile w systemie zainstalowany jest MS Internet Explorer lub Mozilla.
+	<li><a href="main_editor_general.php">Tworzenie</a> - ta zakładka jest edytorem dokumentów, który pracuje w <a href="main_editor.php">trybie edycji kodu źródłowego</a> lub w <a href="main_editor_wysiwyg.php">trybie graficznym</a>. Dostępny jest tutaj również <a href="main_preview_dynamic.php">dynamiczny podgląd</a>.
+	<li><a href="main_preview_embed.php">Przeglądanie</a> - ta zakładka umożliwia przeglądanie i testowanie edytowanych dokumentów o ile w systemie zainstalowany jest MS Internet Explorer lub Mozilla.
 </ul>
 
 <h2>Zakładka dolnego panelu wyników</h2>
 
-<p>Na tej zakładce wyświetlane są wyniki działania różnych funkcji Pająka, np. wyszukiwania. Zakładki znajdujące się tutaj opisane zostały w temacie poświęconym <a href="down_panel.html">dolnemu panelowi</a>.
+<p>Na tej zakładce wyświetlane są wyniki działania różnych funkcji Pająka, np. wyszukiwania. Zakładki znajdujące się tutaj opisane zostały w temacie poświęconym <a href="down_panel.php">dolnemu panelowi</a>.
 
 </td>
 </tr>
@@ -123,8 +123,8 @@
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="main_window_desc.html">Główne okno programu</a>
-	<li><a href="down_panel.html">Dolny panel</a>
+	<li><a href="main_window_desc.php">Główne okno programu</a>
+	<li><a href="down_panel.php">Dolny panel</a>
 </ul>
 </td>
 </tr>

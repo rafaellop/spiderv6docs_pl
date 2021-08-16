@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -81,81 +81,81 @@
 <!-- pokrewne tematy -->
 
 <ul>
-			<li><a href="services_general.html">Tworzenie i praca z projektami</a>
-			<li><a href="how_pagefrom_macrocode.html">Jak szybko stworzyć atrakcyjną stronę</a>
-			<li><a href="network_publishing_general.html">Publikowanie w Sieci</a>
-			<li><a href="network_opendoc_ftp.html">Edycja bezpośrednio z serwera</a>
-			<li><a href="how_synchronize.html">Synchronizacja projektów</a>
-			<li><a href="how_table_make.html">Tworzenie i edycja tabel</a>
-			<li><a href="how_lists_make.html">Tworzenie list wyliczeniowych</a>
-			<li><a href="how_links_make.html">Tworzenie odsyłaczy</a>
-			<li><a href="how_gallery_make.html">Tworzenie galerii grafik</a>
-			<li><a href="how_htmlhelp_make.html">Tworzenie pomocy HTML Help</a>
+			<li><a href="services_general.php">Tworzenie i praca z projektami</a>
+			<li><a href="how_pagefrom_macrocode.php">Jak szybko stworzyć atrakcyjną stronę</a>
+			<li><a href="network_publishing_general.php">Publikowanie w Sieci</a>
+			<li><a href="network_opendoc_ftp.php">Edycja bezpośrednio z serwera</a>
+			<li><a href="how_synchronize.php">Synchronizacja projektów</a>
+			<li><a href="how_table_make.php">Tworzenie i edycja tabel</a>
+			<li><a href="how_lists_make.php">Tworzenie list wyliczeniowych</a>
+			<li><a href="how_links_make.php">Tworzenie odsyłaczy</a>
+			<li><a href="how_gallery_make.php">Tworzenie galerii grafik</a>
+			<li><a href="how_htmlhelp_make.php">Tworzenie pomocy HTML Help</a>
 			<li><a data-toggle="collapse" href="#searchColl" role="button" aria-expanded="false" aria-controls="searchColl">Wyszukiwanie w Pająku</a>
 			<ul class="collapse" id="searchColl">
-				<li><a href="find.html">Wyszukiwanie w Pająku</a>
-				<li><a href="find_ext.html">Rozszerzone wyszukiwanie i zamiana</a>
-				<li><a href="find_regexp.html">Wyszukiwanie - wyrażenia regularne</a>
-				<li><a href="find_text.html">Wyszukiwanie, zamiana, przenoszenie</a>
+				<li><a href="find.php">Wyszukiwanie w Pająku</a>
+				<li><a href="find_ext.php">Rozszerzone wyszukiwanie i zamiana</a>
+				<li><a href="find_regexp.php">Wyszukiwanie - wyrażenia regularne</a>
+				<li><a href="find_text.php">Wyszukiwanie, zamiana, przenoszenie</a>
 			</ul>
 			<li><a data-toggle="collapse" href="#projectsColl" role="button" aria-expanded="false" aria-controls="projectsColl">Szablony - ogólnie</a>
 				<ul class="collapse" id="projectsColl">
-					<li><a href="macrocodes.html">Szablony - ogólnie</a>
-					<li><a href="macrocodes_using.html">Korzystanie z szablonów</a>
-					<li><a href="macrocodes_instruction.html">Tworzenie szablonu krok po kroku</a>
-					<li><a href="macrocodes_instruction_div.html">Tworzenie szablonu - Znacznik DIV z atrybutami</a>
-					<li><a href="macrocodes_instruction_link.html">Tworzenie szablonu - Znacznik LINK do dołączania arkuszy CSS</a>
-					<li><a href="macrocodes_editor.html">Edytor szablonów</a>
-					<li><a href="macrocodes_editor_blocks.html">Zakładka Bloki</a>
-					<li><a href="macrocodes_editor_addblock.html">Edycja bloku szablonu</a>
-					<li><a href="macrocodes_editor_vars.html">Zakładka Zmienne</a>
-					<li><a href="macrocodes_editor_addvar.html">Edycja zmiennej szablonu</a>
-					<li><a href="macrocodes_editor_settings.html">Ustawienia szablonu</a>
-					<li><a href="macrocodes_editor_sites.html">O stronach szablonu</a>
-					<li><a href="tool_new_page_wizard.html">Kreator nowej strony z szablonu</a>
+					<li><a href="macrocodes.php">Szablony - ogólnie</a>
+					<li><a href="macrocodes_using.php">Korzystanie z szablonów</a>
+					<li><a href="macrocodes_instruction.php">Tworzenie szablonu krok po kroku</a>
+					<li><a href="macrocodes_instruction_div.php">Tworzenie szablonu - Znacznik DIV z atrybutami</a>
+					<li><a href="macrocodes_instruction_link.php">Tworzenie szablonu - Znacznik LINK do dołączania arkuszy CSS</a>
+					<li><a href="macrocodes_editor.php">Edytor szablonów</a>
+					<li><a href="macrocodes_editor_blocks.php">Zakładka Bloki</a>
+					<li><a href="macrocodes_editor_addblock.php">Edycja bloku szablonu</a>
+					<li><a href="macrocodes_editor_vars.php">Zakładka Zmienne</a>
+					<li><a href="macrocodes_editor_addvar.php">Edycja zmiennej szablonu</a>
+					<li><a href="macrocodes_editor_settings.php">Ustawienia szablonu</a>
+					<li><a href="macrocodes_editor_sites.php">O stronach szablonu</a>
+					<li><a href="tool_new_page_wizard.php">Kreator nowej strony z szablonu</a>
 				</ul>
 				<li><a data-toggle="collapse" href="#syntaxschemeColl" role="button" aria-expanded="false" aria-controls="syntaxschemeColl">Tworzenie schematu kolorowania</a>
 
 				<ul class="collapse" id="syntaxschemeColl">
-					<li><a href="syntax_instruction.html">Tworzenie schematu kolorowania</a>
+					<li><a href="syntax_instruction.php">Tworzenie schematu kolorowania</a>
 
-							<li><a href="syntax_editor.html">Edytor schematów kolorowania</a>
-							<li><a href="syntax_keywords.html">Słowa kluczowe</a>
-							<li><a href="syntax_numbers.html">Liczby</a>
-							<li><a href="syntax_style_properties.html">Właściwości stylu</a>
-							<li><a href="syntax_strings.html">Ciągi znaków</a>
-							<li><a href="syntax_read_save.html">Wybór schematu</a>
-							<li><a href="syntax_blocks.html">Bloki</a>
-							<li><a href="syntax_blocks_styles_list.html">Bloki składniowe, Style</a>
-							<li><a href="syntax_comments.html">Komentarze</a>
-							<li><a href="syntax_preview.html">Podgląd schematu kolorowania</a>
-							<li><a href="syntax_identifiers.html">Identyfikatory</a>
+							<li><a href="syntax_editor.php">Edytor schematów kolorowania</a>
+							<li><a href="syntax_keywords.php">Słowa kluczowe</a>
+							<li><a href="syntax_numbers.php">Liczby</a>
+							<li><a href="syntax_style_properties.php">Właściwości stylu</a>
+							<li><a href="syntax_strings.php">Ciągi znaków</a>
+							<li><a href="syntax_read_save.php">Wybór schematu</a>
+							<li><a href="syntax_blocks.php">Bloki</a>
+							<li><a href="syntax_blocks_styles_list.php">Bloki składniowe, Style</a>
+							<li><a href="syntax_comments.php">Komentarze</a>
+							<li><a href="syntax_preview.php">Podgląd schematu kolorowania</a>
+							<li><a href="syntax_identifiers.php">Identyfikatory</a>
 
 				</ul>
 
 			<li><a data-toggle="collapse" href="#formatterColl" role="button" aria-expanded="false" aria-controls="formatterColl">Formatowanie kodu źródłowego</a>
 				<ul class="collapse" id="formatterColl">
-					<li><a href="formatter_general.html">Formatowanie kodu źródłowego</a>
-					<li><a href="formatter_general.html">Formatowanie kodu źródłowego</a>
-					<li><a href="formatter_markuplangs.html">Ustawienia formatowania jęz. znacznikowych</a>
-					<li><a href="formatter_stylesheets.html">Ustawienia formatowania CSS</a>
-					<li><a href="formatter_php.html">Ustawienia formatowania PHP</a>
-					<li><a href="formatter_javascript.html">Ustawienia formatowania JavaScript</a>
-					<li><a href="formatter_tidy.html">Ustawienia formatowania Tidy</a>
+					<li><a href="formatter_general.php">Formatowanie kodu źródłowego</a>
+					<li><a href="formatter_general.php">Formatowanie kodu źródłowego</a>
+					<li><a href="formatter_markuplangs.php">Ustawienia formatowania jęz. znacznikowych</a>
+					<li><a href="formatter_stylesheets.php">Ustawienia formatowania CSS</a>
+					<li><a href="formatter_php.php">Ustawienia formatowania PHP</a>
+					<li><a href="formatter_javascript.php">Ustawienia formatowania JavaScript</a>
+					<li><a href="formatter_tidy.php">Ustawienia formatowania Tidy</a>
 				</ul>
-			<li><a href="coding_php_mapping.html">Wyświetlanie skryptów PHP</a>
-			<li><a href="main_editor_addfiles.html">Wyłączenie tworzenia plików ADD?</a>
-			<li><a href="main_editor_backups.html">Wyłączenie tworzenia plików BAK</a>
-			<li><a href="spelling.html">Sprawdzanie poprawności pisowni</a>
-			<li><a href="charset_encoding.html">Kodowanie znaków narodowych</a>
-			<li><a href="how_tousecvs.html">Korzystanie z GIT, CVS i SVN w Pająku</a>
-			<li><a href="info_activate.html">Aktywacja programu</a>
+			<li><a href="coding_php_mapping.php">Wyświetlanie skryptów PHP</a>
+			<li><a href="main_editor_addfiles.php">Wyłączenie tworzenia plików ADD?</a>
+			<li><a href="main_editor_backups.php">Wyłączenie tworzenia plików BAK</a>
+			<li><a href="spelling.php">Sprawdzanie poprawności pisowni</a>
+			<li><a href="charset_encoding.php">Kodowanie znaków narodowych</a>
+			<li><a href="how_tousecvs.php">Korzystanie z GIT, CVS i SVN w Pająku</a>
+			<li><a href="info_activate.php">Aktywacja programu</a>
 
 </ul>
 </td>
 </tr>
 </table>
-<p class="prawa"><a href="contents_main.html">Powrót do spisu treści</a></p>
+<p class="prawa"><a href="contents_main.php">Powrót do spisu treści</a></p>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.slim.min.js" integrity="sha512-/DXTXr6nQodMUiq+IUJYCt2PPOUjrHJ9wFrqpJ3XkgPNOZVfMok7cRw6CSxyCQxXn6ozlESsSh1/sMCTF1rL/g==" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/js/bootstrap.bundle.min.js" integrity="sha512-kBFfSXuTKZcABVouRYGnUo35KKa1FBrYgwG4PAx7Z2Heroknm0ca2Fm2TosdrrI356EDHMW383S3ISrwKcVPUw==" crossorigin="anonymous"></script>

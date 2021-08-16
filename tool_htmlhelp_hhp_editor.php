@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -122,9 +122,9 @@ W jedynym, dużym oknie należy wczytać z dysku wszystkie pliki, jakie chcemy u
    <li><p><b>Nazwa pliku raportu</b><br />
 		Jeśli chcemy, by sporządzony został raport z kompilacji, należy w tym polu wpisać nazwę pliku raportu z rozszerzeniem (np. <tt>raport.txt</tt>).</p>
    <li><p><b>Nazwa pliku spisu treści</b><br />
-   		W polu tym należy wprowadzić nazwę pliku spisu treści, który ma być użyty do tego projektu HTML Help. <a href="tool_htmlhelp_hhc_editor.html">Spis treści</a> można utworzyć edytorem, jaki zostanie otwarty po kliknięciu na ikonkę obok pola. Jeśli plik ze spisem treści istnieje już na dysku, możesz wskazać go za pomocą okienka otwieranego przyciskiem obok.</p>
+   		W polu tym należy wprowadzić nazwę pliku spisu treści, który ma być użyty do tego projektu HTML Help. <a href="tool_htmlhelp_hhc_editor.php">Spis treści</a> można utworzyć edytorem, jaki zostanie otwarty po kliknięciu na ikonkę obok pola. Jeśli plik ze spisem treści istnieje już na dysku, możesz wskazać go za pomocą okienka otwieranego przyciskiem obok.</p>
    <li><p><b>Nazwa pliku skorowidza</b><br />
-   		W polu tym należy wprowadzić nazwę pliku skorowidza (indeksu), który ma być użyty do tego projektu HTML Help. <a href="tool_htmlhelp_hhk_editor.html">Skorowidz</a> można utworzyć edytorem, jaki zostanie otwarty po kliknięciu na ikonkę obok pola. Jeśli plik indeksu istnieje już na dysku, możesz wskazać go za pomocą okienka otwieranego przyciskiem obok.</p>
+   		W polu tym należy wprowadzić nazwę pliku skorowidza (indeksu), który ma być użyty do tego projektu HTML Help. <a href="tool_htmlhelp_hhk_editor.php">Skorowidz</a> można utworzyć edytorem, jaki zostanie otwarty po kliknięciu na ikonkę obok pola. Jeśli plik indeksu istnieje już na dysku, możesz wskazać go za pomocą okienka otwieranego przyciskiem obok.</p>
    <li><p><b>Automatyczne tworzenie spisu treści (<tt>.hhc</tt>) podczas kompilacji</b><br />
    		Włączenie tej opcji pozwala na automatyczne utworzenie spisu treści na podstawie znajdujących się w plikach składowych projektu tytułów stopnia pierwszego, drugiego, itd., odpowiednio zagnieżdżając poziomy. Funkcja ta działa tym poprawniej, im mniej poziomów uwzględniamy. Nazwami w spisie treści stają się tytuły danego stopnia.</p>
         <ul type="circle">
@@ -142,7 +142,7 @@ W jedynym, dużym oknie należy wczytać z dysku wszystkie pliki, jakie chcemy u
    <b>&lt;param</b> <b>name</b>="Keyword" <b>value</b>="XHTML"&gt;
 <b>&lt;/object&gt;</b>
 </pre>
-W Pająku, na pasku narzędzi "HTML Help" znajduje się narzędzie do tworzenia <a href="tool_htmlhelp_compiler_info.html">słów kluczowych HTML Help</a>.</p>
+W Pająku, na pasku narzędzi "HTML Help" znajduje się narzędzie do tworzenia <a href="tool_htmlhelp_compiler_info.php">słów kluczowych HTML Help</a>.</p>
 </ul>   
    
 <p><b>Ustawienia kompilatora</b></p>
@@ -468,13 +468,13 @@ Poniższe opcje mają tylko niewielkie znaczenie dla wyglądu HTML Help. Wiele z
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="tool_htmlhelp_general.html">HTML Help - ogólne informacje</a>
-	<li><a href="tool_htmlhelp_hhc_editor.html">Edytor spisu treści HTML Help</a>
-	<li><a href="tool_htmlhelp_hhk_editor.html">Edytor skorowidza (indeksu) HTML Help</a>
-	<li><a href="tool_htmlhelp_folder_to_chm.html">Szybki HTML Help z folderu</a>
-	<li><a href="tool_htmlhelp_hhp_compilation.html">Kompiluj dokument HTML Help</a>
-	<li><a href="tool_htmlhelp_compiler_info.html">Informacja dla kompilatora HTML Help</a>
-	<li><a href="tool_htmlhelp_compiler_services.html">HTML Help a serwisy w Pająku</a>
+	<li><a href="tool_htmlhelp_general.php">HTML Help - ogólne informacje</a>
+	<li><a href="tool_htmlhelp_hhc_editor.php">Edytor spisu treści HTML Help</a>
+	<li><a href="tool_htmlhelp_hhk_editor.php">Edytor skorowidza (indeksu) HTML Help</a>
+	<li><a href="tool_htmlhelp_folder_to_chm.php">Szybki HTML Help z folderu</a>
+	<li><a href="tool_htmlhelp_hhp_compilation.php">Kompiluj dokument HTML Help</a>
+	<li><a href="tool_htmlhelp_compiler_info.php">Informacja dla kompilatora HTML Help</a>
+	<li><a href="tool_htmlhelp_compiler_services.php">HTML Help a serwisy w Pająku</a>
 
 </ul>
 </td>

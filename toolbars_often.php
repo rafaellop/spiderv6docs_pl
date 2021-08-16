@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -76,59 +76,59 @@
 
 <p>Pasek ten zawiera polecenia służące uruchamiania często używanych narzędzi.</p>
 
-<p><b><a href="tool_quickstart.html">Szybki start</a></b><br />
+<p><b><a href="tool_quickstart.php">Szybki start</a></b><br />
 Kliknij, aby uruchomić narzędzie Szybki start służące do szybkiego stworzenia szkieletu strony zawierającego najważniejsze sekcje.
 
-<p><b><a href="tool_meta.html">Edytor sekcji &lt;META&gt;</a></b><br />
+<p><b><a href="tool_meta.php">Edytor sekcji &lt;META&gt;</a></b><br />
 Kliknij, aby uruchomić edytor sekcji <tt>&lt;META&gt;</tt> (domyślny skrót <tt>Shift+Ctrl+M</tt>).
 
-<p><b><a href="tool_body.html">Edytor sekcji &lt;BODY&gt;</a></b><br />
+<p><b><a href="tool_body.php">Edytor sekcji &lt;BODY&gt;</a></b><br />
 Kliknij, aby uruchomić edytor sekcji <tt>&lt;BODY&gt;</tt> (domyślny skrót <tt>Shift+Ctrl+B</tt>).
 
-<p><b><a href="tool_link.html">Edytor odsyłaczy</a></b><br />
+<p><b><a href="tool_link.php">Edytor odsyłaczy</a></b><br />
 Kliknij, aby uruchomić edytor odsyłaczy <tt>&lt;A&gt;</tt> (domyślny skrót <tt>Shift+Ctrl+A</tt>).
 
-<p><b><a href="tool_graphic_insert.html">Wstawienie grafiki</a></b><br />
+<p><b><a href="tool_graphic_insert.php">Wstawienie grafiki</a></b><br />
 Kliknij, aby uruchomić narzędzie ułatwiające wstawianie grafik, <tt>&lt;I&gt;</tt>,  (domyślny skrót <tt>Shift+Ctrl+I</tt>).
 
-<p><b><a href="tool_multimedia_insert.html">Osadzanie multimediów</a></b><br />
+<p><b><a href="tool_multimedia_insert.php">Osadzanie multimediów</a></b><br />
 Kliknij, aby otworzyć narzędzie ułatwiające wstawianie do dokumentu multimediów, jak filmy Flash, RealMedia itp.
 
-<p><b><a href="tool_link_map_editor.html">Edytor map odsyłaczy</a></b><br />
+<p><b><a href="tool_link_map_editor.php">Edytor map odsyłaczy</a></b><br />
 Kliknij, aby uruchomić edytor map odsyłaczy.
 
-<p><b><a href="tool_hr.html">Wstawienie poziomej linii</a></b><br />
+<p><b><a href="tool_hr.php">Wstawienie poziomej linii</a></b><br />
 Kliknij, aby uruchomić narzędzie do wstawiania poziomej linii <tt>&lt;HR&gt;</tt>.
 
-<p><b><a href="tool_comment.html">Wstawienie komentarza</a></b><br />
+<p><b><a href="tool_comment.php">Wstawienie komentarza</a></b><br />
 Kliknij, aby uruchomić narzędzie do wstawiania komentarzy. Narzędzie automatycznie rozpoznaje bieżący język programowania i wstawia odpowiednie znaki komentarza. Domyślny skrót <tt>Shift+Ctrl+K</tt>.
 
 <p><a href="find_text.html#find"> Znajdź</a><br /> 
 Uruchamia narzędzie do wyszukiwania w aktualnie otwartym dokumencie. Standardowy skrót klawiszowy Ctrl+F.</p>
 
-<p><a href="find_ext.html"> Rozszerzone wyszukiwanie i zamiana</a><br />
+<p><a href="find_ext.php"> Rozszerzone wyszukiwanie i zamiana</a><br />
 Uruchamia najbardziej rozbudowane narzędzie Pająka służące do wyszukiwania i zamiany. Wykorzystując "Rozszerzone wyszukiwanie i zamianę" możesz wyszukiwać i zamieniać tekst w aktualnym dokumencie, wszystkich otwartych, we wszystkich lub określonych dokumentach Serwisów lub wybranych folderów, zmieniać w nich kodowanie znaków, a także sprawdzać poprawność pisowni itd.</p>
 
 <p><b><a href="find_text.html#goto">Idź do...</a></b><br />
 Uruchamia narzędzie pozwalające wybrać linię, zakładkę lub inne miejsce, do którego chcesz przejść, do której chcesz przejść(domyślny skrót <tt>Ctrl+G</tt>).
 
-<p><b><a href="zen-coding.html">Polecenia zen-coding</a></b><br />
-Zawiera polecenia uruchamiające funkcje <a href="zen-coding.html">biblioteki zen-coding</a>.
+<p><b><a href="zen-coding.php">Polecenia zen-coding</a></b><br />
+Zawiera polecenia uruchamiające funkcje <a href="zen-coding.php">biblioteki zen-coding</a>.
 
 <p><b>Nawigacja po dokumencie</b><br />
-Rozwija menu, które zawiera polecenia uruchamiające narzędzia ułatwiające poruszanie się po dokumencie i orientację w kodzie. Układ poleceń tego podmenu jest identyczny, jak w menu <a href="main_menu_tools_navigation.html">Menu główne / narzędzia / Nawigacja po dokumencie</a>
+Rozwija menu, które zawiera polecenia uruchamiające narzędzia ułatwiające poruszanie się po dokumencie i orientację w kodzie. Układ poleceń tego podmenu jest identyczny, jak w menu <a href="main_menu_tools_navigation.php">Menu główne / narzędzia / Nawigacja po dokumencie</a>
 
-<p><b><a href="down_syntax_check.html">Sprawdź składnię dokumentu</a></b><br />
+<p><b><a href="down_syntax_check.php">Sprawdź składnię dokumentu</a></b><br />
 Kliknij, aby sprawdzić poprawność składni dokumentu. Wyniki sprawdzania składni pokazane będą na dolnym panelu.
 
-<p><b><a href="down_links_verify.html">Sprawdź odsyłacze</a></b><br />
-Kliknij, aby sprawdzić poprawność odsyłaczy w dokumencie. Wyniki sprawdzania zostaną umieszczone na <a href="down_links_verify.html">dolnym panelu wyników</a>. Dodatkowo możesz poprawić wielkość liter w odsyłaczach - służą do tego polecenia umieszczone w <a href="links_verify_changecaps.html">podmenu</a> rozwijanym po kliknięciu w strzałkę z prawej strony polecenia.
+<p><b><a href="down_links_verify.php">Sprawdź odsyłacze</a></b><br />
+Kliknij, aby sprawdzić poprawność odsyłaczy w dokumencie. Wyniki sprawdzania zostaną umieszczone na <a href="down_links_verify.php">dolnym panelu wyników</a>. Dodatkowo możesz poprawić wielkość liter w odsyłaczach - służą do tego polecenia umieszczone w <a href="links_verify_changecaps.php">podmenu</a> rozwijanym po kliknięciu w strzałkę z prawej strony polecenia.
 
-<p><b><a href="formatter_general.html">Formatuj kod źródłowy</a></b><br />
+<p><b><a href="formatter_general.php">Formatuj kod źródłowy</a></b><br />
 Kliknij, aby uruchomić narzędzie do formatowania kodu źródłowego. Za jego pomocą możesz przygotować również własne schematy formatowania. Możesz również skorzystać ze strzałki obok przycisku, by rozwinąć menu zawierające schematy formatowania (dostarczone z Pająkiem i utworzone przez Ciebie).
 
 <p><b>Dodatkowe narzędzia</b><br />
-Wybierz z podmenu program, który chcesz uruchomić. Listę programów możesz modyfikować w oknie <a href="settings_addtools_tools.html">Ustawienia programu - Dodatkowe narzędzia</a>
+Wybierz z podmenu program, który chcesz uruchomić. Listę programów możesz modyfikować w oknie <a href="settings_addtools_tools.php">Ustawienia programu - Dodatkowe narzędzia</a>
 
 </td>
 </tr>
@@ -140,7 +140,7 @@ Wybierz z podmenu program, który chcesz uruchomić. Listę programów możesz m
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="settings_toolbars.html">Ustawienia programu - Ustawienia pasków, menu i skrótów</a>
+	<li><a href="settings_toolbars.php">Ustawienia programu - Ustawienia pasków, menu i skrótów</a>
 </td>
 </tr>
 </table>

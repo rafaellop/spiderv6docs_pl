@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -74,14 +74,14 @@
 
 <!-- Treść pomocy -->
 
-<p>Polecenia w tym menu służą do pracy z plikami i folderami znajdującymi się na dysku lokalnym. Za pomocą tego menu możesz również tworzyć <a href="services_general.html">serwisy</a> i przełączać się między nimi.</p>
+<p>Polecenia w tym menu służą do pracy z plikami i folderami znajdującymi się na dysku lokalnym. Za pomocą tego menu możesz również tworzyć <a href="services_general.php">serwisy</a> i przełączać się między nimi.</p>
 
-<p>Polecenia i układ menu są identyczne, jak w zakładce <a href="main_tabs_myservices.html">Moje serwisy</a>. Dostępne są następujące polecenia:</p>
+<p>Polecenia i układ menu są identyczne, jak w zakładce <a href="main_tabs_myservices.php">Moje serwisy</a>. Dostępne są następujące polecenia:</p>
 
 
 
-<p><b><a href="service_properites.html">Własności serwisu</a></b><br />
-Kliknij, aby otworzyć okno własności serwisu. Możesz również skorzystać z <a href="main_menu_services_properties.html">podmenu</a>, aby użyć dodatkowych opcji.
+<p><b><a href="service_properites.php">Własności serwisu</a></b><br />
+Kliknij, aby otworzyć okno własności serwisu. Możesz również skorzystać z <a href="main_menu_services_properties.php">podmenu</a>, aby użyć dodatkowych opcji.
 
 <hr>
 
@@ -104,11 +104,11 @@ Kliknij, aby usunąć wskazany składnik (plik lub zawartość foldera) z bież�
 
 <hr>
 
-<p><b><a href="service_restore.html">Przywracanie serwisu</a></b><br />
+<p><b><a href="service_restore.php">Przywracanie serwisu</a></b><br />
 Kliknij, aby uruchomić narzędzie Przywracania serwisu.
 
 
-<p><b><a href="services_general.html">Pomoc do serwisu</a></b><br />
+<p><b><a href="services_general.php">Pomoc do serwisu</a></b><br />
 Kliknij, aby otworzyć pomoc do serwisów.
 
 <hr>
@@ -131,8 +131,8 @@ Kliknij, aby zwinąć wszystkie podfoldery folderu zaznaczonego na drzewie w zak
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-   <li><a href="main_tabs_myservices.html">Zakładka Moje serwisy</a></li>
-   <li><a href="settings_toolbars.html">Ustawienia programu - Ustawienia pasków, menu i skrótów</a></li>
+   <li><a href="main_tabs_myservices.php">Zakładka Moje serwisy</a></li>
+   <li><a href="settings_toolbars.php">Ustawienia programu - Ustawienia pasków, menu i skrótów</a></li>
 </ul>
 </td>
 </tr>

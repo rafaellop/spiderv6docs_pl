@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -77,9 +77,9 @@
 
 <p>Bardzo pomocne podczas pracy może okazać się skorzystanie z pomocy kontekstowej dla HTML. Pomoc kontekstowa opiera się na ogólnie dostępnej <a href="https://www.w3.org/TR/2012/CR-html5-20121217/" target="_blank">specyfikacji HTML 5 na stronie konsorcjum W3C</a>.</p>
 
-<p>Dzięki wbudowaniu mechanizmu obsługi podręcznika w program, możesz skorzystać z niej w dowolnej chwili i od razu przejść do tematu dotyczącego wybranej własności. Aby przeczytać informację na temat wybranego znacznika, postaw na nim kursor i skorzystaj ze skrótu klawiszowego <tt>Ctrl+F1</tt>. Możesz również skorzystać z polecenia w <a href="main_menu_editor.html">menu podręcznym edytora</a>. Tekst pomocy wyświetli się na <a href="down_help.html">dolnym panelu</a>.</p>
+<p>Dzięki wbudowaniu mechanizmu obsługi podręcznika w program, możesz skorzystać z niej w dowolnej chwili i od razu przejść do tematu dotyczącego wybranej własności. Aby przeczytać informację na temat wybranego znacznika, postaw na nim kursor i skorzystaj ze skrótu klawiszowego <tt>Ctrl+F1</tt>. Możesz również skorzystać z polecenia w <a href="main_menu_editor.php">menu podręcznym edytora</a>. Tekst pomocy wyświetli się na <a href="down_help.php">dolnym panelu</a>.</p>
 
-<p>Przykładowo, możesz postawić kursor na znaczniku <tt>&lt;a href="document.html"&gt;</a></tt> i wcisnąć Cltr+F1. Pojawi się dolny panel, a w nim od razu będzie wyświetlona strona dotycząca tego znacznika.</p>
+<p>Przykładowo, możesz postawić kursor na znaczniku <tt>&lt;a href="document.php"&gt;</a></tt> i wcisnąć Cltr+F1. Pojawi się dolny panel, a w nim od razu będzie wyświetlona strona dotycząca tego znacznika.</p>
 
 <p><b>Uwaga!</b><br>
 Całość tekstu pomocy do HTML jest w języku angielskim.</p>
@@ -95,8 +95,8 @@ Całość tekstu pomocy do HTML jest w języku angielskim.</p>
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="coding_html.html">Wspomaganie dla HTML - ogólnie</a></li>
-	<li><a href="down_help.html">Dolny panel wyników - Pomoc do programu</a></li>
+	<li><a href="coding_html.php">Wspomaganie dla HTML - ogólnie</a></li>
+	<li><a href="down_help.php">Dolny panel wyników - Pomoc do programu</a></li>
 </ul>
 </td>
 </tr>

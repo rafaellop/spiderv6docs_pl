@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -84,8 +84,8 @@
 <p><b>Najprostrze utworzenie odsyłacza</b><br />
 Aby najszybciej utworzyć odsyłacz:</p>
 <ol>
-	<li>Przeciągnij do edytowanego dokumentu dokument z listy plików na zakładce <a href="main_tabs_myservices.html">Moje serwisy</a>. </li>
-	<li>W oknie <a href="tool_link.html">Wstawianie odnośnika</a>, które się otworzy wpisz tekst, który ma być odsyłaczem (np. 'Kliknij tu by przejść na następną stronę...'), wciśnij przycisk OK i... to wszystko.</li>
+	<li>Przeciągnij do edytowanego dokumentu dokument z listy plików na zakładce <a href="main_tabs_myservices.php">Moje serwisy</a>. </li>
+	<li>W oknie <a href="tool_link.php">Wstawianie odnośnika</a>, które się otworzy wpisz tekst, który ma być odsyłaczem (np. 'Kliknij tu by przejść na następną stronę...'), wciśnij przycisk OK i... to wszystko.</li>
 </ol>
 
 
@@ -93,21 +93,21 @@ Aby najszybciej utworzyć odsyłacz:</p>
 Aby utworzyć odsyłacz z obrazka, lub z tekstu istniejącego w juz w dokumencie:
 <ol>
 	<li>Zaznacz znacznik obrazka lub tekst w edytorze.</li>
-	<li>Włącz narzędzie <a href="tool_link.html">Wstawianie odnośnika</a> (<a href="main_menu_main.html">Menu główne</a> / <a href="main_menu_tools.html">Narzędzia</a> / <a href="main_menu_tools_links.html">Odsyłacze</a> / <b>Edytor odsyłaczy</b>, bądź na paskach narzędzi <a href="toolbars_link_format.html">Odsyłacze, tekst i formatowanie</a> i <a href="toolbars_often.html">Często używane</a>). Standardowy skrót klawiszowy co <tt>Shift+Ctrl+A</tt>.</li>
+	<li>Włącz narzędzie <a href="tool_link.php">Wstawianie odnośnika</a> (<a href="main_menu_main.php">Menu główne</a> / <a href="main_menu_tools.php">Narzędzia</a> / <a href="main_menu_tools_links.php">Odsyłacze</a> / <b>Edytor odsyłaczy</b>, bądź na paskach narzędzi <a href="toolbars_link_format.php">Odsyłacze, tekst i formatowanie</a> i <a href="toolbars_often.php">Często używane</a>). Standardowy skrót klawiszowy co <tt>Shift+Ctrl+A</tt>.</li>
 	<li>Korzystając z okna dialogowego wywoływanego przyciskiem obok pola "Adres URL odsyłacza", wybierz dokument, do którego ma prowadzić odsyłacz.</li>
 	<li>Kliknij OK w oknie Wstawianie odnośnika - tekst zaznaczony w edytorze zostanie objęty znacznikiem odsyłacza.</li>
 </ol>
 
 
 <p><b>Tworzenie odsyłacza do pliku na serwerze FTP</b><br />
-W podobny sposób możesz utworzyć odsyłacz do pliku znajdującego się na serwerze - wystarczy dokument docelowy przeciągnąć z listy plików na zakładce <a href="main_tabs_myftpservers.html">Moje serwery</a>. Jeśli masz ustawione <a href="service_properites.html#service_properties_mappings">mapowanie serwera FTP na adres URL</a>, odsyłacz będzie wskazywał na odpowiedni adres URL. W przeciwnym wypadku użyty zostanie adres serwera FTP.</p>
+W podobny sposób możesz utworzyć odsyłacz do pliku znajdującego się na serwerze - wystarczy dokument docelowy przeciągnąć z listy plików na zakładce <a href="main_tabs_myftpservers.php">Moje serwery</a>. Jeśli masz ustawione <a href="service_properites.html#service_properties_mappings">mapowanie serwera FTP na adres URL</a>, odsyłacz będzie wskazywał na odpowiedni adres URL. W przeciwnym wypadku użyty zostanie adres serwera FTP.</p>
 
 
 <h2>Tworzenie map odsyłaczy</h2>
 
 <p>Mapy odsyłaczy to zdefiniowane za pomocą znaczników HTML aktywne obszary na obrazku. Kliknięcie na takim obszarze działa identycznie jak kliknięcie na zwykłym odsyłaczu.</p>
 
-<p>Aby utworzyć prostą mapę odsyłaczy uruchom narzędzie <a href="tool_link_map_editor.html">Mapa odsyłaczy</a>, a następnie:</p>
+<p>Aby utworzyć prostą mapę odsyłaczy uruchom narzędzie <a href="tool_link_map_editor.php">Mapa odsyłaczy</a>, a następnie:</p>
 
 <ol>
 	<li>Wprowadź w zakładce <b>Ogólne ustawienia mapy</b> w polu <b>Nazwa mapy</b> nazwę, która będzie używana do obsługi mapy w dokumencie,</li>
@@ -127,8 +127,8 @@ W podobny sposób możesz utworzyć odsyłacz do pliku znajdującego się na ser
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="tool_link.html">Wstawianie odnośnika</a>
-	<li><a href="tool_link_map_editor.html">Mapy odsyłaczy</a>
+	<li><a href="tool_link.php">Wstawianie odnośnika</a>
+	<li><a href="tool_link_map_editor.php">Mapy odsyłaczy</a>
 </td>
 </tr>
 </table>

@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -84,7 +84,7 @@ W tej kategorii znajdują się narzędzia pozwalające na modyfikację zawartoś
 
 <h2>Przykład zmiany konfiguracji paska</h2>
 
-<p>Aby zmienić zawartość wybranego paska np. usunąć wybrane pozycje czy dodać nowe, wybierz ten pasek na liście na górze (np. pasek "Użytkownika 1"). Po jego wybraniu na liście poniżej pojawi się zawartość wybranego paska. W przypadku paska użytkownika, który jest na początku pusty, oczywiście nie będzie żadnych pozycji. Aby dodać element do paska kliknij przycisk oznaczony ikoną plusika. Pojawi się okienko <a href="settings_toolbars_toolbars_addnew.html">Element paska narzędzi</a> (kliknij, aby zapoznać się z opisem), gdzie możesz określić parametry dodawanego elementu. Możesz dodawać trzy różne elementy do wybranego paska:
+<p>Aby zmienić zawartość wybranego paska np. usunąć wybrane pozycje czy dodać nowe, wybierz ten pasek na liście na górze (np. pasek "Użytkownika 1"). Po jego wybraniu na liście poniżej pojawi się zawartość wybranego paska. W przypadku paska użytkownika, który jest na początku pusty, oczywiście nie będzie żadnych pozycji. Aby dodać element do paska kliknij przycisk oznaczony ikoną plusika. Pojawi się okienko <a href="settings_toolbars_toolbars_addnew.php">Element paska narzędzi</a> (kliknij, aby zapoznać się z opisem), gdzie możesz określić parametry dodawanego elementu. Możesz dodawać trzy różne elementy do wybranego paska:
 
 <ul>
 	<li><b>Przycisk powiązany z akcją</b> - to zwykły przycisk, który po kliknięciu uruchamia wybraną akcję.
@@ -108,10 +108,10 @@ W tej kategorii znajdują się narzędzia pozwalające na modyfikację zawartoś
 <h4>Pokrewne tematy</h4>
 <ul>
 	<li><a href="settings_toolbars.html#settingslisttoolbars">Inne ustawienia wyglądu i pasków</a>
-	<li><a href="main_window_desc.html">Główne okno programu</a>
-	<li><a href="settings_toolbars_toolbars_addnew.html">Okno dodawania nowego elementu</a>
-	<li><a href="settings_toolbars_hotkeys.html">Modyfikacja skrótów klawiszowych</a>
-	<li><a href="toolbars_general.html">Paski narzędzi</a>
+	<li><a href="main_window_desc.php">Główne okno programu</a>
+	<li><a href="settings_toolbars_toolbars_addnew.php">Okno dodawania nowego elementu</a>
+	<li><a href="settings_toolbars_hotkeys.php">Modyfikacja skrótów klawiszowych</a>
+	<li><a href="toolbars_general.php">Paski narzędzi</a>
 </ul>
 </td>
 </tr>

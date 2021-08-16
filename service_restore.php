@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -74,7 +74,7 @@
 
 
 
-<p>Narzędzie uruchomisz z<a href="main_menu_services.html"> menu Serwisy</a>. Za jego pomocą możesz przywrócić z serwis archiwum *.zip utworzonego przez narzędzie <a href="service_archive.html">Archiwizacja serwisu</a>. 
+<p>Narzędzie uruchomisz z<a href="main_menu_services.php"> menu Serwisy</a>. Za jego pomocą możesz przywrócić z serwis archiwum *.zip utworzonego przez narzędzie <a href="service_archive.php">Archiwizacja serwisu</a>. 
 
 
 <p></p>Uwaga: Poprawne archiwum ZIP utworzone przez Pająka zawiera spakowane pliki serwisu, a także dodatkowy plik projinfo.ini, w którym zawarte są ustawienia serwisu. Jeśli archiwum nie będzie zawierało tego pliku, narzędzie zgłosi błąd, a serwis nie zostanie przywrócony. W takiej sytuacji należy rozpakować go innym programem obsługującym format ZIP (np. WinZIP, bądź Foldery skompresowane w Windows XP) do odpowiedniego katalogu na dysku, a następnie utworzyć serwis w normalny sposób.</p>
@@ -99,10 +99,10 @@ Ta grupa elementów zawiera dwa pola, w których możesz wprowadzić nową nazw�
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="service_archive.html">Archiwizacja serwisów</a>
-	<li><a href="services_general.html">O serwisach ogólnie</a>
-	<li><a href="service_tool_synchronization.html">Synchronizacja serwisów</a>
-	<li><a href="main_tabs_myservices.html">Zakładka Moje serwisy</a>
+	<li><a href="service_archive.php">Archiwizacja serwisów</a>
+	<li><a href="services_general.php">O serwisach ogólnie</a>
+	<li><a href="service_tool_synchronization.php">Synchronizacja serwisów</a>
+	<li><a href="main_tabs_myservices.php">Zakładka Moje serwisy</a>
 </ul>
 </td>
 </tr>

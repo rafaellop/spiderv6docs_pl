@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -81,12 +81,12 @@
 <!-- pokrewne tematy -->
 
 <ul>
-<li><a href="info_welcometo.html">Witamy w programie</a></li>
-<li><a href="contents_general.html">Ogólne informacje</a></li>
-<li><a href="contents_howto.html">Jak to wykonać?</a></li>
-<li><a href="contents_support.html">Wspomaganie dla...</a></li>
-<li><a href="contents_mainpage.html">Główne okno programu</a></li>
-<li><a href="contents_settings.html">Ustawienia programu</a></li>
+<li><a href="info_welcometo.php">Witamy w programie</a></li>
+<li><a href="contents_general.php">Ogólne informacje</a></li>
+<li><a href="contents_howto.php">Jak to wykonać?</a></li>
+<li><a href="contents_support.php">Wspomaganie dla...</a></li>
+<li><a href="contents_mainpage.php">Główne okno programu</a></li>
+<li><a href="contents_settings.php">Ustawienia programu</a></li>
 </ul>
 </td>
 </tr>

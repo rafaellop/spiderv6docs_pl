@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -83,9 +83,9 @@
    <li><a href="#code_parameter">Dynamiczne podpowiedzi</a></li>
 </ul></p>
 
-<p>Dynamiczny kod pobiera dane z <a href="tagdata_editor_tdf_php.html">pliku definicyjnego PHP</a> oraz analizuje istniejący kod skryptu. W ten sposób możliwe jest podawanie nazw i listy argumentów wbudowanych funkcji (a jest ich w sumie - łącznie z dołączonymi w modułach - grubo powyżej 2000) oraz predefiniowanych i zadeklarowanych w skrypcie zmiennych i stałych PHP. Dzięki temu można znacznie efektywniej pisać skrypty - nie trzeba pamiętać dokładnych nazw wszystkich funkcji PHP , nie trzeba pamiętać nazw metod w klasach, czy długiej listy zmiennych.</p>
+<p>Dynamiczny kod pobiera dane z <a href="tagdata_editor_tdf_php.php">pliku definicyjnego PHP</a> oraz analizuje istniejący kod skryptu. W ten sposób możliwe jest podawanie nazw i listy argumentów wbudowanych funkcji (a jest ich w sumie - łącznie z dołączonymi w modułach - grubo powyżej 2000) oraz predefiniowanych i zadeklarowanych w skrypcie zmiennych i stałych PHP. Dzięki temu można znacznie efektywniej pisać skrypty - nie trzeba pamiętać dokładnych nazw wszystkich funkcji PHP , nie trzeba pamiętać nazw metod w klasach, czy długiej listy zmiennych.</p>
 
-<p>Jednak wspomaganie dla PHP rozpoczyna się w Pająku już w momencie wprowadzenia ciągu <tt>&lt;?</tt> oznaczającego początek bloku PHP. Gdy go wprowadzisz, a następnie wciśniesz <tt>Spację</tt>, bądź <tt>Enter</tt>, kod zostanie automatycznie uzupełniony o symbol <tt>?&gt;</tt> (koniec bloku PHP). W zależności od wybranej opcji w oknie <a href="settings_codeinsight_php.html">Ustawienia programu / Inne ustawienia / Ułatwienia... / Dynamiczne podpowiedzi w PHP</a>, między tymi symbolami może być wstawiana dodatkowa pusta linia, bądź nie.</p>
+<p>Jednak wspomaganie dla PHP rozpoczyna się w Pająku już w momencie wprowadzenia ciągu <tt>&lt;?</tt> oznaczającego początek bloku PHP. Gdy go wprowadzisz, a następnie wciśniesz <tt>Spację</tt>, bądź <tt>Enter</tt>, kod zostanie automatycznie uzupełniony o symbol <tt>?&gt;</tt> (koniec bloku PHP). W zależności od wybranej opcji w oknie <a href="settings_codeinsight_php.php">Ustawienia programu / Inne ustawienia / Ułatwienia... / Dynamiczne podpowiedzi w PHP</a>, między tymi symbolami może być wstawiana dodatkowa pusta linia, bądź nie.</p>
 
 
 <h2><a name="code_completion"></a>Dynamiczny kod</h2>
@@ -163,7 +163,7 @@ znajdą się nazwy metod <tt>A()</tt> i <tt>B()</tt>, ale nie znajdą się nazwy
 </ol></p>
 
 <p><b>Ustawienia i inne opcje dynamicznych podpowiedzi</b><br />
-Opracowując rozbudowane projekty możesz także potrzebować podpowiedzi dla funkcji niepowiązanych bezpośrednio z edytowanym skryptem. Dla przykładu, bieżący skrypt może być dołączany do innego pliku, bądź całego systemu (np. jako moduł/plugin ). W takim wypadku nie ma nigdzie w bieżącym skrypcie zadeklarowanych funkcji, których możesz chcieć używać. Aby jednak umożliwić działanie Dynamicznego kodu również i dla tych funkcji, możesz wymusić dołączane pliku (lubi plików) z ich deklaracjami do mechanizmu Dynamicznego kodu. W tym celu musisz skorzystać z okna <a href="settings_codeinsight_php.html">Ustawienia programu - Dynamiczne podpowiedzi w PHP</a>.</p>
+Opracowując rozbudowane projekty możesz także potrzebować podpowiedzi dla funkcji niepowiązanych bezpośrednio z edytowanym skryptem. Dla przykładu, bieżący skrypt może być dołączany do innego pliku, bądź całego systemu (np. jako moduł/plugin ). W takim wypadku nie ma nigdzie w bieżącym skrypcie zadeklarowanych funkcji, których możesz chcieć używać. Aby jednak umożliwić działanie Dynamicznego kodu również i dla tych funkcji, możesz wymusić dołączane pliku (lubi plików) z ich deklaracjami do mechanizmu Dynamicznego kodu. W tym celu musisz skorzystać z okna <a href="settings_codeinsight_php.php">Ustawienia programu - Dynamiczne podpowiedzi w PHP</a>.</p>
 
 <p>W tym samym oknie możesz wybrać zastawy funkcji i zmiennych, jakie mają się pojawiać w podpowiedziach.</p>
 
@@ -179,10 +179,10 @@ Opracowując rozbudowane projekty możesz także potrzebować podpowiedzi dla fu
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-   <li><a href="coding_php.html">Wspomaganie dla PHP - ogólnie</a></li>
-   <li><a href="main_editor_codeinsight.html">Dynamiczny kod</a></li>
-   <li><a href="settings_codeinsight_php.html">Ustawienia programu - Dynamiczne podpowiedzi w PHP</a></li>
-   <li><a href="tagdata_editor_tdf_php.html">Edytor pliku definicyjnego dla PHP</a>
+   <li><a href="coding_php.php">Wspomaganie dla PHP - ogólnie</a></li>
+   <li><a href="main_editor_codeinsight.php">Dynamiczny kod</a></li>
+   <li><a href="settings_codeinsight_php.php">Ustawienia programu - Dynamiczne podpowiedzi w PHP</a></li>
+   <li><a href="tagdata_editor_tdf_php.php">Edytor pliku definicyjnego dla PHP</a>
 </ul>
 </td>
 </tr>

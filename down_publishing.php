@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -74,13 +74,13 @@
 
 <!-- treść pomocy -->
 <p>
-"Operacje publikowania" to jedna z zakładek <a href="down_panel.html">dolnego panelu wyników</a>. Jest ona używana do wyświetlania informacji związanych z publikowaniem w sieci, czyli np. synchronizacją serwisu, kolejką plików czy zapisem komunikacji Pająka z serwerem. W górnej części tej zakładki znajduje się przycisk z rozwijanym menu, który pozwala wybrać widok, który prezentowany jest na tej zakładce. Możesz wybrać:
+"Operacje publikowania" to jedna z zakładek <a href="down_panel.php">dolnego panelu wyników</a>. Jest ona używana do wyświetlania informacji związanych z publikowaniem w sieci, czyli np. synchronizacją serwisu, kolejką plików czy zapisem komunikacji Pająka z serwerem. W górnej części tej zakładki znajduje się przycisk z rozwijanym menu, który pozwala wybrać widok, który prezentowany jest na tej zakładce. Możesz wybrać:
 
 <ul>
 	<a name="downpanelpublishinglist"></a>
-   <li><a href="down_publishing_serverlog.html">Log serwera</a> - wyświetlanie zapisu komunikacji Pająka z serwerem.
-	<li><a href="down_publishing_ftpqueue.html">Kolejka plików</a> - kolejka plików i folderów przeznaczonych do pobrania lub publikacji.
-   <li><a href="down_publishing_syncreport.html">Synchronizacja projektu</a> - raport z działania funkcji <a href="service_tool_synchronization.html">synchronizacji projektów</a>.
+   <li><a href="down_publishing_serverlog.php">Log serwera</a> - wyświetlanie zapisu komunikacji Pająka z serwerem.
+	<li><a href="down_publishing_ftpqueue.php">Kolejka plików</a> - kolejka plików i folderów przeznaczonych do pobrania lub publikacji.
+   <li><a href="down_publishing_syncreport.php">Synchronizacja projektu</a> - raport z działania funkcji <a href="service_tool_synchronization.php">synchronizacji projektów</a>.
 </ul>
 
 </td>
@@ -94,7 +94,7 @@
 <h4>Pokrewne tematy</h4>
 <ul>
 	<li><a href="down_panel.html#downpanellist">Inne zakładki dolnego panelu</a>
-	<li><a href="main_window_desc.html">Główne okno programu</a>
+	<li><a href="main_window_desc.php">Główne okno programu</a>
 </ul>
 </td>
 </tr>

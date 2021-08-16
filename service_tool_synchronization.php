@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -76,9 +76,9 @@
 
 
 
-<p>Synchronizacja serwisu to funkcja pozwalająca na automatyczne uzgodnienie zawartości folderu na dysku lokalnym, będącego <a href="services_general.html">serwisem Pająka</a> z zawartością wybranego folderu zdalnego serwera zdefiniowanego w Pająku w <a href="settings_network_ftpservers.html">ustawieniach serwerów FTP i WebDAV</a>. 
+<p>Synchronizacja serwisu to funkcja pozwalająca na automatyczne uzgodnienie zawartości folderu na dysku lokalnym, będącego <a href="services_general.php">serwisem Pająka</a> z zawartością wybranego folderu zdalnego serwera zdefiniowanego w Pająku w <a href="settings_network_ftpservers.php">ustawieniach serwerów FTP i WebDAV</a>. 
 
-<p>Aby zsychronizować ze sobą zawartość serwisu lokalnego z zawartością serwera, należy skorzystać z opisanego niżej okna "Synchronizacja serwisu", które otworzysz za pomocą polecenia z <a href="main_menu_services.html">menu Serwisy</a> / <a href="service_properites.html">Własności serwisu</a> / Synchronizacja serwisu lub z zakładki <a href="main_tabs_myservices.html">Moje serwisy</a>. Ikona polecenia przedstawiona została powyżej. W wyniku działania tego narzędzia na <a href="down_panel.html">dolnym panelu</a> w zakładce <a href="down_publishing_syncreport.html">Operacje publikowania</a> zostanie utworzona lista plików, jakie należy wysłać na serwer, bądź z niego pobrać (w zależności od kierunku synchronizacji, jaki ustawisz). </p>
+<p>Aby zsychronizować ze sobą zawartość serwisu lokalnego z zawartością serwera, należy skorzystać z opisanego niżej okna "Synchronizacja serwisu", które otworzysz za pomocą polecenia z <a href="main_menu_services.php">menu Serwisy</a> / <a href="service_properites.php">Własności serwisu</a> / Synchronizacja serwisu lub z zakładki <a href="main_tabs_myservices.php">Moje serwisy</a>. Ikona polecenia przedstawiona została powyżej. W wyniku działania tego narzędzia na <a href="down_panel.php">dolnym panelu</a> w zakładce <a href="down_publishing_syncreport.php">Operacje publikowania</a> zostanie utworzona lista plików, jakie należy wysłać na serwer, bądź z niego pobrać (w zależności od kierunku synchronizacji, jaki ustawisz). </p>
 
 <p>Okno synchronizacji składa się z dwóch zakładek: Ustawienia synchronizacji oraz Synchronizowane elementy.
 
@@ -127,7 +127,7 @@ Zaznacz ten przełącznik, aby program pomijał pliki kopii zapasowych zarówno 
 
 <h3>Oczyszczanie serwisu</h3>
 
-<p>Przed przeprowadzeniem synchronizacji serwisu zaleca się <a href="down_integrity.html">oczyszczenie serwisu lokalnego</a>. Funkcje oczyszczania serwisu opisane zostały w osobnym temacie. Jeśli chcesz wywołać funkcję oczyszczania serwisu użyj przycisku znajdującego się w tej grupie i korzystając z przypisanego do niego menu wybierz zakres oczyszczania serwisu.
+<p>Przed przeprowadzeniem synchronizacji serwisu zaleca się <a href="down_integrity.php">oczyszczenie serwisu lokalnego</a>. Funkcje oczyszczania serwisu opisane zostały w osobnym temacie. Jeśli chcesz wywołać funkcję oczyszczania serwisu użyj przycisku znajdującego się w tej grupie i korzystając z przypisanego do niego menu wybierz zakres oczyszczania serwisu.
 
 <a name="service_synchro_syncelements" ></a>
 <h2>Zakładka Synchronizowane elementy</h2>
@@ -151,7 +151,7 @@ Włącz ten przełącznik jeśli chcesz synchronizować tylko wybrane pliki lub 
 
 <h1>Generowanie listy synchronizacji</h1>
 
-<p>Po określeniu wszystkich parametrów synchronizacji kliknij przycisk <b>Twórz listę</b>, aby program połączył się z siecią Internet i wybranym serwerem synchronizacji, a następnie utworzył listę elementów, które wymagają synchronizacji. Tworzenie listy w zależności od rozmiarów serwisu możesz potrwać dłuższą chwilę. Konieczne jest bowiem przejrzenie wszystkich katalogów znajdujących się na serwerze i porównanie ich z lokalną zawartością. Po zakończeniu tworzenia listy elementów do synchronizacji zostanie ona wstawiona na <a href="down_panel.html">dolny panel wyników</a> na zakładkę <a href="down_publishing_syncreport.html">Operacje publikowania</a>. Teraz możesz zaznaczyć wybrane pliki i przyciskiem "Rozpocznij synchronizację" () rozpocząć wykonywanie zaplanowanego zadania synchronizacji.
+<p>Po określeniu wszystkich parametrów synchronizacji kliknij przycisk <b>Twórz listę</b>, aby program połączył się z siecią Internet i wybranym serwerem synchronizacji, a następnie utworzył listę elementów, które wymagają synchronizacji. Tworzenie listy w zależności od rozmiarów serwisu możesz potrwać dłuższą chwilę. Konieczne jest bowiem przejrzenie wszystkich katalogów znajdujących się na serwerze i porównanie ich z lokalną zawartością. Po zakończeniu tworzenia listy elementów do synchronizacji zostanie ona wstawiona na <a href="down_panel.php">dolny panel wyników</a> na zakładkę <a href="down_publishing_syncreport.php">Operacje publikowania</a>. Teraz możesz zaznaczyć wybrane pliki i przyciskiem "Rozpocznij synchronizację" () rozpocząć wykonywanie zaplanowanego zadania synchronizacji.
 
 
 </td>
@@ -164,14 +164,14 @@ Włącz ten przełącznik jeśli chcesz synchronizować tylko wybrane pliki lub 
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="services_general.html">O serwisach ogólnie</a>
+	<li><a href="services_general.php">O serwisach ogólnie</a>
 	<li><a href="service_properites.html#service_properties_mappings">Ustawienia mapowania serwisu</a>
-	<li><a href="down_publishing_syncreport.html">Raport synchronizacji</a>
-	<li><a href="down_integrity.html">Oczyszczanie serwisu</a>
-	<li><a href="settings_network_synchronization.html">Ustawienia programu - Synchronizacja serwisów</a>
-	<li><a href="settings_network_ftpservers.html">Ustawienia programu - Dodawanie serwerów FTP i WebDAV</a>
-	<li><a href="main_tabs_myservices.html">Zakładka Moje serwisy</a>
-	<li><a href="main_window_desc.html">Główne okno programu</a>
+	<li><a href="down_publishing_syncreport.php">Raport synchronizacji</a>
+	<li><a href="down_integrity.php">Oczyszczanie serwisu</a>
+	<li><a href="settings_network_synchronization.php">Ustawienia programu - Synchronizacja serwisów</a>
+	<li><a href="settings_network_ftpservers.php">Ustawienia programu - Dodawanie serwerów FTP i WebDAV</a>
+	<li><a href="main_tabs_myservices.php">Zakładka Moje serwisy</a>
+	<li><a href="main_window_desc.php">Główne okno programu</a>
 </ul>
 </td>
 </tr>

@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -74,7 +74,7 @@
 
 
 
-<p>To okno służy do dodawania definicji nowej funkcji dla pliku definicyjnego PHP. Za pomocą znajdujących się w tym oknie pól możesz stworzyć definicję funkcji, dzięki czemu Pająk będzie potrafił ją obsługiwać z poziomu dynamicznych podpowiedzi oraz zakładki <a href="main_tabs_languages.html">Języki programowania</a>. W oknie znajdują się następujące pola:
+<p>To okno służy do dodawania definicji nowej funkcji dla pliku definicyjnego PHP. Za pomocą znajdujących się w tym oknie pól możesz stworzyć definicję funkcji, dzięki czemu Pająk będzie potrafił ją obsługiwać z poziomu dynamicznych podpowiedzi oraz zakładki <a href="main_tabs_languages.php">Języki programowania</a>. W oknie znajdują się następujące pola:
 
 <p><b>Nazwa funkcji</b><br>
 W tym polu wprowadź nazwę funkcji np. <tt>strlen</tt>.
@@ -109,9 +109,9 @@ W tym polu wprowadź informację o wsparciu ze strony poszczególnych wersji PHP
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="tagdata_editor_tdf_php.html">Edytor pliku definicyjnego PHP</a>
-	<li><a href="settings_codeinsight_php.html">Ustawienia Dynamicznego kodu dla PHP</a>
-	<li><a href="main_tabs_languages.html">Zakładka "Języki programowania"</a>
+	<li><a href="tagdata_editor_tdf_php.php">Edytor pliku definicyjnego PHP</a>
+	<li><a href="settings_codeinsight_php.php">Ustawienia Dynamicznego kodu dla PHP</a>
+	<li><a href="main_tabs_languages.php">Zakładka "Języki programowania"</a>
 </ul>
 </td>
 </tr>

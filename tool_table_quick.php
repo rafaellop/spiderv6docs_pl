@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -74,9 +74,9 @@
 
 <p> Narzędzie to służy do szybkiego tworzenia tabel o zadanych wymiarach. Za pomocą siatki zajmującej większą część powierzchni tego okna można ustawić wymiary tabeli. Bieżąca wielkość tabeli jest pokazywana w prawym dolnym rogu.
 
-<p>Okno Bardzo szybkiej tabelki uruchomisz z poziomu <a href="main_menu_main.html">Menu głównego</a> / <a href="main_menu_tools.html">Narzędzia</a> / <a href="main_menu_tools_tables.html">Tabele</a> / Bardzo szybka tabela, a także z paska narzędzi <a href="toolbars_tables.html">Tabele i formularze</a>. Domyślny skrót wywołujący to okno to <tt>Shift+Ctrl+T</tt>.
+<p>Okno Bardzo szybkiej tabelki uruchomisz z poziomu <a href="main_menu_main.php">Menu głównego</a> / <a href="main_menu_tools.php">Narzędzia</a> / <a href="main_menu_tools_tables.php">Tabele</a> / Bardzo szybka tabela, a także z paska narzędzi <a href="toolbars_tables.php">Tabele i formularze</a>. Domyślny skrót wywołujący to okno to <tt>Shift+Ctrl+T</tt>.
 
-<p>Pomiędzy suwakami na dole znajduje się przycisk pokazany obok uruchamia narzędzie <a href="tool_table_tag.html">Edytora znacznika TABLE</a>, które umożliwia zmianę własności tabeli, a konkretnie znacznika <tt>&lt;table&gt;</tt>.
+<p>Pomiędzy suwakami na dole znajduje się przycisk pokazany obok uruchamia narzędzie <a href="tool_table_tag.php">Edytora znacznika TABLE</a>, które umożliwia zmianę własności tabeli, a konkretnie znacznika <tt>&lt;table&gt;</tt>.
 
 </td>
 </tr>
@@ -88,10 +88,10 @@
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="tool_table_editor.html">Edytor tabel</a>
-	<li><a href="tool_table_tag.html">Edytor znacznika TABLE</a>
-	<li><a href="main_menu_main.html">Menu programu</a>
-	<li><a href="toolbars_general.html">Narzędzia na paskach</a>
+	<li><a href="tool_table_editor.php">Edytor tabel</a>
+	<li><a href="tool_table_tag.php">Edytor znacznika TABLE</a>
+	<li><a href="main_menu_main.php">Menu programu</a>
+	<li><a href="toolbars_general.php">Narzędzia na paskach</a>
 </ul>
 </td>
 </tr>

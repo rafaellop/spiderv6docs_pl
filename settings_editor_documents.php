@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -119,10 +119,10 @@ Wybierz z listy sposób kodowania znaków końca linii, jaki ma być stosowany d
 Zaznacz tę opcję, aby włączyć funkcję automatycznego zapisywania dokumentów co określoną w polu obok liczbę minut.
 
 <p><a name="backups"></a><b>Twórz kopię zapasową przy zapisie dokumentu lokalnie</b><br>
-Zaznacz tę opcję, aby program tworzył w sposób automatyczny <a href="main_editor_backups.html">kopie zapisywanych dokumentów</a>. Kopie posiadają rozszerzenie *.BAK.
+Zaznacz tę opcję, aby program tworzył w sposób automatyczny <a href="main_editor_backups.php">kopie zapisywanych dokumentów</a>. Kopie posiadają rozszerzenie *.BAK.
 
 <p><a name="backups"></a><b>Twórz kopię zapasową przy zapisie dokumentu na serwerze</b><br>
-Zaznacz tę opcję, aby podczas <a href="network_opendoc_ftp.html">edycji pliku online</a>, program tworzył w sposób automatyczny <a href="main_editor_backups.html">kopie zapisywanych dokumentów</a>. Kopie posiadają rozszerzenie *.BAK.
+Zaznacz tę opcję, aby podczas <a href="network_opendoc_ftp.php">edycji pliku online</a>, program tworzył w sposób automatyczny <a href="main_editor_backups.php">kopie zapisywanych dokumentów</a>. Kopie posiadają rozszerzenie *.BAK.
 
 <p><b>Nie konwertuj znaków narodowych przy zapisie</b><br>
 Zaznacz tę opcję, aby wyłączyć konwersję znaków narodowych przy zapisie.
@@ -152,7 +152,7 @@ Zaznacz ten przełącznik, aby program ostrzegał przy zapisie dokumentów bez p
 <a name="add_files"></a>
 <h2>Pamiętanie ustawień wraz z dokumentem</h2>
 
-<p>Ta grupa pozwala na określenie jakie <a href="main_editor_addfiles.html">ustawienia są pamiętane wraz z dokumentem w pliku ADD</a> i automatycznie ustawianie po ponownym otwarciu dokumentu. Znajdziesz tutaj następujące opcje:
+<p>Ta grupa pozwala na określenie jakie <a href="main_editor_addfiles.php">ustawienia są pamiętane wraz z dokumentem w pliku ADD</a> i automatycznie ustawianie po ponownym otwarciu dokumentu. Znajdziesz tutaj następujące opcje:
 
 <p><b>Całkowicie wyłącz tworzenie plików ADD</b><br>
 Zaznacz tę opcję, aby całkowicie wyłączyć tworzenie plików informacji o dokumencie ADD, gdzie przechowywane są preferencje dotyczące edytowanego dokumentu.
@@ -192,9 +192,9 @@ Zaznacz tę opcję, aby program pamiętał imię i nazwisko osoby, która jako o
 <h4>Pokrewne tematy</h4>
 <ul>
 	<li><a href="settings_editor.html#settingslisteditor">Inne ustawienia edytora</a>
-	<li><a href="charset_encoding.html">Kodowanie znaków narodowych</a>
-	<li><a href="main_editor.html">Praca z edytorem</a>
-	<li><a href="main_editor_addfiles.html">Plik informacji o dokumencie ADD</a>
+	<li><a href="charset_encoding.php">Kodowanie znaków narodowych</a>
+	<li><a href="main_editor.php">Praca z edytorem</a>
+	<li><a href="main_editor_addfiles.php">Plik informacji o dokumencie ADD</a>
 </ul>
 </td>
 </tr>

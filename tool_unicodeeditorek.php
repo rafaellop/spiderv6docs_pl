@@ -29,23 +29,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -74,7 +74,7 @@
 <!-- nagłowek głowny tematu -->
 <h1>Narzędzia - Edytorek Unicode</h1>
 
-<p>Edytorek Unicode służy do ułatwiania pracy z tekstami kodowanymi w Unicode . Możesz go otworzyć korzystając z polecenia w <a href="main_menu_spelling.html">menu Pisownia</a>, bądź <a href="main_menu_view.html">menu Wyświetl</a>. Korzystając z edytorka możesz:
+<p>Edytorek Unicode służy do ułatwiania pracy z tekstami kodowanymi w Unicode . Możesz go otworzyć korzystając z polecenia w <a href="main_menu_spelling.php">menu Pisownia</a>, bądź <a href="main_menu_view.php">menu Wyświetl</a>. Korzystając z edytorka możesz:
 <ul>
         <li>kopiować z edytora Pająka tekst (z automatyczną zamianą encji na znaki Unicode) do edytorka, a następnie do innych programów,</li>
         <li>wklejać do edytora tekst z innych programów z jednoczesną zamianą znaków Unicode na encje (entities)</li>
@@ -141,7 +141,7 @@ Kliknij, aby wyświetlić ten temat pomocy.
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-        <li><a href="charset_encoding.html">Kodowanie znaków narodowych w Pająku</a></li>
+        <li><a href="charset_encoding.php">Kodowanie znaków narodowych w Pająku</a></li>
 </ul>
 </td>
 </tr>

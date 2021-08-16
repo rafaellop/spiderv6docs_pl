@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -73,13 +73,13 @@
 <h1>Dolny panel wyników - Raport synchronizacji</h1>
 
 <!-- treść pomocy -->
-<p>Ten widok zakładki <a href="down_publishing.html">Operacje publikowania</a> znajdującej się na <a href="down_panel.html">dolnym panelu wyników</a> przedstawia raport synchronizacji serwisu. Synchronizacja została opisana szerzej w temacie poświęconym narzędziu <a href="service_tool_synchronization.html">synchronizacji serwisu</a>. Raport prezentowany na tej zakładce tworzony jest właśnie z wymienionego wyżej narzędzia synchronizacji serwisu na podstawie porównania zawartości serwisu lokalnego i zdalnego serwera FTP. Zakładka ta pojawia się automatycznie po utworzeniu listy plików do synchronizacji.
+<p>Ten widok zakładki <a href="down_publishing.php">Operacje publikowania</a> znajdującej się na <a href="down_panel.php">dolnym panelu wyników</a> przedstawia raport synchronizacji serwisu. Synchronizacja została opisana szerzej w temacie poświęconym narzędziu <a href="service_tool_synchronization.php">synchronizacji serwisu</a>. Raport prezentowany na tej zakładce tworzony jest właśnie z wymienionego wyżej narzędzia synchronizacji serwisu na podstawie porównania zawartości serwisu lokalnego i zdalnego serwera FTP. Zakładka ta pojawia się automatycznie po utworzeniu listy plików do synchronizacji.
 
-<p>Raport synchronizacji pełni zarazem funkcję informacyjną, jak i jest przede wszystkim narzędziem wykonywania synchronizacji, bowiem po utworzeniu listy elementów podlegających synchronizacji, synchronizacja nie jest wykonywana automatycznie, lecz program czeka na decyzję użytkownika. Możesz bowiem chcieć wyłączyć niektóre elementy z listy synchronizacji mimo, że w oknie <a href="service_tool_synchronization.html">ustawień synchronizacji</a> zdefinowałeś już pewne ustawienia.
+<p>Raport synchronizacji pełni zarazem funkcję informacyjną, jak i jest przede wszystkim narzędziem wykonywania synchronizacji, bowiem po utworzeniu listy elementów podlegających synchronizacji, synchronizacja nie jest wykonywana automatycznie, lecz program czeka na decyzję użytkownika. Możesz bowiem chcieć wyłączyć niektóre elementy z listy synchronizacji mimo, że w oknie <a href="service_tool_synchronization.php">ustawień synchronizacji</a> zdefinowałeś już pewne ustawienia.
 
-<p>Ogólne ustawienia narzędzia synchronizacji znajdziesz tez w oknie <a href="settings_network.html">Ustawienia sieci i serwerów</a> na zakładce <a href="settings_network_synchronization.html">Kolejka plików i synchronizacja</a>.</p>
+<p>Ogólne ustawienia narzędzia synchronizacji znajdziesz tez w oknie <a href="settings_network.php">Ustawienia sieci i serwerów</a> na zakładce <a href="settings_network_synchronization.php">Kolejka plików i synchronizacja</a>.</p>
 
-<p>Podczas wykonywania synchronizacji możesz swobodnie pracować na innym serwerze na zakładce "Moje serwery". Synchronizacja i <a href="down_publishing_ftpqueue.html">Kolejka plików FTP</a> działają niezależnie!</p>
+<p>Podczas wykonywania synchronizacji możesz swobodnie pracować na innym serwerze na zakładce "Moje serwery". Synchronizacja i <a href="down_publishing_ftpqueue.php">Kolejka plików FTP</a> działają niezależnie!</p>
 
 <h2>Opis listy synchronizacji</h2>
 
@@ -154,13 +154,13 @@ Wyświetla temat Pomocy dla bieżącej zakładki dolnego panelu.
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="service_tool_synchronization.html">Synchronizacja projektów</a>
-	<li><a href="services_general.html">O serwisach ogólnie</a>
+	<li><a href="service_tool_synchronization.php">Synchronizacja projektów</a>
+	<li><a href="services_general.php">O serwisach ogólnie</a>
 	<li><a href="down_publishing.html#downpanelpublishinglist">Inne zakładki operacji publikowania</a>
 	<li><a href="down_panel.html#downpanellist">Inne zakładki dolnego panelu</a>
-	<li><a href="main_tabs_myftpservers.html">Zakładka "Moje serwery"</a>
-	<li><a href="settings_network_ftpclient.html">Ustawienia klienta FTP</a>
-	<li><a href="main_window_desc.html">Główne okno programu</a>
+	<li><a href="main_tabs_myftpservers.php">Zakładka "Moje serwery"</a>
+	<li><a href="settings_network_ftpclient.php">Ustawienia klienta FTP</a>
+	<li><a href="main_window_desc.php">Główne okno programu</a>
 </ul>
 </td>
 </tr>

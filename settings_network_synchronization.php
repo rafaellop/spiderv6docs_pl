@@ -26,23 +26,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -75,13 +75,13 @@
 
 <h2>Kolejka plików</h2>
 
-<p>Ta grupa ustawień dotyczy sposobu działania <a href="down_publishing_ftpqueue.html">kolejki plików</a>. Za pomocą znajdujących się tutaj opcji możesz określić:
+<p>Ta grupa ustawień dotyczy sposobu działania <a href="down_publishing_ftpqueue.php">kolejki plików</a>. Za pomocą znajdujących się tutaj opcji możesz określić:
 
 <p><b>Automatycznie rozpoczynaj wykonywanie kolejki gdy online</b><br>
-Zaznacz ten przełącznik jeśli chcesz, aby podczas pracy w <a href="main_tabs_myftpservers_on-offline.html">trybie online</a>, kolejka była wykonywana automatycznie zaraz po dodaniu do niej dowolnej operacji.  Pozwala to korzystać z listy plików prawie w locie.
+Zaznacz ten przełącznik jeśli chcesz, aby podczas pracy w <a href="main_tabs_myftpservers_on-offline.php">trybie online</a>, kolejka była wykonywana automatycznie zaraz po dodaniu do niej dowolnej operacji.  Pozwala to korzystać z listy plików prawie w locie.
 
 <p><b>Pytaj o rozpoczęcie wykonywania kolejki w trybie offline</b><br>
-Zaznacz tę opcję jeśli chcesz, aby program pytał o rozpoczęcie wykonywania kolejki podczas pracy w <a href="main_tabs_myftpservers_on-offline.html">trybie offline</a> w momencie gdy jakiś element jest dodawany do bieżącej kolejki.
+Zaznacz tę opcję jeśli chcesz, aby program pytał o rozpoczęcie wykonywania kolejki podczas pracy w <a href="main_tabs_myftpservers_on-offline.php">trybie offline</a> w momencie gdy jakiś element jest dodawany do bieżącej kolejki.
 
 <p><b>Ostrzegaj przed nadpisaniem pliku otwartego zdalnie</b><br>
 Włącz tę opcję, aby Pająk ostrzegał przed próba napisania pliku na serwerze, który jednocześnie masz otwarty zdalnie do edycji.
@@ -102,7 +102,7 @@ Jeśli zaznaczysz tę opcję, zadania przy których wystąpił błąd zostaną p
 Zaznacz ten przełącznik, jeśli po zerwaniu połączenia z serwerem w trakcie wykonywania kolejki ma zostać ono nawiązane ponownie.
 
 <p><b>Przy dodawaniu plików i katalogów do kolejki dodawaj również powiązane pliki *.add</b><br />
-Zaznacz tę opcję, jeśli razem z właściwymi dokumentami na serwer mają być przesyłane pliki <a href="main_editor_addfiles.html">dodatkowych informacji o dokumencie</a> (*.add).
+Zaznacz tę opcję, jeśli razem z właściwymi dokumentami na serwer mają być przesyłane pliki <a href="main_editor_addfiles.php">dodatkowych informacji o dokumencie</a> (*.add).
 
 <p><b>Przesyłaj pliki w sposób bezpieczny</b><br />
 Zaznacz tę opcję jeśli chcesz skorzystać z bezpiecznego wysyłania plików na serwer oraz pobierania plików z serwera. Bezpieczne przesyłanie polega na wgrywaniu/pobieraniu pliku na serwer/z serwera pod tymczasową nazwą i dopiero po zakończeniu tej operacji zmieniana jest nazwa pliku na właściwą. Ta funkcja zabezpiecza przed utratą plików na serwerze np. wskutek zerwania połączenia oraz przed nadgraniem starej kopii lokalnej pliku nową, nie do końca pobraną z serwera kopią.
@@ -124,7 +124,7 @@ Zaznacz tę opcję jeśli przy dodawaniu plików typu "Dokument HTML" ma być pr
 
 
 
-<p>W tej kategorii znajdziesz kilka ustawień ustawienia odpowiedzialnych za funkcję automatycznej synchronizacji zawartości serwisu lokalnego ze zdalnym serwerem. Synchronizacja opisana została szerzej w temacie poświęconym <a href="service_tool_synchronization.html">Synchronizacji serwisu</a> oraz <a href="down_publishing_syncreport.html">kolejce synchronizacji na dolnym panelu</a>. W tej kategorii znajduje się dosłownie parę ustawień. Więcej ustawień możesz znaleźć we wspomnianym wyżej okienku.
+<p>W tej kategorii znajdziesz kilka ustawień ustawienia odpowiedzialnych za funkcję automatycznej synchronizacji zawartości serwisu lokalnego ze zdalnym serwerem. Synchronizacja opisana została szerzej w temacie poświęconym <a href="service_tool_synchronization.php">Synchronizacji serwisu</a> oraz <a href="down_publishing_syncreport.php">kolejce synchronizacji na dolnym panelu</a>. W tej kategorii znajduje się dosłownie parę ustawień. Więcej ustawień możesz znaleźć we wspomnianym wyżej okienku.
 
 <p><b>Wysyłaj pliki na serwer w sposób bezpieczny</b><br>
 Zaznacz tę opcję jeśli chcesz skorzystać z bezpiecznego wysyłania plików na serwer. Bezpieczne wysyłanie polega na wgrywaniu pliku na serwer pod tymczasową nazwą i dopiero po zakończeniu tej operacji zmieniana jest nazwa pliku na właściwą. Ta funkcja zabezpiecza przed utratą plików na serwerze np. wskutek zerwania połączenia. Nie myl tej funkcji z możliwością nawiązywania bezpiecznych połączeń z serwerami FTP (za pomocą SSL/TSL) i WebDAV (HTTPS)!
@@ -133,7 +133,7 @@ Zaznacz tę opcję jeśli chcesz skorzystać z bezpiecznego wysyłania plików n
 Zaznacz tę opcję, by synchronizacja nie została wstrzymana w przypadku wystąpienia błędów. Sytuacja taka mogłaby mieć miejsce, np. w przypadku, gdy w czasie między utworzeniem listy synchronizacji, a zsynchronizowaniem serwisu i serwera usunięto z dysku jakiś plik istniejący na liście.
 
 <p><b><i>Dodatkowe minuty wyrównujące różnicę czasu</i></b><br>
-<i>W wersji 5.6.2 opcję tę przeniesiono do okna <a href="settings_network_ftpservers_add.html">Właściwości serwera</a>, dzięki czemu możliwe jest wyrównywanie różnicy czasu odrębnie dla każdego serwera</i>.
+<i>W wersji 5.6.2 opcję tę przeniesiono do okna <a href="settings_network_ftpservers_add.php">Właściwości serwera</a>, dzięki czemu możliwe jest wyrównywanie różnicy czasu odrębnie dla każdego serwera</i>.
 
 
 </td>
@@ -147,10 +147,10 @@ Zaznacz tę opcję, by synchronizacja nie została wstrzymana w przypadku wystą
 <h4>Pokrewne tematy</h4>
 <ul>
         <li><a href="settings_network.html#settingslistnetwork">Inne ustawienia sieci</a>
-        <li><a href="service_tool_synchronization.html">Synchronizacja serwisów</a>
-        <li><a href="down_publishing_ftpqueue.html">Kolejka plików FTP i WebDAV</a></li>
-        <li><a href="down_publishing_syncreport.html">Kolejka synchronizacji</a></li>
-        <li><a href="network_publishing_general.html">Publikowanie w Pająku</a>
+        <li><a href="service_tool_synchronization.php">Synchronizacja serwisów</a>
+        <li><a href="down_publishing_ftpqueue.php">Kolejka plików FTP i WebDAV</a></li>
+        <li><a href="down_publishing_syncreport.php">Kolejka synchronizacji</a></li>
+        <li><a href="network_publishing_general.php">Publikowanie w Pająku</a>
 </ul>
 </td>
 </tr>

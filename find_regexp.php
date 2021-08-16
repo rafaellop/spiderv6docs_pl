@@ -28,23 +28,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -77,7 +77,7 @@
 
 <!-- treść pomocy -->
 
-<p>Pająk w narzędziu <a href="find_ext.html">rozszerzonego wyszukiwania i zamiany</a> oraz w narzędziu <a href="find_text.html">wyszukiwania tekstu</a> pozwala na korzystanie z wyrażeń regularnych (ang. <i>regular expressions)</i>.
+<p>Pająk w narzędziu <a href="find_ext.php">rozszerzonego wyszukiwania i zamiany</a> oraz w narzędziu <a href="find_text.php">wyszukiwania tekstu</a> pozwala na korzystanie z wyrażeń regularnych (ang. <i>regular expressions)</i>.
 
 <p>Wyrażenia regularne to specjalne ciągi znaków stanowiące reguły lub wzorce, które pozwalają sprawdzić czy wyszukiwany tekst pasuje do ustalonego wzorca. Specjalne metaznaki pozwalają na przykład na określenie, że poszukiwany ciąg znaków musi występować na początku lub końcu linii, zawierać określoną liczbę powtórzeń wybranych znaków, itp.
 
@@ -325,11 +325,11 @@
 <P><b>Przykłady:</b>
 
 Załóżmy, że w treści wielu dokumentów znajduje się m. in. tekst:
-<pre>&lt;a href="galeria_pierwsza.html"&gt;Galeria pierwsza&lt;/a&gt;
-&lt;a href="galeria_druga.html"&gt;Galeria druga&lt;/a&gt;
-&lt;a href="galeria_trzecia.html"&gt;Galeria trzecia&lt;/a&gt;
-&lt;a href="https://ksiega.gosci.pl/index.html"&gt;Księga gości&lt;/a&gt;</pre>
-<p>Jednak postanowiłeś przerobić cały serwis tak, by korzystał z PHP i należy poprawić wszystkie odsyłacze. Na pierwszy rzut oka najprościej byłoby po prostu zmienić wszędzie ciąg <tt>.html</tt> na <tt>.php</tt>. Jednak to nie jest dobry pomysł, gdyż zamienione zostanie również rozszerzenie w odsyłaczy do księgi gości. Dlatego należy skorzystać z możliwości wyrażeń regularnych w narzędziu <a href="find_ext.html">Rozszerzonego wyszukiwania i zamiany</a>. </p>
+<pre>&lt;a href="galeria_pierwsza.php"&gt;Galeria pierwsza&lt;/a&gt;
+&lt;a href="galeria_druga.php"&gt;Galeria druga&lt;/a&gt;
+&lt;a href="galeria_trzecia.php"&gt;Galeria trzecia&lt;/a&gt;
+&lt;a href="https://ksiega.gosci.pl/index.php"&gt;Księga gości&lt;/a&gt;</pre>
+<p>Jednak postanowiłeś przerobić cały serwis tak, by korzystał z PHP i należy poprawić wszystkie odsyłacze. Na pierwszy rzut oka najprościej byłoby po prostu zmienić wszędzie ciąg <tt>.html</tt> na <tt>.php</tt>. Jednak to nie jest dobry pomysł, gdyż zamienione zostanie również rozszerzenie w odsyłaczy do księgi gości. Dlatego należy skorzystać z możliwości wyrażeń regularnych w narzędziu <a href="find_ext.php">Rozszerzonego wyszukiwania i zamiany</a>. </p>
 <p><b>W polu '<b>Znajdź</b>' należy wprowadzić:</b></p>
 <pre>galeria_([a-z0-9]+){1}.html</pre>
 <p>Odszukane zostaną wszystkie ciągi zawierające '<tt>galeria_</tt>', dalej ciąg małych liter bądź cyfr (cały taki podciąg będzie traktowany jako jedno wystąpienie gdyż został ujęty w nawias, za którym postawiono <tt>{1}</tt>) i na końcu rozszerzenie <tt>.html</tt></p>
@@ -342,7 +342,7 @@ Załóżmy, że w treści wielu dokumentów znajduje się m. in. tekst:
 <pre>&lt;a href="galeria_pierwsza.php"&gt;Galeria pierwsza&lt;/a&gt;
 &lt;a href="galeria_druga.php"&gt;Galeria druga&lt;/a&gt;
 &lt;a href="galeria_trzecia.php"&gt;Galeria trzecia&lt;/a&gt;
-&lt;a href="https://ksiega.gosci.pl/index.html"&gt;Księga gości&lt;/a&gt;</pre>
+&lt;a href="https://ksiega.gosci.pl/index.php"&gt;Księga gości&lt;/a&gt;</pre>
 
 </td>
 </tr>
@@ -354,9 +354,9 @@ Załóżmy, że w treści wielu dokumentów znajduje się m. in. tekst:
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="find.html">Wyszukiwanie w Pająku</a>
-	<li><a href="find_text.html">Wyszukiwanie, zamiana</a>
-	<li><a href="find_ext.html">Rozszerzone wyszukiwanie i zamiana</a>
+	<li><a href="find.php">Wyszukiwanie w Pająku</a>
+	<li><a href="find_text.php">Wyszukiwanie, zamiana</a>
+	<li><a href="find_ext.php">Rozszerzone wyszukiwanie i zamiana</a>
 </ul>
 </td>
 </tr>

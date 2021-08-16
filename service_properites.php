@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -72,7 +72,7 @@
 <!-- nagłowek głowny tematu -->
 <h1>Serwisy - Okno właściwości serwisu</h1>
 
-<p>Okno właściwości serwisu pozwala na ustawienie parametrów dla serwisu tworzonego w Pająku. O serwisach dowiesz się więcej z tematu poświęconego <a href="services_general.html">serwisom</a>. Opisywane okno pojawia się w momencie tworzenia nowego serwisu. Można je również wywołać z menu Serwisy / Własności serwisu lub z zakładki <a href="main_tabs_myservices.html">Moje serwisy</a>. Ikona przycisku dla tego polecenia przedstawiona została powyżej.
+<p>Okno właściwości serwisu pozwala na ustawienie parametrów dla serwisu tworzonego w Pająku. O serwisach dowiesz się więcej z tematu poświęconego <a href="services_general.php">serwisom</a>. Opisywane okno pojawia się w momencie tworzenia nowego serwisu. Można je również wywołać z menu Serwisy / Własności serwisu lub z zakładki <a href="main_tabs_myservices.php">Moje serwisy</a>. Ikona przycisku dla tego polecenia przedstawiona została powyżej.
 
 <p>Okienko składa się z szeregu plansz, podzielonych dodatkowo na 2 kategorie:
 <ul>
@@ -97,7 +97,7 @@ Za ich pomocą możesz ustalić różne własności serwisu. Oto opis zakładek:
 <a name="glowne_podstawowe"></a>
 <h2>Główne - Podstawowe</h2>
 
-<p>Ta zakładka pozwala na określenie ogólnych własności serwisu oraz dodatkowo umożliwia wykonanie operacji generowania pomocy <a href="tool_htmlhelp_general.html">HTML Help</a> o ile serwis jest jednocześnie projektem HTML Help. Znajdziesz tutaj dwie grupy o nazwach <b>Podstawowe informacje</b> oraz <b>Ustawienia projektu HTML Help</b>.
+<p>Ta zakładka pozwala na określenie ogólnych własności serwisu oraz dodatkowo umożliwia wykonanie operacji generowania pomocy <a href="tool_htmlhelp_general.php">HTML Help</a> o ile serwis jest jednocześnie projektem HTML Help. Znajdziesz tutaj dwie grupy o nazwach <b>Podstawowe informacje</b> oraz <b>Ustawienia projektu HTML Help</b>.
 
 <p>W tej grupie możesz określić ścieżki dostępu do folderu, czy główny plik serwisu. Znajdziesz tutaj następujące ustawienia:
 
@@ -143,13 +143,13 @@ Zaznacz ten przełącznik, jeśli chcesz włączyć dodatkowe funkcje związane 
 Użyj przycisków obok, aby utworzyć nowy pusty plik projektu HTML Help lub, aby wybrać istniejący na dysku.
 
 <p><b>Przycisk Kompiluj projekt</b><br>
-Kliknij, aby <a href="tool_htmlhelp_hhp_compilation.html">skompilować</a> projekt do postaci CHM.
+Kliknij, aby <a href="tool_htmlhelp_hhp_compilation.php">skompilować</a> projekt do postaci CHM.
 
 <p><b>Skompiluj szybko ten serwis</b><br>
-Kliknij, aby <a href="tool_htmlhelp_folder_to_chm.html">szybko skompilować</a> aktualny serwis do postaci HTML Help.
+Kliknij, aby <a href="tool_htmlhelp_folder_to_chm.php">szybko skompilować</a> aktualny serwis do postaci HTML Help.
 
 <p><b>Przycisk Edytuj projekt</b><br>
-Kliknij, aby uruchomić edytor projektu <a href="tool_htmlhelp_hhp_editor.html">HTML Help</a> wbudowany w Pająka.
+Kliknij, aby uruchomić edytor projektu <a href="tool_htmlhelp_hhp_editor.php">HTML Help</a> wbudowany w Pająka.
 
 <p><b>Przycisk Przeglądaj skompilowany</b><br>
 Kliknij, aby otworzyć i przeglądać skompilowany plik CHM.
@@ -168,20 +168,20 @@ Kliknij, aby uruchomić program MS HTML Help Workshop.
 
 
 
-<p>Ta zakładka pozwala na ustalenie mapowań serwisu na adresy sieciowe. Mapowania są przydatne w wielu wypadkach, np. podczas testowania składników serwisów napisanych w językach skryptowych, dla których podgląd musi być wywoływany za pomocą adresu URL, czy w innej sytuacji np. przez funkcję <a href="service_tool_synchronization.html">synchronizacji serwisu</a> ze zdalnym serwerem czy wstawiania plików lokalnych do plików otwieranych z serwera FTP, bądź WebDAV, przy ustalaniu ścieżek względnych do nich. Na tej zakładce znajdziesz dwie grupy dotyczące mapowań przy podglądzie oraz mapowań przy synchronizacji.
+<p>Ta zakładka pozwala na ustalenie mapowań serwisu na adresy sieciowe. Mapowania są przydatne w wielu wypadkach, np. podczas testowania składników serwisów napisanych w językach skryptowych, dla których podgląd musi być wywoływany za pomocą adresu URL, czy w innej sytuacji np. przez funkcję <a href="service_tool_synchronization.php">synchronizacji serwisu</a> ze zdalnym serwerem czy wstawiania plików lokalnych do plików otwieranych z serwera FTP, bądź WebDAV, przy ustalaniu ścieżek względnych do nich. Na tej zakładce znajdziesz dwie grupy dotyczące mapowań przy podglądzie oraz mapowań przy synchronizacji.
 
 <p><b>Grupa Mapowanie przy podglądzie</b><br>
-Mapowania przy podglądzie oznacza "przetłumaczenie" ścieżki dostępu do pliku na dysku na adres pod którym można ten dokument przeglądać w przeglądarce internetowej. Pozwala to na łatwiejsze przeglądanie i pracę podczas testowania dokumentów z wykorzystaniem lokalnego serwera WWW, np. skryptów PHP, które muszą być przeglądane za pomocą adresu URL. Korzystając z przycisków obok możesz zarządzać listą mapowań przypisanych do serwisów. Mapowania możesz zmieniać na zakładce Podgląd w głównym oknie programu. Domyślne mapowanie oznaczone jest ikoną czerwonej kulki (). Nowe mapowanie dodasz za pomocą <a href="settings_network_ftpservers_add_map.html">okna dodawania mapowania</a>.
+Mapowania przy podglądzie oznacza "przetłumaczenie" ścieżki dostępu do pliku na dysku na adres pod którym można ten dokument przeglądać w przeglądarce internetowej. Pozwala to na łatwiejsze przeglądanie i pracę podczas testowania dokumentów z wykorzystaniem lokalnego serwera WWW, np. skryptów PHP, które muszą być przeglądane za pomocą adresu URL. Korzystając z przycisków obok możesz zarządzać listą mapowań przypisanych do serwisów. Mapowania możesz zmieniać na zakładce Podgląd w głównym oknie programu. Domyślne mapowanie oznaczone jest ikoną czerwonej kulki (). Nowe mapowanie dodasz za pomocą <a href="settings_network_ftpservers_add_map.php">okna dodawania mapowania</a>.
 
 <p><b>Grupa Mapowanie przy synchronizacji</b><br>
-<p>Mapowanie synchronizacji określa z jakiego folderu na dysku Twojego komputera do jakiego folderu na wybranym serwerze będą wysyłane pliki. Możesz utworzyć jedno, bądź więcej mapowań, co pozwala na wybór osobnych podkatalogów serwisu lokalnego, bądź serwera FTP (lub WebDAV), które mają być <a href="service_tool_synchronization.html">synchronizowane</a> ze sobą. Nowe mapowanie dodasz za pomocą <a href="settings_network_ftpservers_add_map.html">okna dodawania mapowania</a>. Dodatkowo możesz określić, które mapowanie jest domyślne - będzie ono używane np. w funkcji publikowania dokumentów za pomocą <a href="network_publishing_general.html#publish_current">poleceń publikacji bieżącego dokumentu z menu Plik, czy publikacji dokumentów w zakładce Moje serwisy</a>. Domyślne mapowanie oznaczone jest ikoną czerwonej kulki ().
+<p>Mapowanie synchronizacji określa z jakiego folderu na dysku Twojego komputera do jakiego folderu na wybranym serwerze będą wysyłane pliki. Możesz utworzyć jedno, bądź więcej mapowań, co pozwala na wybór osobnych podkatalogów serwisu lokalnego, bądź serwera FTP (lub WebDAV), które mają być <a href="service_tool_synchronization.php">synchronizowane</a> ze sobą. Nowe mapowanie dodasz za pomocą <a href="settings_network_ftpservers_add_map.php">okna dodawania mapowania</a>. Dodatkowo możesz określić, które mapowanie jest domyślne - będzie ono używane np. w funkcji publikowania dokumentów za pomocą <a href="network_publishing_general.html#publish_current">poleceń publikacji bieżącego dokumentu z menu Plik, czy publikacji dokumentów w zakładce Moje serwisy</a>. Domyślne mapowanie oznaczone jest ikoną czerwonej kulki ().
 
 
 
 <p><b>Grupa Przypisany serwer </b><br>
-Przypisanie serwera FTP lub WebDAV do Serwisu umożliwia zmianę aktywnego serwera na zakładce <a href="main_tabs_myftpservers_rights.html">Moje serwery</a> w zależności od wybranego serwisu. Aby uaktywnić ten mechanizm, zaznacz przełącznik '<b>Przy przełączaniu między serwisami uaktywnij serwer:</b>' i wybierz serwer z listy.
+Przypisanie serwera FTP lub WebDAV do Serwisu umożliwia zmianę aktywnego serwera na zakładce <a href="main_tabs_myftpservers_rights.php">Moje serwery</a> w zależności od wybranego serwisu. Aby uaktywnić ten mechanizm, zaznacz przełącznik '<b>Przy przełączaniu między serwisami uaktywnij serwer:</b>' i wybierz serwer z listy.
 W przypadku, gdy w momencie zmiany serwisu aktywne jest połączenie z innym serwerem, wyświetlone zostanie pytanie czy chcesz, aby połączenie z bieżącym serwerem zostało zakończone, a serwer ma zostać zmieniony, czy nie.</p>
-<p>Wskazany tutaj serwer będzie wybrany jako domyślny podczas tworzenia nowego mapowania przy synchronizacji w <a href="settings_network_ftpservers_add_map.html">oknie dodawania mapowania</a>.</p>
+<p>Wskazany tutaj serwer będzie wybrany jako domyślny podczas tworzenia nowego mapowania przy synchronizacji w <a href="settings_network_ftpservers_add_map.php">oknie dodawania mapowania</a>.</p>
 
 
 
@@ -191,8 +191,8 @@ W przypadku, gdy w momencie zmiany serwisu aktywne jest połączenie z innym ser
 <p>Na tej zakładce masz dostęp do dwóch list:
 
 <ul>
-   <li><b>Foldery wykluczone z widoku</b> - Do tej listy możesz dodać podfoldery głównego folderu serwisu, które będą ukryte na liście plików i drzewie katalogów w <a href="main_tabs_myservices.html">zakładce Moje serwisy</a> w głównym oknie programu</li>. <br><b>Uwaga!</b> Ustawienie to ma wpływ również działanie <a href="find_ext.html">Rozszerzonego wyszukiwania i zamiany</a>. Należy jednak pamiętać, że w momencie przeciągania folderów do zakładki <a href="main_tabs_myftpservers.html">Moje serwery</a> celem ich opublikowania przesłana zostanie również zawartośc folderów wykluczonych!
-   <li><b>Często używane pliki</b> - To jest lista plików, które są często używane w tym serwisie. Możesz dodać tutaj pliki, które często używasz i szybko je otwierać za pomocą polecenia menu "Serwisy / Właściwości serwisu / Otwórz często używane serwisu", a także menu podręcznego listy plików na zakładce <a href="main_tabs_myservices.html">Moje serwisy</a>. Nie jest to lista generowana automatycznie na podstawie użyć poszczególnych plików.
+   <li><b>Foldery wykluczone z widoku</b> - Do tej listy możesz dodać podfoldery głównego folderu serwisu, które będą ukryte na liście plików i drzewie katalogów w <a href="main_tabs_myservices.php">zakładce Moje serwisy</a> w głównym oknie programu</li>. <br><b>Uwaga!</b> Ustawienie to ma wpływ również działanie <a href="find_ext.php">Rozszerzonego wyszukiwania i zamiany</a>. Należy jednak pamiętać, że w momencie przeciągania folderów do zakładki <a href="main_tabs_myftpservers.php">Moje serwery</a> celem ich opublikowania przesłana zostanie również zawartośc folderów wykluczonych!
+   <li><b>Często używane pliki</b> - To jest lista plików, które są często używane w tym serwisie. Możesz dodać tutaj pliki, które często używasz i szybko je otwierać za pomocą polecenia menu "Serwisy / Właściwości serwisu / Otwórz często używane serwisu", a także menu podręcznego listy plików na zakładce <a href="main_tabs_myservices.php">Moje serwisy</a>. Nie jest to lista generowana automatycznie na podstawie użyć poszczególnych plików.
 </ul>
 <p>Obok każdej listy znajdziesz przyciski, za pomocą których możesz nią zarządzać tj. dodawać i usuwać pojedyncze pozycje, a także zmieniać ich pozycję.</p>
 
@@ -215,25 +215,25 @@ W przypadku, gdy w momencie zmiany serwisu aktywne jest połączenie z innym ser
 
 <p><b>Grupa Domyślne właściwości META dokumentów w serwisie</b><br />
 
-<p>Możesz przypisać do serwisu domyślne właściwości sekcji META, które będą automatycznie stosowane podczas tworzenia nowych dokumentów w tym serwisie. W celu zmiany ustawień sekcji META kliknij przycisk Edytuj domyślne wartości META, co spowoduje otwarcie <a href="tool_meta.html">Edytora sekcji META</a>.
+<p>Możesz przypisać do serwisu domyślne właściwości sekcji META, które będą automatycznie stosowane podczas tworzenia nowych dokumentów w tym serwisie. W celu zmiany ustawień sekcji META kliknij przycisk Edytuj domyślne wartości META, co spowoduje otwarcie <a href="tool_meta.php">Edytora sekcji META</a>.
 
 <p><b>Grupa Ustawienia kodowania dla dokumentów tego serwisu</b><br />
 
 <p><b>Domyślne kodowanie dokumentów w serwisie</b><br>
-Wybierz z listy kodowanie, jakie ma być stosowane dla dokumentów tego serwisu. Domyślnie stosowane jest kodowanie wskazane w oknie <a href="settings.html">Ustawienia programu</a> /<a href="settings_editor.html"> Edytor...</a> / <a href="settings_editor_documents.html">Dokumenty</a>. Więcej na ten temat czytaj w <a href="charset_encoding.html">Kodowanie znaków narodowych</a>, jednak to ustawienie ma wyższy priorytet.
+Wybierz z listy kodowanie, jakie ma być stosowane dla dokumentów tego serwisu. Domyślnie stosowane jest kodowanie wskazane w oknie <a href="settings.php">Ustawienia programu</a> /<a href="settings_editor.php"> Edytor...</a> / <a href="settings_editor_documents.php">Dokumenty</a>. Więcej na ten temat czytaj w <a href="charset_encoding.php">Kodowanie znaków narodowych</a>, jednak to ustawienie ma wyższy priorytet.
 
 <p><b>Domyślne kodowanie znaków końca linii w serwisie</b><br>
-Wybierz z listy kodowanie znaków końca linii, jakie ma być stosowane dla dokumentów tego serwisu. Domyślnie stosowane jest kodowanie wskazane w oknie <a href="settings.html">Ustawienia programu</a> / <a href="settings_editor.html"> Edytor...</a> / <a href="settings_editor_documents.html">Dokumenty</a>, jednak to ustawienie ma wyższy priorytet. Znaki mogą być kodowane, jak w systemie Windows, Unix, bądź MacOS.
+Wybierz z listy kodowanie znaków końca linii, jakie ma być stosowane dla dokumentów tego serwisu. Domyślnie stosowane jest kodowanie wskazane w oknie <a href="settings.php">Ustawienia programu</a> / <a href="settings_editor.php"> Edytor...</a> / <a href="settings_editor_documents.php">Dokumenty</a>, jednak to ustawienie ma wyższy priorytet. Znaki mogą być kodowane, jak w systemie Windows, Unix, bądź MacOS.
 
 <p><b>Grupa Wstawianie znaczników do dokumentów tego serwisu</b><br />
 
 
 
 <p><b>Domyślny język dokumentów w serwisie</b><br />
-Wybierz z listy język znacznikowy, który będzie domyślnie używany do tworzenia dokumentów w bieżącym serwisie. W ten sposób możesz zmienić zachowanie się programu określone w oknie Ustawienia programu. Ustawienie to będzie używane w sytuacji, gdy rozpoznanie typu dokumentu przy pomocy standardowych metod (DOCTYPE, xlmns) nie będzie możliwe. Lista zawiera nazwy wszystkich kategorii (wszystkie języki znacznikowe) obsługiwane przez Pająka. Możesz zmienić zawartość listy (dodać i usunąć język, a także zmodyfikować jego ustawienia) za pomocą <a href="tagdata_editor_tdf.html">Edytora TDF</a>.
+Wybierz z listy język znacznikowy, który będzie domyślnie używany do tworzenia dokumentów w bieżącym serwisie. W ten sposób możesz zmienić zachowanie się programu określone w oknie Ustawienia programu. Ustawienie to będzie używane w sytuacji, gdy rozpoznanie typu dokumentu przy pomocy standardowych metod (DOCTYPE, xlmns) nie będzie możliwe. Lista zawiera nazwy wszystkich kategorii (wszystkie języki znacznikowe) obsługiwane przez Pająka. Możesz zmienić zawartość listy (dodać i usunąć język, a także zmodyfikować jego ustawienia) za pomocą <a href="tagdata_editor_tdf.php">Edytora TDF</a>.
 
 <p><b>Znaczniki nie-XML (np. HTML 4) wstawiaj:</b><br />
-Wybierz z listy sposób wstawiania znaczników. Domyślnie stosowany jest styl wstawiania znaczników wskazany w oknie <a href="settings.html">Ustawienia programu</a> / <a href="settings_editor.html"> Edytor...</a> / <a href="settings_editor_documents.html">Dokumenty</a>, możesz jednak wymusić wstawianie znaczników małymi, bądź wielkimi literami.
+Wybierz z listy sposób wstawiania znaczników. Domyślnie stosowany jest styl wstawiania znaczników wskazany w oknie <a href="settings.php">Ustawienia programu</a> / <a href="settings_editor.php"> Edytor...</a> / <a href="settings_editor_documents.php">Dokumenty</a>, możesz jednak wymusić wstawianie znaczników małymi, bądź wielkimi literami.
 
 
 <a name="virtual_include"></a>
@@ -241,7 +241,7 @@ Wybierz z listy sposób wstawiania znaczników. Domyślnie stosowany jest styl w
 
 
 <p>Na tej planszy znajduje się lista plików, których analizowanie przez mechanizmy dynamicznych podpowiedzi jest wymuszone. Za pomocą przycisków umieszczonych obok listy możesz dodawać pliki różnych typów (skrypty PHP, arkusze stylów CSS i skrypty JS) oraz całe foldery.</p>
-Czytaj więcej w temacie<a href="service_virtual_include.html"> Serwisy - Wymuszone dołączanie plików</a>.
+Czytaj więcej w temacie<a href="service_virtual_include.php"> Serwisy - Wymuszone dołączanie plików</a>.
 
 
 <a name="stat_statystyki"></a>
@@ -283,12 +283,12 @@ Pająk pamieta w plikach o rozszerzeniach ADD informacje o użytkownikach modyfi
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="services_general.html">O serwisach ogólnie</a>
-	<li><a href="service_tool_synchronization.html">Synchronizacja serwisów</a>
-	<li><a href="tool_htmlhelp_general.html">HTML Help</a>
-	<li><a href="main_tabs_myservices.html">Zakładka Moje serwisy</a>
-	<li><a href="tool_meta.html">Edytor sekcji META dokumentu</a>
-	<li><a href="main_window_desc.html">Główne okno programu</a>
+	<li><a href="services_general.php">O serwisach ogólnie</a>
+	<li><a href="service_tool_synchronization.php">Synchronizacja serwisów</a>
+	<li><a href="tool_htmlhelp_general.php">HTML Help</a>
+	<li><a href="main_tabs_myservices.php">Zakładka Moje serwisy</a>
+	<li><a href="tool_meta.php">Edytor sekcji META dokumentu</a>
+	<li><a href="main_window_desc.php">Główne okno programu</a>
 </ul>
 </td>
 </tr>

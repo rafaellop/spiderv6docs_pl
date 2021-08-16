@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -82,10 +82,10 @@
 Kliknij, aby wybrać linię, zakładkę lub inne miejsce, do którego chcesz przejść, do której chcesz przejść(domyślny skrót <tt>Ctrl+G</tt>).
 
 
-<p><b><a href="main_tabs_navigator.html">Pokaż nawigatora dokumentu</a></b><br />
+<p><b><a href="main_tabs_navigator.php">Pokaż nawigatora dokumentu</a></b><br />
 Kliknij, aby pokazać zakładkę Nawigator na prawym panelu (domyślny skrót <tt>Ctrl+6</tt>). Zawiera ona szereg nawigatorów ułatwiających poruszanie się po dokumentach w różnych językach.
 
-<p><b><a href="tool_docinfo.html">Nawigator zakładek</a></b><br />
+<p><b><a href="tool_docinfo.php">Nawigator zakładek</a></b><br />
 Kliknij, aby przejść do nawigatora zakładek w oknie Informacje o dokumencie.
 
 
@@ -144,11 +144,11 @@ Kliknij, aby zaznaczyć tekst pomiędzy odpowiadającymi sobie nawiasami. Jest t
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="main_menu_tools.html">Menu główne - Narzędzia</a></li>
-	<li><a href="zen-coding.html">Biblioteka zen-coding z funkcjami nawigacyjnymi</a></li>
-	<li><a href="main_editor_navigation.html">Różne sposoby nawigacji po dokumencie</a></li>
-	<li><a href="main_tabs_navigator.html">Zakładka nawigator</a></li>
-	<li><a href="settings_toolbars.html">Ustawienia programu - Ustawienia pasków, menu i skrótów</a></li>
+	<li><a href="main_menu_tools.php">Menu główne - Narzędzia</a></li>
+	<li><a href="zen-coding.php">Biblioteka zen-coding z funkcjami nawigacyjnymi</a></li>
+	<li><a href="main_editor_navigation.php">Różne sposoby nawigacji po dokumencie</a></li>
+	<li><a href="main_tabs_navigator.php">Zakładka nawigator</a></li>
+	<li><a href="settings_toolbars.php">Ustawienia programu - Ustawienia pasków, menu i skrótów</a></li>
 </td>
 </tr>
 </table>

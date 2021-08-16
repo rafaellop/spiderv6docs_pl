@@ -28,23 +28,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -79,7 +79,7 @@
 
 <p>Narzędzie weryfikacji składni znaczników online pozwala na sprawdzanie poprawności dokumentów znacznikowych z wykorzystaniem walidatora składni W3C&reg; dostępnego na stronach organizacji W3C. Jest to alternatywne narzędzie w stosunku do wbudowanego w Pająka walidatora składni dokumentów znacznikowych. Pająk potrafi przesyłać do skryptu walidatora aktualnie edytowany dokument, niezależnie czy jest on otwary z serwera czy też lokalnie, a wyniki walidacji są wyświetlane na dolnym panelu.</p>
 
-<p>Okno ustawień walidatora składni znaczników online może być wyświetlone albo poprzez okno ustawień edytora z zakładki "<a href="settings_editor_spelling.html#syntaxcheck">Pisownia i weryfikacja składni</a>" albo automatycznie przy każdym wywołaniu narzędzia weryfikacji składni online za pomocą polecenia z poziomu <a href="main_menu_main.html">Menu głównego</a> / <a href="main_menu_tools.html">Narzędzia</a> / <a href="main_menu_tools_verify.html">Weryfikacja kodu</a> / Sprawdź składnię online lub uruchamiając to narzędzie z <a href="down_panel.html">dolnego panelu wyników</a>.</p>
+<p>Okno ustawień walidatora składni znaczników online może być wyświetlone albo poprzez okno ustawień edytora z zakładki "<a href="settings_editor_spelling.html#syntaxcheck">Pisownia i weryfikacja składni</a>" albo automatycznie przy każdym wywołaniu narzędzia weryfikacji składni online za pomocą polecenia z poziomu <a href="main_menu_main.php">Menu głównego</a> / <a href="main_menu_tools.php">Narzędzia</a> / <a href="main_menu_tools_verify.php">Weryfikacja kodu</a> / Sprawdź składnię online lub uruchamiając to narzędzie z <a href="down_panel.php">dolnego panelu wyników</a>.</p>
 
 <p>Okno ustawień walidatora pozwala na zdefiniowanie ustawień raportu weryfikacji. Przede wszystkim można wybrać tryb prosty lub rozszerzony. W trybie prostym stosowane są domyślne ustawienia skryptu. Tryb rozszerzony pozwala natomiast na zdefiniowanie parametrów, wpływających na wyniki weryfikacji składni.</p>
 
@@ -128,9 +128,9 @@ Zaznacz tę opcję, jeśli chcesz, aby okno ustawień walidatora online było wy
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="main_menu_tools.html">Menu główne - Narzędzia</a>
-	<li><a href="down_syntax_check.html">Sprawdzanie poprawności składni w dokumentach</a>
-	<li><a href="settings_w3c_css.html">Ustawienia weryfikacji składni CSS online</a>
+	<li><a href="main_menu_tools.php">Menu główne - Narzędzia</a>
+	<li><a href="down_syntax_check.php">Sprawdzanie poprawności składni w dokumentach</a>
+	<li><a href="settings_w3c_css.php">Ustawienia weryfikacji składni CSS online</a>
 	<li><a href="settings_editor_spelling.html#syntaxcheck">Ustawienia weryfikacji składni</a>
 </ul>
 </td>

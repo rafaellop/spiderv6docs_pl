@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -78,11 +78,11 @@
 
 
 <p><b>Szybkie sprawdzanie pisowni w bieżącym</b><br />
-Kliknij, aby uruchomić szybkie sprawdzanie pisowni w bieżącym dokumencie. Wyniki sprawdzania pisownie przedstawione zostaną na <a href="down_find_report.html">dolnym panelu</a>.
+Kliknij, aby uruchomić szybkie sprawdzanie pisowni w bieżącym dokumencie. Wyniki sprawdzania pisownie przedstawione zostaną na <a href="down_find_report.php">dolnym panelu</a>.
 
 
 <p><b>Szybkie sprawdzanie pisowni w otwartych</b><br />
-Kliknij, aby uruchomić szybkie sprawdzanie pisowni we wszystkich otwartych dokumentach. Wyniki sprawdzania pisownie przedstawione zostaną na <a href="down_find_report.html">dolnym panelu</a>.
+Kliknij, aby uruchomić szybkie sprawdzanie pisowni we wszystkich otwartych dokumentach. Wyniki sprawdzania pisownie przedstawione zostaną na <a href="down_find_report.php">dolnym panelu</a>.
 
 
 <p><b>Poprawność pisowni w bieżącym</b><br />
@@ -108,10 +108,10 @@ Kliknij, aby otworzyć okno Ustawień Autokorekty.
 <hr>
 
 <p><b>Sprawdzenie poprawności pisowni w serwisie</b><br />
-Kliknij, aby otworzyć okno <a href="find_ext.html">Rozszerzone wyszukiwanie i zamiana</a> z ustawieniami do sprawdzania pisowni w serwisie.
+Kliknij, aby otworzyć okno <a href="find_ext.php">Rozszerzone wyszukiwanie i zamiana</a> z ustawieniami do sprawdzania pisowni w serwisie.
 
 <p><b>Sprawdź pisownię w folderach</b><br />
-Kliknij, aby otworzyć okno <a href="find_ext.html">Rozszerzone wyszukiwanie i zamiana</a> z ustawieniami do sprawdzania pisowni w wybranych folderach.
+Kliknij, aby otworzyć okno <a href="find_ext.php">Rozszerzone wyszukiwanie i zamiana</a> z ustawieniami do sprawdzania pisowni w wybranych folderach.
 
 <hr>
 
@@ -130,16 +130,16 @@ Kliknij, aby wybrać słownik dla tezaurusa.
 
 <hr>
 
-<p><b><a href="tool_typo_correct.html">Korekta typograficzna</a></b><br />
+<p><b><a href="tool_typo_correct.php">Korekta typograficzna</a></b><br />
 Kliknij, aby uruchomić narzędzie do korekty typograficznej, która umożliwia sformatowanie tekstu tak, by lepiej prezentował się na stronie.
 
-<p><b><a href="tool_unicodeeditorek.html">Edytorek Unicode</a></b><br />
+<p><b><a href="tool_unicodeeditorek.php">Edytorek Unicode</a></b><br />
 Kliknij, aby uruchomić okno mini edytorka, który służy do wklejania i obsługi tekstów kodowanych w Unicode.
 
 <hr>
 
 <p><b>Konwerter kodowania znaków</b><br />
-Kliknij, aby aby otworzyć okno <a href="find_ext.html">Rozszerzone wyszukiwanie i zamiana</a> z ustawieniami konwertera kodowania znaków.
+Kliknij, aby aby otworzyć okno <a href="find_ext.php">Rozszerzone wyszukiwanie i zamiana</a> z ustawieniami konwertera kodowania znaków.
 
 <p><b>Deklaracja kodowania w bieżącym na...</b><br />
 Kliknij, aby zmienić kodowanie w bieżącym dokumencie.
@@ -172,8 +172,8 @@ Kliknij, aby zamienić polskie znaki diakrytyczne we wszystkich otwartych dokume
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-   <li><a href="spelling.html">Sprawdzanie poprawności pisowni w Pajaczku</a></li>
-   <li><a href="settings_toolbars.html">Ustawienia programu - Ustawienia pasków, menu i skrótów</a></li>
+   <li><a href="spelling.php">Sprawdzanie poprawności pisowni w Pajaczku</a></li>
+   <li><a href="settings_toolbars.php">Ustawienia programu - Ustawienia pasków, menu i skrótów</a></li>
 </ul>
 </td>
 </tr>

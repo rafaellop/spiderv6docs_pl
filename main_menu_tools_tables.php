@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -78,28 +78,28 @@
 
 
 
-<p><b><a href="tool_table_editor.html">Edytor tabel</a></b><br />
+<p><b><a href="tool_table_editor.php">Edytor tabel</a></b><br />
 Kliknij, aby uruchomić edytor tabel (domyślny skrót <tt>Ctrl+T</tt>).
 
 
-<p><b><a href="tool_table_quick.html">Bardzo szybka tabela</a></b><br />
+<p><b><a href="tool_table_quick.php">Bardzo szybka tabela</a></b><br />
 Kliknij, aby w bardzo szybki sposób utworzyć nową tabelę.
 
 
-<p><b><a href="tool_table_quick2.html">Szkielet tabeli</a></b><br />
+<p><b><a href="tool_table_quick2.php">Szkielet tabeli</a></b><br />
 Kliknij, aby otworzyć Kreatora tabeli, który poprowadzi Cię przez proces tworzenia nowej tabeli.
 
 
-<p><b><a href="tool_table_tag.html">Edytor znacznika &lt;TABLE&gt;</a></b><br />
+<p><b><a href="tool_table_tag.php">Edytor znacznika &lt;TABLE&gt;</a></b><br />
 Kliknij, aby uruchomić edytor znacznika <tt>&lt;TABLE&gt;</tt>.
 
-<p><b><a href="tool_table_caption.html">Opis tabeli</a></b><br />
+<p><b><a href="tool_table_caption.php">Opis tabeli</a></b><br />
 Kliknij, aby wstawić opis tabeli <tt>&lt;CAPTION&gt;</tt>;
 
-<p><b><a href="tool_table_row.html">Wiersz tabeli</a></b><br />
+<p><b><a href="tool_table_row.php">Wiersz tabeli</a></b><br />
 Kliknij, aby wstawić wiersz tabeli <tt>&lt;TR&gt;</tt>.
 
-<p><b><a href="tool_table_cell.html">Komórka tabeli</a></b><br />
+<p><b><a href="tool_table_cell.php">Komórka tabeli</a></b><br />
 Kliknij, aby wstawić komórkę tabeli <tt>&lt;TD&gt;</tt>.
 
 
@@ -113,9 +113,9 @@ Kliknij, aby wstawić komórkę tabeli <tt>&lt;TD&gt;</tt>.
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-   <li><a href="main_menu_tools.html">Menu główne - Narzędzia</a></li>
-   <li><a href="toolbars_tables.html">Pasek narzędzi Tabele i formularze</a></li>
-   <li><a href="settings_toolbars.html">Ustawienia programu - Ustawienia pasków, menu i skrótów</a></li>
+   <li><a href="main_menu_tools.php">Menu główne - Narzędzia</a></li>
+   <li><a href="toolbars_tables.php">Pasek narzędzi Tabele i formularze</a></li>
+   <li><a href="settings_toolbars.php">Ustawienia programu - Ustawienia pasków, menu i skrótów</a></li>
 </ul>
 </td>
 </tr>

@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -89,18 +89,18 @@
    <li><b>Atom</b> - nowy sposób rozpowszechniania newsów i innych informacji na stronach www.</li>
 </ul>
 
-<p>Informacje na temat języka, jego znaczników, atrybutów itd. Pająk pobiera ze specjalnych plików definicyjnych dla języków znacznikowych - TDF. Do edycji danych służy specjalne narzędzie - <a href="tagdata_editor_tdf.html">Edytor plików definicyjnych języków znacznikowych</a>. Korzystając z niego możesz również dodawać i usuwać obsługiwane języki znacznikowe. Dzięki temu Pająk jest wszechstronnym i bardzo elastycznym edytorem, doskonałym do tworzenia dokumentów w dowolnym języka znacznikowym.</p>
+<p>Informacje na temat języka, jego znaczników, atrybutów itd. Pająk pobiera ze specjalnych plików definicyjnych dla języków znacznikowych - TDF. Do edycji danych służy specjalne narzędzie - <a href="tagdata_editor_tdf.php">Edytor plików definicyjnych języków znacznikowych</a>. Korzystając z niego możesz również dodawać i usuwać obsługiwane języki znacznikowe. Dzięki temu Pająk jest wszechstronnym i bardzo elastycznym edytorem, doskonałym do tworzenia dokumentów w dowolnym języka znacznikowym.</p>
 
-<p>Z uwagi na przeznaczenie Pająka do tworzenia przede wszystkim stron internetowych, wszystko co dotyczy tylko języka HTML zostało ujęte w temacie <a href="coding_html.html">Wspomaganie dla języka HTML</a>.</p>
+<p>Z uwagi na przeznaczenie Pająka do tworzenia przede wszystkim stron internetowych, wszystko co dotyczy tylko języka HTML zostało ujęte w temacie <a href="coding_html.php">Wspomaganie dla języka HTML</a>.</p>
 
 <p>Jednakże wszystko, o czym przeczytasz w tym temacie pomocy, dotyczy zarówno języka HTML i XHTML, jak i pozostałych wyżej wymienionych. </p>
 
 <p>Wspomaganie dla języków znacznikowych obejmuje przede wszystkim narzędzia:
 <ul>
-	<li><a href="coding_markuplangs_syntax.html">Kolorowanie składni</a></li>
+	<li><a href="coding_markuplangs_syntax.php">Kolorowanie składni</a></li>
 	<li><a href="main_tabs_navigator.html#html">Nawigator znaczników</a></li>
-	<li><a href="coding_markuplangs_codeinsight.html">Automatyczne uzupełnienie znaczników, Dynamiczny kod, Dynamiczne podpowiedzi</a></li>
-	<li><a href="coding_markuplangs_formatting.html">Formatowanie kodu źródłowego</a></li>
+	<li><a href="coding_markuplangs_codeinsight.php">Automatyczne uzupełnienie znaczników, Dynamiczny kod, Dynamiczne podpowiedzi</a></li>
+	<li><a href="coding_markuplangs_formatting.php">Formatowanie kodu źródłowego</a></li>
 </ul>
 </p>
 
@@ -116,12 +116,12 @@
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="coding_html.html">Wspomaganie dla języka HTML</a>
-	<li><a href="syntax.html">Kolorowanie składni w Pająku</a>
-	<li><a href="main_editor_codeinsight.html">Dynamiczny kod</a></li>
-	<li><a href="main_tabs_navigator.html">Zakładka "Nawigator"</a></li>
-	<li><a href="settings_codeinsight.html">Ustawienia programu - Ułatwienia, dynamiczne atrybuty, inne</a>
-	<li><a href="formatter_general.html">Formatowanie kodu źródłowego</a> - <a href="formatter_markuplangs.html">Ustawienia dla języków znacznikowych</a>, <a href="formatter_tidy.html">ustawienia dla TIDY (r)</a></li>
+	<li><a href="coding_html.php">Wspomaganie dla języka HTML</a>
+	<li><a href="syntax.php">Kolorowanie składni w Pająku</a>
+	<li><a href="main_editor_codeinsight.php">Dynamiczny kod</a></li>
+	<li><a href="main_tabs_navigator.php">Zakładka "Nawigator"</a></li>
+	<li><a href="settings_codeinsight.php">Ustawienia programu - Ułatwienia, dynamiczne atrybuty, inne</a>
+	<li><a href="formatter_general.php">Formatowanie kodu źródłowego</a> - <a href="formatter_markuplangs.php">Ustawienia dla języków znacznikowych</a>, <a href="formatter_tidy.php">ustawienia dla TIDY (r)</a></li>
 </ul>
 </td>
 </tr>

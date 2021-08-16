@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -81,7 +81,7 @@
 
 <h2>Uruchamianie</h2>
 
-<p>Kreator galerii grafik możesz uruchomić za pomocą polecenia oznaczonego ikoną pokazaną powyżej znajdującego się w <a href="main_menu_main.html">Menu głównym</a> / <a href="main_menu_tools.html">Narzędzia</a> / <a href="main_menu_tools_gfx.html">Grafika i multimedia</a>, a także za pomocą przycisku pokazanego wyżej umieszczonego na pasku narzędzi.
+<p>Kreator galerii grafik możesz uruchomić za pomocą polecenia oznaczonego ikoną pokazaną powyżej znajdującego się w <a href="main_menu_main.php">Menu głównym</a> / <a href="main_menu_tools.php">Narzędzia</a> / <a href="main_menu_tools_gfx.php">Grafika i multimedia</a>, a także za pomocą przycisku pokazanego wyżej umieszczonego na pasku narzędzi.
 
 <p>Pierwsza plansza tego narzędzia pełni funkcję informacyjną i jest powitaniem w narzędziu.
 
@@ -125,9 +125,9 @@ Wybierz gdzie w plikach z elementami galerii mają zostać umieszczone przyciski
 W tej sekcji możesz ustawić wygląd dokumentów w galerii. Możesz:
 <ul>
    <li>dopasować układ tabeli (ilość wierszy i kolumn - program stara się automatycznie dostosować wartości), </li>
-   <li>wybrać kolor (z listy predefiniowanych kolorów, lub po wybraniu z listy pozycji "Wybierz...", dowolny kolor za pomocą <a href="tool_colorpalette.html">Palety kolorów</a>), bądź obrazek dla tła tabeli (za pomocą <a href="tool_graphic_browser.html">Przeglądarki grafik</a>), </li>
-   <li>przypisać ustawienia sekcji Meta (za pomocą <a href="tool_meta.html">Edytora sekcji META</a>)</li>
-   <li>wybrać, lub utworzyć styl (<a href="tool_style_editor.html">Styl dla znacznika</a>), albo klasę CSS (<a href="tool_style_class.html">wybierz lub utwórz klasę</a>) dla tabeli z grafikami,</li>
+   <li>wybrać kolor (z listy predefiniowanych kolorów, lub po wybraniu z listy pozycji "Wybierz...", dowolny kolor za pomocą <a href="tool_colorpalette.php">Palety kolorów</a>), bądź obrazek dla tła tabeli (za pomocą <a href="tool_graphic_browser.php">Przeglądarki grafik</a>), </li>
+   <li>przypisać ustawienia sekcji Meta (za pomocą <a href="tool_meta.php">Edytora sekcji META</a>)</li>
+   <li>wybrać, lub utworzyć styl (<a href="tool_style_editor.php">Styl dla znacznika</a>), albo klasę CSS (<a href="tool_style_class.php">wybierz lub utwórz klasę</a>) dla tabeli z grafikami,</li>
    <li>podać identyfikator elementu</li>
 </ul>
 
@@ -218,11 +218,11 @@ Wybierz styl dla komórek tabeli, w których umieszczone będą miniatury - podo
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-   <li><a href="tool_graphic_converter.html">Konwerter plików graficznych</a>
-   <li><a href="tool_graphic_browser.html">Przeglądarka grafik</a>
-   <li><a href="tool_graphic_insert.html">Wstawianie grafik do dokumentu</a>
-   <li><a href="main_menu_main.html">Menu programu</a>
-   <li><a href="toolbars_general.html">Inne narzędzia na paskach</a>
+   <li><a href="tool_graphic_converter.php">Konwerter plików graficznych</a>
+   <li><a href="tool_graphic_browser.php">Przeglądarka grafik</a>
+   <li><a href="tool_graphic_insert.php">Wstawianie grafik do dokumentu</a>
+   <li><a href="main_menu_main.php">Menu programu</a>
+   <li><a href="toolbars_general.php">Inne narzędzia na paskach</a>
 </ul>
 </td>
 </tr>

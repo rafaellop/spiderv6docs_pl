@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -77,7 +77,7 @@
 
 <p>Zakładka "Nawigator" pozwala na wygodnie przemieszczanie się w kodzie źródłowym dokumentów różnych języków obsługiwanych przez Pająka. W szybki sposób pomaga zorientować się w strukturze dokumentu, za pomocą jednego kliknięcia pozwala przenieść się do wybranego znacznika w HTML, klasy, funkcji, czy konstrukcji w językach skryptowych, czy selektora w arkuszach CSS.
 
-<p>Zakładkę "Nawigator" włączysz za pomocą panelu po prawej lub skrótu klawiszowego CTRL+7, a także z menu pod przyciskiem pokazanym powyżej z <a href="main_menu_main.html">Menu głównego</a> / <a href="main_menu_view.html">Wyświetl</a>. 
+<p>Zakładkę "Nawigator" włączysz za pomocą panelu po prawej lub skrótu klawiszowego CTRL+7, a także z menu pod przyciskiem pokazanym powyżej z <a href="main_menu_main.php">Menu głównego</a> / <a href="main_menu_view.php">Wyświetl</a>. 
 
 <p>Okno nawigatora składa się z menu oraz dynamicznie tworzonego drzewa struktury dokumentu. </p>
 
@@ -208,7 +208,7 @@ Druga gałąź zawiera listę skryptów dołączanych do aktualnego skryptu (np 
 
 <p>Zawartość gałęzi każdego skryptu dołączanego jest analogiczna, jak w przypadku gałęzi <b>Skrypty PHP w bieżącym dokumencie</b> i umożliwia przechodzenie do wybranych miejsc w dokumencie dołączonym!</p>
 
-<b>Wymuszone dołączanie</b> - zawiera listę plików i folderów, których dołączenie zostało wymuszone dla serwisu bądź dla bieżącego skryptu. Więcej o <a href="service_virtual_include.html">wymuszonym dołączaniu</a>.
+<b>Wymuszone dołączanie</b> - zawiera listę plików i folderów, których dołączenie zostało wymuszone dla serwisu bądź dla bieżącego skryptu. Więcej o <a href="service_virtual_include.php">wymuszonym dołączaniu</a>.
 
 
 <h2><a name="asp"></a>Nawigator ASP</h2>
@@ -226,10 +226,10 @@ Druga gałąź zawiera listę skryptów dołączanych do aktualnego skryptu (np 
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-   <li><a href="main_editor_navigation.html">Różne sposoby nawigacji po dokumencie</a>
-   <li><a href="find.html">Wyszukiwanie w Pająku</a>
-   <li><a href="main_tabs_general.html">Inne zakładki</a>
-   <li><a href="main_window_desc.html">Główne okno programu</a>
+   <li><a href="main_editor_navigation.php">Różne sposoby nawigacji po dokumencie</a>
+   <li><a href="find.php">Wyszukiwanie w Pająku</a>
+   <li><a href="main_tabs_general.php">Inne zakładki</a>
+   <li><a href="main_window_desc.php">Główne okno programu</a>
 </ul>
 </td>
 </tr>

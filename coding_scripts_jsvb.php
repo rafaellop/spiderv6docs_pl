@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -80,12 +80,12 @@
 <p>Na wspomaganie JavaScript i VBScript składa się kilka różnych narzędzi Pająka:
 
 <ul>
-	<li><a href="coding_scripts_jsvb_syntax.html">Kolorowanie składni</a></li>
-	<li><a href="coding_scripts_jsvb_codeinsight.html">Dynamiczny kod</a></li>
+	<li><a href="coding_scripts_jsvb_syntax.php">Kolorowanie składni</a></li>
+	<li><a href="coding_scripts_jsvb_codeinsight.php">Dynamiczny kod</a></li>
 	<li><a href="main_tabs_navigator.html#js">Nawigator JavaScript</a> i <a href="main_tabs_navigator.html#vbs">Nawigator VBScript</a></li>
-	<li><a href="coding_scripts_jsvb_languages.html">Języki programowania - drzewka definicji funkcji dla JavaScript i VBScript</a></li>
-	<li><a href="coding_scripts_jsvb_macrocodes.html">Makrokody - szablony kodu JavaScript i VBScript</a></li>
-	<li><a href="coding_scripts_jsvb_formatting.html">Formatowanie kodu źródłowego JavaScript</a></li>
+	<li><a href="coding_scripts_jsvb_languages.php">Języki programowania - drzewka definicji funkcji dla JavaScript i VBScript</a></li>
+	<li><a href="coding_scripts_jsvb_macrocodes.php">Makrokody - szablony kodu JavaScript i VBScript</a></li>
+	<li><a href="coding_scripts_jsvb_formatting.php">Formatowanie kodu źródłowego JavaScript</a></li>
 </ul></p>
 
 
@@ -101,13 +101,13 @@
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="syntax.html">Kolorowanie składni w Pająku</a>
-	<li><a href="main_editor_codeinsight.html">Dynamiczny kod</a></li>
-	<li><a href="main_tabs_navigator.html">Zakładka "Nawigator"</a></li>
-	<li><a href="main_tabs_languages.html">Zakładka "Języki programowania"</a></li>
-	<li><a href="main_tabs_macrocodes.html">Zakładka "Makrokody"</a></li>
-	<li><a href="settings_codeinsight.html">Ustawienia programu - Ułatwienia, dynamiczne atrybuty, inne</a> - <a href="settings_codeinsight_scripts.html">Dynamiczny kod w JavaScript i VBScript</a>
-	<li><a href="formatter_general.html">Formatowanie kodu źródłowego</a> - <a href="formatter_javascript.html">Ustawienia dla JavaScript</a></li>
+	<li><a href="syntax.php">Kolorowanie składni w Pająku</a>
+	<li><a href="main_editor_codeinsight.php">Dynamiczny kod</a></li>
+	<li><a href="main_tabs_navigator.php">Zakładka "Nawigator"</a></li>
+	<li><a href="main_tabs_languages.php">Zakładka "Języki programowania"</a></li>
+	<li><a href="main_tabs_macrocodes.php">Zakładka "Makrokody"</a></li>
+	<li><a href="settings_codeinsight.php">Ustawienia programu - Ułatwienia, dynamiczne atrybuty, inne</a> - <a href="settings_codeinsight_scripts.php">Dynamiczny kod w JavaScript i VBScript</a>
+	<li><a href="formatter_general.php">Formatowanie kodu źródłowego</a> - <a href="formatter_javascript.php">Ustawienia dla JavaScript</a></li>
 </ul>
 </td>
 </tr>

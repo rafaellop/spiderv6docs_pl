@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -86,16 +86,16 @@ Kliknij, aby wstawić znacznik nagłówka dokumentu HTML - &lt;head&gt;.
 Kliknij, aby wstawić znacznik tytułu dokumentu HTML pokazywanego np. na pasku tytułowym okna przeglądarki - &lt;title&gt;.<link rel="" href="">
 
 <p><b>Znacznik &lt;meta name=...&gt;</b><br />
-Kliknij, aby wstawić szkielet znacznika umożliwiającego wprowadzenie podstawowych informacji o dokumencie możliwych do wykorzystania przez wyszukiwarki internetowe (takich jak dane autora dokumentu, słowa kluczowe itp.) - &lt;meta name=...&gt;. Tytuł dokumentu i zawartość znaczników META możesz edytować za pomocą <a href="tool_meta.html">Edytora tytułu i sekcji META</a>.
+Kliknij, aby wstawić szkielet znacznika umożliwiającego wprowadzenie podstawowych informacji o dokumencie możliwych do wykorzystania przez wyszukiwarki internetowe (takich jak dane autora dokumentu, słowa kluczowe itp.) - &lt;meta name=...&gt;. Tytuł dokumentu i zawartość znaczników META możesz edytować za pomocą <a href="tool_meta.php">Edytora tytułu i sekcji META</a>.
 
 <p><b>Znacznik &lt;meta http-equiv=...&gt;</b><br />
 Kliknij, aby wstawić szkielet znacznika umożliwiającego wprowadzenie dodatkowych informacji o dokumencie możliwych do wykorzystania przez serwery HTTP oraz wyszukiwarki internetowe (takich jak data utworzenia dokumentu, sposób kodowania znakow narodowych itp.) - &lt;meta http-equiv=...&gt;.
 
 <p><b>Znacznik &lt;style&gt;</b><br />
-Kliknij, aby wstawić znacznik umożliwiający umieszczenie wewnątrz dokumentu HTML arkuszy stylów CSS - &lt;style&gt;. Do edycji stylów może użyć <a href="main_tabs_inspector_css.html">Inspektora CSS</a> na lewym panelu zasobów.
+Kliknij, aby wstawić znacznik umożliwiający umieszczenie wewnątrz dokumentu HTML arkuszy stylów CSS - &lt;style&gt;. Do edycji stylów może użyć <a href="main_tabs_inspector_css.php">Inspektora CSS</a> na lewym panelu zasobów.
 
 <p><b>Znacznik &lt;script&gt;</b><br />
-Kliknij, aby wstawić znacznik umożliwiający umieszczenie wewnątrz dokumentu HTML skryptów JavaScript i innych - &lt;script&gt;. W celu ułatwienia wstawiania skryptu do dokumentu, możesz również skorzystać z narzędzia <a href="tool_insert_script.html">Wstawianie skryptu na stronę</a>.
+Kliknij, aby wstawić znacznik umożliwiający umieszczenie wewnątrz dokumentu HTML skryptów JavaScript i innych - &lt;script&gt;. W celu ułatwienia wstawiania skryptu do dokumentu, możesz również skorzystać z narzędzia <a href="tool_insert_script.php">Wstawianie skryptu na stronę</a>.
 
 <p><b>Znacznik &lt;link&gt;</b><br />
 Kliknij, aby wstawić znacznik umożliwiający dołączanie do dokumentu plików zewnętrznych, np. arkuszy stylów CSS umieszczonych w osobnym pliku - &lt;link&gt;. 
@@ -117,8 +117,8 @@ Kliknij, aby wstawić znacznik pozwalający na wprowadzenie adresu bazowego dla 
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-        <li><a href="main_menu_htmlcode.html">Menu Kod HTML</a>
-        <li><a href="settings_toolbars.html">Ustawienia programu - Ustawienia pasków, menu i skrótów</a>
+        <li><a href="main_menu_htmlcode.php">Menu Kod HTML</a>
+        <li><a href="settings_toolbars.php">Ustawienia programu - Ustawienia pasków, menu i skrótów</a>
 </td>
 </tr>
 </table>

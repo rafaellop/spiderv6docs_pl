@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -77,45 +77,45 @@
 <p>Pasek zawiera polecenia uruchamiające narzędzia do wstawiania i edycji odsyłaczy, a także do formatowania i obsługi tekstu. </p>
 
 
-<p><b><a href="tool_link.html">Wstawienie odnośnika</a></b><br />
+<p><b><a href="tool_link.php">Wstawienie odnośnika</a></b><br />
 Kliknij, aby uruchomić narzędzie służące do wstawiania odnośnika <tt>&lt;A&gt;</tt> (domyślny skrót <tt>Shift+Ctrl+A</tt>).
 
-<p><b><a href="tool_link_map_editor.html">Edytor map odsyłaczy</a></b><br />
+<p><b><a href="tool_link_map_editor.php">Edytor map odsyłaczy</a></b><br />
 Kliknij, aby uruchomić edytor map odsyłaczy.
 
-<p><b><a href="down_links_verify.html">Weryfikacja odsyłaczy w dokumencie</a></b><br />
+<p><b><a href="down_links_verify.php">Weryfikacja odsyłaczy w dokumencie</a></b><br />
 Kliknij, aby sprawdzić poprawność odsyłaczy w dokumencie.
 
-<p><b><a href="tool_comment.html">Wstawienie komentarza</a></b><br />
+<p><b><a href="tool_comment.php">Wstawienie komentarza</a></b><br />
 Kliknij, aby uruchomić narzędzie do wstawiania komentarzy. Narzędzie automatycznie rozpoznaje bieżący język programowania i wstawia odpowiednie znaki komentarza. Domyślny skrót <tt>Shift+Ctrl+K</tt>.
 
-<p><b><a href="tool_marquee.html">Animowany tekst</a></b><br />
+<p><b><a href="tool_marquee.php">Animowany tekst</a></b><br />
 Kliknij, aby uruchomić narzędzie ułatwiające wstawienie animowanego tekstu <tt>&lt;MARQUEE&gt;</tt>.
 
-<p><b><a href="tool_text_attributes.html">Formatowanie tekstu</a></b><br />
+<p><b><a href="tool_text_attributes.php">Formatowanie tekstu</a></b><br />
 Kliknij, aby uruchomić narzędzie do wstawiania znaczników formatowania tekstu.
 
-<p><b> <a href="tool_text_attributes.html">Znacznik nowego akapitu</a></b><br />
-Kliknij, aby wstawić znacznik nowego akapitu (w zależności od <a href="settings_codeinsight_additional.html">Ustawień programu</a> - <tt>&lt;p&gt;</tt>, lub <tt>&lt;div&gt;</tt>). Jeśli klikniesz w strzałkę z prawej strony polecenia rozwinie się poleceń formatowania (identyczne, jak <a href="main_menu_htmlcode_align.html">menu Kod HTML / Wyrównanie </a>).
+<p><b> <a href="tool_text_attributes.php">Znacznik nowego akapitu</a></b><br />
+Kliknij, aby wstawić znacznik nowego akapitu (w zależności od <a href="settings_codeinsight_additional.php">Ustawień programu</a> - <tt>&lt;p&gt;</tt>, lub <tt>&lt;div&gt;</tt>). Jeśli klikniesz w strzałkę z prawej strony polecenia rozwinie się poleceń formatowania (identyczne, jak <a href="main_menu_htmlcode_align.php">menu Kod HTML / Wyrównanie </a>).
 
 <p><b>Znacznik niełamliwej spacji</b><br />
 Kliknij, aby wstawić kod oznaczający niełamliwą spację - <tt>&amp;nbsp;</tt>. Domyślny skrót klawiszowy <tt>Alt+Spacja</tt>.
 
 <p><b> Znacznik pogrubionego tekstu</b><br />
-Kliknij, aby wstawić znacznik pogrubienia tekstu. Jeśli klikniesz w strzałkę z prawej strony polecenia rozwinie się <a href="main_menu_htmlcode_format.html">podmenu</a> pozwalające wstawienie innych znaczników formatowania tekstu (identyczne, jak <a href="main_menu_htmlcode_format.html">menu Kod HTML / Formatowanie tekstu </a>).
+Kliknij, aby wstawić znacznik pogrubienia tekstu. Jeśli klikniesz w strzałkę z prawej strony polecenia rozwinie się <a href="main_menu_htmlcode_format.php">podmenu</a> pozwalające wstawienie innych znaczników formatowania tekstu (identyczne, jak <a href="main_menu_htmlcode_format.php">menu Kod HTML / Formatowanie tekstu </a>).
 
 <p><b>Nagłówek</b><br />
-Kliknij, aby wstawić nagłówek 1-go stopnia (znacznik <tt>&lt;H1&gt;</tt>). Możesz też rozwinąć menu służące do wstawiania znaczników nagłówka innego stopnia (identyczne jak menu <a href="main_menu_htmlcode_headers.html">Kod HTML / Nagłówek</a>).
+Kliknij, aby wstawić nagłówek 1-go stopnia (znacznik <tt>&lt;H1&gt;</tt>). Możesz też rozwinąć menu służące do wstawiania znaczników nagłówka innego stopnia (identyczne jak menu <a href="main_menu_htmlcode_headers.php">Kod HTML / Nagłówek</a>).
 
 <p><b>Łamanie linii &lt;BR&gt;</b><br />
-Kliknij, aby wstawić znacznik łamania linii. Możesz też rozwinąć menu zawierające pozycje identyczne, jak w menu <a href="main_menu_htmlcode_brnewline.html"> Kod HTML / Łamanie linii &lt;BR&gt;</a>.
+Kliknij, aby wstawić znacznik łamania linii. Możesz też rozwinąć menu zawierające pozycje identyczne, jak w menu <a href="main_menu_htmlcode_brnewline.php"> Kod HTML / Łamanie linii &lt;BR&gt;</a>.
 
 <p><b>Zamiana zaznaczonego tekstu na...</b><br />
-Kliknij, aby otworzyć listę z możliwymi sposobami zamiany zaznaczonego tekstu. Lista ta zawiera pozycje identyczne, jak w menu <a href="main_menu_edit_change_selected.html">Edycja / Zaznaczony tekst na...</a>.
+Kliknij, aby otworzyć listę z możliwymi sposobami zamiany zaznaczonego tekstu. Lista ta zawiera pozycje identyczne, jak w menu <a href="main_menu_edit_change_selected.php">Edycja / Zaznaczony tekst na...</a>.
 
 
-<p><a href="tool_lists.html">Wyliczenia</a><br />
-Kliknij, aby uruchomić <a href="tool_lists.html">Generator wyliczeń</a>. Możesz też rozwinąć menu służące do wstawiania znaczników list wyliczeniowych (identyczne jak menu <a href="main_menu_htmlcode_lists.html">Kod HTML / Wyliczenia</a>).
+<p><a href="tool_lists.php">Wyliczenia</a><br />
+Kliknij, aby uruchomić <a href="tool_lists.php">Generator wyliczeń</a>. Możesz też rozwinąć menu służące do wstawiania znaczników list wyliczeniowych (identyczne jak menu <a href="main_menu_htmlcode_lists.php">Kod HTML / Wyliczenia</a>).
 
 
 </td>
@@ -128,7 +128,7 @@ Kliknij, aby uruchomić <a href="tool_lists.html">Generator wyliczeń</a>. Może
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="settings_toolbars.html">Ustawienia programu - Ustawienia pasków, menu i skrótów</a>
+	<li><a href="settings_toolbars.php">Ustawienia programu - Ustawienia pasków, menu i skrótów</a>
 </td>
 </tr>
 </table>

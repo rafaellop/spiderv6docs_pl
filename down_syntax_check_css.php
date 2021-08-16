@@ -28,23 +28,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -84,7 +84,7 @@
    <li>przeglądarką Safari w wersji 1.2</li>
 </ul></p>
 
-<p>Opcje zgodności danych elementów CSS z przeglądarkami można ustawiać w oknie <a href="tagdata_editor_tdf_css.html">Edytor pliku definicyjnego CSS</a>.</p>
+<p>Opcje zgodności danych elementów CSS z przeglądarkami można ustawiać w oknie <a href="tagdata_editor_tdf_css.php">Edytor pliku definicyjnego CSS</a>.</p>
 
 </td>
 </tr>
@@ -96,11 +96,11 @@
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-   <li><a href="down_syntax_check.html">Sprawdzanie poprawności składni dokumentów</a></li>
-   <li><a href="settings_codeinsight_additional.html">Ustawienia programu - ustawienia sprawdzania składni</a> </li>
-   <li><a href="tagdata_editor_tdf_css.html">Edytor pliku definicyjnego CSS</a></li>
+   <li><a href="down_syntax_check.php">Sprawdzanie poprawności składni dokumentów</a></li>
+   <li><a href="settings_codeinsight_additional.php">Ustawienia programu - ustawienia sprawdzania składni</a> </li>
+   <li><a href="tagdata_editor_tdf_css.php">Edytor pliku definicyjnego CSS</a></li>
    <li><a href="down_panel.html#downpanellist">Inne zakładki dolnego panelu wyników</a></li>
-   <li><a href="main_window_desc.html">Główne okno programu</a></li>
+   <li><a href="main_window_desc.php">Główne okno programu</a></li>
 </ul>
 </td>
 </tr>

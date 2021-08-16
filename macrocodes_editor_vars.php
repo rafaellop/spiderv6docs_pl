@@ -28,23 +28,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -99,7 +99,7 @@ Korzystając z inspektora, możesz przypisać zmiennej wartość domyślną, jak
 </p>
 
 <p><b>Dodanie nowej zmiennej</b><br />
-Kliknij, jeśli chcesz dodać nową zmienną. Do tworzenia nowych i edycji istniejących zmiennych służy okno <a href="macrocodes_editor_addvar.html">Edycja zmiennej makrokodu</a>.</p>
+Kliknij, jeśli chcesz dodać nową zmienną. Do tworzenia nowych i edycji istniejących zmiennych służy okno <a href="macrocodes_editor_addvar.php">Edycja zmiennej makrokodu</a>.</p>
 
 <p><b>Zmiana nazwy wybranej zmiennej</b><br />
 Kliknij, jeśli chcesz mienić nazwę wybranej zmiennej.</p>
@@ -109,7 +109,7 @@ Kliknij, jeśli chcesz ukryć/odkryć wybraną zmienną. Zmienna oznaczona jako 
 <p>Dla przykładu - jeśli tworzysz szablon strony i umieszczasz w nim grafiki, które muszą się znaleźć na stronie, to użytkownik nie powinien mieć możliwości zmiany ścieżki do tych grafik (gdyż mógłby podać ścieżkę do innego pliku, co zniszczyłoby efekt).</p>
 
 <p><b>Modyfikacja zmiennej</b><br />
-Kliknij jeśli chcesz edytować zmienną (zmienić typ zmiennej, ale także nazwę, wartość domyślną, lub ukryć ją). Do tworzenia nowych i edycji istniejących zmiennych służy okno <a href="macrocodes_editor_addvar.html">Edycja zmiennej makrokodu</a>.</p>
+Kliknij jeśli chcesz edytować zmienną (zmienić typ zmiennej, ale także nazwę, wartość domyślną, lub ukryć ją). Do tworzenia nowych i edycji istniejących zmiennych służy okno <a href="macrocodes_editor_addvar.php">Edycja zmiennej makrokodu</a>.</p>
 
 <p><b>Usunięcie wybranej zmiennej</b><br />
 Kliknij, jeśli chcesz usunąć wybraną zmienną. Usunięcie zmiennej nie usuwa jej wywołań z makrokodu - należy to zrobić ręcznie. Jeśli ich nie usuniesz, w chwili zapisu makrokodu Pająk spyta, czy zrobić to automatycznie.</p>
@@ -131,13 +131,13 @@ Kliknij, aby przesunąć zmienną w górę/dół w inspektorze zmiennych.</p>
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="macrocodes_editor.html">Edytor makrokodów - wstęp</a>
-	<li><a href="macrocodes_editor_addvar.html">Edytor makrokodów - Edycja zmiennej makrokodu</a>
-   <li><a href="macrocodes_editor_blocks.html">Edytor makrokodów - zakładka Bloki wykorzystywane w makrokodzie</a>
-   <li><a href="macrocodes_editor_vars.html">Edytor makrokodów - zakładka Zmienne w makrokodzie</a>
-	<li><a href="settings_macrocodes.html">Ustawienia programu - Makrokody</a>
-	<li><a href="main_tabs_macrocodes.html">Zakładka Makrokody</a>
-	<li><a href="macrocodes.html">Makrokody - ogólnie</a>
+	<li><a href="macrocodes_editor.php">Edytor makrokodów - wstęp</a>
+	<li><a href="macrocodes_editor_addvar.php">Edytor makrokodów - Edycja zmiennej makrokodu</a>
+   <li><a href="macrocodes_editor_blocks.php">Edytor makrokodów - zakładka Bloki wykorzystywane w makrokodzie</a>
+   <li><a href="macrocodes_editor_vars.php">Edytor makrokodów - zakładka Zmienne w makrokodzie</a>
+	<li><a href="settings_macrocodes.php">Ustawienia programu - Makrokody</a>
+	<li><a href="main_tabs_macrocodes.php">Zakładka Makrokody</a>
+	<li><a href="macrocodes.php">Makrokody - ogólnie</a>
 </ul>
 </td>
 </tr>

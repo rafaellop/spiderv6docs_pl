@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -72,13 +72,13 @@
 <!-- nagłowek głowny tematu -->
 <h1>Narzędzia - Wybierz lub utwórz klasę</h1>
 
-<p>Opisywane tutaj narzędzie pozwala na tworzenie nowych klas używanych w stylach kaskadowych CSS. Klasy pozwalają na przypisywanie do znaczników styli zdefiniowanych w arkuszu stylów osobno w stosunku do stylów dla wybranego znacznika. Dzięki temu możesz przypisać do wybranego znacznika inny styl niż posiada on zadeklarowany w arkuszu stylów. Więcej o tworzeniu stylów znajdziesz w temacie poświęconym <a href="coding_css.html">tworzeniu stylów w Pająku</a>.
+<p>Opisywane tutaj narzędzie pozwala na tworzenie nowych klas używanych w stylach kaskadowych CSS. Klasy pozwalają na przypisywanie do znaczników styli zdefiniowanych w arkuszu stylów osobno w stosunku do stylów dla wybranego znacznika. Dzięki temu możesz przypisać do wybranego znacznika inny styl niż posiada on zadeklarowany w arkuszu stylów. Więcej o tworzeniu stylów znajdziesz w temacie poświęconym <a href="coding_css.php">tworzeniu stylów w Pająku</a>.
 
 <p>Narzędzie tworzenia klas uruchamia się za pomocą przycisku pokazanego powyżej w oknach wstawiania znaczników, które posiadają ten przycisk i możliwość ustalenia stylu.
 
 <h2>Wygląd okienka</h2>
 
-<p>Okienko składa się z listy klas, które prezentuje wszystkie klasy dostępne w aktualnie edytowanym dokumencie. Na liście znajdziesz dwie kolumny z nazwą klasy oraz nazwą dokumentu, gdzie jest zadeklarowana. Obok listy znajdują się dwa przyciski pozwalające na utworzenie nowej klasy z użyciem <a href="tool_style_editor.html">edytora stylów</a> oraz przycisk pozwalający na utworzenie nowej pustej klasy. W obu przypadkach zostaniesz poproszony o podanie nazwy klasy.
+<p>Okienko składa się z listy klas, które prezentuje wszystkie klasy dostępne w aktualnie edytowanym dokumencie. Na liście znajdziesz dwie kolumny z nazwą klasy oraz nazwą dokumentu, gdzie jest zadeklarowana. Obok listy znajdują się dwa przyciski pozwalające na utworzenie nowej klasy z użyciem <a href="tool_style_editor.php">edytora stylów</a> oraz przycisk pozwalający na utworzenie nowej pustej klasy. W obu przypadkach zostaniesz poproszony o podanie nazwy klasy.
 
 
 </td>
@@ -91,10 +91,10 @@
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="main_tabs_inspector_css.html">Inspektor CSS</a>
-	<li><a href="coding_css.html">Tworzenie stylów</a>
-	<li><a href="tool_style_editor.html">Definiowanie stylu w edytorze stylów</a>
-	<li><a href="toolbars_general.html">Narzędzia na paskach</a>
+	<li><a href="main_tabs_inspector_css.php">Inspektor CSS</a>
+	<li><a href="coding_css.php">Tworzenie stylów</a>
+	<li><a href="tool_style_editor.php">Definiowanie stylu w edytorze stylów</a>
+	<li><a href="toolbars_general.php">Narzędzia na paskach</a>
 </ul>
 </td>
 </tr>

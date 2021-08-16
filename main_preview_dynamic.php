@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -74,9 +74,9 @@
 
 <p>Dynamiczny podgląd umożliwia oglądanie efektów pracy "na żywo" podczas edycji kodu źródłowego. Dzięki tej funkcji możesz np. na bieżąco obserwować wpływ nanoszonych zmian na wygląd dokumentu. Okno dynamicznego podglądu pojawi się poniżej edytora. Po każdej zmianie wprowadzonej w bieżącym dokumencie, podgląd zostanie automatycznie odświeżony. </p>
 
-<p>Funkcja dynamicznego podglądu działa wyłącznie dla edytora przy uruchomionym <a href="main_editor.html">trybie edycji kodu źródłowego</a>.</p>
+<p>Funkcja dynamicznego podglądu działa wyłącznie dla edytora przy uruchomionym <a href="main_editor.php">trybie edycji kodu źródłowego</a>.</p>
 
-<p>  Dynamiczny podgląd możesz włączyć i wyłączyć za pomocą polecenia na <a href="toolbars_minitoolbar.html">mini pasku edytora</a> (ikona polecenia pokazana obok).</p>
+<p>  Dynamiczny podgląd możesz włączyć i wyłączyć za pomocą polecenia na <a href="toolbars_minitoolbar.php">mini pasku edytora</a> (ikona polecenia pokazana obok).</p>
 
 
 
@@ -94,9 +94,9 @@
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="main_editor.html">Edytor - tryb edycji kodu źródłowego</a>
-	<li><a href="main_preview_embed.html">Podgląd dokumentu w zakładce Przeglądanie</a>
-	<li><a href="main_window_desc.html">Główne okno programu</a>
+	<li><a href="main_editor.php">Edytor - tryb edycji kodu źródłowego</a>
+	<li><a href="main_preview_embed.php">Podgląd dokumentu w zakładce Przeglądanie</a>
+	<li><a href="main_window_desc.php">Główne okno programu</a>
 
 </ul>
 </td>

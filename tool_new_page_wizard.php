@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -71,7 +71,7 @@
 <h1>Narzędzia - Kreator nowej strony z szablonu</h1>
 
 
-<p>Ten kreator umożliwia szybkie utworzenie nowego, kompletnego dokumentu na podstawie szablonów stron dostępnych również na <a href="main_tabs_macrocodes.html">zakładce Makrokody</a>. Narzędzie włącza się automatycznie w momencie pierwszego uruchomienia programu. 
+<p>Ten kreator umożliwia szybkie utworzenie nowego, kompletnego dokumentu na podstawie szablonów stron dostępnych również na <a href="main_tabs_macrocodes.php">zakładce Makrokody</a>. Narzędzie włącza się automatycznie w momencie pierwszego uruchomienia programu. 
 <p>Kreator składa się z trzech plansz. Do ich przełączania służą przyciski Dalej i Wstecz umieszczone u dołu okna.</p>
 
 <h2>Uruchamianie kreatora</h2>
@@ -102,7 +102,7 @@ Pozostaw tę opcję zaznaczoną, by domyślną akcją podczas tworzenia nowego d
 
 <p><b>Zaawansowane</b><br />
 W tej zakładce znajduje się inspektor zmiennych makrokodu służącego do wygenerowania strony. Są to zmienne zawierające tytuł strony, dymki podpowiedzi, ścieżki dostępu do plików załączonych do szablonu (np. grafiki itd.). Najczęściej nie trzeba tu nic zmieniać. 
-Więcej na ten temat przeczytasz w temacie pomocy <a href="how_pagefrom_macrocode.html">Jak szybko stworzyć atrakcyjną stronę</a>.
+Więcej na ten temat przeczytasz w temacie pomocy <a href="how_pagefrom_macrocode.php">Jak szybko stworzyć atrakcyjną stronę</a>.
 
 
 <h2>Podgląd wygenerowanej strony</h2>
@@ -125,9 +125,9 @@ Więcej na ten temat przeczytasz w temacie pomocy <a href="how_pagefrom_macrocod
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-   <li><a href="main_tabs_macrocodes.html">Zakładka Makrokody</a>
-   <li><a href="how_pagefrom_macrocode.html">Jak szybko stworzyć atrakcyjną stronę</a>
-   <li><a href="main_menu_file_new.html">Menu główne - Plik/Nowy dokument</a>
+   <li><a href="main_tabs_macrocodes.php">Zakładka Makrokody</a>
+   <li><a href="how_pagefrom_macrocode.php">Jak szybko stworzyć atrakcyjną stronę</a>
+   <li><a href="main_menu_file_new.php">Menu główne - Plik/Nowy dokument</a>
 </ul>
 </td>
 </tr>

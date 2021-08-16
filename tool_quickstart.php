@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -73,9 +73,9 @@
 <h1>Narzędzia - Szybki Start</h1>
 
 <p>
-Szybki start to narzędzie pozwalające w kilku krokach przygotować szkielet strony w postaci nagłówków, sekcji <a href="tool_meta.html">META</a> oraz sekcji <a href="tool_body.html">BODY</a>. Tworzenie odbywa się w kilku krokach. Najpierw pojawia się opisywane tutaj okienko, następnie zależnie od ustawień przełączników, okienka edytorów <a href="tool_meta.html">META</a> i <a href="tool_body.html">BODY</a>.
+Szybki start to narzędzie pozwalające w kilku krokach przygotować szkielet strony w postaci nagłówków, sekcji <a href="tool_meta.php">META</a> oraz sekcji <a href="tool_body.php">BODY</a>. Tworzenie odbywa się w kilku krokach. Najpierw pojawia się opisywane tutaj okienko, następnie zależnie od ustawień przełączników, okienka edytorów <a href="tool_meta.php">META</a> i <a href="tool_body.php">BODY</a>.
  
-<p>Okno Szybkiego Startu uruchomisz z poziomu <a href="main_menu_main.html">Menu głównego</a> / <a href="main_menu_tools.html">Narzędzia</a> / <a href="main_menu_tools_structure.html">Struktura</a> / Szybki Start lub <a href="main_menu_main.html">Menu głównego</a> / <a href="main_menu_tools.html">Narzędzia</a> / <a href="main_menu_tools_creators.html">Kreatory kodu znaczników</a> / Szybki Start, ale także z podmenu <a href="main_menu_main.html">Menu głównego</a> / <a href="main_menu_file.html">Plik</a> / <a href="main_menu_file_new.html">Nowy</a> / <a href="main_menu_tools_creators.html">Kreatory kodu znaczników</a> / Szybki Start. Oczywiście również z paska narzędzi <a href="toolbars_often.html">Często używane</a> oraz skrótem <tt>Shift+Ctrl+Q</tt>. Ikona polecenia przedstawiona została powyżej.
+<p>Okno Szybkiego Startu uruchomisz z poziomu <a href="main_menu_main.php">Menu głównego</a> / <a href="main_menu_tools.php">Narzędzia</a> / <a href="main_menu_tools_structure.php">Struktura</a> / Szybki Start lub <a href="main_menu_main.php">Menu głównego</a> / <a href="main_menu_tools.php">Narzędzia</a> / <a href="main_menu_tools_creators.php">Kreatory kodu znaczników</a> / Szybki Start, ale także z podmenu <a href="main_menu_main.php">Menu głównego</a> / <a href="main_menu_file.php">Plik</a> / <a href="main_menu_file_new.php">Nowy</a> / <a href="main_menu_tools_creators.php">Kreatory kodu znaczników</a> / Szybki Start. Oczywiście również z paska narzędzi <a href="toolbars_often.php">Często używane</a> oraz skrótem <tt>Shift+Ctrl+Q</tt>. Ikona polecenia przedstawiona została powyżej.
    
 <h2>Wygląd okienka</h2>
 
@@ -93,13 +93,13 @@ Wprowadź tutaj adres, który będzie używany przez przeglądarkę do odczytywa
 <p>Jeśli chcesz, aby okno <b>Szybkiego Startu</b> pozwoliło na utworzenie dodatkowo sekcji w dokumencie, zaznacz przełączniki:
 
 <p><b>Dołącz sekcję META</b><br>
-Zaznacz jeśli chcesz po wciśnięciu OK przejść do określania parametrów <a href="tool_meta.html">sekcji META</a>.
+Zaznacz jeśli chcesz po wciśnięciu OK przejść do określania parametrów <a href="tool_meta.php">sekcji META</a>.
 
 <p><b>Dołącz sekcję BODY</b><br>
-Zaznacz jeśli chcesz po wciśnięciu OK przejść do określania ustawień <a href="tool_body.html">znacznika BODY</a>.
+Zaznacz jeśli chcesz po wciśnięciu OK przejść do określania ustawień <a href="tool_body.php">znacznika BODY</a>.
 
 <p><b>Utwórz strukturę ramkową FRAMESET</b><br />
-Zaznacz jeśli chcesz po wciśnięciu OK przejść do definiowania struktury ramkowej za pomocą <a href="tool_frameeditor.html">Kreatora ramek</a>. Opcja dostępna tylko w przypadku wybrania DOCTYPE odpowiedniego dla dokumentów z definicją ramek.
+Zaznacz jeśli chcesz po wciśnięciu OK przejść do definiowania struktury ramkowej za pomocą <a href="tool_frameeditor.php">Kreatora ramek</a>. Opcja dostępna tylko w przypadku wybrania DOCTYPE odpowiedniego dla dokumentów z definicją ramek.
 
 <p><b>Dołącz prolog XML dla dokumentów typu XML</b><br />
 Powoduje dołączenie prologu XML <tt>&lt;?xml version="1.0" encoding="encoding"?&gt;</tt> dla dokumentów typu XML. Opcja dostępna tylko w przypadku wybrania DOCTYPE odpowiedniego dla dokumentów typu XML. 
@@ -121,10 +121,10 @@ Możesz wyłączyć tę opcję, aby wynik działania funkcji Szybki Start zastę
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="tool_meta.html">Narzędzie ustawień META</a>
-	<li><a href="tool_body.html">Narzędzie ustawień BODY</a>
-	<li><a href="main_menu_main.html">Menu programu</a>
-	<li><a href="toolbars_general.html">Narzędzia na paskach</a>
+	<li><a href="tool_meta.php">Narzędzie ustawień META</a>
+	<li><a href="tool_body.php">Narzędzie ustawień BODY</a>
+	<li><a href="main_menu_main.php">Menu programu</a>
+	<li><a href="toolbars_general.php">Narzędzia na paskach</a>
 </ul>
 </td>
 </tr>

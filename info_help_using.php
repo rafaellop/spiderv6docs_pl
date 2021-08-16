@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -78,7 +78,7 @@
 
 <p>Podczas tworzenia kodu w językach HTML, PHP i CSS bardzo przydatna jest pomoc kontekstowa. Wystarczy postawić kursor na znaczniku HTML, nazwie wbudowanej funkcji PHP, czy własności CSS i wcisnąć kombinacje klawiszy Ctrl+F1, by uzyskać pomoc to tego elementu.</p>
 
-<p>Ponadto na zakładce <a href="down_help.html">Pomoc do programu</a> na dolnym panelu dostępne są specyfikacje, kursy i instrukcje do HTML, XHTML, CSS, PHP, JavaScript.</p>
+<p>Ponadto na zakładce <a href="down_help.php">Pomoc do programu</a> na dolnym panelu dostępne są specyfikacje, kursy i instrukcje do HTML, XHTML, CSS, PHP, JavaScript.</p>
 
 
 <ul>
@@ -96,8 +96,8 @@
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-    <li><a href="main_menu_help.html">Menu pomoc</a>
-    <li><a href="down_help.html">Dolny panel pomocy</a>
+    <li><a href="main_menu_help.php">Menu pomoc</a>
+    <li><a href="down_help.php">Dolny panel pomocy</a>
 </ul>
 </td>
 </tr>

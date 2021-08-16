@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -77,56 +77,56 @@
 <p>Menu zawiera szereg podmenu, w których umieszczone zostały różne narzędzia dostępne w Pająku:</p>
 
 
-<p><b><a href="main_menu_file_new.html">Kreatory kodu znaczników</a></b><br />
+<p><b><a href="main_menu_file_new.php">Kreatory kodu znaczników</a></b><br />
 Zawiera polecenia służące do uruchomienia kreatorów różnego typu dokumentów i specyficznych fragmentów kodu, jak tabele, formularze itd. Menu to jest identyczne, jak podmenu Plik / Nowy dokument.
 
 <hr>
 
-<p><b><a href="main_menu_tools_tags.html">Narzędzia tworzenia znaczników</a></b><br />
+<p><b><a href="main_menu_tools_tags.php">Narzędzia tworzenia znaczników</a></b><br />
 Zawiera polecenia uruchamiające narzędzia, które umożliwiają tworzenie różnego typu znaczników i całych grup znaczników, jak tabele, ramki, formularze itp.
 
-<p><b><a href="main_menu_tools_structure.html">Struktura</a></b><br />
+<p><b><a href="main_menu_tools_structure.php">Struktura</a></b><br />
 Zawiera polecenia uruchamiające narzędzia do edycji i tworzenia podstawowych sekcji dokumentu <tt>META</tt> i <tt>BODY</tt>.
 
-<p><b><a href="main_menu_tools_links.html">Odsyłacze</a></b><br />
+<p><b><a href="main_menu_tools_links.php">Odsyłacze</a></b><br />
 Zawiera polecenia uruchamiające narzędzia do tworzenia, edycji i weryfikacji odnośników w dokumencie.
 
 
-<p><b><a href="main_menu_tools_gfx.html">Grafika i multimedia</a></b><br />
+<p><b><a href="main_menu_tools_gfx.php">Grafika i multimedia</a></b><br />
 Zawiera polecenia uruchamiające narzędzia do wstawiania i edycji znaczników dołączających do dokumentu grafiki w różnych formatach oraz multimedia, jak np. aplety Java, filmy Flash i inne.
 
-<p><b><a href="main_menu_tools_forms.html">Formularze</a></b><br />
+<p><b><a href="main_menu_tools_forms.php">Formularze</a></b><br />
 Zawiera polecenia uruchamiające narzędzia do wstawiania i edycji formularzy.
 
-<p><b><a href="main_menu_tools_tables.html">Tabele</a></b><br />
+<p><b><a href="main_menu_tools_tables.php">Tabele</a></b><br />
 Zawiera polecenia uruchamiające narzędzia do wstawiania i edycji tabel.
 
-<p><b><a href="main_menu_tools_text.html">Tekst</a></b><br />
+<p><b><a href="main_menu_tools_text.php">Tekst</a></b><br />
 Zawiera polecenia uruchamiające narzędzia do formatowania tekstu.
 
-<p><b><a href="main_menu_tools_frames.html">Ramki</a></b><br />
+<p><b><a href="main_menu_tools_frames.php">Ramki</a></b><br />
 Zawiera polecenia uruchamiające narzędzia do wstawiania i edycji ramek w dokumencie.
 
-<p><b><a href="main_menu_tools_objects.html">Skrypty i obiekty</a></b><br />
+<p><b><a href="main_menu_tools_objects.php">Skrypty i obiekty</a></b><br />
 Zawiera polecenia uruchamiające narzędzia do wstawiania i edycji znaczników dołączających do dokumentu różne obiekty, multimedia itp., a także do wstawiania skryptów <i>client-side</i> (jak np. JavaScript).
 
 <hr>
 
-<p><b><a href="main_menu_tools_verify.html">Weryfikacja kodu</a></b><br />
+<p><b><a href="main_menu_tools_verify.php">Weryfikacja kodu</a></b><br />
 Zawiera polecenia uruchamiające narzędzia do weryfikacji poprawności składni (różnych języków) w dokumencie.
 
-<p><b><a href="main_menu_tools_formatting.html">Formatowanie i kompresja kodu</a></b><br />
+<p><b><a href="main_menu_tools_formatting.php">Formatowanie i kompresja kodu</a></b><br />
 Zawiera polecenia uruchamiające narzędzia do formatowania kodu źródłowego.
 
-<p><b><a href="zen-coding.html">Polecenia zen-coding</a></b><br />
-Zawiera polecenia uruchamiające funkcje <a href="zen-coding.html">biblioteki zen-coding</a>.
+<p><b><a href="zen-coding.php">Polecenia zen-coding</a></b><br />
+Zawiera polecenia uruchamiające funkcje <a href="zen-coding.php">biblioteki zen-coding</a>.
 
-<p><b><a href="main_menu_tools_navigation.html">Nawigacja po dokumencie</a></b><br />
+<p><b><a href="main_menu_tools_navigation.php">Nawigacja po dokumencie</a></b><br />
 Zawiera polecenia uruchamiające narzędzia ułatwiające poruszanie się po dokumencie i orientację w kodzie.
 
 <hr>
 
-<p><b><a href="main_menu_tools_other.html">Inne narzędzia</a></b><br />
+<p><b><a href="main_menu_tools_other.php">Inne narzędzia</a></b><br />
 Zawiera polecenia uruchamiające inne narzędzia przydatne podczas pracy z programem.
 
 
@@ -140,7 +140,7 @@ Zawiera polecenia uruchamiające inne narzędzia przydatne podczas pracy z progr
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-   <li><a href="settings_toolbars.html">Ustawienia programu - Ustawienia pasków, menu i skrótów</a></li>
+   <li><a href="settings_toolbars.php">Ustawienia programu - Ustawienia pasków, menu i skrótów</a></li>
 </ul>
 </td>
 </tr>

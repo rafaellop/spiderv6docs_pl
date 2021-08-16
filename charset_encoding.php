@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -87,9 +87,9 @@
 
 <h2>Korzystanie z różnych stron kodowych podczas pracy</h2>
 
-<p>Pająk pozwala na tworzenie dokumentów w praktycznie dowolnym języku. Program potrafi również automatycznie rozpoznać stronę kodową, stosowaną w danym dokumencie, na podstawie wpisów w sekcji META. Odpowiednie opcje znajdują się w oknie <a href="settings_editor_documents.html">Ustawienia programu - Dokumenty</a>, a także w <a href="main_menu_spelling.html">Menu pisownia</a>.</p>
+<p>Pająk pozwala na tworzenie dokumentów w praktycznie dowolnym języku. Program potrafi również automatycznie rozpoznać stronę kodową, stosowaną w danym dokumencie, na podstawie wpisów w sekcji META. Odpowiednie opcje znajdują się w oknie <a href="settings_editor_documents.php">Ustawienia programu - Dokumenty</a>, a także w <a href="main_menu_spelling.php">Menu pisownia</a>.</p>
 
-<p>Podczas pracy z <a href="services_general.html">serwisem</a>, w oknie <a href="service_properites.html#charset_encoding">Właściwości serwisu</a> możesz wskazać kodowanie, jakie ma być domyślnie stosowane dla wszystkich dokumentów tego serwisu. Pozwala to uniezależnić dany serwis od globalnych ustawień programu.</p>
+<p>Podczas pracy z <a href="services_general.php">serwisem</a>, w oknie <a href="service_properites.html#charset_encoding">Właściwości serwisu</a> możesz wskazać kodowanie, jakie ma być domyślnie stosowane dla wszystkich dokumentów tego serwisu. Pozwala to uniezależnić dany serwis od globalnych ustawień programu.</p>
 
 <p>Możesz też szybko otworzyć i zapisać dokument, korzystając z wybranego kodowania za pomocą poleceń w Menu pisownia -&gt; <b>Odczytaj w kodowaniu...</b> i <b>Zapisuj w kodowaniu...</b>,  co pozwala dodatkowo korzystać z kodowania niezależnego od ustawień programu i serwisu.</p>
 
@@ -98,19 +98,19 @@
 <p>Priorytet najwyższy ma kodowanie dla dokumentu. Następnie kodowanie dla serwisu i na końcu kodowanie ogólne. W przypadku zmiany kodowania do odczytu dla dokumentu następuje ponowne odczytanie dokumentu z konwersją wg wybranego kodowania. W przypadku zmiany kodowania przy zapisie dla dokumentu następuje zapisanie dokumentu w wybranym kodowaniu.</p>
 
 <p><b>Wspomaganie dla Unicode</b></p>
-<p>W celu poprawienia komfortu pracy podczas korzystania z kodowania za pomocą Unicode stworzony został mini <a href="tool_unicodeeditorek.html">edytorek unicode</a>. Narzędzie to pozwala kopiować i wklejać do dokumentu teksty zawierające encje Unicode, które automatycznie zamieniane będą na znaki UTF.</p>
+<p>W celu poprawienia komfortu pracy podczas korzystania z kodowania za pomocą Unicode stworzony został mini <a href="tool_unicodeeditorek.php">edytorek unicode</a>. Narzędzie to pozwala kopiować i wklejać do dokumentu teksty zawierające encje Unicode, które automatycznie zamieniane będą na znaki UTF.</p>
 
 <h2>Konwersja znaków narodowych</h2>
 
 <p>Pająk umożliwia konwersję kodowania znaków na wiele różnych stron kodowych. Możesz ją przeprowadzić na kilka sposobów:</p>
 <ul>
-   <li> za pomocą narzędzia <a href="find_ext.html">Rozszerzone wyszukiwanie i zamiana</a>, które umożliwia konwersję kodowania w aktualnym dokumencie, wszystkich otwartych, a także w wybranych lub wszystkich dokumentach określonego folderu lub <a href="main_tabs_myservices.html">Serwisu</a>. Okno możesz otworzyć za pomocą polecenia <b>Konwerter kodowania znaków</b> w menu Pisownia. Ikona polecenia została pokazana obok.</li>
+   <li> za pomocą narzędzia <a href="find_ext.php">Rozszerzone wyszukiwanie i zamiana</a>, które umożliwia konwersję kodowania w aktualnym dokumencie, wszystkich otwartych, a także w wybranych lub wszystkich dokumentach określonego folderu lub <a href="main_tabs_myservices.php">Serwisu</a>. Okno możesz otworzyć za pomocą polecenia <b>Konwerter kodowania znaków</b> w menu Pisownia. Ikona polecenia została pokazana obok.</li>
    <li> szybką konwersję znaków w bieżącym dokumencie możesz przeprowadzić za pomocą polecenia <b>Znaki narodowe w bieżącym</b> w menu Pisownia. Ikona polecenia została pokazana obok.</li>
 </ul>
 
 <p>Możesz też szybko usunąć wszystkie polskie znaki w bieżącym dokumencie lub we wszystkich otwartych dokumentach, używając poleceń <b>Usuń polskie znaki w bieżącym</b> i <b>Usuń polskie znaki w otwartych</b> w menu Pisownia.</p>
 
-<p>Podczas tworzenia nowego dokumentu możesz wybrać stronę kodową w <a href="tool_meta.html">Edytorze sekcji META</a>. Domyślnie jest ustawiona strona ISO-8859-2.</p>
+<p>Podczas tworzenia nowego dokumentu możesz wybrać stronę kodową w <a href="tool_meta.php">Edytorze sekcji META</a>. Domyślnie jest ustawiona strona ISO-8859-2.</p>
 
 </td>
 </tr>
@@ -122,12 +122,12 @@
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-   <li><a href="spelling.html">Sprawdzanie pisowni</a>
-   <li><a href="tool_unicodeeditorek.html">Edytorek Unicode</a>
-   <li><a href="find.html">Wyszukiwanie w Pająku</a>
-   <li><a href="find_ext.html">Rozszerzone wyszukiwanie i zamiana (konwersja znaków narodowych)</a>
-   <li><a href="down_find_report.html">Okno "Raport wyszukiwania"</a>
-   <li><a href="main_menu_spelling.html">Menu Pisownia</a>
+   <li><a href="spelling.php">Sprawdzanie pisowni</a>
+   <li><a href="tool_unicodeeditorek.php">Edytorek Unicode</a>
+   <li><a href="find.php">Wyszukiwanie w Pająku</a>
+   <li><a href="find_ext.php">Rozszerzone wyszukiwanie i zamiana (konwersja znaków narodowych)</a>
+   <li><a href="down_find_report.php">Okno "Raport wyszukiwania"</a>
+   <li><a href="main_menu_spelling.php">Menu Pisownia</a>
 </ul>
 </td>
 </tr>

@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -77,7 +77,7 @@
 
 
 
-<p>Za pomocą edytora pliku definicyjnego CSS możesz modyfikować lub rozszerzać definicję CSS, z której Pająk korzysta w funkcjach dynamicznych podpowiedzi i na zakładce <a href="main_tabs_languages.html">Języki programowania</a>. Aby uzyskać dostęp do edytora pliku definicyjnego CSS użyj polecenia <b>Edytor pliku definicyjnego CSS</b>, które znajduje się w menu głównym. Możesz również uruchomić go za pomocą przycisku znajdującego się w ustawieniach programu w kategorii <a href="settings_codeinsight_php.html">Ułatwienia, dynamiczne atrybuty, inne</a> lub w menu. Przycisk pokazany został powyżej. 
+<p>Za pomocą edytora pliku definicyjnego CSS możesz modyfikować lub rozszerzać definicję CSS, z której Pająk korzysta w funkcjach dynamicznych podpowiedzi i na zakładce <a href="main_tabs_languages.php">Języki programowania</a>. Aby uzyskać dostęp do edytora pliku definicyjnego CSS użyj polecenia <b>Edytor pliku definicyjnego CSS</b>, które znajduje się w menu głównym. Możesz również uruchomić go za pomocą przycisku znajdującego się w ustawieniach programu w kategorii <a href="settings_codeinsight_php.php">Ułatwienia, dynamiczne atrybuty, inne</a> lub w menu. Przycisk pokazany został powyżej. 
 
 <p>Okno edytora pliku definicyjnego CSS składa się z dwóch części: "Listy własności" zawierającej wszystkie własności CSS oraz zakładek "Podstawowe dane", "Przyjmowane wartości" i "Wsparcie w przeglądarkach".
 
@@ -98,7 +98,7 @@ Kliknij, aby zapisać zmiany w pliku definicyjnym CSS</p>
 W tym miejscu wprowadź opis wybranej własności</p>
 
 <p><b>Przynależność do grupy</b><br />
-Określ grupę, do jakiej należy wybrana własność. Wybór grupy ma wpływ na grupowanie własności w <a href="main_tabs_inspector_css.html">Inspektorze CSS</a>, oraz określa ikonę, jaką będzie miała dana własność.</p>
+Określ grupę, do jakiej należy wybrana własność. Wybór grupy ma wpływ na grupowanie własności w <a href="main_tabs_inspector_css.php">Inspektorze CSS</a>, oraz określa ikonę, jaką będzie miała dana własność.</p>
 
 <p><b>Ścieżka do pliku z dokumentacją</b><br />
 W tym miejscu możesz podać ścieżkę do pliku z dokumentacją dla wybranej własności. Pozwoli to korzystać z Pomocy dla bieżącego dokumentu (skrót Ctrl+F1)</p>
@@ -106,7 +106,7 @@ W tym miejscu możesz podać ścieżkę do pliku z dokumentacją dla wybranej w�
 <p><b>Własność jest skróconym odpowiednikiem innych własności</b><br />
 Zaznacz, jeśli wybrana własność nie ma przyjmować własnych wartości, lecz przyjmować wartości innych własności CSS. </p>
 
-<p>Po zaznaczeniu tej opcji musisz dodać na listę własności, których wartości mają być przyjmowane przez wybraną własność. Aby dodać własność skorzystaj z menu z prawej strony listy. Do dodawania własności służy okno <a href="tagdata_editor_tdf_css_property.html">Dodaj własność do listy...</a>. Pamiętaj, że kolejność podawanych własności ma znaczenie i należy ją podać w kolejności wyszczególnionej w specyfikacji CSS. Za pomocą przycisków w menu możesz przesuwać własności na liście</p>
+<p>Po zaznaczeniu tej opcji musisz dodać na listę własności, których wartości mają być przyjmowane przez wybraną własność. Aby dodać własność skorzystaj z menu z prawej strony listy. Do dodawania własności służy okno <a href="tagdata_editor_tdf_css_property.php">Dodaj własność do listy...</a>. Pamiętaj, że kolejność podawanych własności ma znaczenie i należy ją podać w kolejności wyszczególnionej w specyfikacji CSS. Za pomocą przycisków w menu możesz przesuwać własności na liście</p>
 
 
 
@@ -120,7 +120,7 @@ W tym miejscu możesz podać wartości, jakie może przyjąć wybrana własnoś�
 	<li><b>Własność może przyjąć wartość <tt>inherit</tt></b> - zaznacz, jeśli ta wartość ma się znaleźć na liście wartości.<br />
 			Wybranie <tt>inherit</tt> podczas tworzenia stylu CSS oznacza, że wartość dla danej własności będzie dziedziczona z elementu nadrzędnego.</li>
 	<li><b>Własność może przyjąć wielokrotne wartości</b> - zaznacz, jeśli własność może przyjąć kilka wartości oddzielonych od siebie spacjami.<br />
-		Przykładowo własność <tt>background-position</tt>, może jednocześnie przyjąć wartości np. <tt>top left</tt>. Ustawienie to ma wpływ na działanie funkcji ułatwień edycyjnych, m. in. <a href="main_editor_codeinsight.html">Dynamiczny kod</a>, <a href="main_tabs_inspector_css.html">Inspektor CSS</a>.</li>
+		Przykładowo własność <tt>background-position</tt>, może jednocześnie przyjąć wartości np. <tt>top left</tt>. Ustawienie to ma wpływ na działanie funkcji ułatwień edycyjnych, m. in. <a href="main_editor_codeinsight.php">Dynamiczny kod</a>, <a href="main_tabs_inspector_css.php">Inspektor CSS</a>.</li>
 </ul>
 
 
@@ -155,7 +155,7 @@ Wybierz standardy CSS, w których występuje dana własność. Możesz wybrać s
 
 <b>Wsparcie w przeglądarkach</b><br />
 
-Zaznacz przełącznik <b>Określ wsparcie własności w przeglądarkach WWW</b> aby uaktywnić przycisk <a href="tagdata_editor_tdf_compatibility.html">Wsparcie w przeglądarkach</a> uruchamiający narzędzie o tej samej nazwie. Dzięki temu będzie można określić, które przeglądarki i w jakim stopniu obsługują dana własność CSS. Informacja ta znajdzie się w podpowiedzi podczas tworzenia stylu.
+Zaznacz przełącznik <b>Określ wsparcie własności w przeglądarkach WWW</b> aby uaktywnić przycisk <a href="tagdata_editor_tdf_compatibility.php">Wsparcie w przeglądarkach</a> uruchamiający narzędzie o tej samej nazwie. Dzięki temu będzie można określić, które przeglądarki i w jakim stopniu obsługują dana własność CSS. Informacja ta znajdzie się w podpowiedzi podczas tworzenia stylu.
 
 </td>
 </tr>
@@ -167,9 +167,9 @@ Zaznacz przełącznik <b>Określ wsparcie własności w przeglądarkach WWW</b> 
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="main_tabs_languages.html">Zakładka "Języki programowania"</a>
-	<li><a href="main_tabs_inspector_css.html">Inspektor CSS</a>
-	<li><a href="main_editor_codeinsight.html">Dynamiczny kod</a>
+	<li><a href="main_tabs_languages.php">Zakładka "Języki programowania"</a>
+	<li><a href="main_tabs_inspector_css.php">Inspektor CSS</a>
+	<li><a href="main_editor_codeinsight.php">Dynamiczny kod</a>
 </ul>
 </td>
 </tr>

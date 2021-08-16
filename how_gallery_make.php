@@ -26,23 +26,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -77,7 +77,7 @@
 
 <h2>Jak utworzyć galerię obrazków?</h2>
 
-<p>W celu utworzenia galerii uruchom <a href="tool_gallery.html">Kreatora galerii obrazków</a>. </p>
+<p>W celu utworzenia galerii uruchom <a href="tool_gallery.php">Kreatora galerii obrazków</a>. </p>
 
 <p>Pierwsza plansza jest jest powitaniem i wprowadzeniem do narzędzia. Kreator galerii będzie Ciebie prowadzić przez proces jej tworzenia. W kolejnych planszach będziesz:
 
@@ -90,7 +90,7 @@
 
 <p>Na ostatniej planszy będziesz mógł obejrzeć gotowa galerię jeszcze przed zapisem jej w docelowym miejscu na dysku - jeśli będzie trzeba, wróć do poprzednich plansz i popraw odpowiednie opcje.</p>
 
-<p>Szczegółowych informacji na temat kreatora szukaj w pomocy <a href="tool_gallery.html">Kreatora galerii obrazków</a> uruchamianej po kliknięciu w przycisk Pomoc w oknie narzędzia.</p>
+<p>Szczegółowych informacji na temat kreatora szukaj w pomocy <a href="tool_gallery.php">Kreatora galerii obrazków</a> uruchamianej po kliknięciu w przycisk Pomoc w oknie narzędzia.</p>
 
 
 
@@ -106,8 +106,8 @@
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-   <li><a href="tool_gallery.html">Kreator galerii grafik</a></li>
-   <li><a href="tool_graphic_converter.html">Konwerter plików graficznych</a></li>
+   <li><a href="tool_gallery.php">Kreator galerii grafik</a></li>
+   <li><a href="tool_graphic_converter.php">Konwerter plików graficznych</a></li>
 </td>
 </tr>
 </table>

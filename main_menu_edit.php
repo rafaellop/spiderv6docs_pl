@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -94,22 +94,22 @@ Kliknij, aby skopiować zaznaczenie do schowka (domyślny skrót <tt>Ctrl+C</tt>
 <p><b>Wklej</b><br />
 Kliknij, aby wkleić zawartość schowka (domyślny skrót <tt>Ctrl+V</tt>).
 
-<p><b><a href="main_menu_edit_pastechange.html">Wklej ze schowka z zamianą</a></b><br />
+<p><b><a href="main_menu_edit_pastechange.php">Wklej ze schowka z zamianą</a></b><br />
 Kliknij, aby wybrać sposób zamiany tekstu podczas wklejania.
 
-<p><b><a href="tool_multiclipboard.html">Wieloschowek</a></b><br />
-Kliknij, aby wyświetlić okno Wieloschowka (domyślny skrót <tt>Ctrl+Shift+W</tt>). Polecenie posiada podmenu wyświetlające zapamiętane w Wieloschowku elementy - aby wstawić odpowiedni fragment do edytora kliknij na wybranej pozycji. Identyczne polecenie znajdziesz w <a href="main_menu_editor.html">menu podręcznym Edytora</a>.
+<p><b><a href="tool_multiclipboard.php">Wieloschowek</a></b><br />
+Kliknij, aby wyświetlić okno Wieloschowka (domyślny skrót <tt>Ctrl+Shift+W</tt>). Polecenie posiada podmenu wyświetlające zapamiętane w Wieloschowku elementy - aby wstawić odpowiedni fragment do edytora kliknij na wybranej pozycji. Identyczne polecenie znajdziesz w <a href="main_menu_editor.php">menu podręcznym Edytora</a>.
 
-<p><b><a href="main_menu_edit_additionals.html">Dodatkowe polecenia</a></b><br />
+<p><b><a href="main_menu_edit_additionals.php">Dodatkowe polecenia</a></b><br />
 Kliknij, aby wyświetlić podmenu zawierające dodatkowe polecenia edycyjne.
 
 <hr>
 
 <p><b>Zaznacz wszystko</b><br />
-Kliknij, aby zaznaczyć cały tekst w edytorze (domyślny skrót <tt>Ctrl+A</tt>). Rozwinięcie przypisanego do tej pozycji menu daje dostęp do dodatkowych poleceń pozwalających na zaznaczanie znaczników, selektorów, tekstów między nawiasami itp. Ich opis znajdziesz w temacie pomocy <a href="main_menu_tools_navigation.html">Menu Narzędzia / Nawigacja po dokumencie</a>.</p> 
+Kliknij, aby zaznaczyć cały tekst w edytorze (domyślny skrót <tt>Ctrl+A</tt>). Rozwinięcie przypisanego do tej pozycji menu daje dostęp do dodatkowych poleceń pozwalających na zaznaczanie znaczników, selektorów, tekstów między nawiasami itp. Ich opis znajdziesz w temacie pomocy <a href="main_menu_tools_navigation.php">Menu Narzędzia / Nawigacja po dokumencie</a>.</p> 
 
 
-<p><b><a href="main_menu_edit_change_selected.html">Zaznaczony tekst na...</a></b><br />
+<p><b><a href="main_menu_edit_change_selected.php">Zaznaczony tekst na...</a></b><br />
 Kliknij, aby otworzyć podmenu i wybrać sposób zamiany zaznaczonego tekstu.
 
 <p><b>Znajdź i zamień '\' na '/'</b><br />
@@ -125,10 +125,10 @@ Kliknij, aby usunąć wcięcie bieżącego wiersza (domyślny skrót <tt>Shift+C
 
 
 <p><b>Godzina/data</b><br />
-Kliknij, aby wstawić do dokumentu bieżącą datę i godzinę w miejscu kursora. Kliknij w strzałkę obok polecenia, aby rozwinąć listę zawierającą różne formaty, w jakich możesz wstawić bieżącą datę i czas. Dodatkowo znajduje się tam polecenie uruchamiające okno <a href="settings_datetime_templates.html">Ustawień szablonów daty i czasu</a>.
+Kliknij, aby wstawić do dokumentu bieżącą datę i godzinę w miejscu kursora. Kliknij w strzałkę obok polecenia, aby rozwinąć listę zawierającą różne formaty, w jakich możesz wstawić bieżącą datę i czas. Dodatkowo znajduje się tam polecenie uruchamiające okno <a href="settings_datetime_templates.php">Ustawień szablonów daty i czasu</a>.
 
 
-<p><b><a href="tool_unicodeeditorek.html">Edytorek Unicode</a></b><br />
+<p><b><a href="tool_unicodeeditorek.php">Edytorek Unicode</a></b><br />
 Kliknij, aby uruchomić okno mini edytorka, który służy do wklejania i obsługi tekstów kodowanych w Unicode.
 
 <hr>
@@ -142,7 +142,7 @@ Kliknij, aby otworzyć narzędzie do edycji znacznika, na którym stoi kursor (d
 
 
 <p><b>Popraw znacznik ze wszystkimi atrybutami</b><br />
-Kliknij, aby otworzyć <a href="main_tabs_inspector_tags.html">Inspektora znaczników</a> z ustawieniami dla bieżącego znacznika (domyślny skrót <tt>F6</tt>).
+Kliknij, aby otworzyć <a href="main_tabs_inspector_tags.php">Inspektora znaczników</a> z ustawieniami dla bieżącego znacznika (domyślny skrót <tt>F6</tt>).
 
 <hr>
 
@@ -158,14 +158,14 @@ Kliknij, aby obejrzeć w nowym oknie przeglądarki dokument, do którego prowadz
 <p><b>Informacje o dokumencie</b><br />
 Kliknij, aby otworzyć okno informacji o bieżącym dokumencie. Korzystając z podmenu możesz otworzyć od razu wybraną zakładkę tego okna:
 <ul>
-	<li><a href="tool_docinfo.html">Informacje o dokumencie</a></li>
+	<li><a href="tool_docinfo.php">Informacje o dokumencie</a></li>
 	<li><a href="tool_docinfo.html#bookmark">Nawigator zakładek</a></li>
-	<li><a href="main_editor_todotasks.html">Zadania do wykonania</a></li>
+	<li><a href="main_editor_todotasks.php">Zadania do wykonania</a></li>
 </ul>
 bądź też utworzyć nowe zadanie do wykonania.
 
 
-<p><b><a href="main_menu_edit_bookmarks.html">Zakładki w dokumencie</a></b><br />
+<p><b><a href="main_menu_edit_bookmarks.php">Zakładki w dokumencie</a></b><br />
 Kliknij, aby otworzyć podmenu zarządzania zakładkami i przemieszczania się po dokumencie.
 
 
@@ -180,7 +180,7 @@ Kliknij, aby otworzyć podmenu zarządzania zakładkami i przemieszczania się p
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="settings_toolbars.html">Ustawienia programu - Ustawienia pasków, menu i skrótów</a>
+	<li><a href="settings_toolbars.php">Ustawienia programu - Ustawienia pasków, menu i skrótów</a>
 </td>
 </tr>
 </table>

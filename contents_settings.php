@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -82,81 +82,81 @@
 
 <ul>
 
-			<li><a href="settings.html">Ustawienia programu</a>
+			<li><a href="settings.php">Ustawienia programu</a>
 			<li>Ogólne
 			<ul>
-				<li><a href="settings_general.html">Ogólne ustawienia</a>
-				<li><a href="settings_user.html">Użytkownik i wersja</a>
-				<li><a href="settings_browse.html">Przeglądanie</a>
-				<li><a href="settings_startup.html">Przy starcie</a>
-				<li><a href="settings_history.html">Historia</a>
-				<li><a href="settings_filelist.html">Lista plików</a>
-				<li><a href="settings_macrocodes.html">Szablony</a>
+				<li><a href="settings_general.php">Ogólne ustawienia</a>
+				<li><a href="settings_user.php">Użytkownik i wersja</a>
+				<li><a href="settings_browse.php">Przeglądanie</a>
+				<li><a href="settings_startup.php">Przy starcie</a>
+				<li><a href="settings_history.php">Historia</a>
+				<li><a href="settings_filelist.php">Lista plików</a>
+				<li><a href="settings_macrocodes.php">Szablony</a>
 			</ul>
 			<li><a data-toggle="collapse" href="#other" role="button" aria-expanded="false" aria-controls="other">Inne ustawienia</a>
 			<ul class="collapse" id="other">
-					<li><a href="settings_editor.html">Edytor, schematy, pisownia</a>
+					<li><a href="settings_editor.php">Edytor, schematy, pisownia</a>
 						<ul>
-							<li><a href="settings_editor_general.html">Ogólne ustawienia edytora</a>
-							<li><a href="settings_editor_font.html">Czcionka edytora</a>
-							<li><a href="settings_editor_conf.html">Konfiguracja edytora</a>
-							<li><a href="settings_editor_spelling.html">Pisownia i weryfikacja składni</a>
+							<li><a href="settings_editor_general.php">Ogólne ustawienia edytora</a>
+							<li><a href="settings_editor_font.php">Czcionka edytora</a>
+							<li><a href="settings_editor_conf.php">Konfiguracja edytora</a>
+							<li><a href="settings_editor_spelling.php">Pisownia i weryfikacja składni</a>
 								<ul>
-									<li><a href="settings_w3c_html.html">Weryfikacja znaczników online</a>
-									<li><a href="settings_w3c_css.html">Weryfikacja CSS online</a>
+									<li><a href="settings_w3c_html.php">Weryfikacja znaczników online</a>
+									<li><a href="settings_w3c_css.php">Weryfikacja CSS online</a>
 								</ul>
 								<li>Kolorowanie składni
 								<ul>
-									<li><a href="settings_editor_syntax.html">Kolorowanie składni</a>
-									<li><a href="settings_editor_syntax_properties.html">Właściwości schematu kolorowania</a>
+									<li><a href="settings_editor_syntax.php">Kolorowanie składni</a>
+									<li><a href="settings_editor_syntax_properties.php">Właściwości schematu kolorowania</a>
 								</ul>
-							<li><a href="settings_editor_documents.html">Dokumenty</a>
-							<li><a href="settings_editor_wysiwyg.html">Edycja wizualna</a>
+							<li><a href="settings_editor_documents.php">Dokumenty</a>
+							<li><a href="settings_editor_wysiwyg.php">Edycja wizualna</a>
 						</ul>
-					<li><a href="settings_toolbars.html">Paski, menu, skróty</a>
+					<li><a href="settings_toolbars.php">Paski, menu, skróty</a>
 						<ul>
-							<li><a href="settings_toolbars_look.html">Wygląd pasków i menu</a>
+							<li><a href="settings_toolbars_look.php">Wygląd pasków i menu</a>
 								<li>Konfiguracja pasków
 								<ul>
-									<li><a href="settings_toolbars_toolbars.html">Konfiguracja pasków</a>
-									<li><a href="settings_toolbars_toolbars_addnew.html">Dodawanie elementów do paska</a>
+									<li><a href="settings_toolbars_toolbars.php">Konfiguracja pasków</a>
+									<li><a href="settings_toolbars_toolbars_addnew.php">Dodawanie elementów do paska</a>
 								</ul>
-							<li><a href="settings_toolbars_editor.html">Menu kontekstowe edytora</a>
-							<li><a href="settings_toolbars_hotkeys.html">Skróty klawiszowe</a>
-							<li><a href="settings_datetime_templates.html">Szablony daty i czasu</a>
+							<li><a href="settings_toolbars_editor.php">Menu kontekstowe edytora</a>
+							<li><a href="settings_toolbars_hotkeys.php">Skróty klawiszowe</a>
+							<li><a href="settings_datetime_templates.php">Szablony daty i czasu</a>
 						</ul>
-					<li><a href="settings_codeinsight.html">Ułatwienia, dynamiczne atrybuty</a>
+					<li><a href="settings_codeinsight.php">Ułatwienia, dynamiczne atrybuty</a>
 						<ul>
-							<li><a href="settings_codeinsight_tags.html">Dynamiczne dla znaczników</a>
-							<li><a href="settings_codeinsight_php.html">Dynamiczne dla PHP</a>
-							<li><a href="settings_codeinsight_scripts.html">Dynamiczne dla skryptów</a>
-							<li><a href="settings_codeinsight_additional.html">Dodatkowe ułatwienia</a>
-							<li><a href="settings_codeinsight_css.html">Dynamiczne w CSS i inne</a>
-							<li><a href="settings_codeinsight_formatter.html">Formatowanie kodu</a>
+							<li><a href="settings_codeinsight_tags.php">Dynamiczne dla znaczników</a>
+							<li><a href="settings_codeinsight_php.php">Dynamiczne dla PHP</a>
+							<li><a href="settings_codeinsight_scripts.php">Dynamiczne dla skryptów</a>
+							<li><a href="settings_codeinsight_additional.php">Dodatkowe ułatwienia</a>
+							<li><a href="settings_codeinsight_css.php">Dynamiczne w CSS i inne</a>
+							<li><a href="settings_codeinsight_formatter.php">Formatowanie kodu</a>
 						</ul>
-					<li><a href="settings_network.html">Ustawienia sieci i serwerów FTP</a>
+					<li><a href="settings_network.php">Ustawienia sieci i serwerów FTP</a>
 						<ul>
-							<li><a href="settings_network_net.html">Ustawienia sieci</a>
+							<li><a href="settings_network_net.php">Ustawienia sieci</a>
 								<li>Serwery FTP i WebDAV
 								<ul>
-									<li><a href="settings_network_ftpservers.html">Serwery FTP i WebDAV</a>
-									<li><a href="settings_network_ftpservers_add.html">Właściwości serwera FTP</a>
-									<li><a href="settings_network_ftpservers_add_map.html">Ustawienia mapowania serwera FTP</a>
+									<li><a href="settings_network_ftpservers.php">Serwery FTP i WebDAV</a>
+									<li><a href="settings_network_ftpservers_add.php">Właściwości serwera FTP</a>
+									<li><a href="settings_network_ftpservers_add_map.php">Ustawienia mapowania serwera FTP</a>
 								</ul>
-							<li><a href="settings_network_ftpclient.html">Wbudowany klient FTP i WebDAV</a>
-							<li><a href="settings_network_synchronization.html">Kolejka i synchronizacja projektów</a>
+							<li><a href="settings_network_ftpclient.php">Wbudowany klient FTP i WebDAV</a>
+							<li><a href="settings_network_synchronization.php">Kolejka i synchronizacja projektów</a>
 								<li>Serwery baz danych MySQL
 								<ul>
-									<li><a href="settings_network_mysqlservers.html">Serwery baz danych MySQL</a>
-									<li><a href="settings_network_mysqlservers_add.html">Właściwości serwera MySQL</a>
+									<li><a href="settings_network_mysqlservers.php">Serwery baz danych MySQL</a>
+									<li><a href="settings_network_mysqlservers_add.php">Właściwości serwera MySQL</a>
 								</ul>
-							<li><a href="settings_network_rss.html">Ustawienia kanałów RSS</a>
+							<li><a href="settings_network_rss.php">Ustawienia kanałów RSS</a>
 						</ul>
-					<li><a href="settings_addtools.html">Dodatkowe narzędzia i Tidy</a>
+					<li><a href="settings_addtools.php">Dodatkowe narzędzia i Tidy</a>
 						<ul>
-							<li><a href="settings_addtools_tidy.html">Ustawienia TIDY</a>
-							<li><a href="settings_addtools_tools.html">Dodatkowe programy</a>
-							<li><a href="settings_addtools_htmlhelp.html">HTML Help</a>
+							<li><a href="settings_addtools_tidy.php">Ustawienia TIDY</a>
+							<li><a href="settings_addtools_tools.php">Dodatkowe programy</a>
+							<li><a href="settings_addtools_htmlhelp.php">HTML Help</a>
 						</ul>
 				</ul>
 		</ul>
@@ -165,7 +165,7 @@
 </td>
 </tr>
 </table>
-<p class="prawa"><a href="contents_main.html">Powrót do spisu treści</a></p>
+<p class="prawa"><a href="contents_main.php">Powrót do spisu treści</a></p>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.slim.min.js" integrity="sha512-/DXTXr6nQodMUiq+IUJYCt2PPOUjrHJ9wFrqpJ3XkgPNOZVfMok7cRw6CSxyCQxXn6ozlESsSh1/sMCTF1rL/g==" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/js/bootstrap.bundle.min.js" integrity="sha512-kBFfSXuTKZcABVouRYGnUo35KKa1FBrYgwG4PAx7Z2Heroknm0ca2Fm2TosdrrI356EDHMW383S3ISrwKcVPUw==" crossorigin="anonymous"></script>

@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -76,7 +76,7 @@
 
 
 
-<p>To okienko pozwala na dodanie nowej własności lub metody dla typu obiektowego z grupy obiektów wybranej w ustawieniach pliku definicyjnego dla skryptów. <a href="tagdata_editor_tdf_scripts.html">Edytor pliku definicyjnego</a> pozwala na tworzenie i modyfikację istniejącej definicji wybranego języka skryptowego, która jest wykorzystywana w funkcjach dynamicznych podpowiedzi oraz na zakładce <a href="main_tabs_languages.html">Języki programowania</a>.
+<p>To okienko pozwala na dodanie nowej własności lub metody dla typu obiektowego z grupy obiektów wybranej w ustawieniach pliku definicyjnego dla skryptów. <a href="tagdata_editor_tdf_scripts.php">Edytor pliku definicyjnego</a> pozwala na tworzenie i modyfikację istniejącej definicji wybranego języka skryptowego, która jest wykorzystywana w funkcjach dynamicznych podpowiedzi oraz na zakładce <a href="main_tabs_languages.php">Języki programowania</a>.
 
 <p>Okno składa się z następujących pól:
 
@@ -91,13 +91,13 @@ Wprowadź tutaj listę argumentów przyjmowanych przez funkcję.
 Argumenty powinny być oddzielone przecinkami, zaś każdy z nich powinien składać się z określenia typu oraz nazwy (oba wyrazy powinny być oddzielone spacją - zgodnie ze składnią). Opcjonalne argumenty mogą być ujęte w nawiasy kwadratowe.
 
 <p><b>Typ rezultatu</b><br>
-Wybierz typ rezultatu zwracanego przez funkcję. Możesz wybrać jeden z typów zdefiniowanych na liście typów za pomocą okienka <a href="tagdata_editor_tdf_scripts_objecttype.html">Nowy typ lub własność typu obiektowego</a>.
+Wybierz typ rezultatu zwracanego przez funkcję. Możesz wybrać jeden z typów zdefiniowanych na liście typów za pomocą okienka <a href="tagdata_editor_tdf_scripts_objecttype.php">Nowy typ lub własność typu obiektowego</a>.
 
 <p><b>Typ rezultatu tablicy</b><br>
-Wybierz typ rezultatu tablicy zwracanego przez funkcję. Możesz wybrać jeden z typów zdefiniowanych na liście typów za pomocą okienka <a href="tagdata_editor_tdf_scripts_objecttype.html">Nowy typ lub własność typu obiektowego</a>.
+Wybierz typ rezultatu tablicy zwracanego przez funkcję. Możesz wybrać jeden z typów zdefiniowanych na liście typów za pomocą okienka <a href="tagdata_editor_tdf_scripts_objecttype.php">Nowy typ lub własność typu obiektowego</a>.
 
 <p><b>Opis własności</b><br>
-Wprowadź opis edytowanej własności języka, który będzie wyświetlany w dynamicznej podpowiedzi oraz na liście <a href="main_tabs_languages.html">Języki programowania</a>.
+Wprowadź opis edytowanej własności języka, który będzie wyświetlany w dynamicznej podpowiedzi oraz na liście <a href="main_tabs_languages.php">Języki programowania</a>.
 
 <p><b>Wsparcie w wersjach języka</b><br>
 Wprowadź informację o wsparciu ze strony poszczególnych wersji języka skryptowego np. <tt>js10</tt>.
@@ -114,10 +114,10 @@ Wprowadź informację o wsparciu ze strony poszczególnych wersji języka skrypt
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="tagdata_editor_tdf_scripts.html">Edytor plików definicyjnych języków skryptowych</a>
-	<li><a href="tagdata_editor_tdf_scripts_objecttype.html">Nowy typ lub własność typu obiektowego</a>
-	<li><a href="main_tabs_languages.html">Zakładka "Języki programowania"</a>
-	<li><a href="settings_codeinsight_scripts.html">Ustawienia Dynamicznego kodu</a>
+	<li><a href="tagdata_editor_tdf_scripts.php">Edytor plików definicyjnych języków skryptowych</a>
+	<li><a href="tagdata_editor_tdf_scripts_objecttype.php">Nowy typ lub własność typu obiektowego</a>
+	<li><a href="main_tabs_languages.php">Zakładka "Języki programowania"</a>
+	<li><a href="settings_codeinsight_scripts.php">Ustawienia Dynamicznego kodu</a>
 </ul>
 </td>
 </tr>

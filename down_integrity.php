@@ -28,23 +28,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -84,9 +84,9 @@
 
 <p>Aby sprawdzić spójność serwisu skorzystaj:
 <ul>
-   <li>na <a href="down_panel.html">dolnym panelu wyników</a> z menu z prawej strony zakładki polecenie "Spójność serwisu", </li>
-   <li>na zakładce <a href="main_tabs_myservices.html">Moje serwisy</a> z menu na liście rozwijanej Ustawienia serwisu - Oczyszczanie serwisu,</li>
-   <li>w oknie <a href="service_tool_synchronization.html">Synchronizacja serwisu</a> - z menu pod przyciskiem "Operacje oczyszczania bieżącego serwisu WWW"</li>
+   <li>na <a href="down_panel.php">dolnym panelu wyników</a> z menu z prawej strony zakładki polecenie "Spójność serwisu", </li>
+   <li>na zakładce <a href="main_tabs_myservices.php">Moje serwisy</a> z menu na liście rozwijanej Ustawienia serwisu - Oczyszczanie serwisu,</li>
+   <li>w oknie <a href="service_tool_synchronization.php">Synchronizacja serwisu</a> - z menu pod przyciskiem "Operacje oczyszczania bieżącego serwisu WWW"</li>
 </ul>
 </p>
 
@@ -132,16 +132,16 @@ Kliknij, aby usunąć z dysku zaznaczone na liście pliki. Spowoduje to usunięc
 <p><b>Usunięcie wszystkich osieroconych plików</b><br />
 Kliknij, aby usunąć wszystkie pliki nieużywane w serwisie. Spowoduje to usunięcie plików z twardego dysku.</p>
 
-<p><b>Uwaga!</b> Oczyszczanie serwisu warto przeprowadzić przed uruchomieniem <a href="service_tool_synchronization.html">Automatycznej synchronizacji serwisu</a>. Dzięki temu na serwer nie będą przesyłane niepotrzebne pliki, co skróci czas synchronizacji i w efekcie pozwoli na ograniczenie kosztów w przypadku połączenia modemowego.</p>
+<p><b>Uwaga!</b> Oczyszczanie serwisu warto przeprowadzić przed uruchomieniem <a href="service_tool_synchronization.php">Automatycznej synchronizacji serwisu</a>. Dzięki temu na serwer nie będą przesyłane niepotrzebne pliki, co skróci czas synchronizacji i w efekcie pozwoli na ograniczenie kosztów w przypadku połączenia modemowego.</p>
 
 <a name="service_clean_quick"></a>
 <h2>Szybkie oczyszczanie serwisu</h2>
 
 <p>Aby szybko oczyścić serwis z niepotrzebnych plików, skorzystaj:
 <ul>
-   <li>w zakładce <a href="main_tabs_myservices.html">Moje Serwisy</a> - z menu na liście rozwijanej Własności serwisu / Oczyszczanie serwisu,</li>
-   <li>w oknie <a href="service_tool_synchronization.html">Synchronizacja serwisu</a> - z menu pod przyciskiem "Operacje oczyszczania bieżącego serwisu WWW"</li>
-   <li>w menu <a href="main_menu_services_properties.html">Serwisy / Własności serwisu / Oczyszczanie serwisu</a></li>
+   <li>w zakładce <a href="main_tabs_myservices.php">Moje Serwisy</a> - z menu na liście rozwijanej Własności serwisu / Oczyszczanie serwisu,</li>
+   <li>w oknie <a href="service_tool_synchronization.php">Synchronizacja serwisu</a> - z menu pod przyciskiem "Operacje oczyszczania bieżącego serwisu WWW"</li>
+   <li>w menu <a href="main_menu_services_properties.php">Serwisy / Własności serwisu / Oczyszczanie serwisu</a></li>
 </ul></p>
 
 <p><b>Usuń pliki informacji o dokumencie (*.add)</b><br />
@@ -178,13 +178,13 @@ Usuwa jednocześnie wszystkie powyższe pliki czyszcząc serwis za jednym klikni
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-   <li><a href="down_links_verify.html">Sprawdzanie poprawności odsyłaczy</a></li>
-   <li><a href="down_syntax_check.html">Sprawdzanie poprawności składni</a></li>
-   <li><a href="service_tool_synchronization.html">Automatyczna synchronizacja serwisu</a></li>
-   <li><a href="services_general.html">Serwisy ogólnie</a></li>
-   <li><a href="main_tabs_myservices.html">Zakładka "Moje Serwisy"</a></li>
+   <li><a href="down_links_verify.php">Sprawdzanie poprawności odsyłaczy</a></li>
+   <li><a href="down_syntax_check.php">Sprawdzanie poprawności składni</a></li>
+   <li><a href="service_tool_synchronization.php">Automatyczna synchronizacja serwisu</a></li>
+   <li><a href="services_general.php">Serwisy ogólnie</a></li>
+   <li><a href="main_tabs_myservices.php">Zakładka "Moje Serwisy"</a></li>
    <li><a href="down_panel.html#downpanellist">Inne zakładki dolnego panelu wyników</a></li>
-   <li><a href="main_window_desc.html">Główne okno programu</a></li>
+   <li><a href="main_window_desc.php">Główne okno programu</a></li>
 </ul>
 </td>
 </tr>

@@ -49,23 +49,23 @@ color: #008000;
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -101,7 +101,7 @@ color: #008000;
 <!-- treść pomocy -->
 <p> W tym oknie możesz ustawić opcje formatowania dla skryptów PHP </p>
 
-<p>Okno ustawień dla PHP można wywołać z okna <a href="formatter_general.html#php">Formatowanie kody źródłowego</a>, lub z okna <a href="settings_codeinsight_formatter.html">ustawień programu</a>.</p>
+<p>Okno ustawień dla PHP można wywołać z okna <a href="formatter_general.html#php">Formatowanie kody źródłowego</a>, lub z okna <a href="settings_codeinsight_formatter.php">ustawień programu</a>.</p>
 
 
 <h2>Ustawienia bloków</h2>
@@ -171,14 +171,14 @@ Zaznacz tę opcję, aby włączyć przenoszenia konstrukcji znajdujących się p
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-   <li><a href="formatter_general.html">Korzystanie z funkcji formatowania</a></li>
-   <li><a href="settings_codeinsight_formatter.html">Ustawienia formatowań</a></li>
-   <li><a href="formatter_markuplangs.html">Ustawienia formatowania dokumentów znacznikowych</a></li>
-   <li><a href="formatter_stylesheets.html">Ustawienia formatowania arkuszy stylów CSS</a></li>
-   <li><a href="formatter_javascript.html">Ustawienia formatowania skryptów JavaScript</a></li>
-   <li><a href="formatter_tidy.html">Ustawienia formatowania za pomocą programu Tidy</a></li>
-   <li><a href="tool_htmlcompressor.html">Kompresor HTML</a>
-   <li><a href="coding_php.html">Korzystanie z PHP w Pająku </a>
+   <li><a href="formatter_general.php">Korzystanie z funkcji formatowania</a></li>
+   <li><a href="settings_codeinsight_formatter.php">Ustawienia formatowań</a></li>
+   <li><a href="formatter_markuplangs.php">Ustawienia formatowania dokumentów znacznikowych</a></li>
+   <li><a href="formatter_stylesheets.php">Ustawienia formatowania arkuszy stylów CSS</a></li>
+   <li><a href="formatter_javascript.php">Ustawienia formatowania skryptów JavaScript</a></li>
+   <li><a href="formatter_tidy.php">Ustawienia formatowania za pomocą programu Tidy</a></li>
+   <li><a href="tool_htmlcompressor.php">Kompresor HTML</a>
+   <li><a href="coding_php.php">Korzystanie z PHP w Pająku </a>
 </ul>
 </td>
 </tr>

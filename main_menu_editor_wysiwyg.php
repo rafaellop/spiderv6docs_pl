@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -74,7 +74,7 @@
 
 <!-- Treść pomocy -->
 
-<p>Menu podręczne <a href="main_editor_wysiwyg.html">edytora w trybie graficznym</a> zawiera polecenia uruchamiające najczęściej używane w tym trybie funkcje i narzędzia:</p>
+<p>Menu podręczne <a href="main_editor_wysiwyg.php">edytora w trybie graficznym</a> zawiera polecenia uruchamiające najczęściej używane w tym trybie funkcje i narzędzia:</p>
 
 <!--
 
@@ -95,15 +95,15 @@ Wyświetla podmenu zawierające polecenia obsługi schowka: </a></p>
         <li><p><b>Kopiuj</b><br />Kliknij, aby skopiować zaznaczenie do schowka (domyślny skrót <tt>Ctrl+C</tt>).
         <li><p><b>Kopiuj linię</b><br />Kliknij, aby skopiować do schowka całą linię, w której znajduje się kursor.
         <li><p><b>Wklej</b><br />Kliknij, aby wkleić zawartość schowka (domyślny skrót <tt>Ctrl+V</tt>).
-        <li><p><b>Wklej ze schowka z zamianą</b><br />Kliknij, aby wybrać sposób zamiany tekstu podczas wklejania. Podmenu to jest identyczne, jak <a href="main_menu_edit_pastechange.html">menu Edycja / Wklej ze schowka z zamianą</a>.
-        <li><p><b><a href="tool_multiclipboard.html">Wieloschowek</a></b><br />Kliknij, aby wyświetlić okno Wieloschowka (domyślny skrót <tt>Ctrl+Shift+W</tt>). Polecenie posiada podmenu wyświetlające zapamiętane w Wieloschowku elementy - aby wstawić odpowiedni fragment do edytora kliknij na wybranej pozycji. Identyczne polecenie znajdziesz w <a href="main_menu_edit.html">menu Edycja</a>.
+        <li><p><b>Wklej ze schowka z zamianą</b><br />Kliknij, aby wybrać sposób zamiany tekstu podczas wklejania. Podmenu to jest identyczne, jak <a href="main_menu_edit_pastechange.php">menu Edycja / Wklej ze schowka z zamianą</a>.
+        <li><p><b><a href="tool_multiclipboard.php">Wieloschowek</a></b><br />Kliknij, aby wyświetlić okno Wieloschowka (domyślny skrót <tt>Ctrl+Shift+W</tt>). Polecenie posiada podmenu wyświetlające zapamiętane w Wieloschowku elementy - aby wstawić odpowiedni fragment do edytora kliknij na wybranej pozycji. Identyczne polecenie znajdziesz w <a href="main_menu_edit.php">menu Edycja</a>.
 </ul>
 
 <p><b>Zaznacz wszystko</b><br />
 Kliknij, aby zaznaczyć cały tekst w edytorze (domyślny skrót <tt>Ctrl+A</tt>)
 
 <p><b>Zaznaczony tekst na...</b><br />
-Kliknij, aby otworzyć podmenu i wybrać sposób zamiany zaznaczonego tekstu. Podmenu to jest identyczne, jak <a href="main_menu_edit_change_selected.html">menu Edycja / Zaznaczony tekst na...</a>.
+Kliknij, aby otworzyć podmenu i wybrać sposób zamiany zaznaczonego tekstu. Podmenu to jest identyczne, jak <a href="main_menu_edit_change_selected.php">menu Edycja / Zaznaczony tekst na...</a>.
 
 <p><b>Język dokumentu</b><br>
 Kliknij, aby wskazać język znacznikowy, w którym tworzony jest dokument (polecenie jest przydatne, gdy Pająk nie rozpozna samodzielnie języka na podstawie sekcji META, czy znacznika DOCTYPE).
@@ -114,13 +114,13 @@ Kliknij, aby skorzystać z poleceń zmiany kodowania znaków w bieżącym dokume
 <hr />
 
 <p><b>Edytor wizualny</b><br />
-Kliknij, aby wyłączyć tryb edycji wizualnej (włączyć tryb <a href="main_editor.html">edycji kodu źródłowego</a>).</p>
+Kliknij, aby wyłączyć tryb edycji wizualnej (włączyć tryb <a href="main_editor.php">edycji kodu źródłowego</a>).</p>
 
 <p><b>Przeglądanie</b><br />
-Kliknij, aby włączyć zakładkę Przeglądanie w celu obejrzenia bieżącego dokumentu. Jeśli w <a href="settings_browse.html">Ustawieniach programu / Przeglądanie</a> ustawiłeś zewnętrzne przeglądarki, możesz wybrać przeglądarkę, która wyświetli stronę w swoim oknie. Standardowy skrót <tt>F11</tt>.
+Kliknij, aby włączyć zakładkę Przeglądanie w celu obejrzenia bieżącego dokumentu. Jeśli w <a href="settings_browse.php">Ustawieniach programu / Przeglądanie</a> ustawiłeś zewnętrzne przeglądarki, możesz wybrać przeglądarkę, która wyświetli stronę w swoim oknie. Standardowy skrót <tt>F11</tt>.
 
 <p><b>Widok głównego okna</b><br />
-Kliknij, aby wyświetlić, bądź schować paski narzędzi lub panele. Polecenie wyświetla <a href="main_menu_view_view.html">podmenu</a> pozwalające na zmianę ustawień wyglądu głównego okna.
+Kliknij, aby wyświetlić, bądź schować paski narzędzi lub panele. Polecenie wyświetla <a href="main_menu_view_view.php">podmenu</a> pozwalające na zmianę ustawień wyglądu głównego okna.
 
 <p><b>Funkcje edytora</b><br />
 Kliknij, aby wyświetlić podmenu zawierające polecenia sterujące pracą edytora. 
@@ -137,10 +137,10 @@ Kliknij, aby obejrzeć w nowym oknie przeglądarki dokument, do którego prowadz
 <hr>
 
 <p><b>Nawigacja po dokumencie</b><br />
-Zawiera polecenia uruchamiające narzędzia ułatwiające poruszanie się po dokumencie i orientację w kodzie. Podmenu to ma polecenia ułożone identycznie, jak w menu <a href="main_menu_tools_navigation.html">Narzędzia / Nawigacja po dokumencie</a>.
+Zawiera polecenia uruchamiające narzędzia ułatwiające poruszanie się po dokumencie i orientację w kodzie. Podmenu to ma polecenia ułożone identycznie, jak w menu <a href="main_menu_tools_navigation.php">Narzędzia / Nawigacja po dokumencie</a>.
 
 <p><b>Zakładki w dokumencie</b><br />
-Kliknij, aby otworzyć podmenu zarządzania zakładkami i przemieszczania się po dokumencie. Podmenu to ma polecenia ułożone identycznie, jak w menu <a href="main_menu_edit.html">Narzędzia / Zakładki w dokumencie</a>.
+Kliknij, aby otworzyć podmenu zarządzania zakładkami i przemieszczania się po dokumencie. Podmenu to ma polecenia ułożone identycznie, jak w menu <a href="main_menu_edit.php">Narzędzia / Zakładki w dokumencie</a>.
 
 <hr />
 
@@ -148,7 +148,7 @@ Kliknij, aby otworzyć podmenu zarządzania zakładkami i przemieszczania się p
 Kliknij, aby zamknąć bieżący dokument. Jeśli w dokumencie są niezapisane zmiany, program zapyta, czy go zapisać.</p>
 
 <p><b>Dostosuj paski, menu i skróty</b><br />
-Kliknij, aby otworzyć <a href="settings_toolbars.html">okno, w którym będzie można dostosować ww. elementy programu</a>.</p>
+Kliknij, aby otworzyć <a href="settings_toolbars.php">okno, w którym będzie można dostosować ww. elementy programu</a>.</p>
 
 <p><b>Pomoc do edytora</b><br>
 Ten przycisk wyświetla stronę pomocy dla edytora.
@@ -164,7 +164,7 @@ Ten przycisk wyświetla stronę pomocy dla edytora.
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="main_editor_wysiwyg.html">Edytor w trybie graficznym</a>
+	<li><a href="main_editor_wysiwyg.php">Edytor w trybie graficznym</a>
 </td>
 </tr>
 </table>

@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -81,7 +81,7 @@
 
 <p><b>Szybkie utworzenie tabeli</b>
 
-<p>Aby szybko utworzyć tabelę jak pokazana poniżej, skorzystaj z polecenia <a href="tool_table_quick.html">Bardzo szybka tabelka</a> w <a href="main_menu_main.html">menu głównym</a> / <a href="main_menu_tools.html">Narzędzia</a> / <a href="main_menu_tools_creators.html">Kreatory kodu znaczników</a>.</p>
+<p>Aby szybko utworzyć tabelę jak pokazana poniżej, skorzystaj z polecenia <a href="tool_table_quick.php">Bardzo szybka tabelka</a> w <a href="main_menu_main.php">menu głównym</a> / <a href="main_menu_tools.php">Narzędzia</a> / <a href="main_menu_tools_creators.php">Kreatory kodu znaczników</a>.</p>
 
 
 		<table width="200" border="1">
@@ -105,35 +105,35 @@
 	<li>Po ustaleniu parametrów tabeli wciśnij przycisk OK. Możesz tez skorzystać z opcji na liście rozwijanej obok przycisku OK w celu wstawienia kodu tabeli w odpowiednim formatowaniu.</li>
 </ol>
 
-<p>Drugim, bardziej złożonym narzędziem jest <a href="tool_table_quick2.html">Szybka tabelka</a> Narzędzie to pozwala łatwo i szybko stworzyć dowolną tabelę. Krok po kroku narzędzie będzie Ciebie prowadzić przez proces tworzenia tabeli - po kolei będziesz wybierać ilość wierszy i kolumn, ich formatowanie, opis tabeli itp..</p>
+<p>Drugim, bardziej złożonym narzędziem jest <a href="tool_table_quick2.php">Szybka tabelka</a> Narzędzie to pozwala łatwo i szybko stworzyć dowolną tabelę. Krok po kroku narzędzie będzie Ciebie prowadzić przez proces tworzenia tabeli - po kolei będziesz wybierać ilość wierszy i kolumn, ich formatowanie, opis tabeli itp..</p>
 
 <h2>Zaawansowane narzędzia</h2>
 
-<p>Bardziej wydajnym jednak narzędziem do tworzenia tabel jest <a href="tool_table_editor.html">Edytor tabel</a>. Po uruchomieniu tego narzędzia powinno ukazać się okno zawierające kilka zakładek. Każda z nich odpowiada za tworzenie i przedstawianie różnych elementów tabeli, jak wybór ilości kolumn i wierszy, obramowanie tabeli itp, ustawienia znaczników kolumn i wierszy, tworzenie i przypisywanie stylów, czy wreszcie podgląd gotowej tabeli i wygenerowanego kodu HTML. </p>
+<p>Bardziej wydajnym jednak narzędziem do tworzenia tabel jest <a href="tool_table_editor.php">Edytor tabel</a>. Po uruchomieniu tego narzędzia powinno ukazać się okno zawierające kilka zakładek. Każda z nich odpowiada za tworzenie i przedstawianie różnych elementów tabeli, jak wybór ilości kolumn i wierszy, obramowanie tabeli itp, ustawienia znaczników kolumn i wierszy, tworzenie i przypisywanie stylów, czy wreszcie podgląd gotowej tabeli i wygenerowanego kodu HTML. </p>
 
 
 <h2>Polecenia wstawiania i edycji znaczników tabeli</h2>
 
-<p>Jeśli chcesz szybko wstawić znacznik tabeli <tt>&lt;TABLE&gt;</tt>, bądź jej elementu (wiersz <tt>&lt;TR&gt;</tt>, komórka <tt>&lt;TD&gt;</tt>, opis <tt>&lt;CAPTION&gt;</tt>), możesz skorzystać z poleceń w <a href="main_menu_main.html">menu głównym</a> / <a href="main_menu_tools.html">Narzędzia</a> / <a href="main_menu_tools_tables.html">Tabele</a>, bądź <a href="main_menu_htmlcode.html">Kod HTML</a> / <a href="main_menu_htmlcode_tables.html">Tabele</a>, a także z poleceń na <a href="toolbars_tables.html">pasku narzędzi Tabele i formularze</a>.</p>
+<p>Jeśli chcesz szybko wstawić znacznik tabeli <tt>&lt;TABLE&gt;</tt>, bądź jej elementu (wiersz <tt>&lt;TR&gt;</tt>, komórka <tt>&lt;TD&gt;</tt>, opis <tt>&lt;CAPTION&gt;</tt>), możesz skorzystać z poleceń w <a href="main_menu_main.php">menu głównym</a> / <a href="main_menu_tools.php">Narzędzia</a> / <a href="main_menu_tools_tables.php">Tabele</a>, bądź <a href="main_menu_htmlcode.php">Kod HTML</a> / <a href="main_menu_htmlcode_tables.php">Tabele</a>, a także z poleceń na <a href="toolbars_tables.php">pasku narzędzi Tabele i formularze</a>.</p>
 
 <p>Po utworzeniu tabeli możesz edytować poszczególne znaczniki. Służą do tego okna edycji znaczników. Wystarczy postawić na wybranym znaczniku kursor i wcisnąć klawisz <tt>F5</tt>.</p>
 
-<p>Innym sposobem edycji znaczników tabeli, jest skorzystanie z <a href="main_tabs_inspector_tags.html">Inspektora znaczników</a> na lewym panelu.</p> W tym celu postaw kursor na znaczniku i wciśnij klawisz <tt>F6</tt>. Jeśli Inspektor znaczników jest cały czas aktywny, opcje znacznika pojawią się na nim automatycznie po postawieniu na znaczniku kursora.
+<p>Innym sposobem edycji znaczników tabeli, jest skorzystanie z <a href="main_tabs_inspector_tags.php">Inspektora znaczników</a> na lewym panelu.</p> W tym celu postaw kursor na znaczniku i wciśnij klawisz <tt>F6</tt>. Jeśli Inspektor znaczników jest cały czas aktywny, opcje znacznika pojawią się na nim automatycznie po postawieniu na znaczniku kursora.
 
 
 <h2>Zamiana tekstu na tabelę</h2>
 
-<p>Pająk zawiera również narzędzie <a href="tool_text2table.html">Zamiana tekstu na tabelę</a>. Jest ono bardzo przydatne szczególnie w przypadku, gdy musisz ułożyć w tabeli tekst np. z pliku CSV (tekst oddzielany średnikami) itp. Narzędzie pozwala określić znak, który ma być używany jako separator kolumn, ustawić opcje znacznika <tt>&lt;TABLE&gt;</tt> itd.
+<p>Pająk zawiera również narzędzie <a href="tool_text2table.php">Zamiana tekstu na tabelę</a>. Jest ono bardzo przydatne szczególnie w przypadku, gdy musisz ułożyć w tabeli tekst np. z pliku CSV (tekst oddzielany średnikami) itp. Narzędzie pozwala określić znak, który ma być używany jako separator kolumn, ustawić opcje znacznika <tt>&lt;TABLE&gt;</tt> itd.
 
-<p>Narzędzie możesz uruchomić z <a href="main_menu_main.html">menu głównego</a> / <a href="main_menu_edit.html">Edycja</a> / <a href="main_menu_edit_change_selected.html">Zaznaczony tekst na...</a><i> Zaznaczony na tabelę</i>. Identyczne podmenu znajdziesz w <a href="main_menu_editor.html">menu kontekstowym edytora</a>, a także na pasku narzędzi <a href="toolbars_link_format.html">Odsyłacze, tekst i formatowanie</a>.</p>
+<p>Narzędzie możesz uruchomić z <a href="main_menu_main.php">menu głównego</a> / <a href="main_menu_edit.php">Edycja</a> / <a href="main_menu_edit_change_selected.php">Zaznaczony tekst na...</a><i> Zaznaczony na tabelę</i>. Identyczne podmenu znajdziesz w <a href="main_menu_editor.php">menu kontekstowym edytora</a>, a także na pasku narzędzi <a href="toolbars_link_format.php">Odsyłacze, tekst i formatowanie</a>.</p>
 
 <h2>Tworzenie tabel z baz danych</h2>
 
-<p>W Pająku możliwe jest również tworzenie tabel na podstawie danych pobieranych z baz danych SQL. Więcej o tej tematyce można znaleźć w rozdziale poświęconym <a href="coding_mysql.html">bazom danych</a>.</p>
+<p>W Pająku możliwe jest również tworzenie tabel na podstawie danych pobieranych z baz danych SQL. Więcej o tej tematyce można znaleźć w rozdziale poświęconym <a href="coding_mysql.php">bazom danych</a>.</p>
 
 <h2>Najszybszy sposób wstawiania tła tabeli</h2>
 
-Najszybszym sposobem wstawiania tła obrazka tła tabeli jest przeciągnięcie go z listy plików do edytora w obręb znacznika <tt>&lt;table&gt;</tt>. Otwarte zostanie <a href="tool_style_editor.html">narzędzie do edycji stylu</a>, w którym automatycznie będzie wprowadzona ścieżka do przeciąganego obrazka. Wystarczy kliknąć OK i... gotowe. Identycznie możesz wstawić tło do komórki i wiersza tabeli (<tt>&lt;td&gt;</tt>, <tt>&lt;th&gt;</tt>, <tt>&lt;tr&gt;</tt>),
+Najszybszym sposobem wstawiania tła obrazka tła tabeli jest przeciągnięcie go z listy plików do edytora w obręb znacznika <tt>&lt;table&gt;</tt>. Otwarte zostanie <a href="tool_style_editor.php">narzędzie do edycji stylu</a>, w którym automatycznie będzie wprowadzona ścieżka do przeciąganego obrazka. Wystarczy kliknąć OK i... gotowe. Identycznie możesz wstawić tło do komórki i wiersza tabeli (<tt>&lt;td&gt;</tt>, <tt>&lt;th&gt;</tt>, <tt>&lt;tr&gt;</tt>),
 
 </td>
 </tr>
@@ -145,16 +145,16 @@ Najszybszym sposobem wstawiania tła obrazka tła tabeli jest przeciągnięcie g
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="tool_table_editor.html">Edytor tabel</a>
-	<li><a href="tool_table_quick.html">Bardzo szybka tabelka</a>
-	<li><a href="tool_table_quick2.html">Szybka tabelka</a>
-	<li><a href="tool_table_tag.html">Edytor znacznika TABLE</a>
-	<li><a href="tool_table_row.html">Edytor znacznika wiersza tabeli TR</a>
-	<li><a href="tool_table_cell.html">Edytor znacznika komórki tabeli TD</a>
-	<li><a href="tool_text2table.html">Zamiana tekstu na tabelę</a>
-	<li><a href="main_menu_tools_tables.html">Polecenia menu Narzędzia / Tabele</a>
-	<li><a href="main_menu_tools_tables.html">Polecenia menu Kod HTML / Tabele</a>
-	<li><a href="toolbars_tables.html">Pasek narzędzi Tabele i formularze</a>
+	<li><a href="tool_table_editor.php">Edytor tabel</a>
+	<li><a href="tool_table_quick.php">Bardzo szybka tabelka</a>
+	<li><a href="tool_table_quick2.php">Szybka tabelka</a>
+	<li><a href="tool_table_tag.php">Edytor znacznika TABLE</a>
+	<li><a href="tool_table_row.php">Edytor znacznika wiersza tabeli TR</a>
+	<li><a href="tool_table_cell.php">Edytor znacznika komórki tabeli TD</a>
+	<li><a href="tool_text2table.php">Zamiana tekstu na tabelę</a>
+	<li><a href="main_menu_tools_tables.php">Polecenia menu Narzędzia / Tabele</a>
+	<li><a href="main_menu_tools_tables.php">Polecenia menu Kod HTML / Tabele</a>
+	<li><a href="toolbars_tables.php">Pasek narzędzi Tabele i formularze</a>
 </td>
 </tr>
 </table>

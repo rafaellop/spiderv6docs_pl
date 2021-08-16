@@ -28,23 +28,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -86,7 +86,7 @@ Podaj nazwę tworzonego bloku.</p>
 Możesz wybrać z listy zmienną, której wywołanie chcesz umieścić w treści bloku.</p>
 
 <p><b>Dodanie nowej zmiennej</b><br />
-Kliknij aby utworzyć nową zmienną (tylko dodaje zmienną, ale nie powoduje automatycznego jej wstawienia w treść makrokodu). Do tworzenia nowych i edycji istniejących zmiennych służy okno <a href="macrocodes_editor_addvar.html">Edycja zmiennej makrokodu</a>.</p>
+Kliknij aby utworzyć nową zmienną (tylko dodaje zmienną, ale nie powoduje automatycznego jej wstawienia w treść makrokodu). Do tworzenia nowych i edycji istniejących zmiennych służy okno <a href="macrocodes_editor_addvar.php">Edycja zmiennej makrokodu</a>.</p>
 
 <p><b>Wstawienie wybranej zmiennej</b><br />
 Kliknij aby wstawić wywołanie zmiennej w treść makrokodu,. W chwili użycia makrokodu w miejsce wywołania podstawiona zostanie wartość zmiennej.</p>
@@ -112,12 +112,12 @@ W oknie tekstowym wprowadź tekst, który będzie treścią bloku makrokodu.
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="macrocodes_editor.html">Edytor makrokodów - wstęp</a>
-	<li><a href="macrocodes_editor_blocks.html">Edytor makrokodów - zakładka Bloki wykorzystywane w makrokodzie</a>
-   <li><a href="macrocodes_editor_vars.html">Edytor makrokodów - zakładka Zmienne w makrokodzie</a>
-	<li><a href="settings_macrocodes.html">Ustawienia programu - Makrokody</a>
-	<li><a href="main_tabs_macrocodes.html">Zakładka Makrokody</a>
-	<li><a href="macrocodes.html">Makrokody - ogólnie</a>
+	<li><a href="macrocodes_editor.php">Edytor makrokodów - wstęp</a>
+	<li><a href="macrocodes_editor_blocks.php">Edytor makrokodów - zakładka Bloki wykorzystywane w makrokodzie</a>
+   <li><a href="macrocodes_editor_vars.php">Edytor makrokodów - zakładka Zmienne w makrokodzie</a>
+	<li><a href="settings_macrocodes.php">Ustawienia programu - Makrokody</a>
+	<li><a href="main_tabs_macrocodes.php">Zakładka Makrokody</a>
+	<li><a href="macrocodes.php">Makrokody - ogólnie</a>
 </ul>
 </td>
 </tr>

@@ -32,23 +32,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -91,7 +91,7 @@
 <p><b>UWAGA!</b><br />
 Dynamiczny kod nie jest dostępny dla języka VBScript.</p>
 
-<p>Dynamiczny kod pobiera dane z <a href="tagdata_editor_tdf_scripts.html">pliku definicyjnego dla skryptów</a> oraz analizuje istniejący kod skryptu. W ten sposób możliwe jest podawanie nazw i listy argumentów wbudowanych funkcji oraz predefiniowanych i zadeklarowanych w skrypcie zmiennych i stałych JavaScript. Dzięki temu można znacznie efektywniej pisać skrypty - nie trzeba pamiętać dokładnych nazw wszystkich funkcji JavaScript, czy długiej listy zmiennych.</p>
+<p>Dynamiczny kod pobiera dane z <a href="tagdata_editor_tdf_scripts.php">pliku definicyjnego dla skryptów</a> oraz analizuje istniejący kod skryptu. W ten sposób możliwe jest podawanie nazw i listy argumentów wbudowanych funkcji oraz predefiniowanych i zadeklarowanych w skrypcie zmiennych i stałych JavaScript. Dzięki temu można znacznie efektywniej pisać skrypty - nie trzeba pamiętać dokładnych nazw wszystkich funkcji JavaScript, czy długiej listy zmiennych.</p>
 
 <a name="code_completion"></a>
 <h2>Dynamiczny kod</h2>
@@ -130,7 +130,7 @@ Działanie dynamicznych podpowiedzi polega na podpowiadaniu w trakcie pisania sk
 </ol></p>
 
 <p><b>Ustawienia i inne opcje dynamicznych podpowiedzi</b><br />
-Aby dopasować dynamiczne podpowiedzi do swoich potrzeb, skorzystaj z okna <a href="settings_codeinsight_scripts.html">Ustawienia programu - Dynamiczne podpowiedzi w skryptach</a>.</p>
+Aby dopasować dynamiczne podpowiedzi do swoich potrzeb, skorzystaj z okna <a href="settings_codeinsight_scripts.php">Ustawienia programu - Dynamiczne podpowiedzi w skryptach</a>.</p>
 
 
 </td>
@@ -143,10 +143,10 @@ Aby dopasować dynamiczne podpowiedzi do swoich potrzeb, skorzystaj z okna <a hr
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="coding_scripts_jsvb.html">Wspomaganie dla JavaScript i VBScript - ogólnie</a></li>
-	<li><a href="main_editor_codeinsight.html">Dynamiczne podpowiedzi</a></li>
-	<li> <a href="settings_codeinsight_scripts.html">Ustawienia programu - Dynamiczne podpowiedzi w skryptach</a></li>
-   <li><a href="tagdata_editor_tdf_scripts.html">Edytor pliku definicyjnego dla skryptów</a></li>
+	<li><a href="coding_scripts_jsvb.php">Wspomaganie dla JavaScript i VBScript - ogólnie</a></li>
+	<li><a href="main_editor_codeinsight.php">Dynamiczne podpowiedzi</a></li>
+	<li> <a href="settings_codeinsight_scripts.php">Ustawienia programu - Dynamiczne podpowiedzi w skryptach</a></li>
+   <li><a href="tagdata_editor_tdf_scripts.php">Edytor pliku definicyjnego dla skryptów</a></li>
 </ul>
 </td>
 </tr>

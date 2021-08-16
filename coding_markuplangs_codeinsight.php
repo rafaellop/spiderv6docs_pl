@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -86,7 +86,7 @@
 	<li><a href="#code_parameter">Dynamiczne podpowiedzi</a></li>
 </ul></p>
 
-<p>Informacje podawane przez Dynamiczny kod Pająk pobiera ze specjalnych plików definicyjnych dla języków znacznikowych - TDF. Do edycji danych służy specjalne narzędzie - <a href="tagdata_editor_tdf.html">Edytor plików definicyjnych języków znacznikowych</a>. Korzystając z niego możesz również dodawać i usuwać obsługiwane języki znacznikowe. Dzięki temu Pająk jest wszechstronnym i bardzo elastycznym edytorem, doskonałym do tworzenia dokumentów w dowolnym języka znacznikowym.</p>
+<p>Informacje podawane przez Dynamiczny kod Pająk pobiera ze specjalnych plików definicyjnych dla języków znacznikowych - TDF. Do edycji danych służy specjalne narzędzie - <a href="tagdata_editor_tdf.php">Edytor plików definicyjnych języków znacznikowych</a>. Korzystając z niego możesz również dodawać i usuwać obsługiwane języki znacznikowe. Dzięki temu Pająk jest wszechstronnym i bardzo elastycznym edytorem, doskonałym do tworzenia dokumentów w dowolnym języka znacznikowym.</p>
 
 
 <a name="tag_completion"></a>
@@ -99,7 +99,7 @@ Przykładowo wpisujesz:
 a następnie spację, bądź znak zamknięcia znacznika <tt>&lt;</tt>. Dzięki działaniu tej funkcji, znacznik zostanie uzupełniony (znak | oznacza miejsce, gdzie znajdzie się kursor):
 <pre><b>&lt;a href</b>="|"<b>&gt;&lt;/a&gt;</b></pre>
 
-<p>Korzystając z <a href="tagdata_editor_tdf.html">Edytora pliku definicyjnego dla jęz. znacznikowych</a> możesz zmienić tekst, jakim zostanie uzupełniony znacznik. Jeśli ustawiłeś odpowiednie opcje w oknie <a href="settings_codeinsight_tags.html">Ustawień programu</a>, zmieniona zostanie również wielkość liter w znaczniku.</p>
+<p>Korzystając z <a href="tagdata_editor_tdf.php">Edytora pliku definicyjnego dla jęz. znacznikowych</a> możesz zmienić tekst, jakim zostanie uzupełniony znacznik. Jeśli ustawiłeś odpowiednie opcje w oknie <a href="settings_codeinsight_tags.php">Ustawień programu</a>, zmieniona zostanie również wielkość liter w znaczniku.</p>
 
 
 
@@ -148,10 +148,10 @@ a następnie spację, bądź znak zamknięcia znacznika <tt>&lt;</tt>. Dzięki d
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="coding_html.html">Wspomaganie dla HTML - ogólnie</a></li>
-	<li><a href="coding_markuplangs.html">Wspomaganie dla jęz. znacznikowych - ogólnie</a></li>
-	<li><a href="main_editor_codeinsight.html">Dynamiczne podpowiedzi</a></li>
-	<li><a href="settings_codeinsight_tags.html">Ustawienia programu - Dynamiczne podpowiedzi</a></li>
+	<li><a href="coding_html.php">Wspomaganie dla HTML - ogólnie</a></li>
+	<li><a href="coding_markuplangs.php">Wspomaganie dla jęz. znacznikowych - ogólnie</a></li>
+	<li><a href="main_editor_codeinsight.php">Dynamiczne podpowiedzi</a></li>
+	<li><a href="settings_codeinsight_tags.php">Ustawienia programu - Dynamiczne podpowiedzi</a></li>
 </ul>
 </td>
 </tr>

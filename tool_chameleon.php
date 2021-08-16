@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -80,7 +80,7 @@
 
 <h2>Uruchamianie</h2>
 
-<p>Kameleona możesz uruchomić za pomoca polecenia oznaczonego ikoną pokazaną powyżej znajdującego się w <a href="main_menu_main.html">Menu głównym</a> / <a href="main_menu_file.html">Plik</a>, a także za pomocą menu podręcznego listy plików na zakładce <a href="main_tabs_myservices.html">Moje serwisy</a>. Alternatywnym sposobem uruchamiania narzędzia jest zaznaczenie kilku plików na liście i wciśnięcie klawisza F2.
+<p>Kameleona możesz uruchomić za pomoca polecenia oznaczonego ikoną pokazaną powyżej znajdującego się w <a href="main_menu_main.php">Menu głównym</a> / <a href="main_menu_file.php">Plik</a>, a także za pomocą menu podręcznego listy plików na zakładce <a href="main_tabs_myservices.php">Moje serwisy</a>. Alternatywnym sposobem uruchamiania narzędzia jest zaznaczenie kilku plików na liście i wciśnięcie klawisza F2.
 
 <p>Pierwsza plansza tego narzędzia pełni funkcję informacyjną i jest powitaniem w narzędziu.
 
@@ -96,7 +96,7 @@
 
 <h2>Określenie reguł zamiany</h2>
 
-<p>Kolejna plansza pozwala na ustalenie reguł zmiany nazw plików. Reguły tworzy się w osobnym okienku opisanym w temacie <a href="tool_chameleon_rules.html">Edytor reguł konwersji</a>. Kolejne reguły przypisywane są do listy. Możesz je oczywiście modyfikować. Możesz też tworzyć różne reguły dla różnych typów plików.
+<p>Kolejna plansza pozwala na ustalenie reguł zmiany nazw plików. Reguły tworzy się w osobnym okienku opisanym w temacie <a href="tool_chameleon_rules.php">Edytor reguł konwersji</a>. Kolejne reguły przypisywane są do listy. Możesz je oczywiście modyfikować. Możesz też tworzyć różne reguły dla różnych typów plików.
 
 <h2>Plan konwersji</h2>
 
@@ -115,9 +115,9 @@
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="tool_chameleon_rules.html">Edytor reguł konwersji nazw</a>
-	<li><a href="main_menu_main.html">Menu programu</a></a>
-	<li><a href="toolbars_general.html">Inne narzędzia na paskach</a></a>
+	<li><a href="tool_chameleon_rules.php">Edytor reguł konwersji nazw</a>
+	<li><a href="main_menu_main.php">Menu programu</a></a>
+	<li><a href="toolbars_general.php">Inne narzędzia na paskach</a></a>
 </ul>
 </td>
 </tr>

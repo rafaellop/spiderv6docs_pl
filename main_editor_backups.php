@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -77,9 +77,9 @@
 <p>Kopie zapasowe mogą być tworzone:
 <ul>
 	<li>na dysku lokalnym podczas zapisu dokumentu otwartego w edytorze</li>
-	<li>na serwerze FTP podczas zapisu dokumentu <a href="network_opendoc_ftp.html">otwartego bezpośrednio z serwera FTP</a></li>
-	<li>podczas zmian w plikach nanoszonych podczas pracy narzędzia <a href="find_ext.html">Rozszerzone wyszukiwanie i zamiana</a></li>
-	<li>podczas <a href="charset_encoding.html">konwersji kodowania znaków</a> w wielu dokumentach.</li>
+	<li>na serwerze FTP podczas zapisu dokumentu <a href="network_opendoc_ftp.php">otwartego bezpośrednio z serwera FTP</a></li>
+	<li>podczas zmian w plikach nanoszonych podczas pracy narzędzia <a href="find_ext.php">Rozszerzone wyszukiwanie i zamiana</a></li>
+	<li>podczas <a href="charset_encoding.php">konwersji kodowania znaków</a> w wielu dokumentach.</li>
 </ul></p>
 
 
@@ -106,9 +106,9 @@ Sposób tworzenia nazw plików kopii zapasowej na dysku lokalnym zmieniła się 
 <h2>Odtworzenie dokumentu z kopii zapasowej</h2>
 
 <p><b>Przywróć z pliku kopii zapasowej</b><br>
-To polecenie znajduje się na pasku z prawej strony listy plików zakładki <a href="main_tabs_myservices.html">Moje serwisy</a>. Kliknij, aby przywrócić ostatnią zapisaną zawartość pliku z kopii zapasowej. Polecenie to dostępne jest jedynie dla plików posiadających kopie zapasową - w przeciwnym wypadku będzie niewidoczne. Przywracanie z kopii zapasowej w tym wypadku polega na zamianie zawartości oryginalnego pliku i pliku kopii, można więc ponownie z niego skorzystać i przywrócić stan poprzedni.
+To polecenie znajduje się na pasku z prawej strony listy plików zakładki <a href="main_tabs_myservices.php">Moje serwisy</a>. Kliknij, aby przywrócić ostatnią zapisaną zawartość pliku z kopii zapasowej. Polecenie to dostępne jest jedynie dla plików posiadających kopie zapasową - w przeciwnym wypadku będzie niewidoczne. Przywracanie z kopii zapasowej w tym wypadku polega na zamianie zawartości oryginalnego pliku i pliku kopii, można więc ponownie z niego skorzystać i przywrócić stan poprzedni.
 
-<p>Innym, 'ręcznym' sposobem przywracania zawartości z kopii zapasowej jest zamiana nazwy pliku kopii na oryginalną nazwę pliku. Wystarczy zmienić nazwę pliku usuwając rozszerzenie <tt>.bak</tt> (na dysku lokalnym), bądź usunąć przedrostek <tt>bak.</tt> (na serwerez FTP). Pliki kopii zapasowych standardowo są na liście plików ukrywane. Możesz to zmienić w oknie <a href="settings_filelist.html">Ustawienia programu / lista plików</a> (dla listy plików zakładki <a href="main_tabs_myservices.html">Moje serwisy</a>) oraz w oknie <a href="settings_network_ftpclient.html">Ustawienia programu / Wbudowany klient FTP i WebDAV</a> (dla listy plików zakładki <a href="main_tabs_myftpservers.html">Moje serwery</a>).</p>
+<p>Innym, 'ręcznym' sposobem przywracania zawartości z kopii zapasowej jest zamiana nazwy pliku kopii na oryginalną nazwę pliku. Wystarczy zmienić nazwę pliku usuwając rozszerzenie <tt>.bak</tt> (na dysku lokalnym), bądź usunąć przedrostek <tt>bak.</tt> (na serwerez FTP). Pliki kopii zapasowych standardowo są na liście plików ukrywane. Możesz to zmienić w oknie <a href="settings_filelist.php">Ustawienia programu / lista plików</a> (dla listy plików zakładki <a href="main_tabs_myservices.php">Moje serwisy</a>) oraz w oknie <a href="settings_network_ftpclient.php">Ustawienia programu / Wbudowany klient FTP i WebDAV</a> (dla listy plików zakładki <a href="main_tabs_myftpservers.php">Moje serwery</a>).</p>
 
 
 <h2>Co zrobić, aby pliki kopii zapasowych BAK nie były tworzone?</h2>
@@ -119,7 +119,7 @@ To polecenie znajduje się na pasku z prawej strony listy plików zakładki <a h
 
 <h2>Szybkie usuwanie kopii zapasowych</h2>
 
-<p>Z czasem pliki kopii zapasowych w danym serwisie mogę przestać być potrzebne (np. po zakończeniu prac). Aby je wszystkie szybko usunąć skorzystaj z polecenia w menu <a href="main_menu_services_properties.html">Serwisy / Własności serwisu / Oczyszczanie serwisu</a>.</p>
+<p>Z czasem pliki kopii zapasowych w danym serwisie mogę przestać być potrzebne (np. po zakończeniu prac). Aby je wszystkie szybko usunąć skorzystaj z polecenia w menu <a href="main_menu_services_properties.php">Serwisy / Własności serwisu / Oczyszczanie serwisu</a>.</p>
 
 
 <!-- treść pomocy -->
@@ -135,7 +135,7 @@ To polecenie znajduje się na pasku z prawej strony listy plików zakładki <a h
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="main_editor_general.html">Edytor - ogólnie</a>
+	<li><a href="main_editor_general.php">Edytor - ogólnie</a>
 </ul>
 </td>
 </tr>

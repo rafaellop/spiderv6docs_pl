@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -75,30 +75,30 @@
 
 <!-- treść pomocy -->
 
-<p>Pająk oferuje różne narzędzia służące do wyszukiwania i zamiany tekstu w dokumentach. Dostępne są opcje od prostego wyszukiwanie tekstu w otwartym dokumencie, aż po zaawansowane wyszukiwanie i zamianę tekstów w określonych plikach całych projektów i wybranych folderów przy użyciu <a href="find_regexp.html">wyrażeń regularnych</a>.</p>
+<p>Pająk oferuje różne narzędzia służące do wyszukiwania i zamiany tekstu w dokumentach. Dostępne są opcje od prostego wyszukiwanie tekstu w otwartym dokumencie, aż po zaawansowane wyszukiwanie i zamianę tekstów w określonych plikach całych projektów i wybranych folderów przy użyciu <a href="find_regexp.php">wyrażeń regularnych</a>.</p>
 
-<p>Pająk oferuje dwa wyspecjalizowane narzędzia służące wyłącznie do wyszukiwania tekstu, a także inne narzędzia pomagające orientować się w kodzie, m. in. do <a href="find_text.html#goto">przechodzenia do wybranych elementów dokumentu</a>, <a href="main_tabs_navigator.html">nawigator dokumentu</a> (dla języków:  HTML, CSS, JavaScript, VBScript, PHP, ASP)</p>
+<p>Pająk oferuje dwa wyspecjalizowane narzędzia służące wyłącznie do wyszukiwania tekstu, a także inne narzędzia pomagające orientować się w kodzie, m. in. do <a href="find_text.html#goto">przechodzenia do wybranych elementów dokumentu</a>, <a href="main_tabs_navigator.php">nawigator dokumentu</a> (dla języków:  HTML, CSS, JavaScript, VBScript, PHP, ASP)</p>
 
 
 
 
 <h2>Wyszukiwanie, zamiana, przenoszenie</h2>
 
-<p><a href="find_text.html">Wyszukiwanie, zamiana, przenoszenie</a> - służy do wyszukiwania i ewentualnej zamiany tekstu w aktualnie edytowanym dokumencie. Umożliwia tez szybkie odnajdywanie i przechodzenie do wybranych części aktualnego dokumentu</p>
+<p><a href="find_text.php">Wyszukiwanie, zamiana, przenoszenie</a> - służy do wyszukiwania i ewentualnej zamiany tekstu w aktualnie edytowanym dokumencie. Umożliwia tez szybkie odnajdywanie i przechodzenie do wybranych części aktualnego dokumentu</p>
 
-<p>Narzędzie możesz otworzyć korzystając z przycisków w menu <a href="main_menu_find.html">Szukaj</a>, lub za pomocą skrótów klawiszowych:
+<p>Narzędzie możesz otworzyć korzystając z przycisków w menu <a href="main_menu_find.php">Szukaj</a>, lub za pomocą skrótów klawiszowych:
 <ul>
 	<li> <b>Znajdź</b> (<b>Ctrl+F</b>)</li>
 	<li> <b>Znajdź i zamień</b> (<b>Ctrl+R</b>).</li>
 </ul></p>
 
-<p> Za pomocą przycisku pokazanego obok (znajduje się na pasku </b><a href="toolbars_often.html">Często używane</a>), lub skrótu klawiszowego Ctrl+G, możesz uruchomić narzędzie służące do przechodzenia do wybranych części dokumentu, które znajduje się w tym samym oknie.</p>
+<p> Za pomocą przycisku pokazanego obok (znajduje się na pasku </b><a href="toolbars_often.php">Często używane</a>), lub skrótu klawiszowego Ctrl+G, możesz uruchomić narzędzie służące do przechodzenia do wybranych części dokumentu, które znajduje się w tym samym oknie.</p>
 
 
 
 <h2>Rozszerzone wyszukiwanie i zamiana</h2>
 
-<p><a href="find_ext.html"> Rozszerzone wyszukiwanie i zamiana</a> jest drugim, znacznie bardziej rozbudowanym narzędziem służącym do wyszukiwania. Umożliwia wyszukiwanie i zamianę tekstu:
+<p><a href="find_ext.php"> Rozszerzone wyszukiwanie i zamiana</a> jest drugim, znacznie bardziej rozbudowanym narzędziem służącym do wyszukiwania. Umożliwia wyszukiwanie i zamianę tekstu:
 <ul>
 	<li>w aktualnie edytowanym dokumencie</li>
 	<li>we wszystkich otwartych dokumentach</li>
@@ -107,13 +107,13 @@
 	<li>we wskazanych serwisach</li>
 </ul></p>
 
-<p>Korzystając z tego narzędzia możesz używać zwykłego tekstu, <a href="find_regexp.html">wyrażeń regularnych</a>,  jak i tzw. <a href="find_ext.html#wildcards">wildcards</a>.</p>
+<p>Korzystając z tego narzędzia możesz używać zwykłego tekstu, <a href="find_regexp.php">wyrażeń regularnych</a>,  jak i tzw. <a href="find_ext.html#wildcards">wildcards</a>.</p>
 
 <p>Narzędzie możesz otworzyć na różne sposoby:</p>
 <ul>
-	<li>z poziomu zakładki <a href="main_tabs_myservices.html">Moje serwisy</a> za pomocą przycisków: "Wyszukaj, lub wyszukaj i zamień" w menu obok listy plików, "Wyszukiwanie i zamiana w serwisie" w menu serwisu<br />
+	<li>z poziomu zakładki <a href="main_tabs_myservices.php">Moje serwisy</a> za pomocą przycisków: "Wyszukaj, lub wyszukaj i zamień" w menu obok listy plików, "Wyszukiwanie i zamiana w serwisie" w menu serwisu<br />
 
-	<li>w menu <a href="main_menu_find.html">Szukaj</a> za pomocą przycisku Rozszerzone wyszukiwanie + konwerter znaków
+	<li>w menu <a href="main_menu_find.php">Szukaj</a> za pomocą przycisku Rozszerzone wyszukiwanie + konwerter znaków
 	<li>za pomocą skrótu klawiszowego - standardowo Ctrl+Shift+R
 
 </ul>
@@ -132,7 +132,7 @@
 	<li>dodatkowo wśród plików ukrytych lub nie</li>
 </ul></p>
 
-<p>Narzędzie to uruchamia się za pośrednictwem menu <a href="main_menu_find.html">Szukaj</a>. Wyniki prezentowane są na dolnym panelu na zakładce <a href="down_find_report.html">Raporty wyszukiwania</a>. Odnalezione pliki można otworzyć do edycji, a listę wyszukanych elementów można wyświetlać na kilka różnych sposobów, np. w widoku szczegółowym lub widoku miniatur.</p>
+<p>Narzędzie to uruchamia się za pośrednictwem menu <a href="main_menu_find.php">Szukaj</a>. Wyniki prezentowane są na dolnym panelu na zakładce <a href="down_find_report.php">Raporty wyszukiwania</a>. Odnalezione pliki można otworzyć do edycji, a listę wyszukanych elementów można wyświetlać na kilka różnych sposobów, np. w widoku szczegółowym lub widoku miniatur.</p>
 </td>
 </tr>
 </table>
@@ -143,12 +143,12 @@
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="main_window_desc.html">Główne okno programu</a>
-	<li><a href="find_text.html">Wyszukiwanie, zamiana, przenoszenie do wybranych elementów dokumentu</a>
-	<li><a href="down_find_report.html">Okno Raport wyszukiwania</a>
-	<li><a href="find_regexp.html">Wyszukiwanie - wyrażenia regularne</a>
-	<li><a href="main_menu_find.html">Menu Szukaj</a>
-	<li><a href="main_tabs_navigator.html">Zakładka "Nawigator"</a>
+	<li><a href="main_window_desc.php">Główne okno programu</a>
+	<li><a href="find_text.php">Wyszukiwanie, zamiana, przenoszenie do wybranych elementów dokumentu</a>
+	<li><a href="down_find_report.php">Okno Raport wyszukiwania</a>
+	<li><a href="find_regexp.php">Wyszukiwanie - wyrażenia regularne</a>
+	<li><a href="main_menu_find.php">Menu Szukaj</a>
+	<li><a href="main_tabs_navigator.php">Zakładka "Nawigator"</a>
 </ul>
 </td>
 </tr>

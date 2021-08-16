@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -78,7 +78,7 @@
 
 <!-- treść pomocy -->
 <p>
-To okno uruchamiane jest z narzędzi <a href="settings_toolbars_toolbars.html">modyfikacji pasków narzędziowych</a> i pozwala na dodanie do wybranego paska narzędzi elementu zgodnego z wybranymi w tym oknie ustawieniami. Do wybranego paska narzędzi możesz dodać element, który jest jednym z następujących:
+To okno uruchamiane jest z narzędzi <a href="settings_toolbars_toolbars.php">modyfikacji pasków narzędziowych</a> i pozwala na dodanie do wybranego paska narzędzi elementu zgodnego z wybranymi w tym oknie ustawieniami. Do wybranego paska narzędzi możesz dodać element, który jest jednym z następujących:
 
 <ul>
 	<li><b>Przycisk powiązany z akcją</b> - to zwykły przycisk, który po kliknięciu uruchamia wybraną akcję.
@@ -115,8 +115,8 @@ To okno uruchamiane jest z narzędzi <a href="settings_toolbars_toolbars.html">m
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="settings_toolbars_toolbars.html">Ustawienia wyglądu i pasków</a>
-	<li><a href="main_window_desc.html">Główne okno programu</a>
+	<li><a href="settings_toolbars_toolbars.php">Ustawienia wyglądu i pasków</a>
+	<li><a href="main_window_desc.php">Główne okno programu</a>
 </ul>
 </td>
 </tr>

@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -74,7 +74,7 @@
 
 
 
-<p>Wieloschowek jest narzędziem, które pozwala zachować wiele skopiowanych fragmentów tekstu w celu ich późniejszego użycia. Każdy fragment tekstu skopiowany w edytorze Pająka zostaje zapamiętany. Standardowo możliwe jest zapamiętanie do 20 takich elementów, jednak można to zmienić za pomocą odpowiedniej opcji w oknie <a href="settings_general.html">Ustawienia programu - Ogólne</a>. Pająk rozszerza w ten sposób systemowy schowek Windows, który pozwala na zapamiętanie wyłącznie jednego elementu. 
+<p>Wieloschowek jest narzędziem, które pozwala zachować wiele skopiowanych fragmentów tekstu w celu ich późniejszego użycia. Każdy fragment tekstu skopiowany w edytorze Pająka zostaje zapamiętany. Standardowo możliwe jest zapamiętanie do 20 takich elementów, jednak można to zmienić za pomocą odpowiedniej opcji w oknie <a href="settings_general.php">Ustawienia programu - Ogólne</a>. Pająk rozszerza w ten sposób systemowy schowek Windows, który pozwala na zapamiętanie wyłącznie jednego elementu. 
 
 <p>Należy pamiętać, iż Wieloschowek działa wyłącznie w obrębie edytora Pająka - nie zapamiętuje elementów skopiowanych do schowka w innych oknach programu, ani tym bardziej w innych programach!</p>
 
@@ -85,7 +85,7 @@
 
 <h2>Okno Wieloschowka</h2>
 
-<p>Tekst z Wieloschowka możesz wkleić do edytora na kilka sposobów. Przede wszystkim narzędzie posiada własne okno, które może być 'pływające', bądź zadowowane u dołu lub z prawej strony edytora. Aby je wyświetlić, kliknij polecenie <b>Wieloschowek</b> w menu <a href="main_menu_edit.html">Edycja</a> (ikonę pokazano obok). Identyczne polecenie znajdziesz w <a href="main_menu_editor.html">menu podręcznym Edytora</a>. Standardowym skrótem klawiszowym jest <tt>Ctrl+Shift+W</tt>.</p>
+<p>Tekst z Wieloschowka możesz wkleić do edytora na kilka sposobów. Przede wszystkim narzędzie posiada własne okno, które może być 'pływające', bądź zadowowane u dołu lub z prawej strony edytora. Aby je wyświetlić, kliknij polecenie <b>Wieloschowek</b> w menu <a href="main_menu_edit.php">Edycja</a> (ikonę pokazano obok). Identyczne polecenie znajdziesz w <a href="main_menu_editor.php">menu podręcznym Edytora</a>. Standardowym skrótem klawiszowym jest <tt>Ctrl+Shift+W</tt>.</p>
 
 <p>U góry okna znajduje się pasek z przyciskami poleceń: 
 <p><b>Wklej</b><br />
@@ -107,7 +107,7 @@ Kliknij, aby włączyć zawijanie wierszy w polu wyświetlającym pełen tekst.
 Kliknij, aby wyświetlić ten temat pomocy.
 
 <p>Poniżej znajduje się lista zapamiętanych fragmentów tekstu (wyświetla początek zapamiętanego tekstu). Aby wkleić wybrany tekst do edytora w miejscu, w którym znajduje się obecnie kursor, skorzystaj z przycisku na pasku, bądź dwukliknij na wybranym elemencie listy. Możliwe jest równie wklejenie tekstu w innym miejscu - w tym celu przeciągnij wybrany element z listy do edytora. </p>
-<p>Dodatkowo istnieje możliwość wyboru sposobu wstawiania i formatowania wklejanego tekstu - w tym celu kliknij na wybranej pozycji prawym klawiszem myszy. Pojawi się menu, z którego możesz wybrać sposób wstawiania. Polecenia w nim zawarte są identyczne, jak w <a href="main_menu_edit_pastechange.html">Menu głównym / Edycja / Wklej ze schowka z zamianą...</a></p>
+<p>Dodatkowo istnieje możliwość wyboru sposobu wstawiania i formatowania wklejanego tekstu - w tym celu kliknij na wybranej pozycji prawym klawiszem myszy. Pojawi się menu, z którego możesz wybrać sposób wstawiania. Polecenia w nim zawarte są identyczne, jak w <a href="main_menu_edit_pastechange.php">Menu głównym / Edycja / Wklej ze schowka z zamianą...</a></p>
 
 <p>U dołu okna znajduje się pole tekstowe zawierające cały tekst zapamiętany w wybranej pozycji. Dodatkowo w tym polu możesz dokonać również zmiany tekstu wybranego elementu!</p>
 
@@ -129,9 +129,9 @@ Kliknij, aby wyświetlić ten temat pomocy.
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="coding_css.html">Tworzenie stylów</a>
-	<li><a href="main_editor_general.html">Edytor - ogólnie</a>
-	<li><a href="main_menu_edit.html">Menu Edycja</a>
+	<li><a href="coding_css.php">Tworzenie stylów</a>
+	<li><a href="main_editor_general.php">Edytor - ogólnie</a>
+	<li><a href="main_menu_edit.php">Menu Edycja</a>
 </ul>
 </td>
 </tr>

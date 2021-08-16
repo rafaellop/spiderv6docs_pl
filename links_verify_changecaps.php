@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -89,7 +89,7 @@ Kliknij, zmienić wielkość liter w odsyłaczach lokalnych (do zasobów umieszc
 Kliknij, aby program spróbował odszukać pliki wskazane przez odsyłacze i dostosował wielkość liter w odsyłaczach do stanu rzeczywistego.
 
 
-<p><b><a href="down_syntax_check_css.html">Spróbuj poprawić bezwzględne na względne</a></b><br />
+<p><b><a href="down_syntax_check_css.php">Spróbuj poprawić bezwzględne na względne</a></b><br />
 Kliknij, aby program spróbował odnaleźć na dysku dokumenty do których prowadzą odsyłacze bezwzględne (składające się z pełnej ścieżki dostępu do pliku na dysku, np. <tt>D:\folder_ze_strona\obrazki\obrazek.jpg</tt>) i, jeśli to możliwe, zamienił adresy na względne (typu <tt>obrazki/obrazek.jpg</tt>). 
 
 
@@ -104,9 +104,9 @@ Kliknij, aby program spróbował odnaleźć na dysku dokumenty do których prowa
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-        <li><a href="main_menu_tools.html">Menu główne - Narzędzia</a>
-        <li><a href="down_syntax_check.html">Sprawdzanie poprawności składni w dokumentach</a>
-        <li><a href="settings_toolbars.html">Ustawienia programu - Ustawienia pasków, menu i skrótów</a>
+        <li><a href="main_menu_tools.php">Menu główne - Narzędzia</a>
+        <li><a href="down_syntax_check.php">Sprawdzanie poprawności składni w dokumentach</a>
+        <li><a href="settings_toolbars.php">Ustawienia programu - Ustawienia pasków, menu i skrótów</a>
 </td>
 </tr>
 </table>

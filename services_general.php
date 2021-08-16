@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -76,11 +76,11 @@
 
 <p>Projekty możesz obsługiwać posługując się:
 <ul>
-	<li><a href="main_tabs_myservices.html">Zakładką Moje projekty</a></li>
-	<li><a href="main_menu_services.html">Menu Projekty</a> (w ograniczonym stopniu)</li>
+	<li><a href="main_tabs_myservices.php">Zakładką Moje projekty</a></li>
+	<li><a href="main_menu_services.php">Menu Projekty</a> (w ograniczonym stopniu)</li>
 </ul></p>
 
-<p>Jak utworzyć projekt i z niego korzystać czytaj w pomocy dla <a href="main_tabs_myservices.html">zakładki Moje projekty</a></li>.</p>
+<p>Jak utworzyć projekt i z niego korzystać czytaj w pomocy dla <a href="main_tabs_myservices.php">zakładki Moje projekty</a></li>.</p>
 
 <h2>Korzyści wynikające z korzystania z Projektów</h2>
 
@@ -88,18 +88,18 @@
 
 <p>Natomiast utworzenie projektu umożliwia:</p>
 <ul>
-	<li>szybkie przełączanie się pomiędzy Twoimi projektami w zakładce <a href="main_tabs_myservices.html">Moje projekty</a></li>
+	<li>szybkie przełączanie się pomiędzy Twoimi projektami w zakładce <a href="main_tabs_myservices.php">Moje projekty</a></li>
 	<li>przeglądanie zadań do wykonania przypisanych do dokumentów projektu</li>
-	<li><a href="down_links_verify.html">weryfikację odnośników</a>, <a href="down_integrity.html">sprawdzanie spójności i oczyszczanie całego projektu</a></li>
-	<li><a href="service_tool_synchronization.html">synchronizację zawartości projektu z zawartością serwera</a></li>
-	<li><a href="service_archive.html">archiwizację</a> i <a href="service_restore.html">przywracanie</a> projektów</li>
+	<li><a href="down_links_verify.php">weryfikację odnośników</a>, <a href="down_integrity.php">sprawdzanie spójności i oczyszczanie całego projektu</a></li>
+	<li><a href="service_tool_synchronization.php">synchronizację zawartości projektu z zawartością serwera</a></li>
+	<li><a href="service_archive.php">archiwizację</a> i <a href="service_restore.php">przywracanie</a> projektów</li>
 	<li><a href="find_ext.html#find_settings">wyszukiwanie i zamianę w dokumentach projektu</a></li>
-	<li><a href="service_map.html">utworzenie graficznej mapy projektu</a></li>
+	<li><a href="service_map.php">utworzenie graficznej mapy projektu</a></li>
 	<li>utworzenie listy <a href="service_properites.html#servicepropertiesoftenused">często używanych dokumentów projektu</a> w celu szybkiego ich otwierania</li>
-	<li>utworzenie z projektu dokumentu pomocy <a href="tool_htmlhelp_general.html">HTML Help</a></li>
-	<li><a href="service_properites.html#service_properties_mappings">mapowanie ścieżki na twardym dysku na adres URL</a> w celu przeglądania strony za pomocą serwera http (przydatne przy tworzeniu np. stron <a href="coding_php_mapping.html">korzystających z PHP)</a></li>
+	<li>utworzenie z projektu dokumentu pomocy <a href="tool_htmlhelp_general.php">HTML Help</a></li>
+	<li><a href="service_properites.html#service_properties_mappings">mapowanie ścieżki na twardym dysku na adres URL</a> w celu przeglądania strony za pomocą serwera http (przydatne przy tworzeniu np. stron <a href="coding_php_mapping.php">korzystających z PHP)</a></li>
 	<li><a href="service_properites.html#metaindexing">łatwe ujednolicenie sekcji META we wszystkich dokumentach projektu</a></li>
-   <li>łatwe zarządzania <a href="main_editor_todotasks.html">Zadaniami do wykonania</a> w projekcie i w jego dokumentach</li>
+   <li>łatwe zarządzania <a href="main_editor_todotasks.php">Zadaniami do wykonania</a> w projekcie i w jego dokumentach</li>
 </ul>
 
 <p>Dodatkowo istnieje możliwość grupowania projektów na liście. Dzięki tej możliwości można łatwiej odnaleźć odpowiedni projekt na liście, co jest szczególnie istotne podczas pracy nad wieloma różnymi projektami.</p>
@@ -114,8 +114,8 @@
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="main_tabs_myservices.html">Zakładka "Moje projekty"</a>
-	<li><a href="service_properites.html">Okno Właściwości projektu</a></li>
+	<li><a href="main_tabs_myservices.php">Zakładka "Moje projekty"</a>
+	<li><a href="service_properites.php">Okno Właściwości projektu</a></li>
 </ul>
 </td>
 </tr>

@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -76,7 +76,7 @@
 
 
 
-<p>Za pomocą edytora pliku definicyjnego PHP możesz modyfikować lub rozszerzać definicję języka PHP, z której Pająk korzysta w funkcjach dynamicznych podpowiedzi i na zakładce <a href="main_tabs_languages.html">Języki programowania</a>. Aby uzyskać dostęp do edytora pliku definicyjnego PHP użyj polecenia <b>Edytor pliku definicyjnego PHP</b>, które znajduje się w menu głównym. Możesz również uruchomić go za pomocą przycisku znajdującego się w ustawieniach programu w kategorii <a href="settings_codeinsight_php.html">Ułatwienia, dynamiczne atrybuty, inne</a> lub w menu. Przycisk pokazany został powyżej. 
+<p>Za pomocą edytora pliku definicyjnego PHP możesz modyfikować lub rozszerzać definicję języka PHP, z której Pająk korzysta w funkcjach dynamicznych podpowiedzi i na zakładce <a href="main_tabs_languages.php">Języki programowania</a>. Aby uzyskać dostęp do edytora pliku definicyjnego PHP użyj polecenia <b>Edytor pliku definicyjnego PHP</b>, które znajduje się w menu głównym. Możesz również uruchomić go za pomocą przycisku znajdującego się w ustawieniach programu w kategorii <a href="settings_codeinsight_php.php">Ułatwienia, dynamiczne atrybuty, inne</a> lub w menu. Przycisk pokazany został powyżej. 
 
 <p>Okno edytora pliku definicyjnego PHP składa się z dwóch zakładek: zakładki "Stałe i zmienne" oraz "Funkcje".
 
@@ -108,14 +108,14 @@
 	<li><b>object</b> - typ "obiekt"
 </ul>
 
-<p>Od typów zależy w jaki sposób działają niektóre funkcje dynamicznych podpowiedzi. Typ elementu jest również wyświetlany na zakładce <a href="main_tabs_languages.html">Języki programowania</a> w głównym oknie programu.
+<p>Od typów zależy w jaki sposób działają niektóre funkcje dynamicznych podpowiedzi. Typ elementu jest również wyświetlany na zakładce <a href="main_tabs_languages.php">Języki programowania</a> w głównym oknie programu.
 
 <h2>Zakładka "Funkcje"</h2>
 
 <p>Na tej zakładce możesz definiować funkcje, które są wspierane w PHP obsługiwanym w Pająku. Po lewej stronie zakładki znajdziesz listę kategorii funkcji. Kategorie pomagają w posegregowaniu funkcji na grupy. 
-Kategorie służą do prezentowania funkcji w ujęciu hierarchicznym na drzewku <a href="main_tabs_languages.html">Języki programowania</a> w głownym oknie. W ustawieniach <a href="settings_codeinsight_php.html">Ułatwienia, dynamiczne atrybuty, inne</a> możesz również dzięki temu wyłączać obsługę wybranych kategorii funkcji w funkcjach dynamicznych podpowiedzi. Kategorie możesz dodawać i usuwać za pomocą znajdujących się pod listą przycisków.
+Kategorie służą do prezentowania funkcji w ujęciu hierarchicznym na drzewku <a href="main_tabs_languages.php">Języki programowania</a> w głownym oknie. W ustawieniach <a href="settings_codeinsight_php.php">Ułatwienia, dynamiczne atrybuty, inne</a> możesz również dzięki temu wyłączać obsługę wybranych kategorii funkcji w funkcjach dynamicznych podpowiedzi. Kategorie możesz dodawać i usuwać za pomocą znajdujących się pod listą przycisków.
 
-<p>Obok listy kategorii znajduje się lista przypisanych do niej funkcji. Po wybraniu kategorii na liście po lewej, wczytywane są tutaj nazwy wszystkich znajdujących się w danej kategorii funkcji. Funkcje możesz dodawać, usuwać i edytować za pomocą przycisków pod listą. Edycja i dodanie nowej odbywa się w okienku <a href="tagdata_editor_tdf_php_newfunc.html">Nowa funkcja PHP</a>.
+<p>Obok listy kategorii znajduje się lista przypisanych do niej funkcji. Po wybraniu kategorii na liście po lewej, wczytywane są tutaj nazwy wszystkich znajdujących się w danej kategorii funkcji. Funkcje możesz dodawać, usuwać i edytować za pomocą przycisków pod listą. Edycja i dodanie nowej odbywa się w okienku <a href="tagdata_editor_tdf_php_newfunc.php">Nowa funkcja PHP</a>.
 
 </td>
 </tr>
@@ -127,10 +127,10 @@ Kategorie służą do prezentowania funkcji w ujęciu hierarchicznym na drzewku 
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="main_editor_codeinsight.html">Dynamiczny kod w edytorze</a>
-	<li><a href="main_tabs_languages.html">Zakładka "Języki programowania"</a>
-	<li><a href="settings_codeinsight_php.html">Ustawienia Dynamicznego kodu</a>
-	<li><a href="tagdata_editor_tdf_php_newfunc.html">Nowa funkcja PHP</a>
+	<li><a href="main_editor_codeinsight.php">Dynamiczny kod w edytorze</a>
+	<li><a href="main_tabs_languages.php">Zakładka "Języki programowania"</a>
+	<li><a href="settings_codeinsight_php.php">Ustawienia Dynamicznego kodu</a>
+	<li><a href="tagdata_editor_tdf_php_newfunc.php">Nowa funkcja PHP</a>
 </ul>
 </td>
 </tr>

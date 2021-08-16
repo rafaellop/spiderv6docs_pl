@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -82,16 +82,16 @@ Dostępne są następujące grupy ustawień w ramach tego okna:
 
 <ul>
 	<a name="settingslistnetwork"></a>
-	<li><a href="settings_network_net.html">Ustawienia sieci</a> - ogólne ustawienia związane z funkcjonowaniem połączeń sieciowych w Pająku.
-	<li><a href="settings_network_ftpservers.html">Serwery FTP i WebDAV</a> - dodawanie serwerów FTP i WebDAV obsługiwanych w Pająku.
-	<li><a href="settings_network_ftpclient.html">Wbudowany klient FTP i WebDAV</a> - ustawienia związane z wbudowanymi w Pająka klientami FTP i WebDAV.
-	<li><a href="settings_network_synchronization.html">Kolejka plików i Synchronizacja serwisów</a> - ustawienia <a href="down_publishing_ftpqueue.html">kolejki plików</a> serwerów FTP i WebDAV oraz ogólne ustawienia <a href="service_tool_synchronization.html">Synchronizacji serwisów</a>.
-        <li><a href="settings_network_mysqlservers.html">Serwery baz danych MySQL</a> - ustawienia związane z wbudowaną w Pająka obsługą serwerów baz danych MySQL, dodawanie i usuwanie baz danych.
-   <li><a href="settings_network_rss.html">Ustawienia kanałów RSS</a> - ustawienia związane z wbudowaną w Pająka obsługą kanałów najnowszych wiadomośći (RSS).
+	<li><a href="settings_network_net.php">Ustawienia sieci</a> - ogólne ustawienia związane z funkcjonowaniem połączeń sieciowych w Pająku.
+	<li><a href="settings_network_ftpservers.php">Serwery FTP i WebDAV</a> - dodawanie serwerów FTP i WebDAV obsługiwanych w Pająku.
+	<li><a href="settings_network_ftpclient.php">Wbudowany klient FTP i WebDAV</a> - ustawienia związane z wbudowanymi w Pająka klientami FTP i WebDAV.
+	<li><a href="settings_network_synchronization.php">Kolejka plików i Synchronizacja serwisów</a> - ustawienia <a href="down_publishing_ftpqueue.php">kolejki plików</a> serwerów FTP i WebDAV oraz ogólne ustawienia <a href="service_tool_synchronization.php">Synchronizacji serwisów</a>.
+        <li><a href="settings_network_mysqlservers.php">Serwery baz danych MySQL</a> - ustawienia związane z wbudowaną w Pająka obsługą serwerów baz danych MySQL, dodawanie i usuwanie baz danych.
+   <li><a href="settings_network_rss.php">Ustawienia kanałów RSS</a> - ustawienia związane z wbudowaną w Pająka obsługą kanałów najnowszych wiadomośći (RSS).
 </ul>
 
 <p>
-&nbsp;Okno to wywołuje się za pomocą polecenia w menu znajdującym się pod przyciskiem pokazanym obok. Możesz również dostać się do tych ustawień korzystając z głównego okna ustawień oraz kategorii znajdujących się na drugiej zakładce <a href="settings.html">głównego okna ustawień</a>.
+&nbsp;Okno to wywołuje się za pomocą polecenia w menu znajdującym się pod przyciskiem pokazanym obok. Możesz również dostać się do tych ustawień korzystając z głównego okna ustawień oraz kategorii znajdujących się na drugiej zakładce <a href="settings.php">głównego okna ustawień</a>.
 
 </td>
 </tr>
@@ -104,9 +104,9 @@ Dostępne są następujące grupy ustawień w ramach tego okna:
 <h4>Pokrewne tematy</h4>
 <ul>
 	<li><a href="settings.html#settingslist">Główne ustawienia</a>
-	<li><a href="network_publishing_general.html">Publikowanie w Pająku</a>
-	<li><a href="service_tool_synchronization.html">Synchronizacja serwisów</a>
-	<li><a href="main_tabs_myftpservers.html">Wbudowany klient FTP</a>
+	<li><a href="network_publishing_general.php">Publikowanie w Pająku</a>
+	<li><a href="service_tool_synchronization.php">Synchronizacja serwisów</a>
+	<li><a href="main_tabs_myftpservers.php">Wbudowany klient FTP</a>
 </ul>
 </td>
 </tr>

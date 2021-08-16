@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -78,8 +78,8 @@
 
 
 
-<p>Porządek panujący w kodzie znacznie ułatwia pracę. Jednak w miarę dodawania kolejnych linii nieporządek wzrasta. Możesz jednak szybko przywrócić ład w skrypcie i ponownie poukładać kod tak, by był on najbardziej przejrzysty. W tym celu użyj narzędzia do <a href="formatter_general.html">formatowania kodu źródłowego</a>. Za pomocą jednego kliknięcia dokument zostanie uporządkowany, kolejne zagnieżdżone funkcje i instrukcje zostaną poukładane w nowych liniach i odpowiednio powcinane.</p>
-<p>Narzędzie do formatowanie kodu posiada również okno <a href="formatter_php.html">Ustawienia dla PHP</a>, za pomocą którego możesz ustawić własne opcje stylu formatowania.</p>
+<p>Porządek panujący w kodzie znacznie ułatwia pracę. Jednak w miarę dodawania kolejnych linii nieporządek wzrasta. Możesz jednak szybko przywrócić ład w skrypcie i ponownie poukładać kod tak, by był on najbardziej przejrzysty. W tym celu użyj narzędzia do <a href="formatter_general.php">formatowania kodu źródłowego</a>. Za pomocą jednego kliknięcia dokument zostanie uporządkowany, kolejne zagnieżdżone funkcje i instrukcje zostaną poukładane w nowych liniach i odpowiednio powcinane.</p>
+<p>Narzędzie do formatowanie kodu posiada również okno <a href="formatter_php.php">Ustawienia dla PHP</a>, za pomocą którego możesz ustawić własne opcje stylu formatowania.</p>
 
 
 
@@ -94,8 +94,8 @@
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="coding_php.html">Wspomaganie dla PHP - ogólnie</a></li>
-	<li><a href="formatter_general.html">Formatowanie kodu źródłowego</a> </li> - <a href="formatter_php.html">Ustawienia dla PHP</a></li>
+	<li><a href="coding_php.php">Wspomaganie dla PHP - ogólnie</a></li>
+	<li><a href="formatter_general.php">Formatowanie kodu źródłowego</a> </li> - <a href="formatter_php.php">Ustawienia dla PHP</a></li>
 </ul>
 </td>
 </tr>

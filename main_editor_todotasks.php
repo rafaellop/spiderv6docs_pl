@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -76,11 +76,11 @@
 
 <p>Zadania do wykonania służą zachowywania dodatkowych informacji na temat serwisu bądź dokumentu. Istnieją dwa typy zadań: 
 <ul>
-        <li><b>Przypisane do serwisu</b> - są to zadania ogólne, jakie możesz ustawić dla całego <a href="services_general.html">serwisu</a> (np. w celu sporządzenia notatki typu 'co jeszcze chcę tu zrobić')
+        <li><b>Przypisane do serwisu</b> - są to zadania ogólne, jakie możesz ustawić dla całego <a href="services_general.php">serwisu</a> (np. w celu sporządzenia notatki typu 'co jeszcze chcę tu zrobić')
         <li><b>Przypisane do dokumentu</b> - przypisane są do miejsca, w którym zostały ustawione w danym dokumencie. Jeśli powyżej linii, w dla której ustawiłeś zadanie, wstawisz dodatkowe linie, zadanie przesunie się o tyle samo linii w dół tak, by cały czas znajdowało się w tym samym logicznym miejscu kodu.
 </ul>
 
-<p>W odróżnieniu od <a href="main_editor_bookmarks.html">zakładek</a>, które służą raczej do podręcznego oznaczania miejsc w dokumencie, zadania do wykonania są znacznie bardziej rozbudowane.</p>
+<p>W odróżnieniu od <a href="main_editor_bookmarks.php">zakładek</a>, które służą raczej do podręcznego oznaczania miejsc w dokumencie, zadania do wykonania są znacznie bardziej rozbudowane.</p>
 
 <p>Zadania są szczególnie przydatne podczas pracy grupowej nad serwisem. Przy ich pomocy możesz przekazywać współtwórcom projektu wskazówki, oznaczać miejsca, na które trzeba szczególnie uważać itp. </p>
 
@@ -91,12 +91,12 @@
 
 <h2>Jak ustawić i odczytać zadanie do wykonania dla całego serwisu?</h2>
 
-<p>Często zdarza się, że chcesz coś zapisać sobie na potem, ale ta informacja nie dotyczy konkretnego dokumentu, lecz jest bardziej ogólna. W takiej sytuacji możesz utworzyć zadanie dla całego serwisu. Możesz to zrobić za pomocą poleceń w oknie <a href="service_todotasks.html">Zadania do wykonania w serwisie</a> - otworzysz je poleceniem <b>Lista zadań do wykonania</b> znajdującym się w <a href="main_menu_services_properties.html">Menu głównym / Serwisy / Własności serwisu</a>, bądź w menu pod przyciskiem <b>Własności serwisu</b> na zakładce <a href="main_tabs_myservices.html">Moje serwisy</a>. W tym samym oknie możesz przeglądać zadania zdefiniowane dla serwisu.
+<p>Często zdarza się, że chcesz coś zapisać sobie na potem, ale ta informacja nie dotyczy konkretnego dokumentu, lecz jest bardziej ogólna. W takiej sytuacji możesz utworzyć zadanie dla całego serwisu. Możesz to zrobić za pomocą poleceń w oknie <a href="service_todotasks.php">Zadania do wykonania w serwisie</a> - otworzysz je poleceniem <b>Lista zadań do wykonania</b> znajdującym się w <a href="main_menu_services_properties.php">Menu głównym / Serwisy / Własności serwisu</a>, bądź w menu pod przyciskiem <b>Własności serwisu</b> na zakładce <a href="main_tabs_myservices.php">Moje serwisy</a>. W tym samym oknie możesz przeglądać zadania zdefiniowane dla serwisu.
 
 
 
 <h2>Jak ustawić i odczytać zadanie do wykonania dla dokumentu?</h2>
-<p>Aby ustawić zadanie dla określonej linii w dokumencie, uruchom narzędzie <a href="tool_docinfo_todo_add.html">Zadanie do wykonania</a>. W tym celu kliknij na niej prawym klawiszem myszy, a następnie w <a href="main_menu_editor.html">menu kontekstowym edytora</a> skorzystaj z polecenia <b>Informacje o dokumencie / Dodaj zadanie do wykonania</b>, bądź <a href="main_menu_edit_bookmarks.html">Zakładki w dokumencie / Dodaj zadanie do wykonania</a> (to samo menu wyświetli się, gdy klikniesz lewym klawiszem na belce po prawej stronie edytora). Usuwanie zadań odbywa się za pomocą poleceń umieszczonych w tym samym menu (polecenie jest widoczne tylko gdy dla bieżącej linii ustawiono zadanie).
+<p>Aby ustawić zadanie dla określonej linii w dokumencie, uruchom narzędzie <a href="tool_docinfo_todo_add.php">Zadanie do wykonania</a>. W tym celu kliknij na niej prawym klawiszem myszy, a następnie w <a href="main_menu_editor.php">menu kontekstowym edytora</a> skorzystaj z polecenia <b>Informacje o dokumencie / Dodaj zadanie do wykonania</b>, bądź <a href="main_menu_edit_bookmarks.php">Zakładki w dokumencie / Dodaj zadanie do wykonania</a> (to samo menu wyświetli się, gdy klikniesz lewym klawiszem na belce po prawej stronie edytora). Usuwanie zadań odbywa się za pomocą poleceń umieszczonych w tym samym menu (polecenie jest widoczne tylko gdy dla bieżącej linii ustawiono zadanie).
 
 <p>Ustawiając w dokumencie zadanie do wykonania możesz podać:</p>
 
@@ -106,10 +106,10 @@
 	<li>Priorytet</li>
 </ul>
 
-<p>Ponadto możesz oznaczyć zadanie jako wykonane, a także w ustawieniach programu (<a href="settings_editor_general.html">Ustawienia programu / Inne ustawienia / Edytor ... / Ogólne</a>) zaznaczyć opcję niewyróżniania w edytorze wierszy, w których istnieją zadania oznaczone jako wykonane. Dzięki temu będzie ono widoczne na liście zadań, ale będą zwracały już twojej uwagi podczas pracy.</p>
+<p>Ponadto możesz oznaczyć zadanie jako wykonane, a także w ustawieniach programu (<a href="settings_editor_general.php">Ustawienia programu / Inne ustawienia / Edytor ... / Ogólne</a>) zaznaczyć opcję niewyróżniania w edytorze wierszy, w których istnieją zadania oznaczone jako wykonane. Dzięki temu będzie ono widoczne na liście zadań, ale będą zwracały już twojej uwagi podczas pracy.</p>
 
 
-<p>Dzięki specjalnemu oznaczeniu zadań (zmieniony kolor tła linii z zadaniem) nie sposób takiego zadania nie zauważyć. Dodatkowo przy otwieraniu dokumentu, dla którego przypisane zostało zadanie, wyświetlony zostanie specjalny komunikat (wyświetlanie komunikatu można wyłączyć w oknie <a href="settings_editor_documents.html">Ustawień programu</a>).</p>
+<p>Dzięki specjalnemu oznaczeniu zadań (zmieniony kolor tła linii z zadaniem) nie sposób takiego zadania nie zauważyć. Dodatkowo przy otwieraniu dokumentu, dla którego przypisane zostało zadanie, wyświetlony zostanie specjalny komunikat (wyświetlanie komunikatu można wyłączyć w oknie <a href="settings_editor_documents.php">Ustawień programu</a>).</p>
 
 <p>Aby szybko odczytać treść zadania zdefiniowanego dla takiej wyróżnionej linii, wystarczy nad nią najechać kursorem myszy - tytuł i opis pojawią się na pasku stanu (na dole okna programu), w miejscu gdzie wyświetlana jest zazwyczaj podpowiedź pomocy. Oczywiście gdy tytuł lub opis są długie, mogą się nie zmieścić na pasku stanu - aby odczytać treść zadania dla takiej linii, wystarczy na niej kliknąć z wciśniętym jednocześnie klawiszem <tt>CTRL</tt>.</p>
 
@@ -136,7 +136,7 @@
 </tr>
 </table>
 </p>
-<p>Pozostałe priorytety mają kolory pośrednie pomiędzy przedstawionymi powyżej - od czerwonego, poprzez żółty do zielonego. Kolory podświetlenia dla poszczególnych priorytetów możesz zmienić w oknie <a href="settings_editor_general.html">Ustawienia programu - Ogólne ustawienia edytora</a></p>
+<p>Pozostałe priorytety mają kolory pośrednie pomiędzy przedstawionymi powyżej - od czerwonego, poprzez żółty do zielonego. Kolory podświetlenia dla poszczególnych priorytetów możesz zmienić w oknie <a href="settings_editor_general.php">Ustawienia programu - Ogólne ustawienia edytora</a></p>
 
 <h2>Poruszanie się po dokumencie za pomocą zadań</h2>
 
@@ -147,7 +147,7 @@
 	<li>korzystając z okna <a href="find_text.html#goto">Wyszukiwanie, zamiana, przenoszenie do wybranych elementów dokumentu</a> (standardowy skrót <tt>Ctrl+G</tt>)</li>
 </ul>
 
-<p>Ponadto, korzystając z okna <a href="service_todotasks.html">Zadania do wykonania w serwisie</a>, możesz jest przeglądać, usuwać i przechodzić do zadań ustawionych dla wszystkich dokumentów bieżącego serwisu. </p>
+<p>Ponadto, korzystając z okna <a href="service_todotasks.php">Zadania do wykonania w serwisie</a>, możesz jest przeglądać, usuwać i przechodzić do zadań ustawionych dla wszystkich dokumentów bieżącego serwisu. </p>
 
 
 
@@ -168,10 +168,10 @@
 <h4>Pokrewne tematy</h4>
 <ul>
 	<li><a href="tool_docinfo.html#todotasks">Informacje o dokumencie - zadania do wykonania</a>
-	<li>Edytor <a href="tool_docinfo_todo_add.html">Zadanie do wykonania</a></li>
-	<li><a href="main_editor.html">Edytor - tryb edycji kodu źródłowego</a>
-	<li><a href="main_editor_bookmarks.html">Zakładki w dokumencie</a>
-	<li><a href="main_editor_navigation.html">Różne sposoby nawigacji po dokumencie</a>
+	<li>Edytor <a href="tool_docinfo_todo_add.php">Zadanie do wykonania</a></li>
+	<li><a href="main_editor.php">Edytor - tryb edycji kodu źródłowego</a>
+	<li><a href="main_editor_bookmarks.php">Zakładki w dokumencie</a>
+	<li><a href="main_editor_navigation.php">Różne sposoby nawigacji po dokumencie</a>
 </ul>
 </td>
 </tr>

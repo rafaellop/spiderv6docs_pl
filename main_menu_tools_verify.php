@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -77,16 +77,16 @@
 <p>Zawiera polecenia uruchamiające narzędzia do weryfikacji poprawności składni (różnych języków) w dokumencie. </p>
 
 
-<p><b><a href="down_links_verify.html">Sprawdź odsyłacze</a></b><br />
-Kliknij, aby sprawdzić poprawność odsyłaczy w dokumencie. Wyniki sprawdzania zostaną umieszczone na <a href="down_links_verify.html">dolnym panelu wyników</a>. Dodatkowo możesz poprawić wielkość liter w odsyłaczach - służą do tego polecenia umieszczone w <a href="links_verify_changecaps.html">podmenu</a> rozwijanym po kliknięciu w strzałkę z prawej strony polecenia.
+<p><b><a href="down_links_verify.php">Sprawdź odsyłacze</a></b><br />
+Kliknij, aby sprawdzić poprawność odsyłaczy w dokumencie. Wyniki sprawdzania zostaną umieszczone na <a href="down_links_verify.php">dolnym panelu wyników</a>. Dodatkowo możesz poprawić wielkość liter w odsyłaczach - służą do tego polecenia umieszczone w <a href="links_verify_changecaps.php">podmenu</a> rozwijanym po kliknięciu w strzałkę z prawej strony polecenia.
 
-<p><b><a href="down_syntax_check.html">Sprawdź składnię znaczników</a></b><br />
+<p><b><a href="down_syntax_check.php">Sprawdź składnię znaczników</a></b><br />
 Kliknij, aby sprawdzić poprawność składni dokumentu. Wyniki sprawdzania składni pokazane będą na dolnym panelu.
 
 <p><b>Sprawdź poprawność znacznika</b><br />
 Kliknij, aby sprawdzić poprawność składni bieżącego znacznika HTML.
 
-<p><b><a href="down_syntax_check_css.html">Sprawdź składnię CSS</a></b><br />
+<p><b><a href="down_syntax_check_css.php">Sprawdź składnię CSS</a></b><br />
 Kliknij, aby sprawdzić poprawność składni arkuszy CSS i ich zgodność ze specyfikacją. Za pomocą menu rozwijanego strzałką z prawej strony polecenia możesz wybrać rodzaj specyfikacji CSS, zgodnie z którą chcesz przeprowadzić weryfikację.
 
 
@@ -100,9 +100,9 @@ Kliknij, aby sprawdzić poprawność składni arkuszy CSS i ich zgodność ze sp
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-   <li><a href="main_menu_tools.html">Menu główne - Narzędzia</a></li>
-   <li><a href="down_syntax_check.html">Sprawdzanie poprawności składni w dokumentach</a></li>
-   <li><a href="settings_toolbars.html">Ustawienia programu - Ustawienia pasków, menu i skrótów</a></li>
+   <li><a href="main_menu_tools.php">Menu główne - Narzędzia</a></li>
+   <li><a href="down_syntax_check.php">Sprawdzanie poprawności składni w dokumentach</a></li>
+   <li><a href="settings_toolbars.php">Ustawienia programu - Ustawienia pasków, menu i skrótów</a></li>
 </ul>
 </td>
 </tr>

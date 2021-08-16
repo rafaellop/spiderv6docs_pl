@@ -28,23 +28,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -95,9 +95,9 @@ Starsze komputery mogą mieć problem podczas pracy z bardziej złożonymi schem
 
 <h2>Edycja kolorowania składni</h2>
 
-<p>W Pająku możesz tworzyć nowe i edytować istniejące schematy kolorowania. Służy to tego <a href="syntax_editor.html">Edytor schematów kolorowania</a> . Pamiętaj, że zmiany wprowadzone w schemacie kolorowania nie mogą zostać cofnięte i należy używać tej opcji ostrożnie. Najlepiej zapisywać schematy pod nową nazwą, lub wykonać kopię bezpieczeństwa istniejących schematów (pliki z rozszerzeniem *.sch)</p>
+<p>W Pająku możesz tworzyć nowe i edytować istniejące schematy kolorowania. Służy to tego <a href="syntax_editor.php">Edytor schematów kolorowania</a> . Pamiętaj, że zmiany wprowadzone w schemacie kolorowania nie mogą zostać cofnięte i należy używać tej opcji ostrożnie. Najlepiej zapisywać schematy pod nową nazwą, lub wykonać kopię bezpieczeństwa istniejących schematów (pliki z rozszerzeniem *.sch)</p>
 
-Możesz również dostosować kolory istniejącego schematu za pomocą okna <a href="settings_editor_syntax.html">Ustawienia programu - Kolorowanie składni</a>.
+Możesz również dostosować kolory istniejącego schematu za pomocą okna <a href="settings_editor_syntax.php">Ustawienia programu - Kolorowanie składni</a>.
 
 
 
@@ -105,7 +105,7 @@ Możesz również dostosować kolory istniejącego schematu za pomocą okna <a h
 
 
 
-<p>Pająk po rozszerzeniu nazwy pliku automatycznie rozpoznaje jakiego schematu kolorowania należy użyć do danego dokumentu. Ustawienie domyślnego kolorowania dla danego typu możesz zmienić w oknie <a href="settings_editor_syntax.html">Ustawienia programu - Kolorowanie składni</a> / <a href="settings_editor_syntax_properties.html">Właściwości schematu kolorowania</a>. Pająk pamięta również, jaki schemat kolorowania był używany w chwili zamknięcia danego dokumentu i przy jego kolejnym otwarciu zostanie on zastosowany.</p>
+<p>Pająk po rozszerzeniu nazwy pliku automatycznie rozpoznaje jakiego schematu kolorowania należy użyć do danego dokumentu. Ustawienie domyślnego kolorowania dla danego typu możesz zmienić w oknie <a href="settings_editor_syntax.php">Ustawienia programu - Kolorowanie składni</a> / <a href="settings_editor_syntax_properties.php">Właściwości schematu kolorowania</a>. Pająk pamięta również, jaki schemat kolorowania był używany w chwili zamknięcia danego dokumentu i przy jego kolejnym otwarciu zostanie on zastosowany.</p>
 
 <p><b>Zmiana schematu kolorowania podczas pracy</b><br />
 W Pająku możliwa jest zamiana schematu kolorowania stosowanego do edycji wybranego dokumentu bez przerywania pracy! W tym celu skorzystaj z polecenia <b>Wybór schematu kolorowania składni</b> na mini pasku narzędzi z lewej strony edytora, które rozwinie listę wszystkich dostępnych schematów.</p>
@@ -123,9 +123,9 @@ W Pająku możliwa jest zamiana schematu kolorowania stosowanego do edycji wybra
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="syntax_editor.html">Edytor schematów kolorowania</a>
-	<li><a href="syntax_instruction.html">Jak utworzyć schemat kolorowania? Instrukcja krok po kroku.</a>
-	<li><a href="settings_editor_syntax.html">Ustawienia programu - Kolorowanie składni</a>
+	<li><a href="syntax_editor.php">Edytor schematów kolorowania</a>
+	<li><a href="syntax_instruction.php">Jak utworzyć schemat kolorowania? Instrukcja krok po kroku.</a>
+	<li><a href="settings_editor_syntax.php">Ustawienia programu - Kolorowanie składni</a>
 </ul>
 </td>
 </tr>

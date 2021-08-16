@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -76,7 +76,7 @@
 
 
 
-<p>Narzędzie "Zgodność z przeglądarkami" uruchomisz z poziomu różnych zakładek <a href="tagdata_editor_tdf.html">Edytor plików definicyjnych języków znacznikowych</a> i <a href="tagdata_editor_tdf_css.html">Edytor pliku definicyjnego dla CSS</a>. 
+<p>Narzędzie "Zgodność z przeglądarkami" uruchomisz z poziomu różnych zakładek <a href="tagdata_editor_tdf.php">Edytor plików definicyjnych języków znacznikowych</a> i <a href="tagdata_editor_tdf_css.php">Edytor pliku definicyjnego dla CSS</a>. 
 
 <p>W tym oknie możesz określić stopień obsługi edytowanego elementu (znacznika, atrybutu znacznika, zdarzenia dla znacznika, bądź własności stylu CSS) przez różne wersje przeglądarek (MS Internet Explorer od 3.0 do 6.0, Netscape Naviator 4.x do 7.0, Opera 3.5 do 7.0, Safari 1.2). Dla każdej z przeglądarek dostępne są trzy możliwości:</p>
 
@@ -99,11 +99,11 @@ W przypadku częściowej obsługi możliwe jest wprowadzenie komentarza, który 
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="tagdata_editor_tdf.html">Edytor plików definicyjnych języków znacznikowych</a>
-	<li><a href="tagdata_editor_tdf_css.html">Edytor pliku definicyjnego dla CSS</a></li>
+	<li><a href="tagdata_editor_tdf.php">Edytor plików definicyjnych języków znacznikowych</a>
+	<li><a href="tagdata_editor_tdf_css.php">Edytor pliku definicyjnego dla CSS</a></li>
 	<li><a href="tagdata_editor_tdf_properties.html#nadrzedny">Właściwości kategorii znaczników</a></li>
-	<li><a href="main_editor_codeinsight.html">Uzupełnianie znaczników</a>
-	<li><a href="settings_codeinsight_tags.html">Ustawienia Dynamicznego kodu</a>
+	<li><a href="main_editor_codeinsight.php">Uzupełnianie znaczników</a>
+	<li><a href="settings_codeinsight_tags.php">Ustawienia Dynamicznego kodu</a>
 </ul>
 </td>
 </tr>

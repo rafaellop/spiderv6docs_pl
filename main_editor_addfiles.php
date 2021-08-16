@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -77,11 +77,11 @@
 <p>W oknie <a href="settings_editor_documents.html#add_files">Ustawień programu</a> możesz wybrać, jakie z informacji mają być zachowywane:</p>
 
 <ul>
-	<li>ustawienia <a href="main_editor_bookmarks.html">zakładek w dokumencie</a></li>
-	<li>lista<a href="main_editor_todotasks.html"> zadań do wykonania</a></li>
-	<li>przypisany <a href="main_preview_prevdoc.html">dokument podglądu</a></li>
-	<li><a href="settings_editor_general.html">konfiguracja edytora</a></li>
-	<li><a href="syntax.html">schemat kolorowania</a>, który był jako ostatni używany podczas edycji dokumentu</li>
+	<li>ustawienia <a href="main_editor_bookmarks.php">zakładek w dokumencie</a></li>
+	<li>lista<a href="main_editor_todotasks.php"> zadań do wykonania</a></li>
+	<li>przypisany <a href="main_preview_prevdoc.php">dokument podglądu</a></li>
+	<li><a href="settings_editor_general.php">konfiguracja edytora</a></li>
+	<li><a href="syntax.php">schemat kolorowania</a>, który był jako ostatni używany podczas edycji dokumentu</li>
 	<li>pozycja kursora i zaznaczenie w chwili zapisu</li>
 </ul>
 
@@ -97,12 +97,12 @@ Nazwa pliku dodatkowych informacji tworzona jest z nazwy oryginalnego dokumentu 
 
 <p>Wiele osób zadawało pytanie, co zrobić, by Pająk nie tworzył plików ADD w momencie zapisu dokumentu. Rozwiązanie jest bardzo proste - jeśli żadna z ww. opcji nie będzie zaznaczona, pliki dodatkowych informacji nie będą tworzone. 
 
-<p>Należy przy tym pamiętać, że w ten sposób znacznie ogranicza się możliwość korzystania z zaawansowanych funkcji edytora (<b><a href="main_editor_todotasks.html">Zadania do wykonania</a>, <a href="main_editor_bookmarks.html">zakładki</a> itp. nie będą pamiętane po zamknięciu dokumentu!</b>)</p>
+<p>Należy przy tym pamiętać, że w ten sposób znacznie ogranicza się możliwość korzystania z zaawansowanych funkcji edytora (<b><a href="main_editor_todotasks.php">Zadania do wykonania</a>, <a href="main_editor_bookmarks.php">zakładki</a> itp. nie będą pamiętane po zamknięciu dokumentu!</b>)</p>
 
 
 <h2>Szybkie usuwanie plików ADD</h2>
 
-<p>Z czasem pliki dodatkowych informacji o dokumencie w danym serwisie mogę przestać być potrzebne (np. po zakończeniu prac). Aby je wszystkie szybko usunąć skorzystaj z polecenia w menu <a href="main_menu_services_properties.html">Serwisy / Własności serwisu / Oczyszczanie serwisu</a>.</p>
+<p>Z czasem pliki dodatkowych informacji o dokumencie w danym serwisie mogę przestać być potrzebne (np. po zakończeniu prac). Aby je wszystkie szybko usunąć skorzystaj z polecenia w menu <a href="main_menu_services_properties.php">Serwisy / Własności serwisu / Oczyszczanie serwisu</a>.</p>
 
 
 
@@ -116,7 +116,7 @@ Nazwa pliku dodatkowych informacji tworzona jest z nazwy oryginalnego dokumentu 
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="main_editor_general.html">Edytor - ogólnie</a>
+	<li><a href="main_editor_general.php">Edytor - ogólnie</a>
 	<li><a href="settings_editor_documents.html#add_files">Ustawienia programu / dokumenty</a>
 </ul>
 </td>

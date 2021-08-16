@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -78,7 +78,7 @@
 
 <h2>Uruchamianie</h2>
 
-<p>Narzędzie kompresora HTML możesz uruchomić za pomoca przycisku oznaczonego ikoną pokazaną powyżej. Przycisk uruchomienia tego okna znajduje się w menu <a href="main_menu_tools.html">Narzędzia</a>/<a href="main_menu_tools_formatting.html">Formatowanie i kompresja kodu</a>.
+<p>Narzędzie kompresora HTML możesz uruchomić za pomoca przycisku oznaczonego ikoną pokazaną powyżej. Przycisk uruchomienia tego okna znajduje się w menu <a href="main_menu_tools.php">Narzędzia</a>/<a href="main_menu_tools_formatting.php">Formatowanie i kompresja kodu</a>.
 
 <h2>Źródło kompresji</h2>
 
@@ -112,7 +112,7 @@ Uwaga! powoduje brak czytelności kodu!
 
 <h2>Alternatywa</h2>
 
-<p>Alternatywą dla kompresora jest narzędzie formatowania dokumentów znacznikowych, które przychodzi z predefiniowanym ustawieniem o nazwie "Kompresja kodu". <a href="formatter_general.html">Formatowania</a> pozwalają również na uzyskanie odwrotnego efektu do kompresji, tzn. ładnie i czytelnie układają kod.
+<p>Alternatywą dla kompresora jest narzędzie formatowania dokumentów znacznikowych, które przychodzi z predefiniowanym ustawieniem o nazwie "Kompresja kodu". <a href="formatter_general.php">Formatowania</a> pozwalają również na uzyskanie odwrotnego efektu do kompresji, tzn. ładnie i czytelnie układają kod.
 
 </td>
 </tr>
@@ -124,10 +124,10 @@ Uwaga! powoduje brak czytelności kodu!
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="main_menu_main.html">Menu programu</a></a>
-	<li><a href="toolbars_general.html">Inne narzędzia na paskach</a></a>
-	<li><a href="formatter_general.html">Korzystanie z funkcji formatowania</a>
-	<li><a href="settings_codeinsight_formatter.html">Ustawienia wszystkich formatowań</a>
+	<li><a href="main_menu_main.php">Menu programu</a></a>
+	<li><a href="toolbars_general.php">Inne narzędzia na paskach</a></a>
+	<li><a href="formatter_general.php">Korzystanie z funkcji formatowania</a>
+	<li><a href="settings_codeinsight_formatter.php">Ustawienia wszystkich formatowań</a>
 </ul>
 </td>
 </tr>

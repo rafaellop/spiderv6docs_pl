@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -81,11 +81,11 @@
 
 
 
-<p>Okno informacji o dokumencie możesz uruchomić za pomocą polecenia oznaczonego ikoną pokazaną powyżej znajdującego się w <a href="main_menu_main.html">Menu głównym</a> / <a href="main_menu_view.html">Wyświetl</a> / Informacje o dokumencie, a także za pomocą przycisku pokazanego wyżej umieszczonego na mini pasku narzędzi (z lewej strony edytora).
+<p>Okno informacji o dokumencie możesz uruchomić za pomocą polecenia oznaczonego ikoną pokazaną powyżej znajdującego się w <a href="main_menu_main.php">Menu głównym</a> / <a href="main_menu_view.php">Wyświetl</a> / Informacje o dokumencie, a także za pomocą przycisku pokazanego wyżej umieszczonego na mini pasku narzędzi (z lewej strony edytora).
 
 <p>Dokument, dla którego mają być przedstawione i edytowane informacje możesz wskazać na dwa sposoby. 
 <ol>
-	<li>Aby uzyskać informację a temat dowolnego dokumentu w serwisie, wskaż wskaż go w zakładce <a href="main_tabs_myservices.html">Moje serwisy</a> (wystarczy raz kliknąć, nie trzeba go otwierać).</li>
+	<li>Aby uzyskać informację a temat dowolnego dokumentu w serwisie, wskaż wskaż go w zakładce <a href="main_tabs_myservices.php">Moje serwisy</a> (wystarczy raz kliknąć, nie trzeba go otwierać).</li>
 	<li>Aby uzyskać informacje na temat bieżącego pliku otwartego w edytorze wystarczy postawić na nim kursor. </li>
 </ol></p>
 
@@ -140,7 +140,7 @@ Wybierz z listy status dokumentu. Dostępne są następujące pozycje:</p>
 
 
 <p><b>Autor dokumentu</b><br />
-Jeśli wskazałeś dokument na liście plików zakładki Moje serwisy, wyświetla nazwę użytkownika, który jako ostatni zapisał bieżący dokument (swoją nazwę użytkownika możesz wpisać w oknie <a href="settings_user.html">Ustawienia programu - Użytkownik</a>).<br />
+Jeśli wskazałeś dokument na liście plików zakładki Moje serwisy, wyświetla nazwę użytkownika, który jako ostatni zapisał bieżący dokument (swoją nazwę użytkownika możesz wpisać w oknie <a href="settings_user.php">Ustawienia programu - Użytkownik</a>).<br />
 Jeśli wskazałeś dokument w oknie edytora, będzie tu umieszczona informacja <i><tt>w trakcie edycji</tt></i></p>
 
 <p><b>Notatki</b><br />
@@ -161,7 +161,7 @@ Poniżej pola testowego notatki znajduje się kilka opcji związanych z wyświet
 	<li><b>kolorowanie</b> - wybierz z listy schemat kolorowania, jaki ma być zastosowany do bieżącego dokumentu</li>
 	<li><b>wymuszone kodowanie</b> - wybierz z listy kodowanie znaków narodowych, jakie ma być stosowane dla tego dokumentu przy odczycie i zapisie (bez względu na kodowanie ustawione dla serwisu bądź globalnie dla całego programu, a nawet w sekcji META tego dokumentu).</li>
 	<li><b>końce linii</b> - wybierz z listy sposób kodowania znaków końca wiersza (dostępne są trzy style kodowania: CRLF (DOS/Windows), CR (Mac) i LF (Unix)).</li>
-	<li>Język dokumentu - wybierz z listy język znacznikowy, który będzie domyślnie używany do tworzenia dokumentu. W ten sposób możesz zmienić zachowanie się programu określone w oknie <b>Ustawienia programu</b> oraz <b>Właściwości serwisu</b>. Ustawienie to będzie używane w sytuacji, gdy rozpoznanie typu dokumentu przy pomocy standardowych metod (DOCTYPE, xlmns) nie będzie możliwe. Lista zawiera nazwy wszystkich kategorii (wszystkie języki znacznikowe) obsługiwane przez Pająka. Możesz zmienić zawartość listy (dodać i usunąć język, a także zmodyfikować jego ustawienia) za pomocą <a href="tagdata_editor_tdf.html">Edytora TDF</a>.</li>
+	<li>Język dokumentu - wybierz z listy język znacznikowy, który będzie domyślnie używany do tworzenia dokumentu. W ten sposób możesz zmienić zachowanie się programu określone w oknie <b>Ustawienia programu</b> oraz <b>Właściwości serwisu</b>. Ustawienie to będzie używane w sytuacji, gdy rozpoznanie typu dokumentu przy pomocy standardowych metod (DOCTYPE, xlmns) nie będzie możliwe. Lista zawiera nazwy wszystkich kategorii (wszystkie języki znacznikowe) obsługiwane przez Pająka. Możesz zmienić zawartość listy (dodać i usunąć język, a także zmodyfikować jego ustawienia) za pomocą <a href="tagdata_editor_tdf.php">Edytora TDF</a>.</li>
 </ul>
 
 <p><b>Wymuszone dołączanie</b><br />
@@ -178,13 +178,13 @@ Kliknij ten przycisk, aby uruchomić okno służące do wyboru plików, które m
 Zawiera listę następujących informacji:
 <ul>
 	<li><b>Tytuł dokumentu</b> - zawartość znacznika <tt>&lt;TITLE&gt;</tt> ...<tt>&lt;/TITLE&gt;</tt>,</li>
-	<li><b>Autor</b> zawartość znacznika określającego autora w <a href="tool_meta.html">sekcji META </a>)</li>
-	<li><b>Opis dokumentu</b> - zawartość znacznika opisującego zawartość dokumentu w <a href="tool_meta.html">sekcji META </a></li>
+	<li><b>Autor</b> zawartość znacznika określającego autora w <a href="tool_meta.php">sekcji META </a>)</li>
+	<li><b>Opis dokumentu</b> - zawartość znacznika opisującego zawartość dokumentu w <a href="tool_meta.php">sekcji META </a></li>
 	<li><b>Data utworzenia</b> - data ostatniego zapisu pliku</li>
 	<li><b>Nazwa pliku</b> na dysku</li>
 	<li><b>Rozmiar pliku</b> na dysku</li>
-	<li><b>Strona kodowa</b> używana do kodowania znaków narodowych określona w <a href="tool_meta.html">sekcji META </a></li> <BASE>
-	<li><b>Słowa kluczowe</b> podane w <a href="tool_meta.html">sekcji META </a></li>
+	<li><b>Strona kodowa</b> używana do kodowania znaków narodowych określona w <a href="tool_meta.php">sekcji META </a></li> <BASE>
+	<li><b>Słowa kluczowe</b> podane w <a href="tool_meta.php">sekcji META </a></li>
 	<li><b>Dokument bazowy</b> - dokument wskazany w znaczniku <tt>BASE</tt>, względem niego będą się odnosiły ścieżki względne w dokumencie,</li>
 	<li><b>Arkusz stylów</b> - nazwa zewnętrznego pliku z arkuszami stylów (jeśli został dołączony)</li>
 	<li><b>Liczba linii</b> w dokumencie</li>
@@ -237,7 +237,7 @@ Przedstawia informacje na temat także przewidywanych czasów transferu przy ró
 <a name="bookmark"></a>
 <h2>Zakładki</h2>
 
-<p>Opcje tej zakładki umożliwiają zarządzanie <a href="main_editor_bookmarks.html">zakładkami w dokumencie</a>. Okno zawiera menu oraz listę zakładek. </p>
+<p>Opcje tej zakładki umożliwiają zarządzanie <a href="main_editor_bookmarks.php">zakładkami w dokumencie</a>. Okno zawiera menu oraz listę zakładek. </p>
 
 <p><b>Ustawienie zakładki numerowanej</b><br />
 Kliknij, aby wstawić w bieżącej linii dokumentu zakładkę numerowaną o pierwszym wolnym numerze. Możesz też skorzystać ze strzałki z prawej strony, by wstawić zakładkę o dowolnym numerze.</p>
@@ -272,7 +272,7 @@ Otwiera to okno pomocy.</p>
 <a name="todotasks"></a>
 <h2>Zadania</h2>
 
-<p>Opcje tej zakładki umożliwiają zarządzanie <a href="main_editor_todotasks.html">zadaniami do wykonania</a> w dokumencie. Okno zawiera menu oraz listę zadań wraz z podstawowymi danymi o zadaniu. </p>
+<p>Opcje tej zakładki umożliwiają zarządzanie <a href="main_editor_todotasks.php">zadaniami do wykonania</a> w dokumencie. Okno zawiera menu oraz listę zadań wraz z podstawowymi danymi o zadaniu. </p>
 
 <p>Zadania na liście możesz zaznaczać (z lewej strony nazwy). Nie ma to żadnego wpływu na działanie zadań, ale dzięki tej opcji możesz np. zaznaczyć zadania, które już wykonałeś itp.</p>
 
@@ -318,9 +318,9 @@ Wyświetla to okno pomocy.</p>
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="main_editor_bookmarks.html">Zakładki w dokumencie - ogólnie</a>
-	<li><a href="main_editor_todotasks.html">Zadania do wykonania - ogólnie</a>
-	<li><a href="main_editor_general.html">Praca z edytorem - ogólnie</a>
+	<li><a href="main_editor_bookmarks.php">Zakładki w dokumencie - ogólnie</a>
+	<li><a href="main_editor_todotasks.php">Zadania do wykonania - ogólnie</a>
+	<li><a href="main_editor_general.php">Praca z edytorem - ogólnie</a>
 </ul>
 </td>
 </tr>

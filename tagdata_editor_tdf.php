@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -78,7 +78,7 @@
 
 
 
-<p>Aby uzyskać dostęp do edytora plików definicyjnych (nazywanym w skrócie edytorem TDF - od ang. <i>TagDefinition</i>) użyj polecenia <b>Edytor plików definicyjnych TDF</b> (ikona polecenia jest pokazana wyżej), które znajduje się w <a href="main_menu_view.html">Menu Wyświetl</a> / <a href="main_menu_view_settings.html">Ogólne ustawienia programu</a>. Możesz również uruchomić go za pomocą przycisku znajdującego się w oknie <a href="settings.html">Ustawienia programu</a> w kategorii <a href="settings_codeinsight_tags.html">Ułatwienia, dynamiczne atrybuty, inne</a> lub w menu. Przycisk pokazany został powyżej. 
+<p>Aby uzyskać dostęp do edytora plików definicyjnych (nazywanym w skrócie edytorem TDF - od ang. <i>TagDefinition</i>) użyj polecenia <b>Edytor plików definicyjnych TDF</b> (ikona polecenia jest pokazana wyżej), które znajduje się w <a href="main_menu_view.php">Menu Wyświetl</a> / <a href="main_menu_view_settings.php">Ogólne ustawienia programu</a>. Możesz również uruchomić go za pomocą przycisku znajdującego się w oknie <a href="settings.php">Ustawienia programu</a> w kategorii <a href="settings_codeinsight_tags.php">Ułatwienia, dynamiczne atrybuty, inne</a> lub w menu. Przycisk pokazany został powyżej. 
 
 <p>Za pomocą edytora TDF możesz modyfikować lub rozszerzać listę znaczników w językach obsługiwanych przez Pająka z poziomu narzędzi dynamicznej pomocy (podpowiedzi dla znacznika, znaczników i ich atrybutów itp), a nawet (czy może przede wszystkim) tworzyć całkiem nowe definicje języków do tej pory nieobsługiwanych przez program. Dzięki temu Pająk jest niesamowicie elastycznym narzędziem, znacząco ułatwiającym tworzenie dokumentów w praktycznie dowolnym języku znacznikowym (nawet w języku nieznanym twórcom programu) przy zachowaniu działających mechanizmach podpowiedzi i automatycznego uzupełniania kodu.
 
@@ -94,7 +94,7 @@
 Wybierz z listy kategorię (język znacznikowy), aby móc modyfikować definicję jego znaczników. Za pomocą przycisków obok możesz dodać, usunąć bądź zmienić nazwę kategorii.
 
 <p><b>Właściwości</b><br>
-Kliknij ten przycisk, by otworzyć okno <a href="tagdata_editor_tdf_properties.html">Właściwości kategorii znaczników</a>, w którym będzie można edytować takie ustawienia, jak ścieżkę do dokumentacji, czy opis języka,
+Kliknij ten przycisk, by otworzyć okno <a href="tagdata_editor_tdf_properties.php">Właściwości kategorii znaczników</a>, w którym będzie można edytować takie ustawienia, jak ścieżkę do dokumentacji, czy opis języka,
 
 <p><b>Importuj</b><br />
 Pod tym przyciskiem kryją się dwa polecenia:
@@ -138,7 +138,7 @@ Określa status znacznika, np. czy jest specyficzny dla jakiejś przeglądarki, 
 To jest definicja reguły automatycznego uzupełniania. Znak | oznacza pozycję, w której ma być ustawiony kursor po uzupełnieniu znacznika.
 
 <p><b>Plik dokumentacji</b><br />
-Nazwa pliku z dokumentacją dla bieżącego znacznika. Ważne jest by oprócz nazwy tego pliku, prawidłowo określić nazwę katalogu z dokumentacją dla bieżącej kategorii w oknie <a href="tagdata_editor_tdf_properties.html#nadrzedny">Właściwości kategorii znaczników</a>. Dokumentacja ta jest będzie wyświetlana na <a href="down_help.html">dolnym panelu pomocy</a> po użyciu polecenia <b>Wyświetl pomoc dla bieżącego znacznika</b> (np. w <a href="main_menu_editor.html">menu podręcznym edytora</a>, standardowy skrót to <tt>Ctrl+F1</tt>).
+Nazwa pliku z dokumentacją dla bieżącego znacznika. Ważne jest by oprócz nazwy tego pliku, prawidłowo określić nazwę katalogu z dokumentacją dla bieżącej kategorii w oknie <a href="tagdata_editor_tdf_properties.html#nadrzedny">Właściwości kategorii znaczników</a>. Dokumentacja ta jest będzie wyświetlana na <a href="down_help.php">dolnym panelu pomocy</a> po użyciu polecenia <b>Wyświetl pomoc dla bieżącego znacznika</b> (np. w <a href="main_menu_editor.php">menu podręcznym edytora</a>, standardowy skrót to <tt>Ctrl+F1</tt>).
 
 <p><b>Znaczniki zawierające się:</b><br>
 Określa listę znaczników, które mogą być umieszczone wewnątrz modyfikowanego znacznika. Na przykład wewnątrz znacznika <tt>&lt;UL&gt;</tt> może być tylko znacznik <tt>&lt;LI&gt;</tt>. Symbol <tt>*</tt> oznacza dowolny znacznik.
@@ -150,7 +150,7 @@ Określa tekst podglądu, który jest używany w inspektorze znaczników podczas
 Określa tekst podglądu, który jest używany w inspektorze stylów CSS podczas modyfikacji stylu dla znacznika.
 
 <p><b>Zgodność</b><br />
-Zaznacz ten przełącznik, aby określić zgodność bieżącego znacznika z przeglądarkami. Następnie kliknij przycisk obok, aby otworzyć okno <a href="tagdata_editor_tdf_compatibility.html">Zgodność z przeglądarkami</a>. Informacja ta wyświetli się np. w podpowiedziach do znaczników.
+Zaznacz ten przełącznik, aby określić zgodność bieżącego znacznika z przeglądarkami. Następnie kliknij przycisk obok, aby otworzyć okno <a href="tagdata_editor_tdf_compatibility.php">Zgodność z przeglądarkami</a>. Informacja ta wyświetli się np. w podpowiedziach do znaczników.
 
 
 <p>W celu zaakceptowania zmian koniecznie kliknij przycisk zapisz oznaczony pokazaną obok ikoną dyskietki. Dopiero wtedy zostaną one zapisane do pliku. W przypadku próby przełączenia się do innej zakładki, bądź wyłączenia edytora TDF program również spyta czy chcesz zachować zmiany. </p>
@@ -179,7 +179,7 @@ Określa typ atrybutu, który powoduje, że dla danego atrybutu używany jest ta
 Określa listę wartości dla modyfikowanego atrybutu znacznika. Wartości te są wyświetlane w inspektorze znaczników oraz w funkcji dynamicznych atrybutów. Jeśli atrybut może posiadać wiele wartości oddzielonych za pomocą separatora, zaznacz przełącznik <b>Dopuszczaj wartości wielokrotne</b>, a następnie wprowadź <b>Separator</b> (najczęściej jest to średnik, przecinek, bądź spacja).
 
 <p><b>Zgodność</b><br />
-Zaznacz ten przełącznik, aby określić zgodność bieżącego atrybutu z przeglądarkami. Następnie kliknij przycisk obok, aby otworzyć okno <a href="tagdata_editor_tdf_compatibility.html">Zgodność z przeglądarkami</a>. Informacja ta wyświetli się np. w podpowiedziach do znaczników.
+Zaznacz ten przełącznik, aby określić zgodność bieżącego atrybutu z przeglądarkami. Następnie kliknij przycisk obok, aby otworzyć okno <a href="tagdata_editor_tdf_compatibility.php">Zgodność z przeglądarkami</a>. Informacja ta wyświetli się np. w podpowiedziach do znaczników.
 
 
 <p>W celu zaakceptowania zmian koniecznie kliknij przycisk zapisz oznaczony pokazaną obok ikoną dyskietki. Dopiero wtedy zostaną one zapisane do pliku. W przypadku próby przełączenia się do innej zakładki, bądź wyłączenia edytora TDF program również spyta czy chcesz zachować zmiany. </p>
@@ -202,7 +202,7 @@ Określa, czy zdarzenie jest opisane w specyfikacji języka, czy tez jest rozsze
 Określa "skąd pochodzi" zdarzenie (np. od kliknięcia przyciskim myszy, czy wciśnięcia klawisza na klawiaturze).
 
 <p><b>Zgodność</b><br />
-Zaznacz ten przełącznik, aby określić zgodność bieżącego atrybutu z przeglądarkami. Następnie kliknij przycisk obok, aby otworzyć okno <a href="tagdata_editor_tdf_compatibility.html">Zgodność z przeglądarkami</a>. Informacja ta wyświetli się np. w podpowiedziach do znaczników.
+Zaznacz ten przełącznik, aby określić zgodność bieżącego atrybutu z przeglądarkami. Następnie kliknij przycisk obok, aby otworzyć okno <a href="tagdata_editor_tdf_compatibility.php">Zgodność z przeglądarkami</a>. Informacja ta wyświetli się np. w podpowiedziach do znaczników.
 
 <p>W celu zaakceptowania zmian koniecznie kliknij przycisk zapisz oznaczony pokazaną obok ikoną dyskietki. Dopiero wtedy zostaną one zapisane do pliku. W przypadku próby przełączenia się do innej zakładki, bądź wyłączenia edytora TDF program również spyta czy chcesz zachować zmiany. </p>
 
@@ -217,9 +217,9 @@ Zaznacz ten przełącznik, aby określić zgodność bieżącego atrybutu z prze
 <h4>Pokrewne tematy</h4>
 <ul>
 	<li><a href="tagdata_editor_tdf_properties.html#nadrzedny">Właściwości kategorii znaczników</a></li>
-	<li><a href="tagdata_editor_tdf_compatibility.html">Zgodność z przeglądarkami</a></li>
-	<li><a href="main_editor_codeinsight.html">Uzupełnianie znaczników</a>
-	<li><a href="settings_codeinsight_tags.html">Ustawienia Dynamicznego kodu</a>
+	<li><a href="tagdata_editor_tdf_compatibility.php">Zgodność z przeglądarkami</a></li>
+	<li><a href="main_editor_codeinsight.php">Uzupełnianie znaczników</a>
+	<li><a href="settings_codeinsight_tags.php">Ustawienia Dynamicznego kodu</a>
 </ul>
 </td>
 </tr>

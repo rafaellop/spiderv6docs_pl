@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -74,28 +74,28 @@
 
 <!-- treść pomocy -->
 
-<p>Czasem zdarza się, że edytujesz dokument, który nie ma być jednak bezpośrednio oglądany, lecz jedynie stanowić część innego dokumentu. Może to być np. skrypt w języku JavaScript, bądź arkusza stylów CSS, który sam w sobie nic nie wyświetla, natomiast jest dołączane do dokumentu HTML. Podobnie - możesz edytować dokument, który będzie miał być umieszczony w jednej z ramek innego dokumentu. Innym, częstym przypadkiem jest tworzenie serwisu korzystającego z technologii <i>server-side</i>, jak np. <a href="coding_php.html">PHP</a>. W takim wypadku często łączy się kilka plików z funkcja mi w jeden dokument, np. za pomocą funkcji <tt>include()</tt>. </p>
+<p>Czasem zdarza się, że edytujesz dokument, który nie ma być jednak bezpośrednio oglądany, lecz jedynie stanowić część innego dokumentu. Może to być np. skrypt w języku JavaScript, bądź arkusza stylów CSS, który sam w sobie nic nie wyświetla, natomiast jest dołączane do dokumentu HTML. Podobnie - możesz edytować dokument, który będzie miał być umieszczony w jednej z ramek innego dokumentu. Innym, częstym przypadkiem jest tworzenie serwisu korzystającego z technologii <i>server-side</i>, jak np. <a href="coding_php.php">PHP</a>. W takim wypadku często łączy się kilka plików z funkcja mi w jeden dokument, np. za pomocą funkcji <tt>include()</tt>. </p>
 
 <p>W każdym takim wypadku możesz dla edytowanego dokumentu ustawić "dokument podglądu". Pająk będzie wyświetlał ustawiony tutaj dokument w momencie, gdy wywołasz podgląd edytowanego dokumentu. Dokument podglądu może znajdować się zarówno na dysku lokalnego komputera, na serwerze internetowym itp.</p>
 
 <p><b>Dla przykładu:</b><br />
 Edytujesz skrypt <tt>moj_skrypt.js</tt>, który jest dołączony do dokumentu <tt>moj_dokument.html</tt>. W momencie, gdy wywołasz podgląd skryptu <tt>moj_skrypt.js</tt>, wyświetlony zostanie dokument <tt>moj_dokument.html</tt>.
 
-<p>Dokument podglądu może być ustawiony dla całego serwisu (w oknie <a href="service_properites.html">Własności serwisu</a>), a ponadto może być zapamiętywane osobno dla każdego dokumentu w <a href="main_editor_addfiles.html">dodatkowych informacji o dokumencie </a>.</p>
+<p>Dokument podglądu może być ustawiony dla całego serwisu (w oknie <a href="service_properites.php">Własności serwisu</a>), a ponadto może być zapamiętywane osobno dla każdego dokumentu w <a href="main_editor_addfiles.php">dodatkowych informacji o dokumencie </a>.</p>
 
 <p>Dokument podglądu ma jeszcze jedno, dodatkowe znaczenie, niezwiązane bezpośrednio w przeglądaniem dokumentów. Opisane wyżej łączenie se sobą skryptów PHP może odbywać się za pomocą ich przeciągania do bieżącego skryptu z listy plików. W takim wypadku Pająk spyta, czy utworzyć ścieżkę dostępu do dołączanego pliku względem dokumentu podglądu. Jeśli bieżący skrypt jest tylko modułem umieszczonym w podkatalogu, a nie samodzielnym skryptem który wyświetla gotowy dokument, utworzenie ścieżki względem jego dokumentu podglądu może być właściwsze, gdyż ostatecznie, to właśnie względem tego dokumentu będą tworzone ścieżki dostępu podczas linkowania skryptów przez interpreter PHP.</p>
 
 <h2>Opcje okna Ustawienie dokumentu podglądu</h2>
 
 <b>Używaj dokumentu podglądu przypisanego do serwisu</b> <br />
-Jeśli zaznaczysz tę opcję, po włączeniu <a href="main_preview_embed.html">zakładki Przeglądanie</a>, wyświetlony w niej zostanie dokument wskazany jako dokument podglądu w oknie <a href="service_properites.html">Własności serwisu</a>.
+Jeśli zaznaczysz tę opcję, po włączeniu <a href="main_preview_embed.php">zakładki Przeglądanie</a>, wyświetlony w niej zostanie dokument wskazany jako dokument podglądu w oknie <a href="service_properites.php">Własności serwisu</a>.
 
 
 <p><b>Przeglądaj za pomocą dokumentu </b><br />
 Zaznacz tę opcje i wskaż dokument, który ma być używany do podglądu bieżącego dokumentu.
 
 <p><b>Nie używaj dokumentu podglądu</b><br />
-Zaznacz tę opcję, jeśli bieżący dokument ma być przeglądany zawsze bezpośrednio (nie będzie używany dokument podglądu, nawet jeśli został on wskazany w oknie <a href="service_properites.html">Własności serwisu</a>).
+Zaznacz tę opcję, jeśli bieżący dokument ma być przeglądany zawsze bezpośrednio (nie będzie używany dokument podglądu, nawet jeśli został on wskazany w oknie <a href="service_properites.php">Własności serwisu</a>).
 
 <p><b>Przekazuj następujące parametry przy podglądzie:</b><br />
 Zaznacz tę opcję i podaj parametry, jakie maja zostać przekazane do dokumentu podglądu. Dzięki tej opcji możesz zasymulować przekazanie do dokumentu danych z formularza. 
@@ -131,9 +131,9 @@ to adres do URL dokumentu, który zostanie wyświetlony będzie wyglądał nast�
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="main_preview_general.html">Przeglądanie - ogólnie</a>
-	<li><a href="main_preview_embed.html">Zakładka "Przeglądanie"</a>
-	<li><a href="main_preview_external.html">Używanie zewnętrznych przeglądarek</a>
+	<li><a href="main_preview_general.php">Przeglądanie - ogólnie</a>
+	<li><a href="main_preview_embed.php">Zakładka "Przeglądanie"</a>
+	<li><a href="main_preview_external.php">Używanie zewnętrznych przeglądarek</a>
 	
 </ul>
 </td>

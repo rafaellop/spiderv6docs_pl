@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -78,10 +78,10 @@
 
 
 
-<p>Jeśli nie pamiętasz dokładnej składni instrukcji, jak np. <b><tt>if</tt></b>, lub nie chce Ci się wpisywać całego kodu deklaracji klasy, możesz skorzystać z przygotowanych makrokodów. W tym celu przejdź do zakładki <a href="main_tabs_macrocodes.html">Makrokody</a>. Interesujące nas w tej chwili makrokody znajdują się w gałęzi Makrokody / Szablony kodu / PHP. </p>
+<p>Jeśli nie pamiętasz dokładnej składni instrukcji, jak np. <b><tt>if</tt></b>, lub nie chce Ci się wpisywać całego kodu deklaracji klasy, możesz skorzystać z przygotowanych makrokodów. W tym celu przejdź do zakładki <a href="main_tabs_macrocodes.php">Makrokody</a>. Interesujące nas w tej chwili makrokody znajdują się w gałęzi Makrokody / Szablony kodu / PHP. </p>
 <p>Z ich pomocą możesz wstawić nawet kompletne fragmenty kodu deklaracji klasy, wraz konstruktorem, opisem klasy w komentarzu itp. Dostępne są też prostrze makrokody zawierające podstawowe elementy, bez rozbudowanych możliwości z wykorzystaniem bloków i zmiennych makrokodu.</p>
 
-<p>Więcej o korzystaniu z makrokodów czytaj w temacie <a href="macrocodes_using.html">Makrokody dostarczone z programem</a></p>
+<p>Więcej o korzystaniu z makrokodów czytaj w temacie <a href="macrocodes_using.php">Makrokody dostarczone z programem</a></p>
 
 
 
@@ -95,12 +95,12 @@
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="coding_php.html">Wspomaganie dla PHP - ogólnie</a></li>
-	<li><a href="main_tabs_macrocodes.html">Zakładka "Makrokody"</a></li>
-	<li><a href="macrocodes.html">Makrokody - ogólnie</a>
-	<li><a href="settings_macrocodes.html">Ustawienia makrokodów</a>
-	<li><a href="macrocodes_editor.html">Edytor makrokodów</a>
-	<li><a href="macrocodes_instruction.html">Tworzenie makrokodu - instrukcja krok po kroku</a>
+	<li><a href="coding_php.php">Wspomaganie dla PHP - ogólnie</a></li>
+	<li><a href="main_tabs_macrocodes.php">Zakładka "Makrokody"</a></li>
+	<li><a href="macrocodes.php">Makrokody - ogólnie</a>
+	<li><a href="settings_macrocodes.php">Ustawienia makrokodów</a>
+	<li><a href="macrocodes_editor.php">Edytor makrokodów</a>
+	<li><a href="macrocodes_instruction.php">Tworzenie makrokodu - instrukcja krok po kroku</a>
 </ul>
 </td>
 </tr>

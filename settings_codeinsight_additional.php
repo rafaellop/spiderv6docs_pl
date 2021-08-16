@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -156,7 +156,7 @@ Zaznacz tę opcję, aby program dopisywał dodatkową spację przed znakiem domk
 Zaznacz tę opcję, jeśli program ma domyślnie zawsze umieszczać znak '\' przed znakami specjalnymi (np. ") w znacznikach umieszczanych wewnątrz skryptów.
 
 <p><b>Obejmuj wartość zdarzenia w znaczniku apostrofami</b><br>
-Zaznacz tę opcję, aby podczas tworzenia, bądź reedycji znaczników za pomocą narzędzi do tworzenia znaczników, wartości przeznaczone dla zdarzeń (definiowane w oknie '<a href="tool_events_attributes.html">Dodatkowe zdarzenia i atrybuty</a>') obejmowane były apostrofami.
+Zaznacz tę opcję, aby podczas tworzenia, bądź reedycji znaczników za pomocą narzędzi do tworzenia znaczników, wartości przeznaczone dla zdarzeń (definiowane w oknie '<a href="tool_events_attributes.php">Dodatkowe zdarzenia i atrybuty</a>') obejmowane były apostrofami.
 
 
 
@@ -178,7 +178,7 @@ Zaznacz tę opcję, aby podczas tworzenia, bądź reedycji znaczników za pomoc�
 <h4>Pokrewne tematy</h4>
 <ul>
    <li><a href="settings_codeinsight.html#settingslistcodeinsight">Inne ustawienia ułatwień</a>
-   <li><a href="down_syntax_check.html">Sprawdzanie składni</a>
+   <li><a href="down_syntax_check.php">Sprawdzanie składni</a>
 </ul>
 </td>
 </tr>

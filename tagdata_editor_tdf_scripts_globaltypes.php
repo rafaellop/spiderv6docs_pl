@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -76,7 +76,7 @@
 
 
 
-<p>To okienko pozwala na dodanie nowego globalnego obiektu o określonym typie do grupy obiektów wybranej w ustawieniach pliku definicyjnego dla skryptów. <a href="tagdata_editor_tdf_scripts.html">Edytor pliku definicyjnego</a> pozwala na tworzenie i modyfikację istniejącej definicji wybranego języka skryptowego, która jest wykorzystywana w funkcjach dynamicznych podpowiedzi oraz na zakładce <a href="main_tabs_languages.html">Języki programowania</a>.
+<p>To okienko pozwala na dodanie nowego globalnego obiektu o określonym typie do grupy obiektów wybranej w ustawieniach pliku definicyjnego dla skryptów. <a href="tagdata_editor_tdf_scripts.php">Edytor pliku definicyjnego</a> pozwala na tworzenie i modyfikację istniejącej definicji wybranego języka skryptowego, która jest wykorzystywana w funkcjach dynamicznych podpowiedzi oraz na zakładce <a href="main_tabs_languages.php">Języki programowania</a>.
 
 <p>Okno składa się z następujących pól:
 
@@ -87,7 +87,7 @@ Lista ta zawiera globalne zmienne typu obiektowego oraz przypisane im typy obiek
 Nazwa obiektu, któremu przypisany zostanie typ. Obiekt specjalny o nazwie "_root_" oznacza typ, do którego własności i metod odwoływać się można bez podania nazwy obiektu.
 
 <p><b>Typ</b><br>
-Wybierz typ opisujący podaną zmienną obiektową. Typ zależy od wybranej grupy obiektów. Nowe typu można przypisywać korzystając z okienka <a href="tagdata_editor_tdf_scripts_objecttype.html">Nowego typu obiektowego</a>.
+Wybierz typ opisujący podaną zmienną obiektową. Typ zależy od wybranej grupy obiektów. Nowe typu można przypisywać korzystając z okienka <a href="tagdata_editor_tdf_scripts_objecttype.php">Nowego typu obiektowego</a>.
 
 </td>
 </tr>
@@ -99,10 +99,10 @@ Wybierz typ opisujący podaną zmienną obiektową. Typ zależy od wybranej grup
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="tagdata_editor_tdf_scripts_objecttype.html">Nowy typ obiektowy</a>
-	<li><a href="tagdata_editor_tdf_scripts.html">Edytor plików definicyjnych języków skryptowych</a>
-	<li><a href="main_tabs_languages.html">Zakładka "Języki programowania"</a>
-	<li><a href="settings_codeinsight_scripts.html">Ustawienia Dynamicznego kodu</a>
+	<li><a href="tagdata_editor_tdf_scripts_objecttype.php">Nowy typ obiektowy</a>
+	<li><a href="tagdata_editor_tdf_scripts.php">Edytor plików definicyjnych języków skryptowych</a>
+	<li><a href="main_tabs_languages.php">Zakładka "Języki programowania"</a>
+	<li><a href="settings_codeinsight_scripts.php">Ustawienia Dynamicznego kodu</a>
 </ul>
 </td>
 </tr>

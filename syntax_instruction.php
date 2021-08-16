@@ -28,23 +28,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -117,7 +117,7 @@ Z&nbsp;zebranych informacji wynika również, że&nbsp;kod HTML może zawierać 
 
 Pierwszą czynnością po utworzeniu schematu będzie wpisanie przykładowego tekstu, na którym można zaobserwować wyniki pracy i&nbsp;ewentualne błędy. W&nbsp;tym celu kliknij ikonę 'Umożliwiaj modyfikację tekstu podglądu' (w prawym dolnym rogu). Następnie wpisz tam poniższy kod HTML:
 
-<pre>&lt;a href="site.html"&gt;Link&lt;/a&gt;
+<pre>&lt;a href="site.php"&gt;Link&lt;/a&gt;
 &lt;div class="classname"&gt;Marek&amp;nbsp;i&amp;nbsp;Jarek&lt;/div&gt;
 &lt;img src="img.gif" onMouseOver="mouseover()" onClick="click()"&gt;
 &lt;!-- Comment --&gt;</pre>
@@ -265,9 +265,9 @@ Aby użyć danego schematu do kolorowania składni aktualnego dokumentu, użyj p
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="syntax_editor.html">Edytor schematów kolorowania</a></li>
-	<li><a href="settings_editor_syntax.html">Ustawienia programu - Kolorowanie składni</a></li>
-	<li><a href="syntax.html">Ogólnie o kolorowaniu składni w Pająku</a></li>
+	<li><a href="syntax_editor.php">Edytor schematów kolorowania</a></li>
+	<li><a href="settings_editor_syntax.php">Ustawienia programu - Kolorowanie składni</a></li>
+	<li><a href="syntax.php">Ogólnie o kolorowaniu składni w Pająku</a></li>
 </ul>
 </td>
 </tr>

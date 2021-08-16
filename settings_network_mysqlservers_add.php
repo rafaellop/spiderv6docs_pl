@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -75,7 +75,7 @@
 
 
 <!-- treść pomocy -->
-<p>To okno służy zarówno do określania parametrów nowego, dodawanego dopiero serwera jak i do modyfikacji ustawień istniejącego serwera baz danych MySQL. Możesz je wyświetlić dodając lub modyfikując ustawienia wybranego serwera w oknie <a href="settings_network_mysqlservers.html">Ustawienia serwerów baz danych MySQL</a>.
+<p>To okno służy zarówno do określania parametrów nowego, dodawanego dopiero serwera jak i do modyfikacji ustawień istniejącego serwera baz danych MySQL. Możesz je wyświetlić dodając lub modyfikując ustawienia wybranego serwera w oknie <a href="settings_network_mysqlservers.php">Ustawienia serwerów baz danych MySQL</a>.
 
 
 <h2>Właściwości serwera baz danych</h2>
@@ -84,7 +84,7 @@
 
 <p><b>Jeśli nie znasz danych potrzebnych do skonfigurowania serwera, spytaj o nie administratora serwera. Pamiętaj, że w celu polepszenia bezpieczeństwa, większość usługodawców internetowych blokuje łączenie się z serwerem MySQL inaczej, niż za pomocą nazwy serwera <tt>localhost</tt> - w takiej sytuacji nie będziesz mógł z niego korzystać bezpośrednio w Pająku.</b>
 
-<p>Aby skonfigurować serwer baz danych do wykorzystania w Pająku na zakładce <a href="main_tabs_inspector_mysql.html">Inspektor MySQL</a>, musisz podać następujące dane w odpowiednich polach:
+<p>Aby skonfigurować serwer baz danych do wykorzystania w Pająku na zakładce <a href="main_tabs_inspector_mysql.php">Inspektor MySQL</a>, musisz podać następujące dane w odpowiednich polach:
 
 <p><b>Przyjazna nazwa</b><br>
 W tym polu wpisz nazwę, która będzie identyfikować serwer MySQL na liście serwerów. Wartość ta ma znaczenie tylko informacyjne i może być dowolna.
@@ -118,7 +118,7 @@ W tym miejscu możesz wpisać nazwę grupy, do jakiej ma należeć baza danych. 
 <hr />
 
 <p><b>Kodowanie znaków</b><br />
-Wybierz z listy sposób kodowania znaków, z jakiego korzysta baza do przechowywania danych tekstowych. Jeśli wybierzesz niepoprawne kodowanie, niektóre znaki narodowe w tekstach wyświetlanych na <a href="main_tabs_inspector_mysql.html">Inspektor MySQL</a> mogą być nieprawidłowe.
+Wybierz z listy sposób kodowania znaków, z jakiego korzysta baza do przechowywania danych tekstowych. Jeśli wybierzesz niepoprawne kodowanie, niektóre znaki narodowe w tekstach wyświetlanych na <a href="main_tabs_inspector_mysql.php">Inspektor MySQL</a> mogą być nieprawidłowe.
 
 <p><b>Komenda kodowania</b><br />
 W tym polu znajduje się komenda wywoływana podczas operacji na serwerze MySQL, dzięki której możliwe jest ustawienie poprawne kodowania znaków podczas komunikacji programu z serwerem. Niektóre serwery mogą nieobsługiwać domyślnych zmiennych środowiskowych NAMES i CHARSET, dlatego przy ewentualnych problemach z połączeniem z serwerem MySQL należy zmodyfikować tę komendę na adekwatną dla swojego serwera lub zdefiniować te zmienne w konfiguracji serwera. <br><br>
@@ -139,11 +139,11 @@ Czyści listę ulubionych zapytań i tabel serwera. Żadne dane nie będą usuwa
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-   <li><a href="main_tabs_inspector_mysql.html">Zakładka Inspektor MySQL</a></li>
-   <li><a href="tool_mysql_table_properties.html">Właściwości tabeli MySQL</a></li>
-   <li><a href="tool_mysql_table_index.html">Właściwości indeksu tabeli MySQL</a></li>
-   <li><a href="tool_mysql_table_field.html">Właściwości pola tabeli MySQL</a></li>
-   <li><a href="settings_network_mysqlservers.html">Ustawienia programu - Ustawienia serwerów baz danych MySQL</a></li>
+   <li><a href="main_tabs_inspector_mysql.php">Zakładka Inspektor MySQL</a></li>
+   <li><a href="tool_mysql_table_properties.php">Właściwości tabeli MySQL</a></li>
+   <li><a href="tool_mysql_table_index.php">Właściwości indeksu tabeli MySQL</a></li>
+   <li><a href="tool_mysql_table_field.php">Właściwości pola tabeli MySQL</a></li>
+   <li><a href="settings_network_mysqlservers.php">Ustawienia programu - Ustawienia serwerów baz danych MySQL</a></li>
 </ul>
 </td>
 </tr>

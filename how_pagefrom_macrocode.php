@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -77,17 +77,17 @@
 
 <h2>O szablonach czyli Makrokodach </h2>
 
-<p>Najszybszą metodą stworzenia nowego i atrakcyjnego serwisu internetowego jest wykorzystanie szablonów wbudowanych w program. Szablony gotowych stron zostały przygotowane przez profesjonalnego grafika oraz wbudowane w program z wykorzystaniem mechanizmu tzw. <a href="macrocodes.html">Makrokodów</a>. </p>
+<p>Najszybszą metodą stworzenia nowego i atrakcyjnego serwisu internetowego jest wykorzystanie szablonów wbudowanych w program. Szablony gotowych stron zostały przygotowane przez profesjonalnego grafika oraz wbudowane w program z wykorzystaniem mechanizmu tzw. <a href="macrocodes.php">Makrokodów</a>. </p>
 
 <h3>Kreator nowej strony z szablonu</h3>
 
-<p>W celu ułatwienia tworzenia nowych dokumentów przez początkujących webmasterów, Pająk został wyposażony w narzędzie <a href="tool_new_page_wizard.html">Kreator nowej strony z szablonu</a>. Narzędzie to w prosty i intuicyjny sposób umożliwia przygotowanie i zapisanie na dysku kompletnego dokumentu wraz z grafikami i innymi niezbędnymi plikami. Stanowi ono alternatywny sposób wykorzystania opisanych niżej szablonów stron dostępnych w opisanej dalej zakładce Makrokody.</p>
+<p>W celu ułatwienia tworzenia nowych dokumentów przez początkujących webmasterów, Pająk został wyposażony w narzędzie <a href="tool_new_page_wizard.php">Kreator nowej strony z szablonu</a>. Narzędzie to w prosty i intuicyjny sposób umożliwia przygotowanie i zapisanie na dysku kompletnego dokumentu wraz z grafikami i innymi niezbędnymi plikami. Stanowi ono alternatywny sposób wykorzystania opisanych niżej szablonów stron dostępnych w opisanej dalej zakładce Makrokody.</p>
 
 <h3></h3>
 
 <p>Makrokody to w uproszczeniu modyfikowalne szablony różnego rodzaju przykładów, które opatrzone w zmienne mogą być modyfikowane przed wstawieniem ich w treść strony WWW. W Pająku wśród Makrokodów znaleźć można takie elementy jak gotowe skrypty JavaScript, bannery, często używany kod PHP, itp. czy też kompletne szablony stron WWW czy też stron internetowych.</p>
 
-<p>Aby zapoznać się z zawartością Makrokodów należy z panelu w lewej części okna programu wybrać <a href="main_tabs_macrocodes.html">zakładkę Makrokody</a>. Na tej zakładce wyświetlane jest drzewko z różnymi kategoriami makrokodów. W przypadku gdy rozwinie się wybraną gałąź i wybierze jakiś makrokod z listy, ujawniają się dodatkowe opcje takie jak podgląd makrokodu lub jego źródła, a także dodatkowe zakładki ze <a href="macrocodes_editor_vars.html">zmiennymi</a> i <a href="macrocodes_editor_blocks.html">blokami</a> jeśli makrokod posiada zdefiniowane takowe zmienne. Zmienne pozwalają na modyfikację wyglądu bądź treści makrokodów w zależności od preferencji jeszcze przed ich wstawieniem na stronę. </p>
+<p>Aby zapoznać się z zawartością Makrokodów należy z panelu w lewej części okna programu wybrać <a href="main_tabs_macrocodes.php">zakładkę Makrokody</a>. Na tej zakładce wyświetlane jest drzewko z różnymi kategoriami makrokodów. W przypadku gdy rozwinie się wybraną gałąź i wybierze jakiś makrokod z listy, ujawniają się dodatkowe opcje takie jak podgląd makrokodu lub jego źródła, a także dodatkowe zakładki ze <a href="macrocodes_editor_vars.php">zmiennymi</a> i <a href="macrocodes_editor_blocks.php">blokami</a> jeśli makrokod posiada zdefiniowane takowe zmienne. Zmienne pozwalają na modyfikację wyglądu bądź treści makrokodów w zależności od preferencji jeszcze przed ich wstawieniem na stronę. </p>
 
 <h2>Wybieranie szablonu dla strony WWW</h2>
 
@@ -134,9 +134,9 @@ Witaj na mojej stronie. Jest mi bardzo miło, że tutaj zawitałeś. Mam nadziej
 
 <p>Przed publikacją serwisu w sieci należy najpierw przetestować jego działanie na komputerze lokalnym. W tym celu można otworzyć jedną z wygenerowanych stron w przeglądarce i "pochodzić" po jej odsyłaczach sprawdzając czy nie ma błędnych odsyłaczy i wszystko działa jak należy. Można również w tym celu wykorzystać narzędzia weryfikacji wbudowane w Pająka, jednak to zadanie jest przeznaczone dla bardziej zaawansowanych użytkowników, co nie oznacza jednak, że nie warto się z nim zapoznać.</p>
 
-<p>Aby opublikować stronę w Internecie należy przede wszystkim mieć miejsce na publikację, czyli innymi słowy konto internetowe z możliwością publikowania stron WWW. Posiadając takie konto należy skonfigurować je w Pająku w <a href="settings_network_ftpservers.html">ustawieniach FTP</a> ("Dostosuj sieć i połączenia"). </p>
+<p>Aby opublikować stronę w Internecie należy przede wszystkim mieć miejsce na publikację, czyli innymi słowy konto internetowe z możliwością publikowania stron WWW. Posiadając takie konto należy skonfigurować je w Pająku w <a href="settings_network_ftpservers.php">ustawieniach FTP</a> ("Dostosuj sieć i połączenia"). </p>
 
-<p>Po zdefiniowaniu konta możesz się z nim połączyć za pomocą panelu zasobów po prawej stronie ekranu i <a href="main_tabs_myftpservers.html">zakładki "Moje serwery"</a>, która się tam znajduje. Również w tym wypadku dodatkowych informacji szukaj w pomocy do programu. Pamiętaj, aby przesłać na serwer wszystkie pliki w takim samym układzie jak znajdują się na dysku, tj. wg odpowiednich folderów, z podfolderami i przypisanymi grafikami. W innym wypadku strona może nie działać poprawnie. Również i w tym wypadku zalecamy przetestowanie opublikowanego serwisu już z sieci Internet.</p>
+<p>Po zdefiniowaniu konta możesz się z nim połączyć za pomocą panelu zasobów po prawej stronie ekranu i <a href="main_tabs_myftpservers.php">zakładki "Moje serwery"</a>, która się tam znajduje. Również w tym wypadku dodatkowych informacji szukaj w pomocy do programu. Pamiętaj, aby przesłać na serwer wszystkie pliki w takim samym układzie jak znajdują się na dysku, tj. wg odpowiednich folderów, z podfolderami i przypisanymi grafikami. W innym wypadku strona może nie działać poprawnie. Również i w tym wypadku zalecamy przetestowanie opublikowanego serwisu już z sieci Internet.</p>
 
 </td>
 </tr>
@@ -148,10 +148,10 @@ Witaj na mojej stronie. Jest mi bardzo miło, że tutaj zawitałeś. Mam nadziej
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-   <li><a href="macrocodes.html">O szablonach czyli makrokodach</a></li>
-   <li><a href="main_tabs_macrocodes.html">Zakładka Makrokody</a></li>
-   <li><a href="settings_network_ftpservers.html">Konfiguracja serwera FTP do publikacji</a></li>
-   <li><a href="main_tabs_myftpservers.html">Korzystanie z zakładki "Moje serwery"</a></li>
+   <li><a href="macrocodes.php">O szablonach czyli makrokodach</a></li>
+   <li><a href="main_tabs_macrocodes.php">Zakładka Makrokody</a></li>
+   <li><a href="settings_network_ftpservers.php">Konfiguracja serwera FTP do publikacji</a></li>
+   <li><a href="main_tabs_myftpservers.php">Korzystanie z zakładki "Moje serwery"</a></li>
 </td>
 </tr>
 </table>

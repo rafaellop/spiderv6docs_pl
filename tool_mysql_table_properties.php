@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -73,7 +73,7 @@
 
 
 
-<p>Okno "Właściwości tabeli" MySQL otworzysz za pomocą polecenia o tej samej nazwie w menu podręcznym otwieranym po kliknięciu prawym klawiszem myszy na nazwie tabeli na drzewku struktury bazy danych zakładki <a href="main_tabs_inspector_mysql.html">Inspektor MySQL</a>.</p>
+<p>Okno "Właściwości tabeli" MySQL otworzysz za pomocą polecenia o tej samej nazwie w menu podręcznym otwieranym po kliknięciu prawym klawiszem myszy na nazwie tabeli na drzewku struktury bazy danych zakładki <a href="main_tabs_inspector_mysql.php">Inspektor MySQL</a>.</p>
 
 <p><b>Nazwa tabeli</b><br />
 Pole zawiera nazwę bieżącej tabeli. Klikając przycisk obok niego możesz wyświetlić okienko umożliwiające wprowadzenie nowej nazwy, co umożliwia zmianę nazwy edytowanej tabeli.
@@ -95,7 +95,7 @@ Pole zawiera nazwę bieżącej tabeli. Klikając przycisk obok niego możesz wy�
 </ul>
 
 <p>Pasek umieszczony obok listy zawiera przyciski umożliwiające dodawanie, usuwanie i zmianę właściwości pola:</p>
-<p><b>Dodanie nowego pola tabeli</b>, <b>Zmiana właściwości wybranego pola tabeli</b><br />Oba polecenia otwierają okno <a href="tool_mysql_table_field.html">Właściwości pola tabeli</a>, przy czym podczas edycji wybranego pola w okienko zostaną wyświetlone oczywiście jego ustawienia. Okno właściwości wybranego pola możesz otworzyć również dwuklikając na jego nazwie.
+<p><b>Dodanie nowego pola tabeli</b>, <b>Zmiana właściwości wybranego pola tabeli</b><br />Oba polecenia otwierają okno <a href="tool_mysql_table_field.php">Właściwości pola tabeli</a>, przy czym podczas edycji wybranego pola w okienko zostaną wyświetlone oczywiście jego ustawienia. Okno właściwości wybranego pola możesz otworzyć również dwuklikając na jego nazwie.
 
 <p><b>Usunięcie pola tabeli</b><br />
 Usuwa pole za tabeli. Uwaga - operacja ta jest nieodwracalna, upewnij się, że chcesz usunąć wybrane pole i że nie zawiera ono żadnych istotnych danych!
@@ -118,7 +118,7 @@ Umożliwiają przeniesienie zaznaczonego pola w górę, bądź w dół, struktur
 	<li> indeks typu FULL TEXT</li>
 </ul>
 
-<p>Po kliknięciu na przycisk edycji, bądź tworzenia indeksu otwarte zostanie okienko <a href="tool_mysql_table_index.html">Właściwości indeksu</a>, w którym będziesz mógł wybrać jego typ, pola których dotyczy i wprowadzić nazwę.</p>
+<p>Po kliknięciu na przycisk edycji, bądź tworzenia indeksu otwarte zostanie okienko <a href="tool_mysql_table_index.php">Właściwości indeksu</a>, w którym będziesz mógł wybrać jego typ, pola których dotyczy i wprowadzić nazwę.</p>
 
 
 </td>
@@ -131,11 +131,11 @@ Umożliwiają przeniesienie zaznaczonego pola w górę, bądź w dół, struktur
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="main_tabs_inspector_mysql.html">Zakładka Inspektor MySQL</a></li>
-	<li><a href="tool_mysql_table_index.html">Właściwości indeksu tabeli MySQL</a></li>
-	<li><a href="tool_mysql_table_field.html">Właściwości pola tabeli MySQL</a></li>
-	<li><a href="settings_network_mysqlservers_add.html">Właściwości serwera MySQL</a></li>
-	<li><a href="settings_network_mysqlservers.html">Ustawienia programu - Ustawienia serwerów baz danych MySQL</a></li>
+	<li><a href="main_tabs_inspector_mysql.php">Zakładka Inspektor MySQL</a></li>
+	<li><a href="tool_mysql_table_index.php">Właściwości indeksu tabeli MySQL</a></li>
+	<li><a href="tool_mysql_table_field.php">Właściwości pola tabeli MySQL</a></li>
+	<li><a href="settings_network_mysqlservers_add.php">Właściwości serwera MySQL</a></li>
+	<li><a href="settings_network_mysqlservers.php">Ustawienia programu - Ustawienia serwerów baz danych MySQL</a></li>
 </ul>
 </td>
 </tr>

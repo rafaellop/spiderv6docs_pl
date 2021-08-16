@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -74,7 +74,7 @@
 
 <p>Edytor tabel to rozbudowane narzędzie pozwalające na tworzenie tabel w dość wygodny sposób. Narzędzie składa się z kilku zakładek, na których ustala się poszczególne elementy tabeli.
 
-<p>Okno Edytora tabel uruchomisz z poziomu <a href="main_menu_main.html">Menu głównego</a> / <a href="main_menu_tools.html">Narzędzia</a> / <a href="main_menu_tools_tables.html">Tabele</a> / Edytor Tabel, a także z paska narzędzi <a href="toolbars_tables.html">Tabele i formularze</a>. Domyślny skrót klawiszowy uruchamiający to okno to <tt>Ctrl+T</tt>.
+<p>Okno Edytora tabel uruchomisz z poziomu <a href="main_menu_main.php">Menu głównego</a> / <a href="main_menu_tools.php">Narzędzia</a> / <a href="main_menu_tools_tables.php">Tabele</a> / Edytor Tabel, a także z paska narzędzi <a href="toolbars_tables.php">Tabele i formularze</a>. Domyślny skrót klawiszowy uruchamiający to okno to <tt>Ctrl+T</tt>.
    
 <h2>Zakładka ustawienia tabeli</h2>
 
@@ -141,10 +141,10 @@ Wartości tej listy określają, które linie będą wyświetlane pomiędzy kom�
 <p>Grupa definicji stylu dla tabeli pozwala na przypisanie znacznikowi <tt>&lt;table&gt;</tt> odpowiednich stylów. Znajdziesz tutaj trzy pola pozwalające na określenie:
 
 <p><b>Definicja stylu</b><br>
-W tym polu określasz styl dla elementu umieszczanego w dokumencie. Przycisk obok uruchamia narzedzie <a href="tool_style_editor.html">edytora stylów</a> umożliwiające stworzenie definicji stylu w przyjazny i wygodny sposób. Klikając tam możesz również modyfikować istniejący styl.
+W tym polu określasz styl dla elementu umieszczanego w dokumencie. Przycisk obok uruchamia narzedzie <a href="tool_style_editor.php">edytora stylów</a> umożliwiające stworzenie definicji stylu w przyjazny i wygodny sposób. Klikając tam możesz również modyfikować istniejący styl.
 
 <p><b>Wybór klasy</b><br>
-W tym polu podajesz identyfikator klasy przypisany znacznikowi. Rozwijana lista umożliwia dostęp do klas zdefiniowanych w bieżącym dokumencie oraz w dołączonych do niego zewnętrznych arkuszach stylów. Przycisk znajdujący się obok uruchamia <a href="tool_style_class.html">narzędzie tworzenia nowej klasy</a>. 
+W tym polu podajesz identyfikator klasy przypisany znacznikowi. Rozwijana lista umożliwia dostęp do klas zdefiniowanych w bieżącym dokumencie oraz w dołączonych do niego zewnętrznych arkuszach stylów. Przycisk znajdujący się obok uruchamia <a href="tool_style_class.php">narzędzie tworzenia nowej klasy</a>. 
 
 <p><b>Identyfikator elementu</b><br>
 Tutaj podajesz unikalny identyfikator tego elementu w dokumencie. Identyfikatory te mogą być wykorzystywane np. przy wykonywaniu skoków do określonych części strony bądź w skryptach.
@@ -166,10 +166,10 @@ Ten parametr określa wyrównanie zawartości komórek wiersza w pionie o ile ni
 <p>Grupa <b>Definicja stylu dla wiersza</b> pozwala na przypisanie znacznikowi <tt>&lt;tr&gt;</tt> odpowiadającemu wierszom odpowiednich stylów. Znajdziesz tutaj trzy pola pozwalające na określenie:
 
 <p><b>Definicja stylu</b><br>
-W tym polu określasz styl dla elementu umieszczanego w dokumencie. Przycisk obok uruchamia narzedzie <a href="tool_style_editor.html">edytora stylów</a> umożliwiające stworzenie definicji stylu w przyjazny i wygodny sposób. Klikając tam możesz również modyfikować istniejący styl.
+W tym polu określasz styl dla elementu umieszczanego w dokumencie. Przycisk obok uruchamia narzedzie <a href="tool_style_editor.php">edytora stylów</a> umożliwiające stworzenie definicji stylu w przyjazny i wygodny sposób. Klikając tam możesz również modyfikować istniejący styl.
 
 <p><b>Wybór klasy</b><br>
-W tym polu podajesz identyfikator klasy przypisany znacznikowi. Rozwijana lista umożliwia dostęp do klas zdefiniowanych w bieżącym dokumencie oraz w dołączonych do niego zewnętrznych arkuszach stylów. Przycisk znajdujący się obok uruchamia <a href="tool_style_class.html">narzędzie tworzenia nowej klasy</a>. 
+W tym polu podajesz identyfikator klasy przypisany znacznikowi. Rozwijana lista umożliwia dostęp do klas zdefiniowanych w bieżącym dokumencie oraz w dołączonych do niego zewnętrznych arkuszach stylów. Przycisk znajdujący się obok uruchamia <a href="tool_style_class.php">narzędzie tworzenia nowej klasy</a>. 
 
 <p><b>Identyfikator elementu</b><br>
 Tutaj podajesz unikalny identyfikator tego elementu w dokumencie. Identyfikatory te mogą być wykorzystywane np. przy wykonywaniu skoków do określonych części strony bądź w skryptach.
@@ -209,10 +209,10 @@ Wypełnia tą samą treścią i ustawieniami wszystkie komórki w bieżącym wie
 <p>Grupa <b>Definicja stylu dla komórki</b> pozwala na przypisanie znacznikowi <tt>&lt;td&gt;</tt> odpowiadającemu komórkom odpowiednich stylów. Znajdziesz tutaj trzy pola pozwalające na określenie:
 
 <p><b>Definicja stylu</b><br>
-W tym polu określasz styl dla elementu umieszczanego w dokumencie. Przycisk obok uruchamia narzedzie <a href="tool_style_editor.html">edytora stylów</a> umożliwiające stworzenie definicji stylu w przyjazny i wygodny sposób. Klikając tam możesz również modyfikować istniejący styl.
+W tym polu określasz styl dla elementu umieszczanego w dokumencie. Przycisk obok uruchamia narzedzie <a href="tool_style_editor.php">edytora stylów</a> umożliwiające stworzenie definicji stylu w przyjazny i wygodny sposób. Klikając tam możesz również modyfikować istniejący styl.
 
 <p><b>Wybór klasy</b><br>
-W tym polu podajesz identyfikator klasy przypisany znacznikowi. Rozwijana lista umożliwia dostęp do klas zdefiniowanych w bieżącym dokumencie oraz w dołączonych do niego zewnętrznych arkuszach stylów. Przycisk znajdujący się obok uruchamia <a href="tool_style_class.html">narzędzie tworzenia nowej klasy</a>. 
+W tym polu podajesz identyfikator klasy przypisany znacznikowi. Rozwijana lista umożliwia dostęp do klas zdefiniowanych w bieżącym dokumencie oraz w dołączonych do niego zewnętrznych arkuszach stylów. Przycisk znajdujący się obok uruchamia <a href="tool_style_class.php">narzędzie tworzenia nowej klasy</a>. 
 
 <p><b>Identyfikator elementu</b><br>
 Tutaj podajesz unikalny identyfikator tego elementu w dokumencie. Identyfikatory te mogą być wykorzystywane np. przy wykonywaniu skoków do określonych części strony bądź w skryptach.
@@ -247,10 +247,10 @@ Tutaj podajesz unikalny identyfikator tego elementu w dokumencie. Identyfikatory
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="tool_table_tag.html">Edytor znacznika TABLE</a>
-	<li><a href="tool_table_quick.html">Bardzo szybka tabela</a>
-	<li><a href="main_menu_main.html">Menu programu</a>
-	<li><a href="toolbars_general.html">Narzędzia na paskach</a>
+	<li><a href="tool_table_tag.php">Edytor znacznika TABLE</a>
+	<li><a href="tool_table_quick.php">Bardzo szybka tabela</a>
+	<li><a href="main_menu_main.php">Menu programu</a>
+	<li><a href="toolbars_general.php">Narzędzia na paskach</a>
 </ul>
 </td>
 </tr>

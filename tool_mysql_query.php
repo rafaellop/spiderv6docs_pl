@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -90,7 +90,7 @@ Kliknij, aby wyświetlić listę <b>Ulubionych zapytań</b> w celu wybrania z ni
 <p><b>Zawijaj wiersze</b><br />
 Kliknij, aby włączyć zawijanie wierszy w polu tekstowym.
 
-<p>Rekordy pobrane wskutek wykonania zapytania mogą zostać wyświetlone na liście <a href="main_tabs_inspector_mysql.html#table_content">zawartość tabeli</a> w dolnej części zakładki <a href="main_tabs_inspector_mysql.html">Inspektor MySQL</a>.</p>
+<p>Rekordy pobrane wskutek wykonania zapytania mogą zostać wyświetlone na liście <a href="main_tabs_inspector_mysql.html#table_content">zawartość tabeli</a> w dolnej części zakładki <a href="main_tabs_inspector_mysql.php">Inspektor MySQL</a>.</p>
 
 </td>
 </tr>
@@ -102,9 +102,9 @@ Kliknij, aby włączyć zawijanie wierszy w polu tekstowym.
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="main_tabs_inspector_mysql.html">Zakładka Inspektor MySQL</a></li>
-	<li><a href="tool_mysql_query_creator.html">Kreator zapytania SQL</a></li>
-   <li><a href="tool_mysql_export_tables.html">Kreator eksportu z bazy danych</a></li>
+	<li><a href="main_tabs_inspector_mysql.php">Zakładka Inspektor MySQL</a></li>
+	<li><a href="tool_mysql_query_creator.php">Kreator zapytania SQL</a></li>
+   <li><a href="tool_mysql_export_tables.php">Kreator eksportu z bazy danych</a></li>
 </ul>
 </td>
 </tr>

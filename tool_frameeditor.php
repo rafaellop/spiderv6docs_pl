@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -91,7 +91,7 @@
 
 <h2>Uruchamianie</h2>
 
-<p><p>Narzędzie uruchomisz z poziomu <a href="main_menu_main.html">Menu głównego</a> / <a href="main_menu_tools.html">Narzędzia</a> / <a href="main_menu_tools_frames.html">Ramki</a> / Kreator ramek. Ikona polecenia została pokazana obok.
+<p><p>Narzędzie uruchomisz z poziomu <a href="main_menu_main.php">Menu głównego</a> / <a href="main_menu_tools.php">Narzędzia</a> / <a href="main_menu_tools_frames.php">Ramki</a> / Kreator ramek. Ikona polecenia została pokazana obok.
 
 <p>W momencie uruchomienia kreatora zostaniesz poproszony o podanie nazwy dokumentu, w którym umieszczona ma zostać struktura ramek. Po utworzeniu tego dokumentu włączone zostanie okno narzędzia.</p>
 
@@ -145,22 +145,22 @@ Wybierz sposób, w jaki ramki mają być umieszczone:
 </ul>
 
 <p><b>Styl</b><br>
-W tym polu określasz styl dla elementu umieszczanego w dokumencie. Przycisk obok uruchamia narzędzie <a href="tool_style_editor.html">edytora stylów</a> umożliwiające stworzenie definicji stylu w przyjazny i wygodny sposób. Klikając tam możesz również modyfikować istniejący styl.
+W tym polu określasz styl dla elementu umieszczanego w dokumencie. Przycisk obok uruchamia narzędzie <a href="tool_style_editor.php">edytora stylów</a> umożliwiające stworzenie definicji stylu w przyjazny i wygodny sposób. Klikając tam możesz również modyfikować istniejący styl.
 
 <p><b>Klasa</b><br>
-W tym polu podajesz identyfikator klasy przypisany znacznikowi. Rozwijana lista umożliwia dostęp do klas zdefiniowanych w bieżącym dokumencie oraz w dołączonych do niego zewnętrznych arkuszach stylów. Przycisk znajdujący się obok uruchamia <a href="tool_style_class.html">narzędzie tworzenia nowej klasy</a>. 
+W tym polu podajesz identyfikator klasy przypisany znacznikowi. Rozwijana lista umożliwia dostęp do klas zdefiniowanych w bieżącym dokumencie oraz w dołączonych do niego zewnętrznych arkuszach stylów. Przycisk znajdujący się obok uruchamia <a href="tool_style_class.php">narzędzie tworzenia nowej klasy</a>. 
 
 <p><b>ID</b><br>
 Tutaj podajesz unikalny identyfikator tego elementu w dokumencie. Identyfikatory te mogą być wykorzystywane np. przy ładowaniu dokumentu do ramki itp.
 
 <p><b>Obramowanie wokół ramki</b><br />
-Zaznacz tę opcję, jeśli chcesz określić grubość obramowania wokół ramki. Ustawienie to ma status przestarzały (ang.  <i>deprecated</i>) i nie zaleca się korzystania z niego. Zaleca się korzystanie ze <a href="coding_css.html">stylów CSS</a>.</p>
+Zaznacz tę opcję, jeśli chcesz określić grubość obramowania wokół ramki. Ustawienie to ma status przestarzały (ang.  <i>deprecated</i>) i nie zaleca się korzystania z niego. Zaleca się korzystanie ze <a href="coding_css.php">stylów CSS</a>.</p>
 <ul>
 	<li><b>Grubość obramowania</b> - wprowadź grubość obramowania</li>
 </ul>
 
 <p><b>Kolor obramowania</b><br />
-Zaznacz tę opcję, jeśli chcesz wybrać kolor obramowania, a następnie kliknij w pole obok w celu otworzenia <a href="tool_colorpalette.html">palety kolorów</a> która umożliwia wskazanie koloru. Ustawienie to ma status przestarzały (ang.  <i>deprecated</i>) i nie zaleca się korzystania z niego. Zaleca się korzystanie ze <a href="coding_css.html">stylów CSS</a>.</p>
+Zaznacz tę opcję, jeśli chcesz wybrać kolor obramowania, a następnie kliknij w pole obok w celu otworzenia <a href="tool_colorpalette.php">palety kolorów</a> która umożliwia wskazanie koloru. Ustawienie to ma status przestarzały (ang.  <i>deprecated</i>) i nie zaleca się korzystania z niego. Zaleca się korzystanie ze <a href="coding_css.php">stylów CSS</a>.</p>
 
 <p><b>Odstęp pomiędzy ramkami</b><br />
 Wprowadź odstęp, jaki ma być zachowany pomiędzy sąsiednimi ramkami.
@@ -213,7 +213,7 @@ Elementy te pozwalają ustawić opcje dla bieżącej ramki, działając identycz
 Wprowadź tytuł strony (znacznik &lt;TITLE&gt;).
 
 <p><b>Ustawienie sekcji META</b><br />
-Kliknij, aby otworzyć <a href="tool_meta.html">Edytor sekcji META</a> w celu ustawienia informacji dotyczących dokumentu.
+Kliknij, aby otworzyć <a href="tool_meta.php">Edytor sekcji META</a> w celu ustawienia informacji dotyczących dokumentu.
 
 <p><b>Wstawiaj również znaczniki spoza specyfikacji</b><br />
 Jeśli zaznaczysz tę opcję, Pająk w ostatecznym kodzie strony ramkowej umieści również te atrybuty, które nie są zalecane w specyfikacji HTML. Jeśli wyłączysz tę opcję, atrybuty te zostaną pominięte, nawet w przypadku gdy je ustawisz w opcjach zakładki <a href="#curr_frame_settings">Ustawienia wybranej ramki</a>.
@@ -269,9 +269,9 @@ Zaznacz tę opcję, aby kod źródłowy w oknie podglądu był zawijany tak, aby
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="tool_frameset.html">Edytor znacznika układu ramek FRAMESET</a>
-	<li><a href="main_menu_main.html">Menu programu</a>
-	<li><a href="toolbars_general.html">Inne narzędzia na paskach</a>
+	<li><a href="tool_frameset.php">Edytor znacznika układu ramek FRAMESET</a>
+	<li><a href="main_menu_main.php">Menu programu</a>
+	<li><a href="toolbars_general.php">Inne narzędzia na paskach</a>
 </ul>
 </td>
 </tr>

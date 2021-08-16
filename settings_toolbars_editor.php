@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -77,7 +77,7 @@
 
 
 
-<p>W tej kategorii możesz dostosowac wygląd menu kontekstowego edytora. Lista polecen i przyciski służace do jej obsługi są w zasadzie identyczne, jak w przypadku kategorii  <a href="settings_toolbars_toolbars.html">Konfiguracja pasków</a>.</p>
+<p>W tej kategorii możesz dostosowac wygląd menu kontekstowego edytora. Lista polecen i przyciski służace do jej obsługi są w zasadzie identyczne, jak w przypadku kategorii  <a href="settings_toolbars_toolbars.php">Konfiguracja pasków</a>.</p>
 
 </td>
 </tr>
@@ -90,8 +90,8 @@
 <h4>Pokrewne tematy</h4>
 <ul>
    <li><a href="settings_toolbars.html#settingslisttoolbars">Inne ustawienia wyglądu i pasków</a></li>
-   <li><a href="main_window_desc.html">Główne okno programu</a></li>
-   <li><a href="main_editor.html">Edytor - tryb edycji kodu źródłowego</a></li>
+   <li><a href="main_window_desc.php">Główne okno programu</a></li>
+   <li><a href="main_editor.php">Edytor - tryb edycji kodu źródłowego</a></li>
 </ul>
 </td>
 </tr>

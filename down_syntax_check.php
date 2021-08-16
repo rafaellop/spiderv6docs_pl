@@ -28,23 +28,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -78,7 +78,7 @@
 
 <p>Narzędzie sprawdzania składni służy do sprawdzenia zgodności dokumentów z odpowiednimi specyfikacjami i wyświetla komentarze na temat poprawności i obsługi elementów dokumentu przez przeglądarki. Możliwa jest weryfikacja dokumentów utworzonych w językach znaczników (jak HTML, SVG, WML) i arkuszy stylów CSS (przy czym arkusze CSS mogą być zagnieżdżone w innych dokumentach).</p>
 
-<p>Narzędzie sprawdzania składni można uruchomić z poziomu <a href="main_menu_main.html">Menu głównego</a> / <a href="main_menu_tools.html">Narzędzia</a> / <a href="main_menu_tools_verify.html">Weryfikacja kodu</a> poleceniem Sprawdź składnię lub uruchamiając to narzędzie z <a href="down_panel.html">dolnego panelu wyników</a>.</p>
+<p>Narzędzie sprawdzania składni można uruchomić z poziomu <a href="main_menu_main.php">Menu głównego</a> / <a href="main_menu_tools.php">Narzędzia</a> / <a href="main_menu_tools_verify.php">Weryfikacja kodu</a> poleceniem Sprawdź składnię lub uruchamiając to narzędzie z <a href="down_panel.php">dolnego panelu wyników</a>.</p>
 
 <p>Pająk umożliwia bezpośrednią weryfikację dokumentów otwartych w edytorze lub też za pomocą dokumentu podglądu, co przydaje się zwłaszcza podczas edycji dokumentów, które są poprawne dopiero przy włączeniu ich do innych dokumentów, np. plików dołączanych w PHP np. za pomocą polecenia <tt>include</tt> .</p>
 
@@ -96,20 +96,20 @@
 	<li>WML (Wireless Markup Language)</li>
 </ul>
 
-<p>Dokładny spis wszystkich wersji obsługiwanych języków można uzyskać za pomocą narzędzia <a href="tagdata_editor_tdf.html">Edytor plików definicyjnych TDF</a>.</p>
+<p>Dokładny spis wszystkich wersji obsługiwanych języków można uzyskać za pomocą narzędzia <a href="tagdata_editor_tdf.php">Edytor plików definicyjnych TDF</a>.</p>
 
-<p>Dodatkowo program oferuje możliwość weryfikacji składni języków znaczników online za pomocą walidatora W3C&reg;. W tym wypadku program przesyła kod edytowanego dokumentu lub jego adres (jeśli otwarty bezpośrednio z serwera) do skryptu analizatora, znajdującego się na serwerach W3C&reg;. Więcej o <a href="settings_w3c_html.html">ustawieniach weryfikatora składni znaczników online</a>.</p>
+<p>Dodatkowo program oferuje możliwość weryfikacji składni języków znaczników online za pomocą walidatora W3C&reg;. W tym wypadku program przesyła kod edytowanego dokumentu lub jego adres (jeśli otwarty bezpośrednio z serwera) do skryptu analizatora, znajdującego się na serwerach W3C&reg;. Więcej o <a href="settings_w3c_html.php">ustawieniach weryfikatora składni znaczników online</a>.</p>
 
-<p>Aby uruchomić sprawdzanie składni użyj polecenia "Sprawdź składnię dokumentu" z poziomu <a href="main_menu_main.html">Menu głownego</a> / <a href="main_menu_tools.html">Narzędzia</a> / <a href="main_menu_tools_verify.html">Weryfikacja kodu</a></p>
+<p>Aby uruchomić sprawdzanie składni użyj polecenia "Sprawdź składnię dokumentu" z poziomu <a href="main_menu_main.php">Menu głownego</a> / <a href="main_menu_tools.php">Narzędzia</a> / <a href="main_menu_tools_verify.php">Weryfikacja kodu</a></p>
 
 
 <h2>Sprawdzanie poprawności CSS</h2>
 
 <p>Pająk umożliwia sprawdzanie poprawności składni i sprawdzanie zgodności arkuszy CSS z różnymi przeglądarkami. </p>
 
-<p>Aby uruchomić sprawdzanie składni arkuszy CSS użyj polecenia "Sprawdzanie składni CSS" z poziomu <a href="main_menu_main.html">Menu głownego</a> / <a href="main_menu_tools.html">Narzędzia</a> / <a href="main_menu_tools_verify.html">Weryfikacja kodu</a>.</p>
+<p>Aby uruchomić sprawdzanie składni arkuszy CSS użyj polecenia "Sprawdzanie składni CSS" z poziomu <a href="main_menu_main.php">Menu głownego</a> / <a href="main_menu_tools.php">Narzędzia</a> / <a href="main_menu_tools_verify.php">Weryfikacja kodu</a>.</p>
 
-<p>Dodatkowo program oferuje możliwość weryfikacji składni CSS online za pomocą walidatora W3C&reg;. W tym wypadku program przesyła kod edytowanego dokumentu lub jego adres (jeśli otwarty bezpośrednio z serwera) do skryptu analizatora, znajdującego się na serwerach W3C&reg;. Więcej o <a href="settings_w3c_css.html">ustawieniach weryfikatora składni CSS online</a>.</p>
+<p>Dodatkowo program oferuje możliwość weryfikacji składni CSS online za pomocą walidatora W3C&reg;. W tym wypadku program przesyła kod edytowanego dokumentu lub jego adres (jeśli otwarty bezpośrednio z serwera) do skryptu analizatora, znajdującego się na serwerach W3C&reg;. Więcej o <a href="settings_w3c_css.php">ustawieniach weryfikatora składni CSS online</a>.</p>
 
 <p>Aby uruchomić sprawdzanie zgodności arkuszy CSS z różnymi przeglądarkami użyj menu przypisanego do polecenia "Sprawdzanie składni CSS":
 
@@ -120,7 +120,7 @@
 </ul>
 </p>
 
-<p>Opcje zgodności danych elementów CSS z przeglądarkami można ustawiać w oknie "Edytor pliku definicyjnego CSS" dostępnym z poziomu: menu  "Wyświetl" - "Ogólne ustawienia programu" lub liście rozwijanej przycisku "Ustawienia programu" na "<a href="toolbars_main.html">Głównym pasku</a>".</p>
+<p>Opcje zgodności danych elementów CSS z przeglądarkami można ustawiać w oknie "Edytor pliku definicyjnego CSS" dostępnym z poziomu: menu  "Wyświetl" - "Ogólne ustawienia programu" lub liście rozwijanej przycisku "Ustawienia programu" na "<a href="toolbars_main.php">Głównym pasku</a>".</p>
 
 <h2>Wyniki sprawdzania poprawności składni i zgodności CSS</h2>
 
@@ -164,12 +164,12 @@
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-   <li><a href="down_syntax_check_css.html">Opcje sprawdzania zgodności CSS ze specyfikacją i przeglądarkami</a></li>
+   <li><a href="down_syntax_check_css.php">Opcje sprawdzania zgodności CSS ze specyfikacją i przeglądarkami</a></li>
    <li><a href="settings_editor_spelling.html#syntaxcheck">Ustawienia programu - ustawienia sprawdzania składni</a></li>
-   <li><a href="tagdata_editor_tdf.html">Edytor plików definicyjnych znaczników (TDF)</a></li>
-   <li><a href="tagdata_editor_tdf_css.html">Edytor pliku definicyjnego CSS</a></li>
+   <li><a href="tagdata_editor_tdf.php">Edytor plików definicyjnych znaczników (TDF)</a></li>
+   <li><a href="tagdata_editor_tdf_css.php">Edytor pliku definicyjnego CSS</a></li>
    <li><a href="down_panel.html#downpanellist">Inne zakładki dolnego panelu wyników</a></li>
-   <li><a href="main_window_desc.html">Główne okno programu</a></li>
+   <li><a href="main_window_desc.php">Główne okno programu</a></li>
 </ul>
 </td>
 </tr>

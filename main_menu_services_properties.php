@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -76,53 +76,53 @@
 
 <p>Polecenia w tym menu służą do bieżącej obsługi serwisu, jak np. wyszukiwanie i zamiana tekstu w plikach serwisu, synchronizacja serwisu z zawartością serwera itp. Dostępne są następujące polecenia:</p>
 
-<p><b><a href="service_properites.html">Własności serwisu</a></b><br />
+<p><b><a href="service_properites.php">Własności serwisu</a></b><br />
 Kliknij, aby otworzyć okno własności serwisu.
 
-<p><b><a href="service_todotasks.html">Lista zadań do wykonania</a></b><br />
+<p><b><a href="service_todotasks.php">Lista zadań do wykonania</a></b><br />
 Kliknij, aby otworzyć okno zadań do wykonania. Znajdą się w nim wszystkie zadania wszystkich dokumentów serwisu.
 
 <hr>
 
-<p><b><a href="down_links_verify.html">Weryfikacja odnośników</a></b><br />
+<p><b><a href="down_links_verify.php">Weryfikacja odnośników</a></b><br />
 Kliknij, aby przeprowadzić weryfikację odnośników w dokumentach serwisu.
 
-<p><b><a href="down_links_verify.html">Weryfikacja składni</a></b><br />
+<p><b><a href="down_links_verify.php">Weryfikacja składni</a></b><br />
 Wyświetla listę poleceń umożliwiających przeprowadzenie weryfikacji składni dokumentów serwisu. 
 
 <p><b><a href="down_integrity.html#service_clean_quick">Oczyszczanie serwisu</a></b><br />
-Kliknij, aby przeprowadzić oczyszczanie serwisu. Polecenie posiada podmenu, w którym znajdziesz dodatkowe polecenia, jak <a href="down_integrity.html">Sprawdzanie spójności serwisu</a>, czy wyszukiwanie jego niepotrzebne elementów (np. "osierocone" pliki *.ADD). 
+Kliknij, aby przeprowadzić oczyszczanie serwisu. Polecenie posiada podmenu, w którym znajdziesz dodatkowe polecenia, jak <a href="down_integrity.php">Sprawdzanie spójności serwisu</a>, czy wyszukiwanie jego niepotrzebne elementów (np. "osierocone" pliki *.ADD). 
 
 <hr>
 
-<p><b><a href="service_tool_synchronization.html">Synchronizacja serwisu</a></b><br />
+<p><b><a href="service_tool_synchronization.php">Synchronizacja serwisu</a></b><br />
 Kliknij, aby uruchomić narzędzie synchronizacji serwisu z zawartością serwera.
 
 
-<p><b><a href="service_archive.html">Archiwizacja serwisu</a></b><br />
+<p><b><a href="service_archive.php">Archiwizacja serwisu</a></b><br />
 Kliknij, aby uruchomić narzędzie archiwizacji serwisu.
 
 <hr>
 
-<p><b><a href="find_ext.html">Wyszukiwanie i zamiana w serwisie</a></b><br />
+<p><b><a href="find_ext.php">Wyszukiwanie i zamiana w serwisie</a></b><br />
 Kliknij, aby uruchomić Rozszerzone wyszukiwanie i zamianę w dokumentach serwisu.
 
 
-<p><b><a href="charset_encoding.html">Konwersja kodowania znaków</a></b><br />
+<p><b><a href="charset_encoding.php">Konwersja kodowania znaków</a></b><br />
 Kliknij, aby zmienić kodowanie znaków w dokumentach serwisu.
 
-<p><b><a href="spelling.html">Sprawdzanie poprawności pisowni w serwisie</a></b><br />
+<p><b><a href="spelling.php">Sprawdzanie poprawności pisowni w serwisie</a></b><br />
 Kliknij, aby sprawdzić poprawność pisowni w dokumentach serwisu.
 
 
-<p><b><a href="tool_typo_correct.html">Korekta typograficzna serwisu</a></b><br />
+<p><b><a href="tool_typo_correct.php">Korekta typograficzna serwisu</a></b><br />
 Kliknij, aby uruchomić narzędzie do korekty typograficznej, która umożliwia sformatowanie tekstu w dokumentach serwisu w taki sposób, by lepiej prezentował się na stronie.
 
-<p><b><a href="formatter_general.html">Formatowanie kodu źródłowego serwisu</a></b><br />
+<p><b><a href="formatter_general.php">Formatowanie kodu źródłowego serwisu</a></b><br />
 Kliknij, aby uruchomić formatowanie kodu źródłowego dokumentów serwisu.
 
 
-<p><b><a href="service_map.html">Mapa serwisu WWW</a></b><br />
+<p><b><a href="service_map.php">Mapa serwisu WWW</a></b><br />
 Kliknij, aby otworzyć mapę serwisu prezentującą graficznie wszystkie łącza między dokumentami serwisu.
 
 
@@ -141,7 +141,7 @@ Kliknij, aby dodać bieżący dokument do często używanych w serwisie.
 Kliknij, aby skorzystać z szybkich opcji obsługi HTML Help.
 
 
-<p><b>Skompiluj szybko serwis do <a href="tool_htmlhelp_general.html">HTML Help</a></b><br />
+<p><b>Skompiluj szybko serwis do <a href="tool_htmlhelp_general.php">HTML Help</a></b><br />
 Kliknij, aby szybko skompilować serwis do pliku HTML Help.
 
 </td>
@@ -154,9 +154,9 @@ Kliknij, aby szybko skompilować serwis do pliku HTML Help.
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-   <li><a href="main_tabs_myservices.html">Zakładka Moje serwisy</a></li>
-   <li><a href="main_menu_services.html">Menu główne / Serwisy</a></li>
-   <li><a href="settings_toolbars.html">Ustawienia programu - Ustawienia pasków, menu i skrótów</a></li>
+   <li><a href="main_tabs_myservices.php">Zakładka Moje serwisy</a></li>
+   <li><a href="main_menu_services.php">Menu główne / Serwisy</a></li>
+   <li><a href="settings_toolbars.php">Ustawienia programu - Ustawienia pasków, menu i skrótów</a></li>
 </ul>
 </td>
 </tr>

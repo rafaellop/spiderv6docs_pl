@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -85,11 +85,11 @@
 
 <p>Aby móc skorzystać z synchronizacji muszą być spełnione dwa podstawowe warunki:
 <ul>
-	<li>musi być utworzony <a href="services_general.html">Serwis</a></li>
-	<li>muszą być zdefiniowane <a href="settings_network_ftpservers.html">ustawienia Serwera FTP</a></li>
+	<li>musi być utworzony <a href="services_general.php">Serwis</a></li>
+	<li>muszą być zdefiniowane <a href="settings_network_ftpservers.php">ustawienia Serwera FTP</a></li>
 </ul></p>
 
-<p>Jeśli oba warunki są spełnione, skorzystaj z polecenia "Synchronizacja serwisu" znajdującego się w <a href="main_menu_main.html">Menu głównym</a> / <a href="main_menu_services.html">Serwisy</a> / <a href="main_menu_services_properties.html">Własności serwisu</a> (podmenu rozwijane strzałką z prawej strony), lub w menu pod przyciskiem "Właściwości serwisu" w górnej części zakładki <a href="main_tabs_myservices.html">Moje serwisy</a>.</p>
+<p>Jeśli oba warunki są spełnione, skorzystaj z polecenia "Synchronizacja serwisu" znajdującego się w <a href="main_menu_main.php">Menu głównym</a> / <a href="main_menu_services.php">Serwisy</a> / <a href="main_menu_services_properties.php">Własności serwisu</a> (podmenu rozwijane strzałką z prawej strony), lub w menu pod przyciskiem "Właściwości serwisu" w górnej części zakładki <a href="main_tabs_myservices.php">Moje serwisy</a>.</p>
 
 <div>Mapowanie przy synchronizacji</div>
 
@@ -99,7 +99,7 @@
 
 <div>Utworzenie kolejki synchronizacji</div>
 
-<p>Jeśli istnieje już mapowanie dla synchronizacji, uruchomione zostanie okno synchronizacji serwisu. W oknie tym przeważnie nie trzeba nic zmieniać, możliwe jest jednak wykluczenie plików i folderów spod synchronizacji, bądź zawężenie synchronizacji do wybranych folderów. Szczegółowy opis okna przeczytaj w temacie <a href="service_tool_synchronization.html">Serwisy - Synchronizacja serwisu</a>.</p>
+<p>Jeśli istnieje już mapowanie dla synchronizacji, uruchomione zostanie okno synchronizacji serwisu. W oknie tym przeważnie nie trzeba nic zmieniać, możliwe jest jednak wykluczenie plików i folderów spod synchronizacji, bądź zawężenie synchronizacji do wybranych folderów. Szczegółowy opis okna przeczytaj w temacie <a href="service_tool_synchronization.php">Serwisy - Synchronizacja serwisu</a>.</p>
 
 Możesz tez określić kierunek synchronizacji:
 <ul>
@@ -114,11 +114,11 @@ Możesz tez określić kierunek synchronizacji:
 
 <div>Synchronizacja plików</div>
 
-<p>Po utworzeniu, lista zostanie wyświetlona na <a href="down_publishing_syncreport.html">dolnym panelu wyników</a>. Teraz możesz ostatecznie zweryfikować listę i ewentualnie odznaczyć pliki, które nie mają jednak zostać zsynchronizowane (np. często zdarza się, że w katalogach pozostają niepotrzebne kopie zapasowe obrazków i dokumentów, które nie mają się znaleźć na serwerze).</p>
+<p>Po utworzeniu, lista zostanie wyświetlona na <a href="down_publishing_syncreport.php">dolnym panelu wyników</a>. Teraz możesz ostatecznie zweryfikować listę i ewentualnie odznaczyć pliki, które nie mają jednak zostać zsynchronizowane (np. często zdarza się, że w katalogach pozostają niepotrzebne kopie zapasowe obrazków i dokumentów, które nie mają się znaleźć na serwerze).</p>
 
 <p>Po zweryfikowaniu listy plików, kliknij w polecenie "Rozpocznij synchronizację" w menu z prawej strony zakładki.</p>
 
-<p>Podczas synchronizacji nie możesz przeprowadzac żadnych operacji na serwerze z poziomu zakladki <a href="main_tabs_myftpservers.html">Moje serwery</a> - zostaje ona zablokowana.</p>
+<p>Podczas synchronizacji nie możesz przeprowadzac żadnych operacji na serwerze z poziomu zakladki <a href="main_tabs_myftpservers.php">Moje serwery</a> - zostaje ona zablokowana.</p>
 
 </td>
 </tr>
@@ -130,9 +130,9 @@ Możesz tez określić kierunek synchronizacji:
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="service_tool_synchronization.html">Narzędzie do synchronizacji serwisu</a>
-	<li><a href="main_tabs_myservices.html">Zakładka "Moje serwisy"</a>
-	<li><a href="services_general.html">Serwisy - ogólnie</a>
+	<li><a href="service_tool_synchronization.php">Narzędzie do synchronizacji serwisu</a>
+	<li><a href="main_tabs_myservices.php">Zakładka "Moje serwisy"</a>
+	<li><a href="services_general.php">Serwisy - ogólnie</a>
 </td>
 </tr>
 </table>

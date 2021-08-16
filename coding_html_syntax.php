@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -75,7 +75,7 @@
 <!-- treść pomocy -->
 
 
-<p>Dużą pomocą przy tworzeniu dokumentów HTML jest <a href="syntax.html">kolorowanie składni</a>. Pająk posiada wiele schematów kolorowania składni HTML. Najważniejsze z nich to:</p>
+<p>Dużą pomocą przy tworzeniu dokumentów HTML jest <a href="syntax.php">kolorowanie składni</a>. Pająk posiada wiele schematów kolorowania składni HTML. Najważniejsze z nich to:</p>
 <ul>
  <li><b>Dynamic HTML</b> - rozbudowane kolorowanie HTML, CSS oraz języków skryptowych JavaScript i VBScript,</li>
  <li><b>HTML Categorized</b> - skategoryzowane kolorowanie HTML. Poszczególne grupy znaczników (wg specyfikacji HTML 4.01) oznaczone są różnymi kolorami, co bardzo pomaga przy orientowaniu się w układzie strony,</li>
@@ -99,8 +99,8 @@
 
 <p>Możesz również dostosować kolorowanie składni. Służą do tego:</p>
 <ul>
-	<li><a href="syntax_editor.html">Edytor schematów kolorowania</a> - umożliwia edycję schematu kolorowania, czyli dodawanie nowych funkcji itp. Należy go używać z rozwagą, gdy wprowadzonych zmian nie można cofnąć</li>
- <li><a href="settings_editor_syntax.html">Ustawienia programu - kolorowanie składni</a> - umożliwia dopasowanie schematu kolorowania składni, jednak bez wpływu na sam schemat. Zmiany w każdej chwili można cofnąć do stanu domyślnego. Za pomocą tego okna możesz również przypisać rozszerzenia nazw plików, dla jakich dany schemat ma być schematem domyślnym.</li>
+	<li><a href="syntax_editor.php">Edytor schematów kolorowania</a> - umożliwia edycję schematu kolorowania, czyli dodawanie nowych funkcji itp. Należy go używać z rozwagą, gdy wprowadzonych zmian nie można cofnąć</li>
+ <li><a href="settings_editor_syntax.php">Ustawienia programu - kolorowanie składni</a> - umożliwia dopasowanie schematu kolorowania składni, jednak bez wpływu na sam schemat. Zmiany w każdej chwili można cofnąć do stanu domyślnego. Za pomocą tego okna możesz również przypisać rozszerzenia nazw plików, dla jakich dany schemat ma być schematem domyślnym.</li>
 </ul>
 
 </td>
@@ -113,9 +113,9 @@
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="coding_html.html">Wspomaganie dla HTML - ogólnie</a></li>
-	<li><a href="syntax_editor.html">Edytor schematów kolorowania</a></li>
-	<li><a href="settings_editor_syntax.html">Ustawienia programu - kolorowanie składni</a></li>
+	<li><a href="coding_html.php">Wspomaganie dla HTML - ogólnie</a></li>
+	<li><a href="syntax_editor.php">Edytor schematów kolorowania</a></li>
+	<li><a href="settings_editor_syntax.php">Ustawienia programu - kolorowanie składni</a></li>
 </ul>
 </td>
 </tr>

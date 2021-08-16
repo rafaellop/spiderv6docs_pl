@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -89,9 +89,9 @@
 
 <p>Automatyczne uzupełniane znaczników jest bardzo pomocne podczas tworzenia kodu w języku znacznikowym (jak HTML, WML, MathML, SVG itd). Dzięki tej funkcji wystarczy wpisać początek znacznika - reszta wklei się sama. </p>
 
-Automatyczne uzupełniane znaczników możesz włączyć klikając na ikonę  na <a href="toolbars_minitoolbar.html">mini pasku edytora</a>.
+Automatyczne uzupełniane znaczników możesz włączyć klikając na ikonę  na <a href="toolbars_minitoolbar.php">mini pasku edytora</a>.
 
-<p>Więcej o automatycznym uzupełnianiu znaczników możesz przeczytać w temacie dotyczącym <a href="coding_markuplangs_codeinsight.html">wspomagania dla języków znacznikowych</a>.</p>
+<p>Więcej o automatycznym uzupełnianiu znaczników możesz przeczytać w temacie dotyczącym <a href="coding_markuplangs_codeinsight.php">wspomagania dla języków znacznikowych</a>.</p>
 
 
 <a name="code_completion"></a>
@@ -113,7 +113,7 @@ Automatyczne uzupełniane znaczników możesz włączyć klikając na ikonę  na
 	<li><a href="coding_markuplangs_codeinsight.html#code_completion">wspomagania dla języków znacznikowych</a></li>
 	<li><a href="coding_php_codeinsight.html#code_completion">wspomagania dla PHP</a></li>
 	<li><a href="coding_scripts_jsvb_codeinsight.html#code_completion">wspomagania dla skryptów JavaScript</a></li>
-	<li><a href="coding_css_codeinsight.html">wspomagania dla arkuszy stylów CSS</a></li>
+	<li><a href="coding_css_codeinsight.php">wspomagania dla arkuszy stylów CSS</a></li>
 </ul></p>
 
 
@@ -151,11 +151,11 @@ Automatyczne uzupełniane znaczników możesz włączyć klikając na ikonę  na
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="main_editor.html">Edytor kodu źródłowego</a>
-	<li><a href="coding_markuplangs_codeinsight.html">Wspomaganie dla języków znacznikowych - CodeInsight</a>
-	<li><a href="coding_php_codeinsight.html">Wspomaganie dla PHP - CodeInsight</a>
-	<li><a href="coding_css_codeinsight.html">Wspomaganie dla CSS - CodeInsight</a>
-	<li><a href="coding_scripts_jsvb_codeinsight.html">Wspomaganie dla JavaScript - Dynamiczny kod</a>
+	<li><a href="main_editor.php">Edytor kodu źródłowego</a>
+	<li><a href="coding_markuplangs_codeinsight.php">Wspomaganie dla języków znacznikowych - CodeInsight</a>
+	<li><a href="coding_php_codeinsight.php">Wspomaganie dla PHP - CodeInsight</a>
+	<li><a href="coding_css_codeinsight.php">Wspomaganie dla CSS - CodeInsight</a>
+	<li><a href="coding_scripts_jsvb_codeinsight.php">Wspomaganie dla JavaScript - Dynamiczny kod</a>
 	
 </ul>
 </td>

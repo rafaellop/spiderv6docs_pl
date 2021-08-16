@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -86,15 +86,15 @@ Tworzenie HTML Help w Pająku zostało maksymalnie uproszczone i sprowadzone do 
 </p>
 
 <p><b>Edytor projektu</b><br />
-<a href="tool_htmlhelp_hhp_editor.html">Edytor projektu</a> umożliwia ustalenie wszystkich parametrów: jakie pliki mają być dołączone, ogólne ustawienia całości projektu - wygląd, rozmiary, zachowanie, właściwości okien, oraz HTML Help Api, czyli komunikacja z plikami i programami.
+<a href="tool_htmlhelp_hhp_editor.php">Edytor projektu</a> umożliwia ustalenie wszystkich parametrów: jakie pliki mają być dołączone, ogólne ustawienia całości projektu - wygląd, rozmiary, zachowanie, właściwości okien, oraz HTML Help Api, czyli komunikacja z plikami i programami.
 </p>
 
 <p><b>Edytor spisu treści</b><br />
-<a href="tool_htmlhelp_hhc_editor.html">Edytor</a> służy do tworzenia spisu treści - głównej części nawigacyjnej pliku pomocy. Umożliwia przypisanie każdej pozycji określonej strony, które jest następnie wyświetlana w oknie głównym. Spis treści sporządzony jest w postaci hierarchicznego drzewa ikonek oraz nazw. Edytor pozwala również na dostosowanie spisu do indywidualnych potrzeb w zakresie wyglądu.
+<a href="tool_htmlhelp_hhc_editor.php">Edytor</a> służy do tworzenia spisu treści - głównej części nawigacyjnej pliku pomocy. Umożliwia przypisanie każdej pozycji określonej strony, które jest następnie wyświetlana w oknie głównym. Spis treści sporządzony jest w postaci hierarchicznego drzewa ikonek oraz nazw. Edytor pozwala również na dostosowanie spisu do indywidualnych potrzeb w zakresie wyglądu.
 </p>
 
 <p><b>Edytor indeksu</b><br />
-<a href="tool_htmlhelp_hhk_editor.html">Edytor indeksu</a> pozwala na utworzenie skorowidza znakomicie ułatwiającego nawigację po całości. Poszczególne pozycje indeksu stanowią odwołania do konkretnych miejsc w aktualnym albo zewnętrznym projekcie. Można również grupować określone tematy, albo wywoływać okienka dialogowe zawierające grupy tematów.
+<a href="tool_htmlhelp_hhk_editor.php">Edytor indeksu</a> pozwala na utworzenie skorowidza znakomicie ułatwiającego nawigację po całości. Poszczególne pozycje indeksu stanowią odwołania do konkretnych miejsc w aktualnym albo zewnętrznym projekcie. Można również grupować określone tematy, albo wywoływać okienka dialogowe zawierające grupy tematów.
 </p>
 
 </td>
@@ -107,13 +107,13 @@ Tworzenie HTML Help w Pająku zostało maksymalnie uproszczone i sprowadzone do 
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-        <li><a href="tool_htmlhelp_compiler_services.html">HTML Help a serwisy w Pająku</a>
-        <li><a href="tool_htmlhelp_hhp_editor.html">Edytor projektu HTML Help</a>
-        <li><a href="tool_htmlhelp_hhc_editor.html">Edytor spisu treści HTML Help</a>
-        <li><a href="tool_htmlhelp_hhk_editor.html">Edytor skorowidza (indeksu) HTML Help</a>
-        <li><a href="tool_htmlhelp_folder_to_chm.html">Szybki HTML Help z folderu</a>
-        <li><a href="tool_htmlhelp_hhp_compilation.html">Kompiluj dokument HTML Help</a>
-        <li><a href="tool_htmlhelp_compiler_info.html">Informacja dla kompilatora HTML Help</a>
+        <li><a href="tool_htmlhelp_compiler_services.php">HTML Help a serwisy w Pająku</a>
+        <li><a href="tool_htmlhelp_hhp_editor.php">Edytor projektu HTML Help</a>
+        <li><a href="tool_htmlhelp_hhc_editor.php">Edytor spisu treści HTML Help</a>
+        <li><a href="tool_htmlhelp_hhk_editor.php">Edytor skorowidza (indeksu) HTML Help</a>
+        <li><a href="tool_htmlhelp_folder_to_chm.php">Szybki HTML Help z folderu</a>
+        <li><a href="tool_htmlhelp_hhp_compilation.php">Kompiluj dokument HTML Help</a>
+        <li><a href="tool_htmlhelp_compiler_info.php">Informacja dla kompilatora HTML Help</a>
         <li><a href="https://msdn.microsoft.com/en-us/library/windows/desktop/ms669985(v=vs.85).aspx" target="_blank">Pobierz HTML Help Workshop</a>
 
 

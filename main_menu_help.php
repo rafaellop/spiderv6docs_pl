@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -77,7 +77,7 @@
 <p>Za pomocą tego menu masz dostęp do poleceń ułatwiających uzyskiwanie pomocy w zakresie używania programu i technologii internetowych. Menu składa się z następujących poleceń:</p>
 
 <p>
-<b><a href="tool_version_check.html">Sprawdź czy jest nowa wersja</a></b><br />
+<b><a href="tool_version_check.php">Sprawdź czy jest nowa wersja</a></b><br />
 To polecenie pozwala na sprawdzenie, czy dostępna jest już nowa wersja programu.
 
 <p>
@@ -96,57 +96,57 @@ To polecenie działa odwrotnie do powyższego - pozwala na zablokowanie programu
 
 <p>
 <b>Kurs HTML</b><br />
-Znajdziesz tutaj podmenu zawierające spis treści kursu HTML, który wyświetlany jest na zakładce <a href="down_help.html">"Pomoc, dokumenty, podglądy" dolnego panelu</a>.
+Znajdziesz tutaj podmenu zawierające spis treści kursu HTML, który wyświetlany jest na zakładce <a href="down_help.php">"Pomoc, dokumenty, podglądy" dolnego panelu</a>.
 
 <p>
 <b>Kurs XHTML</b><br />
-Znajdziesz tutaj podmenu zawierające spis treści kursu XHTML, który wyświetlany jest na zakładce <a href="down_help.html">"Pomoc, dokumenty, podglądy" dolnego panelu</a>.
+Znajdziesz tutaj podmenu zawierające spis treści kursu XHTML, który wyświetlany jest na zakładce <a href="down_help.php">"Pomoc, dokumenty, podglądy" dolnego panelu</a>.
 
 <p>
 <b>Kurs PHP</b><br />
-Znajdziesz tutaj podmenu zawierające spis treści kursu PHP, który wyświetlany jest na zakładce <a href="down_help.html">"Pomoc, dokumenty, podglądy" dolnego panelu</a>.
+Znajdziesz tutaj podmenu zawierające spis treści kursu PHP, który wyświetlany jest na zakładce <a href="down_help.php">"Pomoc, dokumenty, podglądy" dolnego panelu</a>.
 
 <p>
 <b>Kurs JavaScript</b><br />
-Znajdziesz tutaj podmenu zawierające spis treści kursu JavaScript, który wyświetlany jest na zakładce <a href="down_help.html">"Pomoc, dokumenty, podglądy" dolnego panelu</a>.
+Znajdziesz tutaj podmenu zawierające spis treści kursu JavaScript, który wyświetlany jest na zakładce <a href="down_help.php">"Pomoc, dokumenty, podglądy" dolnego panelu</a>.
 
 <p>
 <b>Kurs WML</b><br />
-Znajdziesz tutaj podmenu zawierające spis treści kursu WML, który wyświetlany jest na zakładce <a href="down_help.html">"Pomoc, dokumenty, podglądy" dolnego panelu</a>.
+Znajdziesz tutaj podmenu zawierające spis treści kursu WML, który wyświetlany jest na zakładce <a href="down_help.php">"Pomoc, dokumenty, podglądy" dolnego panelu</a>.
 
 <hr />
 
 <p>
 <b>HTML 4.01 Specyfikacja</b><br />
-Znajdziesz tutaj podmenu zawierające spis treści specyfikacji HTML 4.01, która wyświetlana jest na zakładce <a href="down_help.html">"Pomoc, dokumenty, podglądy" dolnego panelu</a>.
+Znajdziesz tutaj podmenu zawierające spis treści specyfikacji HTML 4.01, która wyświetlana jest na zakładce <a href="down_help.php">"Pomoc, dokumenty, podglądy" dolnego panelu</a>.
 
 <p>
 <b>CSS 2 Specyfikacja</b><br />
-Znajdziesz tutaj podmenu zawierające spis treści specyfikacji CSS2, która wyświetlana jest na zakładce <a href="down_help.html">"Pomoc, dokumenty, podglądy" dolnego panelu</a>.
+Znajdziesz tutaj podmenu zawierające spis treści specyfikacji CSS2, która wyświetlana jest na zakładce <a href="down_help.php">"Pomoc, dokumenty, podglądy" dolnego panelu</a>.
 
 
 <p>
 <b>PHP Podręcznik</b><br />
-Znajdziesz tutaj podmenu zawierające spis treści podręcznika PHP, który wyświetlany jest na zakładce <a href="down_help.html">"Pomoc, dokumenty, podglądy" dolnego panelu</a>.
+Znajdziesz tutaj podmenu zawierające spis treści podręcznika PHP, który wyświetlany jest na zakładce <a href="down_help.php">"Pomoc, dokumenty, podglądy" dolnego panelu</a>.
 
 
 <p>
 <b>RSS 2.0 Specyfikacja </b><br />
-Znajdziesz tutaj podmenu zawierające spis treści specyfikacji RSS 2.0, która wyświetlany jest na zakładce <a href="down_help.html">"Pomoc, dokumenty, podglądy" dolnego panelu</a>.
+Znajdziesz tutaj podmenu zawierające spis treści specyfikacji RSS 2.0, która wyświetlany jest na zakładce <a href="down_help.php">"Pomoc, dokumenty, podglądy" dolnego panelu</a>.
 
 <p>
 <b>Atom 1.0 Specyfikacja </b><br />
-Znajdziesz tutaj podmenu zawierające spis treści specyfikacji Atom 1.0, która wyświetlany jest na zakładce <a href="down_help.html">"Pomoc, dokumenty, podglądy" dolnego panelu</a>.
+Znajdziesz tutaj podmenu zawierające spis treści specyfikacji Atom 1.0, która wyświetlany jest na zakładce <a href="down_help.php">"Pomoc, dokumenty, podglądy" dolnego panelu</a>.
 
 
 <p>
 <b>P3P 1.0 Specyfikacja </b><br />
-Znajdziesz tutaj podmenu zawierające spis treści specyfikacji P3P 1.0, która wyświetlany jest na zakładce <a href="down_help.html">"Pomoc, dokumenty, podglądy" dolnego panelu</a>.
+Znajdziesz tutaj podmenu zawierające spis treści specyfikacji P3P 1.0, która wyświetlany jest na zakładce <a href="down_help.php">"Pomoc, dokumenty, podglądy" dolnego panelu</a>.
 
 
 <p>
 <b>MathML 2.0 Specyfikacja </b><br />
-Znajdziesz tutaj podmenu zawierające spis treści specyfikacji MathML 2.0, która wyświetlany jest na zakładce <a href="down_help.html">"Pomoc, dokumenty, podglądy" dolnego panelu</a>.
+Znajdziesz tutaj podmenu zawierające spis treści specyfikacji MathML 2.0, która wyświetlany jest na zakładce <a href="down_help.php">"Pomoc, dokumenty, podglądy" dolnego panelu</a>.
 
 
 <hr />
@@ -167,7 +167,7 @@ To polecenie zawiera podmenu pozwalające na uzyskanie pomocy online, tj. na wit
         <li><a href="https://www.creamsoft.com/rd.php?p=page&bid=com.creamsoft.spider&os=win&lang=pl" target="_blank">Pająk on-line</a> - Wyświetla stronę główną Pająka</li>
         <li><a href="https://www.creamsoft.com/rd.php?p=support&bid=com.creamsoft.spider&os=win&lang=pl" target="_blank">O pomocy technicznej</a> - Wyświetla informacje o zasadach uzyskiwania pomocy technicznej</li>
         <li><a href="https://www.creamsoft.com/rd.php?p=page&bid=com.creamsoft.spider&os=win&lang=plindex.php?p=community" target="_blank">Forum użytkowników</a></li>
-        <li><a href="https://www.creamsoft.com/sklep/jak-zamawiac.html" target="_blank">Informacje na temat zamawiania</a> - strona poświęcona opisowi zamawiania programu, ofertom specjalnym i programom partnerskim.</li>
+        <li><a href="https://www.creamsoft.com/sklep/jak-zamawiac.php" target="_blank">Informacje na temat zamawiania</a> - strona poświęcona opisowi zamawiania programu, ofertom specjalnym i programom partnerskim.</li>
         <li><a href="https://www.creamsoft.com/rd.php?p=page&bid=com.creamsoft.spider&os=win&lang=plindex.php?p=upgrade" target="_blank">Aktualizacje (upgrade)</a> - informacje na temat aktualizacji posiadanej wersji programu do nowszej wersji.</li>
         <li><a href="https://www.creamsoft.com/blog/" target="_blank">Ciekawe artykuły</a> - lista kategorii artykułów publikowanych w naszym serwisie. Artykuły mogą być publikowane przez zarejestrowanych użytkownikiem z zacięciem do pisania.</li>
         <li><a href="https://www.creamsoft.com/rd.php?p=appdownload&bid=com.creamsoft.spider&os=win&lang=pl" target="_blank">Nowe wersje do pobrania</a> </li>
@@ -177,7 +177,7 @@ To polecenie zawiera podmenu pozwalające na uzyskanie pomocy online, tj. na wit
 
 <a name="rss"></a>
 <p><b>Kanały RSS</b><br />
-To polecenie zawiera podmenu pozwalające na wyświetlenie na <a href="down_help.html">dolnym panelu</a> kanału RSS (ang. <i>Really Simple Syndication</i>) z najnowszymi wiadomościami na temat Pająka. Dostępne są następujące możliwości:
+To polecenie zawiera podmenu pozwalające na wyświetlenie na <a href="down_help.php">dolnym panelu</a> kanału RSS (ang. <i>Really Simple Syndication</i>) z najnowszymi wiadomościami na temat Pająka. Dostępne są następujące możliwości:
 
 <ul>
         <li><b>Najnowsze artykuły w serwisie Cream Software</b> - wyświetla najnowsze artykuły opublikowane na blogu Cream Software</li>
@@ -186,7 +186,7 @@ To polecenie zawiera podmenu pozwalające na wyświetlenie na <a href="down_help
         <li><b>Odśwież bieżący kanał</b> - pobiera najnowszą zawartość wyświetlanego aktualnie kanału</li>
         <li><b>Wyświetl kod źródłowy kanału</b> - wyświetla kod XML bieżącego kanału</li>
         <li><b>Wczytaj plik XML kanału</b> - pozwala na wczytanie pliku XML dla dowolnego kanału RSS</li>
-        <li><a href="settings_network_rss.html" title="Konfiguruj kanały RSS">Konfiguruj kanały RSS</a> - otwiera okno ustawień kanałów RSS</li>
+        <li><a href="settings_network_rss.php" title="Konfiguruj kanały RSS">Konfiguruj kanały RSS</a> - otwiera okno ustawień kanałów RSS</li>
 </ul>
 
 <p>
@@ -195,24 +195,24 @@ Wyświetla okno prezentujące krótkie podpowiedzi i sztuczki pozwalające lepie
 
 <hr />
 
-<p><a href="tool_zoomek.html">Szkło powiększające</a><br />
+<p><a href="tool_zoomek.php">Szkło powiększające</a><br />
 Kliknij, aby uruchomić szkło powiększające. Narzędzie pokazuje powiększony obraz ekrany w sąsiedztwie kursora myszy.
 
 <p>
 <b>Aktywacja dynamicznych atrybutów</b><br />
-Aktywuje listę wyświetlającą dynamiczne atrybuty. Więcej o dynamicznych atrybutach znajdziesz w sekcji poświęconej <a href="main_editor_codeinsight.html">tej funkcji edytora</a>.
+Aktywuje listę wyświetlającą dynamiczne atrybuty. Więcej o dynamicznych atrybutach znajdziesz w sekcji poświęconej <a href="main_editor_codeinsight.php">tej funkcji edytora</a>.
 
 <p>
 <b>Aktywacja dynamicznych podpowiedzi</b><br />
-Aktywuje podpowiedź dla bieżącego znacznika lub kodu. Więcej o dynamicznych podpowiedziach i atrybutach znajdziesz w sekcji poświęconej <a href="main_editor_codeinsight.html">tej funkcji edytora</a>.
+Aktywuje podpowiedź dla bieżącego znacznika lub kodu. Więcej o dynamicznych podpowiedziach i atrybutach znajdziesz w sekcji poświęconej <a href="main_editor_codeinsight.php">tej funkcji edytora</a>.
 
 <p>
 <b>Wyświetl pomoc do bieżącego elementu</b><br />
-Wyświetla pomoc kontekstową dla znacznika lub funkcji w obrębie którego znajduje się kursor. Pomoc kontekstowa wyświetlana jest na <a href="down_panel.html">dolnym panelu</a> na zakładce <a href="down_help.html">Pomoc, dokumenty, podglądy</a>.
+Wyświetla pomoc kontekstową dla znacznika lub funkcji w obrębie którego znajduje się kursor. Pomoc kontekstowa wyświetlana jest na <a href="down_panel.php">dolnym panelu</a> na zakładce <a href="down_help.php">Pomoc, dokumenty, podglądy</a>.
 
 <p>
 <b>Aktywuj skróty makrokodów</b><br />
-To polecenie pozwala na aktywowanie funkcji skrótu do makrokodu. Skróty do makrokodów są dwupoziomowe. Aby wstawić makrokod z przypisanym skrótem należy najpierw użyć tego polecenia, a następnie wcisnąć skrót odpowiadający makrokodowi. Więcej o makrokodach w rozdziale poświęconym <a href="macrocodes.html">makrokodom</a>.
+To polecenie pozwala na aktywowanie funkcji skrótu do makrokodu. Skróty do makrokodów są dwupoziomowe. Aby wstawić makrokod z przypisanym skrótem należy najpierw użyć tego polecenia, a następnie wcisnąć skrót odpowiadający makrokodowi. Więcej o makrokodach w rozdziale poświęconym <a href="macrocodes.php">makrokodom</a>.
 
 <hr />
 

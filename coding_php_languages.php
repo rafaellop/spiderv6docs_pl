@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 
 <meta name="Author" content="Cream Software">
-<meta name="Authoring_tool" content="Pajak V6" />
+<meta name="Generator" content="Pajak V6 (6.0.0.1)">
 
 <!-- nazwa strony pomocy -->
 <title>Wspomaganie dla PHP - Zakładka "Języki programowania"</title>
@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -52,7 +52,7 @@
       </div>
     </div>
   </nav>
-	
+
 <div class="container-fluid">
 
 <!-- google search start -->
@@ -78,7 +78,7 @@
 
 
 
-<p>Jeśli nie pamiętasz do czego służy dana funkcja PHP, bądź szukasz funkcji odpowiedniej do wykonania określonego zadania, bardzo przydatna jest  zakładka <a href="main_tabs_languages.html">Języki programowania</a>. </p>
+<p>Jeśli nie pamiętasz do czego służy dana funkcja PHP, bądź szukasz funkcji odpowiedniej do wykonania określonego zadania, bardzo przydatna jest  zakładka <a href="main_tabs_languages.php">Języki programowania</a>. </p>
 
 <h2>Opis narzędzia</h2>
 
@@ -86,10 +86,10 @@
 
 <p><b>Stałe i zmienne:</b>
 <ul>
-	<li><b>Stałe PHP</b> - lista nazw stałych predefiniowanych przez PHP (np. w pliku <tt>php.ini</tt>)</li>
-	<li><b>Stałe serwera (Server)</b> - lista nazw stałych serwera dotyczących samego serwera</li>
-	<li><b>Stałe serwera (Request)</b> - lista nazw stałych serwera dotyczących obłsugi przez serwer zapytania od przeglądarki</li>
-	<li><b>Zmienne HP</b> - lista nazw zmiennych PHP, np. tablica argumentów funkcji, zmienne sesji itp.</li>
+   <li><b>Stałe PHP</b> - lista nazw stałych predefiniowanych przez PHP (np. w pliku <tt>php.ini</tt>)</li>
+   <li><b>Stałe serwera (Server)</b> - lista nazw stałych serwera dotyczących samego serwera</li>
+   <li><b>Stałe serwera (Request)</b> - lista nazw stałych serwera dotyczących obłsugi przez serwer zapytania od przeglądarki</li>
+   <li><b>Zmienne HP</b> - lista nazw zmiennych PHP, np. tablica argumentów funkcji, zmienne sesji itp.</li>
 </ul></p>
 
 <p><b>Funkcje</b><br />
@@ -115,7 +115,7 @@ Zawiera listy nazw wbudowanych funkcji PHP. Zostały one pogrupowane zgodnie z i
 
 <h2>Edytowanie pliku definicyjnego</h2>
 
-<p>Do edycji danych, z których korzysta narzędzie służy do tego <a href="tagdata_editor_tdf_php.html">Edytor pliku definicyjnego dla PHP</a>. Przy jego pomocy możesz zmienić opis istniejącej funkcji, dodawać nowe funkcje i ich grupy. </p>
+<p>Do edycji danych, z których korzysta narzędzie służy do tego <a href="tagdata_editor_tdf_php.php">Edytor pliku definicyjnego dla PHP</a>. Przy jego pomocy możesz zmienić opis istniejącej funkcji, dodawać nowe funkcje i ich grupy. </p>
 
 
 </td>
@@ -128,8 +128,8 @@ Zawiera listy nazw wbudowanych funkcji PHP. Zostały one pogrupowane zgodnie z i
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="main_tabs_languages.html">Zakładka "Języki programowania"</a></li>
-	<li><a href="tagdata_editor_tdf_php.html">Edytor pliku definicyjnego dla PHP</a>
+   <li><a href="main_tabs_languages.php">Zakładka "Języki programowania"</a></li>
+   <li><a href="tagdata_editor_tdf_php.php">Edytor pliku definicyjnego dla PHP</a>
 </ul>
 </td>
 </tr>

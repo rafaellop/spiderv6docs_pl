@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -81,7 +81,7 @@
 
 <h2>Uruchamianie</h2>
 
-<p>Kreator możesz uruchomić z zakładki <a href="main_tabs_inspector_css.html">Inspektor CSS</a> za pomocą jednego z przycisków:</p>
+<p>Kreator możesz uruchomić z zakładki <a href="main_tabs_inspector_css.php">Inspektor CSS</a> za pomocą jednego z przycisków:</p>
 
 
 <ul>
@@ -101,7 +101,7 @@ Wybierz z listy kategorię (język znaczników) znaczników, z której chcesz ws
 <p><b>Znacznik</b><br />
 Wybierz z listy nazwę znacznika, dla którego chce utworzyć selektor. Dalej znacznik ten będzie nazywane <i>bieżącym</i>.
 
-<p>Kategorie i nazwy znaczników możesz edytować używając <a href="tagdata_editor_tdf.html">Edytor plików definicyjnych znaczników TDF</a>.
+<p>Kategorie i nazwy znaczników możesz edytować używając <a href="tagdata_editor_tdf.php">Edytor plików definicyjnych znaczników TDF</a>.
 </p>
 
 
@@ -175,7 +175,7 @@ Zaznacz tę opcję, aby wybrać z listy język, w jakim napisano tekst zawarty w
 
 
 <p><b>Znacznik musi zawierać atrybuty</b><br />
-Zaznacz tę opcję, jeśli bieżący znacznik musi posiadać atrybuty. Atrybuty możesz dodawać na listę i usuwać z niej za pomocą poleceń z prawej strony listy. Kliknięcie na polecenia dodania atrybutu uruchomi narzędzie <a href="tool_new_selector_attributes.html">Atrybut selektora</a>, które ułatwi ci podawanie wymaganych nazw i wartości atrybutów i odpowiednio sformatuje kod dla selektora.
+Zaznacz tę opcję, jeśli bieżący znacznik musi posiadać atrybuty. Atrybuty możesz dodawać na listę i usuwać z niej za pomocą poleceń z prawej strony listy. Kliknięcie na polecenia dodania atrybutu uruchomi narzędzie <a href="tool_new_selector_attributes.php">Atrybut selektora</a>, które ułatwi ci podawanie wymaganych nazw i wartości atrybutów i odpowiednio sformatuje kod dla selektora.
 
 
 <p>Możesz też określić, czy selektor ma odnosić się do tekstu zawartego z znaczniku, czy tez do tekstu dodanego przed, lub po znaczniku:</p>
@@ -204,12 +204,12 @@ Zaznacz tę opcję, jeśli bieżący znacznik musi posiadać atrybuty. Atrybuty 
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="main_tabs_inspector_css.html">Zakładka "Inspektor CSS"</a>
-	<li><a href="coding_css.html">Wspomaganie dla CSS w Pająku</a>
-	<li><a href="tagdata_editor_tdf_css.html">Edytor plików definicyjnych znaczników CSS</a>
-	<li><a href="tagdata_editor_tdf.html">Edytor plików definicyjnych znaczników TDF</a>
-	<li><a href="main_tabs_general.html">Inne zakładki</a>
-	<li><a href="main_window_desc.html">Główne okno programu</a>
+	<li><a href="main_tabs_inspector_css.php">Zakładka "Inspektor CSS"</a>
+	<li><a href="coding_css.php">Wspomaganie dla CSS w Pająku</a>
+	<li><a href="tagdata_editor_tdf_css.php">Edytor plików definicyjnych znaczników CSS</a>
+	<li><a href="tagdata_editor_tdf.php">Edytor plików definicyjnych znaczników TDF</a>
+	<li><a href="main_tabs_general.php">Inne zakładki</a>
+	<li><a href="main_window_desc.php">Główne okno programu</a>
 </ul>
 </td>
 </tr>

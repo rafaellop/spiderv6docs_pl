@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -73,7 +73,7 @@
 <h1>Zablokowanie elementu</h1>
 
 <p>
-Pracując nad plikami możesz chcieć zablokować dostęp dla innych użytkowników do aktualnie modyfikowanych na zdalnym serwerze dokumentów. Jest to funkcja wyjątkowo przydatna w wypadku pracy grupowej, gdzie kilka osób pracuje wspólnie nad serwisem. Aby powiadomić innych o tym, że plik jest właśnie modyfikowany, możesz użyć blokowania. Okienko to jest wyświetlane po wybraniu funkcji <a href="main_tabs_myftpservers.html#myftpserverslockfile">Zablokowanie wybranych dokumentów</a> na zakładce <a href="main_tabs_myftpservers.html">Moje serwery</a> lub jako okno informacyjne po wybraniu polecenia <a href="main_tabs_myftpservers.html#myftpserverslockfileinfo">Informacji o blokadzie</a>.
+Pracując nad plikami możesz chcieć zablokować dostęp dla innych użytkowników do aktualnie modyfikowanych na zdalnym serwerze dokumentów. Jest to funkcja wyjątkowo przydatna w wypadku pracy grupowej, gdzie kilka osób pracuje wspólnie nad serwisem. Aby powiadomić innych o tym, że plik jest właśnie modyfikowany, możesz użyć blokowania. Okienko to jest wyświetlane po wybraniu funkcji <a href="main_tabs_myftpservers.html#myftpserverslockfile">Zablokowanie wybranych dokumentów</a> na zakładce <a href="main_tabs_myftpservers.php">Moje serwery</a> lub jako okno informacyjne po wybraniu polecenia <a href="main_tabs_myftpservers.html#myftpserverslockfileinfo">Informacji o blokadzie</a>.
 
 <p>Podczas wybrania funkcji blokowania plików wyświetlane jest to okno, a użytkownik jest proszony o podanie informacji opisującej blokadę. W przypadku przeglądania informacji o blokadzie, wyświetlane są informacje umieszczone na serwerze przez użytkownika, który zablokował plik. Opcje umieszczone w oknie blokowania plików różnia się nieco w zależności, czy pracujesz na serwerze FTP, czy WebDAV.
 
@@ -83,13 +83,13 @@ Pracując nad plikami możesz chcieć zablokować dostęp dla innych użytkownik
 Wyświetla nazwę pliku, który będzie blokowany lub którego dotyczy wyświetlana informacja o blokadzie.
 
 <p><b>Blokujący użytkownik</b><br>
-Wyświetla informacje o użytkowniku, który zakłada blokadę. W przypadku nakładania blokady informacje te są pobierane z <a href="settings_user.html">Ustawień dotyczących użytkownika programu</a>. W przypadku wyświetlania informacji o blokadzie w oknie wyświetlana jest informacja o użytkowniku, który zablokował plik. Jeśli użytkownik podał adres email, będziesz mógł w niego kliknąć i wysłać email do użytkownika.
+Wyświetla informacje o użytkowniku, który zakłada blokadę. W przypadku nakładania blokady informacje te są pobierane z <a href="settings_user.php">Ustawień dotyczących użytkownika programu</a>. W przypadku wyświetlania informacji o blokadzie w oknie wyświetlana jest informacja o użytkowniku, który zablokował plik. Jeśli użytkownik podał adres email, będziesz mógł w niego kliknąć i wysłać email do użytkownika.
 
 <p><b>Data założenia blokady</b><br>
 W tym miejscu wyświetlana jest data i godzina nałożenia blokady, co pełni funkcje informacyjne.
 
 <p><b>Opis blokady</b><br>
-W przypadku blokowania pliku w polu tym możesz wprowadzić informacje o przyczynie nałożenia blokady. Informacje te są wyświetlane gdy ktoś chce sprawdzić <a href="main_tabs_myftpservers.html#myftpserverslockfileinfo">Informacje o blokadzie</a> na zakładce <a href="main_tabs_myftpservers.html">Moje serwery</a>. Dobrze jest podać tutaj jakieś informacje, aby powiadomić innych użytkowników dlaczego dana blokada została nałożona.
+W przypadku blokowania pliku w polu tym możesz wprowadzić informacje o przyczynie nałożenia blokady. Informacje te są wyświetlane gdy ktoś chce sprawdzić <a href="main_tabs_myftpservers.html#myftpserverslockfileinfo">Informacje o blokadzie</a> na zakładce <a href="main_tabs_myftpservers.php">Moje serwery</a>. Dobrze jest podać tutaj jakieś informacje, aby powiadomić innych użytkowników dlaczego dana blokada została nałożona.
 
 
 <h2>Pola widoczne podczas blokowania pliku na serwerze WebDAV</h2>
@@ -119,9 +119,9 @@ Lista umożliwiająca określanie czasu, przez jaki blokada jest ważna. Domyśl
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="main_tabs_myftpservers.html">Zakładka Moje serwery</a>
-	<li><a href="network_publishing_general.html">Publikowanie w Pająku</a>
-	<li><a href="settings_network_ftpclient.html">Ustawienia klienta FTP</a>
+	<li><a href="main_tabs_myftpservers.php">Zakładka Moje serwery</a>
+	<li><a href="network_publishing_general.php">Publikowanie w Pająku</a>
+	<li><a href="settings_network_ftpclient.php">Ustawienia klienta FTP</a>
 </ul>
 </td>
 </tr>

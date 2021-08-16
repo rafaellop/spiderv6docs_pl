@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -75,11 +75,11 @@
 <!-- treść pomocy -->
 
 <p>
-Za pomocą tego narzędzia możesz sprawdzić, czy jest już dostępna nowa wersja programu. W momencie uruchomienia tej funkcji program połączy się z naszym serwerem w sieci Internet i dokona sprawdzenia wersji. Możesz uruchomić to narzędzie z menu <a href="main_menu_main.html">Menu głównego</a> / <a href="main_menu_help.html">Pomoc</a> / Sprawdź czy jest nowa wersja. Ikona polecenia pokazana została powyżej. </p>
+Za pomocą tego narzędzia możesz sprawdzić, czy jest już dostępna nowa wersja programu. W momencie uruchomienia tej funkcji program połączy się z naszym serwerem w sieci Internet i dokona sprawdzenia wersji. Możesz uruchomić to narzędzie z menu <a href="main_menu_main.php">Menu głównego</a> / <a href="main_menu_help.php">Pomoc</a> / Sprawdź czy jest nowa wersja. Ikona polecenia pokazana została powyżej. </p>
 
-<p>Pająk jest również wyposażony w funkcję automatycznego sprawdzania aktualności wersji, dzięki czemu można już zapomnieć o samodzielnym sprawdzaniu wersji i zdać się na program, który gdy tylko dostępna będzie nowa wersja, powiadomi o tym stosownym komunikatem i zaproponuje wyświetlenie informacji na temat nowej wersji. Domyślnie program sprawdza aktualność wersji raz w miesiącu. Częstotliwość automatycznego sprawdzania wersji można zmienić w <a href="settings_user.html">Ustawieniach programu</a>.
+<p>Pająk jest również wyposażony w funkcję automatycznego sprawdzania aktualności wersji, dzięki czemu można już zapomnieć o samodzielnym sprawdzaniu wersji i zdać się na program, który gdy tylko dostępna będzie nowa wersja, powiadomi o tym stosownym komunikatem i zaproponuje wyświetlenie informacji na temat nowej wersji. Domyślnie program sprawdza aktualność wersji raz w miesiącu. Częstotliwość automatycznego sprawdzania wersji można zmienić w <a href="settings_user.php">Ustawieniach programu</a>.
 
-<p>Jeśli nowa wersja jest dostępna program wyświetli stosowny komunikat i zaproponuje przejrzenie szczegółów nowej wersji, które zostaną wyświetlone na <a href="down_panel.html">dolnym panelu</a>. Znajdziesz tam informacje dotyczące pobierania nowej wersji, a także możliwości aktualizacji (upgrade).</p>
+<p>Jeśli nowa wersja jest dostępna program wyświetli stosowny komunikat i zaproponuje przejrzenie szczegółów nowej wersji, które zostaną wyświetlone na <a href="down_panel.php">dolnym panelu</a>. Znajdziesz tam informacje dotyczące pobierania nowej wersji, a także możliwości aktualizacji (upgrade).</p>
 
 <p><div style="color: #FF0000; text-align: justify">Uwaga! Podczas procesu sprawdzania wersji do serwera przesyłane są dane konieczne do weryfikacji aktualności posiadanej wersji w tym również kody odblokowujące, które zostały użyte do odblokowania programu. Przypominamy, że używanie nielegalnych kodów jest niezgodne z prawem!</div>
 
@@ -93,8 +93,8 @@ Za pomocą tego narzędzia możesz sprawdzić, czy jest już dostępna nowa wers
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-      <li><a href="settings_user.html">Ustawienia sprawdzania wersji</a></li>
-        <li><a href="settings_toolbars.html">Ustawienia menu i pasków</a>
+      <li><a href="settings_user.php">Ustawienia sprawdzania wersji</a></li>
+        <li><a href="settings_toolbars.php">Ustawienia menu i pasków</a>
 </ul>
 </td>
 </tr>

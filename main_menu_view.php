@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -77,19 +77,19 @@
 <p>Za pomocą tego menu możesz wyświetlić różne elementy programu, jak poszczególne panele, okna ustawień itp.</p>
 
 <p><b>Przeglądanie</b><br />
-Kliknij, aby włączyć zakładkę Przeglądanie w celu obejrzenia bieżącego dokumentu. Jeśli w <a href="settings_browse.html">Ustawieniach programu / Przeglądanie</a> ustawiłeś zewnętrzne przeglądarki, możesz wybrać przeglądarkę, która wyświetli stronę w swoim oknie. Standardowy skrót <tt>F11</tt>.
+Kliknij, aby włączyć zakładkę Przeglądanie w celu obejrzenia bieżącego dokumentu. Jeśli w <a href="settings_browse.php">Ustawieniach programu / Przeglądanie</a> ustawiłeś zewnętrzne przeglądarki, możesz wybrać przeglądarkę, która wyświetli stronę w swoim oknie. Standardowy skrót <tt>F11</tt>.
 
 
 <p><b>Dodatkowe narzędzia</b><br />
-Wybierz z podmenu program, który chcesz uruchomić. Listę programów możesz modyfikować w oknie <a href="settings_addtools_tools.html">Ustawienia programu - Dodatkowe narzędzia</a>. Jeśli nie umieściłeś na tej liście żadnych programów, przycisk w menu pozostaje nieaktywny.
+Wybierz z podmenu program, który chcesz uruchomić. Listę programów możesz modyfikować w oknie <a href="settings_addtools_tools.php">Ustawienia programu - Dodatkowe narzędzia</a>. Jeśli nie umieściłeś na tej liście żadnych programów, przycisk w menu pozostaje nieaktywny.
 
 <hr />
 
 <p><b>Wyświetl edytor</b><br />
-Kliknij, aby wyświetlić <a href="main_editor_general.html">okno edytora</a> (standardowy skrót <tt>Ctrl+F10</tt>).
+Kliknij, aby wyświetlić <a href="main_editor_general.php">okno edytora</a> (standardowy skrót <tt>Ctrl+F10</tt>).
 
 <p><b>Dynamiczny podgląd</b><br />
-Kliknij, aby wyświetlić, bądź ukryć okno <a href="main_preview_dynamic.html">dynamicznego podglądu</a>.
+Kliknij, aby wyświetlić, bądź ukryć okno <a href="main_preview_dynamic.php">dynamicznego podglądu</a>.
 
 <p><b>Mapowania przeglądania</b><br />
 Kliknij, aby wybrać mapowanie ścieżki na twardym dysku na adres URL. Mapowanie to jest konieczne, by móc oglądać wyniki działania skryptów serwer-side, jak np. PHP. Mapowania możesz ustawiać osobno dla każdego serwisu w oknie <a href="service_properites.html#service_properties_mappings">Właściwości serwisu</a>.
@@ -97,11 +97,11 @@ Kliknij, aby wybrać mapowanie ścieżki na twardym dysku na adres URL. Mapowani
 <hr />
 
 <p><b>Ogólne ustawienia programu</b><br />
-Kliknij, aby zmienić bieżące ustawienia programu otwierając okno <a href="settings.html">ustawień programu</a>. Podmenu dostępne po kliknięciu strzałki rozwija <a href="main_menu_view_settings.html">menu poleceń dotyczących ustawień</a>.
+Kliknij, aby zmienić bieżące ustawienia programu otwierając okno <a href="settings.php">ustawień programu</a>. Podmenu dostępne po kliknięciu strzałki rozwija <a href="main_menu_view_settings.php">menu poleceń dotyczących ustawień</a>.
 
 
 <p><b>Widok</b><br />
-Kliknij, aby wyświetlić, bądź schować paski narzędzi lub panele. Polecenie wyświetla <a href="main_menu_view_view.html">podmenu</a> pozwalające na zmianę ustawień wyglądu głównego okna.
+Kliknij, aby wyświetlić, bądź schować paski narzędzi lub panele. Polecenie wyświetla <a href="main_menu_view_view.php">podmenu</a> pozwalające na zmianę ustawień wyglądu głównego okna.
 
 <hr />
 
@@ -127,7 +127,7 @@ Kliknij, aby przejść do ostatniego dokumentu otwartego aktualnie w edytorze.
 <p><b>Informacje o dokumencie</b><br />
 Kliknij, aby otworzyć okno informacji o bieżącym dokumencie. Korzystając z podmenu możesz otworzyć od razu wybraną zakładkę tego okna:
 <ul>
-        <li><a href="tool_docinfo.html">Informacje o dokumencie</a></li>
+        <li><a href="tool_docinfo.php">Informacje o dokumencie</a></li>
         <li><a href="tool_docinfo.html#bookmark">Nawigator zakładek</a></li>
         <li><a href="tool_docinfo.html#todotasks">Zadania do wykonania</a></li>
 </ul>
@@ -135,24 +135,24 @@ bądź też utworzyć nowe zadanie do wykonania.
 
 
 <p><b>Zakładki w dokumencie</b><br />
-Kliknij, aby otworzyć podmenu zarządzania zakładkami i przemieszczania się po dokumencie. Menu to jest identyczne, jak menu <a href="main_menu_edit_bookmarks.html">Edycja / Zakładki w dokumencie</a>.
+Kliknij, aby otworzyć podmenu zarządzania zakładkami i przemieszczania się po dokumencie. Menu to jest identyczne, jak menu <a href="main_menu_edit_bookmarks.php">Edycja / Zakładki w dokumencie</a>.
 
 <hr />
 
 
-<p><a href="tool_zoomek.html">Szkło powiększające</a><br />
+<p><a href="tool_zoomek.php">Szkło powiększające</a><br />
 Kliknij, aby uruchomić szkło powiększające. Narzędzie pokazuje powiększony obraz ekrany w sąsiedztwie kursora myszy.
 
-<p><a href="tool_recorder.html">Nagrywarka czynności</a><br />
+<p><a href="tool_recorder.php">Nagrywarka czynności</a><br />
 Kliknij, aby uruchomić nagrywarkę czynności. Narzędzie umożliwia późniejsze odtworzenie zapisanych operacji.
 
-<p><b><a href="tool_multiclipboard.html">Wieloschowek</a></b><br />
-Kliknij, aby wyświetlić okno Wieloschowka (domyślny skrót <tt>Ctrl+Shift+W</tt>). Polecenie posiada podmenu wyświetlające zapamiętane w Wieloschowku elementy - aby wstawić odpowiedni fragment do edytora kliknij na wybranej pozycji. Identyczne polecenie znajdziesz w <a href="main_menu_editor.html">menu podręcznym Edytora</a>.
+<p><b><a href="tool_multiclipboard.php">Wieloschowek</a></b><br />
+Kliknij, aby wyświetlić okno Wieloschowka (domyślny skrót <tt>Ctrl+Shift+W</tt>). Polecenie posiada podmenu wyświetlające zapamiętane w Wieloschowku elementy - aby wstawić odpowiedni fragment do edytora kliknij na wybranej pozycji. Identyczne polecenie znajdziesz w <a href="main_menu_editor.php">menu podręcznym Edytora</a>.
 
-<p><b><a href="tool_unicodeeditorek.html">Edytorek Unicode</a></b><br />
+<p><b><a href="tool_unicodeeditorek.php">Edytorek Unicode</a></b><br />
 Kliknij, aby uruchomić okno mini edytorka, który służy do wklejania i obsługi tekstów kodowanych w Unicode.
 
-<p><b><a href="tool_colorpalette.html">Paleta kolorów</a></b><br />
+<p><b><a href="tool_colorpalette.php">Paleta kolorów</a></b><br />
 Kliknij, aby uruchomić paletę kolorów (domyślny skrót <tt>Shift+Ctrl+C</tt>). narzędzie umożliwia wybór koloru z palety, a także pobranie próbki koloru z dowolnego miejsca na ekranie za pomocą pipety.
 
 
@@ -167,7 +167,7 @@ Kliknij, aby uruchomić paletę kolorów (domyślny skrót <tt>Shift+Ctrl+C</tt>
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-        <li><a href="settings_toolbars.html">Ustawienia programu - Ustawienia pasków, menu i skrótów</a>
+        <li><a href="settings_toolbars.php">Ustawienia programu - Ustawienia pasków, menu i skrótów</a>
 </td>
 </tr>
 </table>

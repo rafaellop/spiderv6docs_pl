@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -72,7 +72,7 @@
 <!-- nagłowek głowny tematu -->
 <h1>Zmiana praw dostępu do elementu</h1>
 
-<p>To narzędzie służy do zmiany praw dostępu do plików lub katalogów znajdujących się na zdalnym serwerze. Okienko to jest wyświetlane po wybraniu funkcji <a href="main_tabs_myftpservers.html#myftpserversrights">Zmiana praw dostępu</a> na zakładce <a href="main_tabs_myftpservers.html">Moje serwery</a>.
+<p>To narzędzie służy do zmiany praw dostępu do plików lub katalogów znajdujących się na zdalnym serwerze. Okienko to jest wyświetlane po wybraniu funkcji <a href="main_tabs_myftpservers.html#myftpserversrights">Zmiana praw dostępu</a> na zakładce <a href="main_tabs_myftpservers.php">Moje serwery</a>.
 
 <p>W tym okienku możesz szybko zmienić prawa dostępu do dowolnego pliku lub katalogu. Wystarczy zaznaczyć odpowiednie opcje i gotowe. możesz ustawić różne prawa dla właściciela pliku na serwerze, jego grupy i dla wszystkich. Jeśli chcesz ustawić dla wszystkich tych grup identyczne prawa dla odczytu, zapisu bądź wykonywania, skorzystaj z przycisków umieszczonych niżej.
 <p>Odpowiedni kod cyfrowy pojawi się poniżej przycisków.</p>
@@ -103,9 +103,9 @@ Alternatywnie możliwe jest wprowadzenie oznaczenia cyfrowego. W tym celu zaznac
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="main_tabs_myftpservers.html">Zakładka Moje serwery</a>
-	<li><a href="network_publishing_general.html">Publikowanie w Pająku</a>
-	<li><a href="settings_network_ftpclient.html">Ustawienia klienta FTP</a>
+	<li><a href="main_tabs_myftpservers.php">Zakładka Moje serwery</a>
+	<li><a href="network_publishing_general.php">Publikowanie w Pająku</a>
+	<li><a href="settings_network_ftpclient.php">Ustawienia klienta FTP</a>
 </ul>
 </td>
 </tr>

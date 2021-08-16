@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -76,17 +76,17 @@
 
 <!-- treść pomocy -->
 
-<p>Obecnie strony WWW w znacznej mierze korzystają z zasobów przechowywanych w bazach danych. Najpopularniejszy w tym zastosowaniu jest niewątpliwie MySQL. Wynika to przede wszystkim z faktu, iż jest dostępny za darmo. Drugim czynnikiem wysokiej popularności jest również fakt, iż ogromna część serwisów www korzystających z technologii server-side wykonanych jest przy użyciu PHP (<a href="coding_php.html">czytaj o wspomaganiu PHP przez Pająka</a>), a PHP właśnie ma wbudowaną obsługę MySQL.</p>
+<p>Obecnie strony WWW w znacznej mierze korzystają z zasobów przechowywanych w bazach danych. Najpopularniejszy w tym zastosowaniu jest niewątpliwie MySQL. Wynika to przede wszystkim z faktu, iż jest dostępny za darmo. Drugim czynnikiem wysokiej popularności jest również fakt, iż ogromna część serwisów www korzystających z technologii server-side wykonanych jest przy użyciu PHP (<a href="coding_php.php">czytaj o wspomaganiu PHP przez Pająka</a>), a PHP właśnie ma wbudowaną obsługę MySQL.</p>
 <p>Więcej na temat MySQL możesz przeczytać na stronie <a href="https://www.mysql.org" target="_blank">www.mysql.org</a>.</p>
 
 <p>Pająk wspomaga korzystanie z bazy danych MySQL.  Na to wspomaganie składa się kilka różnych narzędzi i mechanizmów programu:
 
 <ul>
-	<li>Wbudowany klient MySQL - <a href="main_tabs_inspector_mysql.html">Inspektor MySQL</a></li>
-	<li><a href="coding_mysql_syntax.html">Kolorowanie składni</a></li>
-	<li>Narzędzie <a href="tool_mysql_query.html">Wykonaj zapytanie SQL</a></li>
-	<li><a href="tool_mysql_query_creator.html">Kreator zapytania SQL</a></li>
-	<li><a href="tool_mysql_export_tables.html">Kreator eksportu z bazy danych</a></li>
+	<li>Wbudowany klient MySQL - <a href="main_tabs_inspector_mysql.php">Inspektor MySQL</a></li>
+	<li><a href="coding_mysql_syntax.php">Kolorowanie składni</a></li>
+	<li>Narzędzie <a href="tool_mysql_query.php">Wykonaj zapytanie SQL</a></li>
+	<li><a href="tool_mysql_query_creator.php">Kreator zapytania SQL</a></li>
+	<li><a href="tool_mysql_export_tables.php">Kreator eksportu z bazy danych</a></li>
 </ul>
 
 
@@ -102,9 +102,9 @@
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="syntax.html">Kolorowanie składni w Pająku</a>
-	<li><a href="main_tabs_inspector_mysql.html">Inspektor MySQL</a></li>
-	<li><a href="coding_php.html">Wspomaganie dla PHP w Pająku</a></li>
+	<li><a href="syntax.php">Kolorowanie składni w Pająku</a>
+	<li><a href="main_tabs_inspector_mysql.php">Inspektor MySQL</a></li>
+	<li><a href="coding_php.php">Wspomaganie dla PHP w Pająku</a></li>
 </ul>
 </td>
 </tr>

@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -73,7 +73,7 @@
 <h1>Właściwości serwera FTP i WebDAV</h1>
 
 <!-- treść pomocy -->
-<p>To okno służy zarówno do określania parametrów nowego, dodawanego dopiero serwera jak i do modyfikacji ustawień istniejącego serwera FTP i WebDAV. Możesz je wyświetlić dodając lub modyfikując ustawienia wybranego serwera w oknie <a href="settings_network_ftpservers.html">Ustawienia serwerów FTP i WebDAV</a>.
+<p>To okno służy zarówno do określania parametrów nowego, dodawanego dopiero serwera jak i do modyfikacji ustawień istniejącego serwera FTP i WebDAV. Możesz je wyświetlić dodając lub modyfikując ustawienia wybranego serwera w oknie <a href="settings_network_ftpservers.php">Ustawienia serwerów FTP i WebDAV</a>.
 
 <p>W okienku są dostępne dwie zakładki: "Właściwości serwera" oraz "Ustawienia mapowania"przy czym druga z nich jest jednak nieaktywna podczas edycji ustawień serwera WebDAV. Wynika to z faktu, że adres serwera WebDAV jest dokładnie tym samym adresem, którego należy użyć do przeglądania dokumentów przez przeglądarkę (protokół WebDAV jest jedynie rozszerzeniem protokołu HTTP używanego do przeglądania stron WWW).
 
@@ -84,7 +84,7 @@
 
 <p><b>Dane potrzebne do skonfigurowania serwera na tej zakładce uzyskasz od usługodawcy internetowego, z którego usług korzystasz. Są one również podawane przy zakładaniu konta na stronę WWW.</b>
 
-<p>Aby skonfigurować serwer FTP do wykorzystania w Pająku na zakładce <a href="main_tabs_myftpservers.html">Moje serwery</a>, w funkcjach synchronizacji czy publikacji musisz podać następujące dane w odpowiednich polach:
+<p>Aby skonfigurować serwer FTP do wykorzystania w Pająku na zakładce <a href="main_tabs_myftpservers.php">Moje serwery</a>, w funkcjach synchronizacji czy publikacji musisz podać następujące dane w odpowiednich polach:
 
 <p><b>Przyjazna nazwa</b><br>
 W tym polu wpisz nazwę, która będzie identyfikować serwer FTP na liście serwerów. Wartość ta ma znaczenie tylko informacyjne i może być dowolna.
@@ -114,7 +114,7 @@ To jest miejsce na podanie portu, na którym działa serwer FTP. Najczęściej j
 Jeśli chcesz użyć dla tego serwera bezpiecznego połączenia, wybierz jego rodzaj z listy obok. Więcej na ten temat czytaj niżej.
 
 <p><b>Usunięcie zawartości cache offline dla tego serwera</b><br>
-Pająk pozwala na pracę na serwerze FTP, a przynajmniej przeglądanie jego zawartości za pomocą tzw. <i>cache offline</i>, czyli specjalnego pliku, który pamięta zawartość serwera FTP i pozwala na jego przeglądanie na zakładce <a href="main_tabs_myftpservers.html">Moje serwery</a> również bez aktywnego połączenia internetowego. Tym przyciskiem możesz skasować zawartość tej pamięci, jeśli akurat masz takie życzenie. Praca w <a href="main_tabs_myftpservers_on-offline.html">trybie online i offline</a> została opisana w osobnym rozdziale.
+Pająk pozwala na pracę na serwerze FTP, a przynajmniej przeglądanie jego zawartości za pomocą tzw. <i>cache offline</i>, czyli specjalnego pliku, który pamięta zawartość serwera FTP i pozwala na jego przeglądanie na zakładce <a href="main_tabs_myftpservers.php">Moje serwery</a> również bez aktywnego połączenia internetowego. Tym przyciskiem możesz skasować zawartość tej pamięci, jeśli akurat masz takie życzenie. Praca w <a href="main_tabs_myftpservers_on-offline.php">trybie online i offline</a> została opisana w osobnym rozdziale.
 
 <p><b>Komenda LIST</b><br />
 Niektóre, niepoprawnie skonfigurowane, serwery nie przesyłają listingu zawartości zdalnego katalogu po komendzie LIST zgodnej z RFC. Przykładowo mogą nie wysyłać one informacji o plikach ukrytych, czyli tych zaczynających się od kropki (np. .htaccess). Dzięki tej opji możesz wybrać komendę, która będzie wysyłana do serwera, aby obejść problem z jego konfiguracją. Jeśli nie widzisz plików .htaccess na swoim serwerze wybierz listowanie za pomocą komendy LIST -aL lub skonsultuj się z administratorem swojego serwera.
@@ -124,7 +124,7 @@ Zaznacz, jeśli Twój serwer wymaga trybu binarnego do pobierania zawartości ka
 
 
 <p><b>Rozróżniaj wielkość liter na serwerze</b><br>
-Zaznacz ten przełącznik jeśli chcesz, aby podczas przesyłania plików na serwer i pobierania ich z serwera (np. przez narzędzia <a href="service_tool_synchronization.html">automatycznej synchronizacji serwisów</a>) rozróżniana była wielkość liter. Ma to szczególne znaczenie w przypadku korzystania z serwerów linuksowych.
+Zaznacz ten przełącznik jeśli chcesz, aby podczas przesyłania plików na serwer i pobierania ich z serwera (np. przez narzędzia <a href="service_tool_synchronization.php">automatycznej synchronizacji serwisów</a>) rozróżniana była wielkość liter. Ma to szczególne znaczenie w przypadku korzystania z serwerów linuksowych.
 
 <p><b>Zmieniaj nazwy na małe litery</b><br>
 Zaznacz ten przełącznik jeśli chcesz, aby podczas przesyłania plików na serwer program automatycznie zmieniał ich nazwy na pisane małymi literami.
@@ -179,7 +179,7 @@ Przełącznik ten jest w przypadku serwera WebDAV nieaktywny - dane zawsze będ�
 
 <p>Ta zakładka przeznaczona jest dla bardziej zaawansowanych użytkowników. Pozwala ona na ustalenie tzw. mapowania czyli przypisania folderu na serwerze FTP na adres <tt>http</tt>, pod którym ten folder jest widoczny w sieci Internet jako strona WWW. Funkcje mapowań są przydatne np. w sytuacji gdy chcesz edytować dokumenty bezpośrednio z serwera FTP i mieć możliwość ich poprawnego podglądu.
 
-<p>Na tej zakładce znajdziesz listę oraz zestaw przycisków pozwalający na zarządzanie listą mapowań. Lista umożliwia zdefiniowanie mapowań folderu na serwerze zdalnym na adres HTTP, który będzie używany np. przy podglądzie dokumentów otwieranych do edycji bezpośrednio z serwera FTP. Aby dodać mapowanie kliknij przycisk oznaczony plusikiem. Otworzy się okno <a href="settings_network_ftpservers_add_map.html">Ustawienia mapowania</a>, w którym będziesz mógł określić parametry mapowania.
+<p>Na tej zakładce znajdziesz listę oraz zestaw przycisków pozwalający na zarządzanie listą mapowań. Lista umożliwia zdefiniowanie mapowań folderu na serwerze zdalnym na adres HTTP, który będzie używany np. przy podglądzie dokumentów otwieranych do edycji bezpośrednio z serwera FTP. Aby dodać mapowanie kliknij przycisk oznaczony plusikiem. Otworzy się okno <a href="settings_network_ftpservers_add_map.php">Ustawienia mapowania</a>, w którym będziesz mógł określić parametry mapowania.
 
 </td>
 </tr>
@@ -191,12 +191,12 @@ Przełącznik ten jest w przypadku serwera WebDAV nieaktywny - dane zawsze będ�
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="settings_network_ftpservers.html">Ustawienia serwerów </a>
-	<li><a href="settings_network_ftpservers_add_map.html">Ustawienia mapowania</a>
-	<li><a href="main_tabs_myftpservers_on-offline.html">Praca z serwerem w trybie offline i online</a>
-	<li><a href="network_publishing_general.html">Publikowanie w Pająku</a>
-	<li><a href="main_tabs_myftpservers.html">Zakładka Moje serwery</a>
-	<li><a href="service_tool_synchronization.html">Synchronizacja serwisów</a>
+	<li><a href="settings_network_ftpservers.php">Ustawienia serwerów </a>
+	<li><a href="settings_network_ftpservers_add_map.php">Ustawienia mapowania</a>
+	<li><a href="main_tabs_myftpservers_on-offline.php">Praca z serwerem w trybie offline i online</a>
+	<li><a href="network_publishing_general.php">Publikowanie w Pająku</a>
+	<li><a href="main_tabs_myftpservers.php">Zakładka Moje serwery</a>
+	<li><a href="service_tool_synchronization.php">Synchronizacja serwisów</a>
 </ul>
 </td>
 </tr>

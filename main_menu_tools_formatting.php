@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -78,18 +78,18 @@
 
 
 
-<p><b><a href="formatter_general.html">Formatuj kod źródłowy</a></b><br />
+<p><b><a href="formatter_general.php">Formatuj kod źródłowy</a></b><br />
 Kliknij, aby uruchomić narzędzie do formatowania kodu źródłowego. Za jego pomocą możesz przygotować również własne schematy formatowania.
 
-<p><b><a href="formatter_general.html">Formatuj kod źródłowy otwartych...</a></b><br />
+<p><b><a href="formatter_general.php">Formatuj kod źródłowy otwartych...</a></b><br />
 Kliknij, aby uruchomić narzędzie do formatowania kodu źródłowego. Od umieszczonego wyżej polecenia różni się tym, że autoamtycznie wybranym źródłem formatowania są wszystkie dokumenty otwarte do edycji.
 
-<p><b><a href="formatter_general.html">Szybkie formatowanie bieżącego</a></b><br />
+<p><b><a href="formatter_general.php">Szybkie formatowanie bieżącego</a></b><br />
 Kliknij, aby szybko sformatować kod źródłowy bieżącego dokumentu za pomocą przygotowanych wcześniej schematów formatowania.
 
 <hr>
 
-<p><b><a href="tool_htmlcompressor.html">Kompresor HTML</a></b><br />
+<p><b><a href="tool_htmlcompressor.php">Kompresor HTML</a></b><br />
 Kliknij, aby uruchomić kompresor HTML. Umożliwia on takie sformatowanie kodu HTML, by zajmował on jak najmniej miejsca na dysku i szybciej był przesyłany w sieci.
 
 <p><b>Zmień rozmiar znaczników</b><br />
@@ -111,9 +111,9 @@ Kliknij, aby usunąć znaczniki HTML z bieżącego dokumentu. Narzędzie jest pr
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-   <li><a href="main_menu_tools.html">Menu główne - Narzędzia</a></li>
-   <li><a href="formatter_general.html">Formatowanie kodu źródłowego</a></li>
-   <li><a href="settings_toolbars.html">Ustawienia programu - Ustawienia pasków, menu i skrótów</a></li>
+   <li><a href="main_menu_tools.php">Menu główne - Narzędzia</a></li>
+   <li><a href="formatter_general.php">Formatowanie kodu źródłowego</a></li>
+   <li><a href="settings_toolbars.php">Ustawienia programu - Ustawienia pasków, menu i skrótów</a></li>
 </ul>
 </td>
 </tr>

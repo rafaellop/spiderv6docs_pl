@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -85,7 +85,7 @@ Druga dostępna tutaj grupa ustawień to <b>Sprawdzanie wersji</b>. W tej grupie
 </ul>
 <a name="settings_newsinfo"></a>
 <br>
-Trzecia grupa ustawień to <b>Informacje o nowościach Cream Software</b>. Ustawienia, które się tutaj znajdują określają sposób aktualizowania i wyświetlania informacji o nowych artykułach publikowanych na stronie <a href="https://www.creamsoft.com/blog/" target="_blank">bloga Cream Software</a>. Informacje te pojawiają się w dolnej części ekranu, gdy program wykryje nowe artykuły. Sprawdzanie odbywa się domyślnie 2x w tygodniu, a okno pojawia się tylko wtedy, gdy jest coś ciekawego do pokazania. Można również sprawdzać te nowości ręcznie z poziomu menu <a href="main_menu_help.html">Pomoc</a>, polecenie Informacje o nowościach Cream Software.
+Trzecia grupa ustawień to <b>Informacje o nowościach Cream Software</b>. Ustawienia, które się tutaj znajdują określają sposób aktualizowania i wyświetlania informacji o nowych artykułach publikowanych na stronie <a href="https://www.creamsoft.com/blog/" target="_blank">bloga Cream Software</a>. Informacje te pojawiają się w dolnej części ekranu, gdy program wykryje nowe artykuły. Sprawdzanie odbywa się domyślnie 2x w tygodniu, a okno pojawia się tylko wtedy, gdy jest coś ciekawego do pokazania. Można również sprawdzać te nowości ręcznie z poziomu menu <a href="main_menu_help.php">Pomoc</a>, polecenie Informacje o nowościach Cream Software.
 </td>
 </tr>
 </table>
@@ -97,10 +97,10 @@ Trzecia grupa ustawień to <b>Informacje o nowościach Cream Software</b>. Ustaw
 <h4>Pokrewne tematy</h4>
 <ul>
 	<li><a href="settings.html#settingslist">Inne ustawienia</a>
-   <li><a href="tool_version_check.html">Sprawdzanie aktualności wersji</a>
-	<li><a href="network_publishing_general.html">Blokowanie plików przy publikacji</a>
-	<li><a href="tool_docinfo.html">Informacje o dokumencie</a>
-	<li><a href="tool_meta.html">Ustawienia sekcji META</a>
+   <li><a href="tool_version_check.php">Sprawdzanie aktualności wersji</a>
+	<li><a href="network_publishing_general.php">Blokowanie plików przy publikacji</a>
+	<li><a href="tool_docinfo.php">Informacje o dokumencie</a>
+	<li><a href="tool_meta.php">Ustawienia sekcji META</a>
 </ul>
 </td>
 </tr>

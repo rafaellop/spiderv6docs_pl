@@ -30,23 +30,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -116,7 +116,7 @@ div#page>div.logo+ul#navigation>li*5>a
 
 <h1>Wykorzystanie biblioteki zen-coding w Pająku</h1>
 
-<p>Pełne wsparcie dla wszystkich funkcji zen-coding oferowane jest przez niewielką liczbę programów, a Pająk należy do tej grupy oferując następujące polecenia zen-coding (w nawiasach podano domyślne skróty klawiszowe, które można zmodyfikować w <a href="settings_toolbars_hotkeys.html">oknie ustawień skrótów klawiszowych</a>):</p>
+<p>Pełne wsparcie dla wszystkich funkcji zen-coding oferowane jest przez niewielką liczbę programów, a Pająk należy do tej grupy oferując następujące polecenia zen-coding (w nawiasach podano domyślne skróty klawiszowe, które można zmodyfikować w <a href="settings_toolbars_hotkeys.php">oknie ustawień skrótów klawiszowych</a>):</p>
 
 <ul>
 	<li>Rozwiń skrót (Alt+E)</li>
@@ -133,7 +133,7 @@ div#page>div.logo+ul#navigation>li*5>a
 	<li>Zaznacz wiersz (Alt+L)</li>
 </ul>
 
-<p>Polecenia te są również dostępne z poziomu <a href="main_menu_tools.html">menu Narzędzia</a> / Polecenia zen-coding oraz na pasku narzędzi <a href="toolbars_often.html">Często używane</a>.</p>
+<p>Polecenia te są również dostępne z poziomu <a href="main_menu_tools.php">menu Narzędzia</a> / Polecenia zen-coding oraz na pasku narzędzi <a href="toolbars_often.php">Często używane</a>.</p>
 
 <p>Teraz prosty przykład wykorzystania zen-coding w Pająku. Najpierw dość skompikowany, aby zobaczyć całą magię Proszę zatem otworzyć nowy, pusty dokument i wkleić w nim następujący kod:</p>
 
@@ -141,7 +141,7 @@ div#page>div.logo+ul#navigation>li*5>a
 table+
 </pre>
 
-<p>Po wklejeniu tego tekstu, proszę ustawić kursor tekstowy na końcu (za <i>footer</i>) i wywołać polecenie "zen-coding: Rozwiń Skrót" z menu <a href="main_menu_tools.html">Narzędzia</a> / Polecenia zen-coding lub uruchomić to polecenie za pomocą skrótu klawiszowego ALT+E. W efekcie wprowadzony skrót rozwinie się do postaci:</p>
+<p>Po wklejeniu tego tekstu, proszę ustawić kursor tekstowy na końcu (za <i>footer</i>) i wywołać polecenie "zen-coding: Rozwiń Skrót" z menu <a href="main_menu_tools.php">Narzędzia</a> / Polecenia zen-coding lub uruchomić to polecenie za pomocą skrótu klawiszowego ALT+E. W efekcie wprowadzony skrót rozwinie się do postaci:</p>
 
 <pre>
 &lt;table&gt;
@@ -347,10 +347,10 @@ Rozwinięcie:
 <h4>Pokrewne tematy</h4>
 <ul>
 	<li><a href="https://code.google.com/p/zen-coding/" target="_blank">Dokumentacja zen-coding online</a></li>
-	<li><a href="main_editor_navigation.html">Różne sposoby nawigacji po dokumencie</a></li>
-	<li><a href="main_menu_tools_navigation.html">Polecenia ułatwiające nawigację po dokumencie</a></li>
-	<li><a href="main_tabs_navigator.html">Zakładka nawigator</a></li>
-	<li><a href="settings_toolbars.html">Ustawienia programu - Ustawienia pasków, menu i skrótów</a></li>
+	<li><a href="main_editor_navigation.php">Różne sposoby nawigacji po dokumencie</a></li>
+	<li><a href="main_menu_tools_navigation.php">Polecenia ułatwiające nawigację po dokumencie</a></li>
+	<li><a href="main_tabs_navigator.php">Zakładka nawigator</a></li>
+	<li><a href="settings_toolbars.php">Ustawienia programu - Ustawienia pasków, menu i skrótów</a></li>
 </ul>
 </td>
 </tr>

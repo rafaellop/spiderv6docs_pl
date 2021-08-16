@@ -28,23 +28,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -77,7 +77,7 @@
 
 <p>Okno służy do wstawiania grafik do dokumentu (znacznik <tt>IMG</tt> w języku HTML). 
 
-<p> Narzędzie można uruchomić z poziomu menu <a href="main_menu_main.html">Menu głównego</a> / <a href="main_menu_tools.html">Narzędzia</a> / <a href="main_menu_tools_gfx.html">Grafika i multimedia</a>, a także z pasków narzędzi oraz za pomocą standardowego skrótu klawiszowego <tt>Ctrl+Shift+I</tt>. Ikona polecenia przedstawiona została powyżej.</p>
+<p> Narzędzie można uruchomić z poziomu menu <a href="main_menu_main.php">Menu głównego</a> / <a href="main_menu_tools.php">Narzędzia</a> / <a href="main_menu_tools_gfx.php">Grafika i multimedia</a>, a także z pasków narzędzi oraz za pomocą standardowego skrótu klawiszowego <tt>Ctrl+Shift+I</tt>. Ikona polecenia przedstawiona została powyżej.</p>
 
 <p>Okno zawiera dwie zakładki:
 <ul>
@@ -90,7 +90,7 @@
 <h2>Ustawienia</h2>
 
 <p><a name="localization"></a><b>Lokalizacja</b><br />
-Podaj ścieżkę do pliku graficznego. Korzystając z listy rozwijanej możesz wybrać jeden z ostatnio wstawianych adresów. Możesz również skorzystać z przycisku obok pola, aby uruchomić <a href="tool_graphic_browser.html">przeglądarkę grafik</a>, która umożliwia wybór obrazka.</p>
+Podaj ścieżkę do pliku graficznego. Korzystając z listy rozwijanej możesz wybrać jeden z ostatnio wstawianych adresów. Możesz również skorzystać z przycisku obok pola, aby uruchomić <a href="tool_graphic_browser.php">przeglądarkę grafik</a>, która umożliwia wybór obrazka.</p>
 
 <p><b>Opis obrazka</b><br />
 Podaj opis obrazka, który użyty zostanie jako atrybut <tt>ALT</tt> znacznika <tt>IMG</tt>. Pozwoli to użytkownikowi, który nie może zobaczyć obrazka, zorientować się, co on przedstawia (np. w przeglądarkach tekstowych typu Lynx).</p>
@@ -99,7 +99,7 @@ Podaj opis obrazka, który użyty zostanie jako atrybut <tt>ALT</tt> znacznika <
 Podaj opis obrazka, który użyty zostanie jako atrybut <tt>TITLE</tt> znacznika <tt>IMG</tt>. Przeglądarka graficzna (jak Internet Explorer, czy Mozilla, Opera itp.) wyświetli ten opis w postaci 'dymka nad obrazkiem'. Za pomocą przycisku umieszczonego obok tego pola możesz łatwo skopiować tutaj tekst z pola <b>Opis obrazka</b> (wyżej).</p>
 
 <p><b>Wymiary</b><br />
-Podaj wysokość i szerokość obrazka. Jeśli wskazałeś obrazek za pomocą <a href="tool_graphic_browser.html">przeglądarki grafik</a>,program automatycznie wstawi właściwe, oryginalne wymiary zapisane w obrazku. </p>
+Podaj wysokość i szerokość obrazka. Jeśli wskazałeś obrazek za pomocą <a href="tool_graphic_browser.php">przeglądarki grafik</a>,program automatycznie wstawi właściwe, oryginalne wymiary zapisane w obrazku. </p>
 <p>Jeśli obrazek ma być skalowany względem wielkości okna przeglądarki, możesz podać wartość procentową - w tym celu zaznacz przełącznik '<tt>%</tt>'.</p>
 <p>Jeśli wymusiłeś zmianę wymiarów obrazka wpisując w pola inne wartości, możesz przywrócić oryginalne wartości klikając na przycisk pomiędzy polami 'w pionie' i 'w poziomie'. </p>
 
@@ -108,7 +108,7 @@ Podaj odstępy, jakie mają być zachowane pomiędzy obrazkiem, a pozostałymi e
 
 <p><b>Wyrównanie</b><br />
 Wybierz w jaki sposób obrazek ma być wyrównywany względem innych elementów strony.</p>
-<p>Ustawienie to ma status przestarzały (ang.  <i>deprecated</i>) i nie zaleca się korzystania z niego. Zaleca się korzystanie ze <a href="coding_css.html">stylów CSS</a>.</p>
+<p>Ustawienie to ma status przestarzały (ang.  <i>deprecated</i>) i nie zaleca się korzystania z niego. Zaleca się korzystanie ze <a href="coding_css.php">stylów CSS</a>.</p>
 
 <p><b>Użyj mapy</b><br />
 Jeśli w dokumencie zdefiniowano mapy odsyłaczy, możesz wybrać mapę, jaka ma być zastosowana dla obrazka. </p>
@@ -116,7 +116,7 @@ Jeśli w dokumencie zdefiniowano mapy odsyłaczy, możesz wybrać mapę, jaka ma
 
 <p><b>Obramowanie</b><br />
 Wprowadź liczbę określającą grubość obramowania (atrybut <tt>border</tt>). Domyślnie jest to wartość "0" (najczęściej używana).</p>
-<p>Ustawienie to ma status przestarzały (ang.  <i>deprecated</i>) i nie zaleca się korzystania z niego. Zaleca się korzystanie ze <a href="coding_css.html">stylów CSS</a>.</p>
+<p>Ustawienie to ma status przestarzały (ang.  <i>deprecated</i>) i nie zaleca się korzystania z niego. Zaleca się korzystanie ze <a href="coding_css.php">stylów CSS</a>.</p>
 <p>Zaznaczenie przełącznika "<b>Zawsze wstawiaj</b>" spowoduje, że atrybut <tt>border</tt> będzie wstawiany do znacznika <tt>IMG</tt> zawsze, nawet gdy jego wartość wynosi 0.</p>
 <p>Włączenie przełącznika "<b>Nigdy nie wstawiaj</b>" spowoduje, że wartość atrybutu <tt>border</tt> nie zostanie nigdy wstawiona. Jednakże, jeśli podasz wartość obramowania różną od 0, to przy zaznaczonej tej opcji i jednocześnie przy włączonej opcji "<b>Wstaw wymiary, obramowanie, itp. jako styl</b>" wstawiona zostanie jego wartość, ale tylko w formie definicji stylu inline.</p>
 
@@ -138,10 +138,10 @@ Użyj tego pola,aby podać plik, do podmiany (identycznie jak dla pola <a href="
 <p>Ta grupa pozwala na określenie stylu dla znacznika. Znajdziesz tutaj trzy pola pozwalające na określenie:
 
 <p><b>Definicja stylu</b><br>
-W tym polu określasz styl dla elementu umieszczanego w dokumencie. Przycisk obok uruchamia narzędzie <a href="tool_style_editor.html">edytora stylów</a> umożliwiające stworzenie definicji stylu w przyjazny i wygodny sposób. Klikając tam możesz również modyfikować istniejący styl.
+W tym polu określasz styl dla elementu umieszczanego w dokumencie. Przycisk obok uruchamia narzędzie <a href="tool_style_editor.php">edytora stylów</a> umożliwiające stworzenie definicji stylu w przyjazny i wygodny sposób. Klikając tam możesz również modyfikować istniejący styl.
 
 <p><b>Wybór klasy</b><br>
-W tym polu podajesz identyfikator klasy przypisany znacznikowi. Rozwijana lista umożliwia dostęp do klas zdefiniowanych w bieżącym dokumencie oraz w dołączonych do niego zewnętrznych arkuszach stylów. Przycisk znajdujący się obok uruchamia <a href="tool_style_class.html">narzędzie tworzenia nowej klasy</a>. 
+W tym polu podajesz identyfikator klasy przypisany znacznikowi. Rozwijana lista umożliwia dostęp do klas zdefiniowanych w bieżącym dokumencie oraz w dołączonych do niego zewnętrznych arkuszach stylów. Przycisk znajdujący się obok uruchamia <a href="tool_style_class.php">narzędzie tworzenia nowej klasy</a>. 
 
 <p><b>Identyfikator elementu</b><br>
 Tutaj podajesz unikalny identyfikator tego elementu w dokumencie. Identyfikatory te mogą być wykorzystywane np. przy wykonywaniu skoków do określonych części strony bądź w skryptach.
@@ -158,7 +158,7 @@ Jeśli zaznaczysz ten przełącznik, parametry wymiaru obrazka, odstępy oraz ob
 
 <h2>Przycisk "Zdarzenia i atrybuty"</h2>
 
-<p>Przycisk "Zdarzenia i atrybuty" umożliwia otwarcie okna <a href="tool_events_attributes.html">Zdarzenia i inne atrybuty</a>. Okno to umożliwia określenie dodatkowych atrybutów edytowanego znacznika, które nie mają swoich odpowiedników w oknie narzędzia. Możesz tam również określić zdarzenia dla języków skryptowych pozwalające na uzyskanie różnych efektów specjalnych.
+<p>Przycisk "Zdarzenia i atrybuty" umożliwia otwarcie okna <a href="tool_events_attributes.php">Zdarzenia i inne atrybuty</a>. Okno to umożliwia określenie dodatkowych atrybutów edytowanego znacznika, które nie mają swoich odpowiedników w oknie narzędzia. Możesz tam również określić zdarzenia dla języków skryptowych pozwalające na uzyskanie różnych efektów specjalnych.
 
 
 
@@ -176,11 +176,11 @@ Jeśli zaznaczysz ten przełącznik, parametry wymiaru obrazka, odstępy oraz ob
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="tool_graphic_browser.html">Przeglądarka grafik</a>
-	<li><a href="tool_gallery.html">Kreator galerii grafik</a>
-	<li><a href="tool_graphic_converter.html">Konwerter grafik</a>
-	<li><a href="main_menu_main.html">Menu programu</a>
-	<li><a href="toolbars_general.html">Inne narzędzia na paskach</a>
+	<li><a href="tool_graphic_browser.php">Przeglądarka grafik</a>
+	<li><a href="tool_gallery.php">Kreator galerii grafik</a>
+	<li><a href="tool_graphic_converter.php">Konwerter grafik</a>
+	<li><a href="main_menu_main.php">Menu programu</a>
+	<li><a href="toolbars_general.php">Inne narzędzia na paskach</a>
 </ul>
 </td>
 </tr>

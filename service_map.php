@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -76,7 +76,7 @@
 
 <p>Mapa serwisu przedstawia w sposób graficzny powiązania pomiędzy plikami w serwisie. Umożliwia też w szybki sposób przechodzenie do wybranego dokumentu. 
 
-<p>Mapę serwisu uruchomisz z poziomu <a href="main_menu_main.html">Menu głównego</a> / <a href="main_menu_services.html">Serwisy</a> / <a href="main_menu_services_properties.html">Własności serwisu</a> / Mapa serwisu, a także z poziomu <a href="main_tabs_myservices.html">zakładki Serwisy</a> za pomocą polecenia w menu rozwijanym pod przyciskiem Własności serwisu . 
+<p>Mapę serwisu uruchomisz z poziomu <a href="main_menu_main.php">Menu głównego</a> / <a href="main_menu_services.php">Serwisy</a> / <a href="main_menu_services_properties.php">Własności serwisu</a> / Mapa serwisu, a także z poziomu <a href="main_tabs_myservices.php">zakładki Serwisy</a> za pomocą polecenia w menu rozwijanym pod przyciskiem Własności serwisu . 
 
 <p>W oknie <a href="settings_general.html#service_map">Ustawienia programu - Ogólne</a> w sekcji Mapa serwisu możesz zmienić opcje generowana mapy, m. in rodzaje plików pokazywanych na mapie, głębokość skanowania odnośników itd.</p>
 
@@ -130,8 +130,8 @@ Kliknij, aby rozpocząć przeglądanie od wskazanego dokumentu (wybrać jako dok
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="services_general.html">Serwisy ogólnie</a>
-	<li><a href="main_tabs_myservices.html">Zakładka Moje serwisy</a>
+	<li><a href="services_general.php">Serwisy ogólnie</a>
+	<li><a href="main_tabs_myservices.php">Zakładka Moje serwisy</a>
 	<li><a href="settings_general.html#service_map">Ustawienia programu - Ogólne - Mapa serwisu</a>
 </ul>
 </td>

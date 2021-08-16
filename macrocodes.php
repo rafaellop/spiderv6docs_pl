@@ -28,23 +28,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -92,7 +92,7 @@
 
 <p>Za pomocą szablonów można tworzyć kompletne dokumenty, wraz z grafikami, dołączonymi dokumentami itp. </p>
 
-<p>Podczas tworzenia szablonu można określić jego typ (Skrypt JavaScript, Obiekt, Obrazek i inne). Różne typy szablonów nieco odmiennie zachowują się przy podglądzie i wstawianiu. Szczegóły w pomocy do okna "<a href="macrocodes_editor.html" title="Edytor szablonów">Edytor szablonów</a>"</p>
+<p>Podczas tworzenia szablonu można określić jego typ (Skrypt JavaScript, Obiekt, Obrazek i inne). Różne typy szablonów nieco odmiennie zachowują się przy podglądzie i wstawianiu. Szczegóły w pomocy do okna "<a href="macrocodes_editor.php" title="Edytor szablonów">Edytor szablonów</a>"</p>
 
 
 
@@ -106,11 +106,11 @@
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="main_tabs_macrocodes.html">Zakładka szablony</a>
-	<li><a href="settings_macrocodes.html">Ustawienia szablonów</a>
-	<li><a href="macrocodes_editor.html">Edytor szablonów</a>
-	<li><a href="macrocodes_instruction.html">Tworzenie szablonu - instrukcja krok po kroku</a>
-	<li><a href="macrocodes_using.html">Szablony dostarczone z programem</a>
+	<li><a href="main_tabs_macrocodes.php">Zakładka szablony</a>
+	<li><a href="settings_macrocodes.php">Ustawienia szablonów</a>
+	<li><a href="macrocodes_editor.php">Edytor szablonów</a>
+	<li><a href="macrocodes_instruction.php">Tworzenie szablonu - instrukcja krok po kroku</a>
+	<li><a href="macrocodes_using.php">Szablony dostarczone z programem</a>
 </ul>
 </td>
 </tr>

@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -79,10 +79,10 @@
 <p>Polecenia w tym menu służą do szybkiej obsługi HTML Help kompilowanego na podstawie bieżącego serwisu. Menu to dostępne jest jedynie w przypadku, gdy we właściwościach bieżącego serwisu zaznaczona jest opcja, iż <a href="service_properites.html#htmlhelp">jest on jednocześnie projektem HTML Help</a>. Dostępne są następujące polecenia:</p>
 
 <p><b>Skompiluj projekt</b><br />
-Kliknij, aby skompilować <a href="tool_htmlhelp_general.html">projekt HTML Help</a> na podstawie przygotowanych wcześniej ustawień.
+Kliknij, aby skompilować <a href="tool_htmlhelp_general.php">projekt HTML Help</a> na podstawie przygotowanych wcześniej ustawień.
 
 <p><b>Edytuj projekt</b><br />
-Kliknij, aby otworzyć <a href="tool_htmlhelp_hhp_editor.html">Edytor projektu HTML Help</a>.
+Kliknij, aby otworzyć <a href="tool_htmlhelp_hhp_editor.php">Edytor projektu HTML Help</a>.
 
 <hr>
 
@@ -108,12 +108,12 @@ Kliknij, aby uruchomić program MS HTML Help Workshop, z którego korzysta Pają
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-   <li><a href="main_menu_services.html">Menu Serwisy</a></li>
-   <li><a href="main_menu_services_properties.html">Menu Serwisy / Własności serwisu</a></li>
-   <li><a href="main_tabs_myservices.html">Zakładka Moje serwisy</a></li>
-   <li><a href="main_menu_htmlhelp.html">Menu HTML Help</a></li>
-   <li><a href="toolbars_htmlhelp.html">Pasek narzędzi HTML Help</a></li>
-   <li><a href="settings_toolbars.html">Ustawienia programu - Ustawienia pasków, menu i skrótów</a></li>
+   <li><a href="main_menu_services.php">Menu Serwisy</a></li>
+   <li><a href="main_menu_services_properties.php">Menu Serwisy / Własności serwisu</a></li>
+   <li><a href="main_tabs_myservices.php">Zakładka Moje serwisy</a></li>
+   <li><a href="main_menu_htmlhelp.php">Menu HTML Help</a></li>
+   <li><a href="toolbars_htmlhelp.php">Pasek narzędzi HTML Help</a></li>
+   <li><a href="settings_toolbars.php">Ustawienia programu - Ustawienia pasków, menu i skrótów</a></li>
 <ul>
 </td>
 </tr>

@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -108,10 +108,10 @@
 
 <ul>
 	<li>korzystając z poleceń w <a href="main_editor.html#gutter">menu rynny</a></li>
-	<li>korzystając z <a href="main_menu_main.html">Menu głównego</a> / <a href="main_menu_edit.html">Edycja</a> / <a href="main_menu_edit_bookmarks.html">Zakładki w dokumencie</a></li>
+	<li>korzystając z <a href="main_menu_main.php">Menu głównego</a> / <a href="main_menu_edit.php">Edycja</a> / <a href="main_menu_edit_bookmarks.php">Zakładki w dokumencie</a></li>
 	<li>korzystając z okna <a href="tool_docinfo.html#bookmark">Informacje o dokumencie / Zakładki dokumentu</a></li>
 	<li>korzystając z okna <a href="find_text.html#goto">Wyszukiwanie, zamiana, przenoszenie</a> (standardowy skrót <tt>Ctrl+G</tt>)</li>
-	<li>korzystając z dowolnego <a href="main_tabs_navigator.html">Nawigatora dokumentu</a></li>
+	<li>korzystając z dowolnego <a href="main_tabs_navigator.php">Nawigatora dokumentu</a></li>
 </ul>
 
 
@@ -126,9 +126,9 @@
 <h4>Pokrewne tematy</h4>
 <ul>
 	<li><a href="tool_docinfo.html#bookmark">Informacje o dokumencie - zakładki</a>
-	<li><a href="main_editor.html">Edytor - tryb edycji kodu źródłowego</a>
-	<li><a href="main_editor_todotasks.html">Zadania do wykonania</a>
-	<li><a href="main_editor_navigation.html">Różne sposoby nawigacji po dokumencie</a>
+	<li><a href="main_editor.php">Edytor - tryb edycji kodu źródłowego</a>
+	<li><a href="main_editor_todotasks.php">Zadania do wykonania</a>
+	<li><a href="main_editor_navigation.php">Różne sposoby nawigacji po dokumencie</a>
 </ul>
 </td>
 </tr>

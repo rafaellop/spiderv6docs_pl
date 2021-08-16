@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -76,7 +76,7 @@
 
 <p>Zakładka "Inspektor MySQL" służy pracy na serwerze MySQL. Umożliwia tworzenie nowych tabel, wprowadzanie i odczyt danych z bazy, a także znacząco ułatwia tworzenie zapytań w edytowanych dokumentach.
 
-<p>Zakładkę Inspektor MySQL włączysz za pomocą panelu po lewej lub skrótu klawiszowego CTRL+6, a także z menu pod przyciskiem pokazanym powyżej czy z <a href="main_menu_main.html">Menu głównego</a> / <a href="main_menu_view.html">Wyświetl</a>.
+<p>Zakładkę Inspektor MySQL włączysz za pomocą panelu po lewej lub skrótu klawiszowego CTRL+6, a także z menu pod przyciskiem pokazanym powyżej czy z <a href="main_menu_main.php">Menu głównego</a> / <a href="main_menu_view.php">Wyświetl</a>.
 
 <p>Zakładka składa się z trzech zasadniczych części. U góry znajduje się lista baz danych. Poniżej umieszczone jest drzewko przedstawiające strukturę bieżącej bazy danych (układ tabel i ich pól), z prawej strony drzewka znajduje się pasek najczęściej używanych poleceń. U dołu zaś umieszczony jest inspektor, na którym przedstawione mogą być szczegółowe informacje i strukturze wybranej tabeli, bądź jej zawartość, a także wynik zapytania do bazy danych.</p>
 
@@ -86,10 +86,10 @@
 Wybierz z listy bazę danych, z którą aktualnie chcesz pracować. Pająk automatycznie połączy się z serwerem i wyświetli strukturę na drzewku poniżej.
 
 <p><b>Grupowanie baz danych</b><br>
-Istnieje możliwość grupowania baz danych. Grupy umieszczone są na liście powyżej baz niezgrupowanych. Kliknięcie na nazwę grupy rozwinie listę zebranych w niej baz danych. Jest to szczególnie przydatne, jeśli korzystasz z wielu różnych baz. Grupę, do której jest przypisana baza danych możesz określić w oknie <a href="settings_network_mysqlservers_add.html">Właściwości serwera MySQL</a>.</p>
+Istnieje możliwość grupowania baz danych. Grupy umieszczone są na liście powyżej baz niezgrupowanych. Kliknięcie na nazwę grupy rozwinie listę zebranych w niej baz danych. Jest to szczególnie przydatne, jeśli korzystasz z wielu różnych baz. Grupę, do której jest przypisana baza danych możesz określić w oknie <a href="settings_network_mysqlservers_add.php">Właściwości serwera MySQL</a>.</p>
 
 <p><b>Przycisk "Ustawienia serwerów baz danych"</b><br>
-   Po lewej stronie opisanej wyżej listy znajdziesz przycisk uruchamiający okienko <a href="settings_network_mysqlservers.html">Ustawień serwerów baz danych MySQL</a>, w którym możesz dodać nowe bazy danych, z którymi chcesz pracować, czy zmodyfikować ustawienia istniejących.
+   Po lewej stronie opisanej wyżej listy znajdziesz przycisk uruchamiający okienko <a href="settings_network_mysqlservers.php">Ustawień serwerów baz danych MySQL</a>, w którym możesz dodać nowe bazy danych, z którymi chcesz pracować, czy zmodyfikować ustawienia istniejących.
 
 <p><b>Przycisk "Przerwij bieżącą operację"</b><br>
 Ten przycisk pozwala na przerwanie operacji aktualnie wykonywanej na serwerze.
@@ -126,13 +126,13 @@ Gałęzią główną (korzeniem, ang. <i>root</i>) drzewa jest nazwa serwera i w
 Wyświetla okienko umożliwiające wprowadzenie nazwy nowej bazy danych. Po zaakceptowaniu, nowa baza danych jest tworzona, o ile bieżący użytkownik posiada odpowiednie uprawnienia na serwerze.
 
 <p><b> Utwórz nową tabelę</b><br />
-Wyświetla okno <a href="tool_mysql_table_properties.html">Utwórz nową tabelę</a>.
+Wyświetla okno <a href="tool_mysql_table_properties.php">Utwórz nową tabelę</a>.
 
 <p><b>Odświeżenie listy tabel</b><br>
 Odświeża listę tabel bieżącej bazy danych na drzewku. Polecenie to przydatne jest szczególnie w sytuacji, gdy zmiany w tabelach bazy danych zostały dokonane z pominięciem narzędzi Pająka.
 
 <p><b> Wykonaj polecenie SQL</b><br />
-Otwiera okienko <a href="tool_mysql_query.html" title="Wykonaj polecenie SQL">Wykonaj polecenie SQL</a> umożliwiające ręczne wprowadzenie własnego zapytania do bazy danych.
+Otwiera okienko <a href="tool_mysql_query.php" title="Wykonaj polecenie SQL">Wykonaj polecenie SQL</a> umożliwiające ręczne wprowadzenie własnego zapytania do bazy danych.
 
 <p><b>Wykonaj polecenia SQL z bieżącego dokumentu</b><br />
 Wykonuje zapytanie SQL z bieżącego dokumentu otwartego w edytorze.
@@ -142,10 +142,10 @@ Wykonuje zapytanie SQL z bieżącego dokumentu otwartego w edytorze.
 Otwiera okienko w celu wybrania pliku z zapytaniami SQL przeznaczonymi do wykonania.
 
 <p><b> Eksportuj zawartość</b><br />
-Uruchamia <a href="tool_mysql_export_tables.html">Kreator eksportu z bazy danych</a>, który umożliwia wygenerowanie gotowego dokumentu na podstawie danych pobranych z bazy.
+Uruchamia <a href="tool_mysql_export_tables.php">Kreator eksportu z bazy danych</a>, który umożliwia wygenerowanie gotowego dokumentu na podstawie danych pobranych z bazy.
 
 <p><b> Właściwości serwera</b><br />
-Wyświetla okno <a href="settings_network_mysqlservers_add.html">Właściwości serwera baz danych</a>.
+Wyświetla okno <a href="settings_network_mysqlservers_add.php">Właściwości serwera baz danych</a>.
 
 
 
@@ -163,10 +163,10 @@ Ustawia bieżąca tabelę jako aktywną i przełącza dolną część zakładki 
 Ustawia bieżąca tabelę jako aktywną i przełącza dolną część zakładki na widok <a href="#table_structure">Struktura tabeli</a>. Aby jeszcze szybciej wykonać to polecenie, po prostu kliknij na nazwie tabeli trzymając jednocześnie klawisz <tt>Ctrl</tt>.
 
 <p><b>Kreator zapytania SQL</b><br />
-Otwiera <a href="tool_mysql_query_creator.html">Kreator zapytania SQL</a> z wybraną domyślnie tabelą, która została kliknięta w celu wyświetlania menu podręcznego.
+Otwiera <a href="tool_mysql_query_creator.php">Kreator zapytania SQL</a> z wybraną domyślnie tabelą, która została kliknięta w celu wyświetlania menu podręcznego.
 
 <p><b> Eksportuj zawartość</b><br />
-Uruchamia <a href="tool_mysql_export_tables.html">Kreator eksportu z bazy danych</a>, który umożliwia wygenerowanie gotowego dokumentu na podstawie danych pobranych z bazy. Domyślnie będzie ustawiony eksport danych z tabeli, która została kliknięta.
+Uruchamia <a href="tool_mysql_export_tables.php">Kreator eksportu z bazy danych</a>, który umożliwia wygenerowanie gotowego dokumentu na podstawie danych pobranych z bazy. Domyślnie będzie ustawiony eksport danych z tabeli, która została kliknięta.
 
 <p><b>Polecenia administracyjne</b><br />
 Wyświetla podmenu zawierąjące polecenia następujących operacji do wykonania na zaznaczonej tabeli:
@@ -200,7 +200,7 @@ Usuwa tabele i wszystkie zawarte w niej dane. Usunięcie poprzedzone jest oknem 
 Usuwa dane z tabeli. Usunięcie poprzedzone jest oknem dialogowym potwierdzenia. Pamiętaj, że usuniętych danych nie można już odzyskać!
 
 <p><b>Właściwości tabeli</b><br />
-Wyświetla okno <a href="tool_mysql_table_properties.html" title="Właściwości tabeli">Właściwości tabeli</a>, w którym możesz edytować jej strukturę (dodawać i usuwać pola, tworzyć indeksy itd.).
+Wyświetla okno <a href="tool_mysql_table_properties.php" title="Właściwości tabeli">Właściwości tabeli</a>, w którym możesz edytować jej strukturę (dodawać i usuwać pola, tworzyć indeksy itd.).
 
 
 <a name="dbtree_fieldname"></a>
@@ -230,11 +230,11 @@ Wkleja nazwę pola tabeli do edytora w miejscu postawienia kursora. Dzięki temu
 
 
 <p><b> Ustawienia serwerów baz danych</b><br />
-Wyświetla okno <a href="settings_network_mysqlservers.html">Ustawienia serwerów baz danych</a>.
+Wyświetla okno <a href="settings_network_mysqlservers.php">Ustawienia serwerów baz danych</a>.
 
 
 <p><b> Utwórz nową tabelę</b><br />
-Wyświetla okno <a href="tool_mysql_table_properties.html">Utwórz nową tabelę</a>.
+Wyświetla okno <a href="tool_mysql_table_properties.php">Utwórz nową tabelę</a>.
 
 <p><b>Zmień nazwę tabeli</b><br>
 Umożliwiaj zmianę nazwy tabeli
@@ -253,14 +253,14 @@ Ustawia bieżąca tabelę jako aktywną i przełącza dolną część zakładki 
 Ustawia bieżąca tabelę jako aktywną i przełącza dolną część zakładki na widok <a href="#table_structure">Struktura tabeli</a>.
 
 <p><b>Kreator zapytania SQL</b><br />
-Otwiera <a href="tool_mysql_query_creator.html">Kreator zapytania SQL</a> z wybraną domyślnie tabelą, która została wskazana (podświetlona na niebiesko). Jeśli nie wskazałeś żadnej tabeli, wybrana zostanie tabela aktywna (pogrubiona).
+Otwiera <a href="tool_mysql_query_creator.php">Kreator zapytania SQL</a> z wybraną domyślnie tabelą, która została wskazana (podświetlona na niebiesko). Jeśli nie wskazałeś żadnej tabeli, wybrana zostanie tabela aktywna (pogrubiona).
 
 <p><b> Wykonaj polecenie SQL</b><br />
 Rozwija menu zawierające następujące polecenia:
 
 <ul>
    <li><b> Wykonaj polecenie SQL</b><br />
-   <li>Otwiera okienko <a href="tool_mysql_query.html" title="Wykonaj polecenie SQL">Wykonaj polecenie SQL</a> umożliwiające ręczne wprowadzenie własnego zapytania do bazy danych.
+   <li>Otwiera okienko <a href="tool_mysql_query.php" title="Wykonaj polecenie SQL">Wykonaj polecenie SQL</a> umożliwiające ręczne wprowadzenie własnego zapytania do bazy danych.
    <li><b>Wykonaj polecenia SQL z bieżącego dokumentu</b><br />
    <li>Wykonuje zapytanie SQL z bieżącego dokumentu otwartego w edytorze.
    <li><b>Wykonaj polecenia SQL z pliku</b><br />
@@ -268,7 +268,7 @@ Rozwija menu zawierające następujące polecenia:
 </ul>
 
 <p><b> Eksportuj zawartość</b><br />
-Uruchamia <a href="tool_mysql_export_tables.html">Kreator eksportu z bazy danych</a>, który umożliwia wygenerowanie gotowego dokumentu na podstawie danych pobranych z bazy.
+Uruchamia <a href="tool_mysql_export_tables.php">Kreator eksportu z bazy danych</a>, który umożliwia wygenerowanie gotowego dokumentu na podstawie danych pobranych z bazy.
 
 <p><b>Pomoc do listy plików</b><br>
 Ten przycisk wyświetla tę stronę pomocy.
@@ -307,9 +307,9 @@ Wkleja do edytora nazwę pola, na którym kliknąłeś by wyświetlić menu (pol
 Odświeża widok inspektora pobierając ponownie z bazy danych informacje na temat tabeli.
 
 <p><b>Edytuj strukturę tabeli</b><br />
-Wyświetla okno <a href="tool_mysql_table_properties.html" title="Właściwości tabeli">Właściwości tabeli</a>, w którym możesz edytować jej strukturę (dodawać i usuwać pola, tworzyć indeksy itd.).
+Wyświetla okno <a href="tool_mysql_table_properties.php" title="Właściwości tabeli">Właściwości tabeli</a>, w którym możesz edytować jej strukturę (dodawać i usuwać pola, tworzyć indeksy itd.).
 
-<p>Okno <a href="tool_mysql_table_properties.html" title="Właściwości tabeli">Właściwości tabeli</a> możesz otworzyć również za pomoca dwukliku w dowolnym miejscu inspektora struktury tabeli.</p>
+<p>Okno <a href="tool_mysql_table_properties.php" title="Właściwości tabeli">Właściwości tabeli</a> możesz otworzyć również za pomoca dwukliku w dowolnym miejscu inspektora struktury tabeli.</p>
 
 
 
@@ -377,7 +377,7 @@ kliknij, aby wyświetlić listę <a href="#ulubione">Ulubionych tabel i zapytań
 Kliknij, aby wybrać sposób sortowania. Wyświetli się lista o zawartości identycznej, jak w menu podręcznym po kliknięciu na nagłówek pola.
 
 <p><b> Eksportuj zawartość</b><br />
-Kliknij, aby uruchomić <a href="tool_mysql_export_tables.html">Kreatora eksportu z bazy danych</a>. Domyślnie ustawiony będzie eksport bieżącej tabeli.
+Kliknij, aby uruchomić <a href="tool_mysql_export_tables.php">Kreatora eksportu z bazy danych</a>. Domyślnie ustawiony będzie eksport bieżącej tabeli.
 
 <p><b> Wstaw bieżące zapytanie do edytora</b><br />
 Kliknij, aby wkleić do edytora zapytanie użyte do wyświetlenia bieżącej listy danych. Możesz wybrac format wklejania zapytania według szablonów zdefiniowanych w oknie <a href="settings_network_mysqlservers.html#sql_insert_templ">Ustawienia programu - Serwery baz danych MySQL</a>
@@ -387,7 +387,7 @@ Kliknij, aby wkleić do edytora zapytanie użyte do wyświetlenia bieżącej lis
 <h2>Ulubione tabele i zapytania</h2>
 
 <p>W bazie danych może być wiele, nawet setki tabel. ich ciągłe wyszukiwanie na drzewku może więc stać się irytujące. Dlatego powstałą lista "Ulubione tabele i zapytania", która umożliwia błyskawiczne dotarcie do wybranych elementów. </p>
-<p>Lista zbudowana jest z dwóch grup. W górnej części znajdują się ulubione tabele (o ile zostały dodane), w dolnej ulubione zapytania, które stworzono za pomocą <a href="tool_mysql_query_creator.html">Kreatora zapytania SQL</a>.</p>
+<p>Lista zbudowana jest z dwóch grup. W górnej części znajdują się ulubione tabele (o ile zostały dodane), w dolnej ulubione zapytania, które stworzono za pomocą <a href="tool_mysql_query_creator.php">Kreatora zapytania SQL</a>.</p>
 <p>Po kliknięciu tabeli, zostaje ona ustawiona jako bieżąca, a jej zawartość zostanie wyświetlona w inspektorze według bieżących ustawień (tzn. jeśli wybrana jest na mini pasku opcja pokazywania tylko 20 rekordów, taka właśnie ich liczba zostanie pobrana z bazy). Natomiast kliknięcie ulubionego zapytania spowoduje jego wykonanie i wyświetlenie wyniku w zakładce "Zawartość".</p>
 
 
@@ -401,14 +401,14 @@ Kliknij, aby wkleić do edytora zapytanie użyte do wyświetlenia bieżącej lis
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-   <li><a href="coding_mysql.html">Wspomaganie dla MySQL w Pająku</a></li>
-   <li><a href="tool_mysql_table_index.html">Właściwości indeksu tabeli MySQL</a></li>
-   <li><a href="tool_mysql_table_field.html">Właściwości pola tabeli MySQL</a></li>
-   <li><a href="settings_network_mysqlservers_add.html">Właściwości serwera MySQL</a></li>
-   <li><a href="tool_mysql_export_tables.html">Eksport danych z bazy</a></li>
-   <li><a href="tool_mysql_query.html">Wykonaj zapytanie SQL</a></li>
-   <li><a href="tool_mysql_query_creator.html">Kreator zapytania SQL</a></li>
-   <li><a href="settings_network_mysqlservers.html">Ustawienia programu - Ustawienia serwerów baz danych MySQL</a></li>
+   <li><a href="coding_mysql.php">Wspomaganie dla MySQL w Pająku</a></li>
+   <li><a href="tool_mysql_table_index.php">Właściwości indeksu tabeli MySQL</a></li>
+   <li><a href="tool_mysql_table_field.php">Właściwości pola tabeli MySQL</a></li>
+   <li><a href="settings_network_mysqlservers_add.php">Właściwości serwera MySQL</a></li>
+   <li><a href="tool_mysql_export_tables.php">Eksport danych z bazy</a></li>
+   <li><a href="tool_mysql_query.php">Wykonaj zapytanie SQL</a></li>
+   <li><a href="tool_mysql_query_creator.php">Kreator zapytania SQL</a></li>
+   <li><a href="settings_network_mysqlservers.php">Ustawienia programu - Ustawienia serwerów baz danych MySQL</a></li>
 </ul>
 </td>
 </tr>

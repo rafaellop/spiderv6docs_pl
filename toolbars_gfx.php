@@ -27,23 +27,23 @@
       <div class="collapse navbar-collapse" id="navbarResponsive">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="contents_main.html">Spis
+            <a class="nav-link" href="contents_main.php">Spis
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_general.html">Ogólne</a>
+            <a class="nav-link" href="contents_general.php">Ogólne</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_howto.html">Jak to wykonać?</a>
+            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_support.html">Wspomaganie</a>
+            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.html">Główne okno</a>
+            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="contents_settings.html">Ustawienia</a>
+            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
@@ -77,25 +77,25 @@
 <p>Pasek zawiera polecenia uruchamiające narzędzia do wstawiania i edycji znaczników dołączających do dokumentu grafiki w różnych formatach oraz multimedia, jak np. aplety Java, filmy Flash i inne. </p>
 
 
-<p><b><a href="tool_graphic_insert.html">Wstawienie grafiki</a></b><br />
+<p><b><a href="tool_graphic_insert.php">Wstawienie grafiki</a></b><br />
 Kliknij, aby uruchomić narzędzie ułatwiające wstawianie grafik, <tt>&lt;I&gt;</tt>,  (domyślny skrót <tt>Shift+Ctrl+I</tt>).
 
-<p><b><a href="tool_link_map_editor.html">Edytor map odsyłaczy</a></b><br />
+<p><b><a href="tool_link_map_editor.php">Edytor map odsyłaczy</a></b><br />
 Kliknij, aby uruchomić edytor map odsyłaczy.
 
-<p><b><a href="tool_gallery.html">Kreator galerii grafik</a></b><br />
+<p><b><a href="tool_gallery.php">Kreator galerii grafik</a></b><br />
 Kliknij, aby otworzyć kreatora galerii grafik. Narzędzie w łatwy sposób umożliwia stworzenie galerii obrazków.
 
-<p><b><a href="tool_graphic_converter.html">Konwerter grafik</a></b><br />
+<p><b><a href="tool_graphic_converter.php">Konwerter grafik</a></b><br />
 Kliknij, aby uruchomić konwerter grafik. Narzędzie służy przede wszystkim do konwertowania grafik z jednego formatu na inny, np. z BMP na JPEG. Umożliwia również zmianę wymiarów obrazka.
 
-<p><b><a href="tool_colorpalette.html">Paleta kolorów</a></b><br />
+<p><b><a href="tool_colorpalette.php">Paleta kolorów</a></b><br />
 Kliknij, aby uruchomić paletę kolorów (domyślny skrót <tt>Shift+Ctrl+C</tt>). narzędzie umożliwia wybór koloru z palety, a także pobranie próbki koloru z dowolnego miejsca na ekranie za pomocą pipety.
 
-<p><b><a href="tool_bgsound.html">Wstawienie dźwięku</a></b><br />
+<p><b><a href="tool_bgsound.php">Wstawienie dźwięku</a></b><br />
 Kliknij, aby uruchomić narzędzie do wstawiania dźwięku w tle.
 
-<p><b><a href="tool_multimedia_insert.html">Osadzanie multimediów</a></b><br />
+<p><b><a href="tool_multimedia_insert.php">Osadzanie multimediów</a></b><br />
 Kliknij, aby otworzyć narzędzie ułatwiające wstawianie do dokumentu multimediów, jak filmy Flash, RealMedia itp..
 
 </td>
@@ -108,7 +108,7 @@ Kliknij, aby otworzyć narzędzie ułatwiające wstawianie do dokumentu multimed
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="settings_toolbars.html">Ustawienia programu - Ustawienia pasków, menu i skrótów</a>
+	<li><a href="settings_toolbars.php">Ustawienia programu - Ustawienia pasków, menu i skrótów</a>
 </td>
 </tr>
 </table>
