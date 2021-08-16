@@ -134,12 +134,7 @@ Pole to zawiera zestaw nazw ALink, jakie zostały wprowadzone. Możemy je usuwa�
 </div><!-- container end -->
 
 <!-- Cookie Banner -->
-<script async src="js/cookie.js"></script>
-<div class="nk-cookie-banner alert text-center mb-0 cookietxt" role="alert">
-  Nasze strony wykorzystują pliki cookies. Używamy cookies i podobnych m.in. w celach reklamowych i statystycznych oraz w celu dostosowania serwisów do potrzeb użytkowników. Mogą też stosować je nasi reklamodawcy, firmy badawcze oraz dostawcy aplikacji. W przeglądarce można zmienić ustawienia dotyczące cookies. <a href="https://www.creamsoft.com/pl/pp/#cookies" target="blank">Więcej informacji</a>. Jeśli nie wyrażasz zgody, opuść tę stronę.&nbsp;
-
-  <button type="button" class="btn btn-primary btn-sm ms-3" onclick="window.nk_hideCookieBanner()">OK</button>
-</div>
+<? include "include/cookiebanner.html"; ?>
 <!-- End of Cookie Banner -->
 
 </body>
