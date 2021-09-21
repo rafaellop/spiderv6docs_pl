@@ -126,5 +126,9 @@ Zaznacz, by tabela została objęta ramką (argument <tt>border="1"</tt> w znacz
 <? include "include/cookiebanner.html"; ?>
 <!-- End of Cookie Banner -->
 
+<!-- Google analytics -->
+<? include "include/analytics.html"; ?>
+<!-- End of Google analytics -->
+
 </body>
 </html>

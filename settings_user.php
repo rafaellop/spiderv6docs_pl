@@ -112,5 +112,9 @@ Trzecia grupa ustawień to <b>Informacje o nowościach Cream Software</b>. Ustaw
 <? include "include/cookiebanner.html"; ?>
 <!-- End of Cookie Banner -->
 
+<!-- Google analytics -->
+<? include "include/analytics.html"; ?>
+<!-- End of Google analytics -->
+
 </body>
 </html>

@@ -163,5 +163,9 @@ a następnie spację, bądź znak zamknięcia znacznika <tt>&lt;</tt>. Dzięki d
 <? include "include/cookiebanner.html"; ?>
 <!-- End of Cookie Banner -->
 
+<!-- Google analytics -->
+<? include "include/analytics.html"; ?>
+<!-- End of Google analytics -->
+
 </body>
 </html>

@@ -185,5 +185,9 @@ Kliknij, aby zamienić polskie znaki diakrytyczne we wszystkich otwartych dokume
 <? include "include/cookiebanner.html"; ?>
 <!-- End of Cookie Banner -->
 
+<!-- Google analytics -->
+<? include "include/analytics.html"; ?>
+<!-- End of Google analytics -->
+
 </body>
 </html>

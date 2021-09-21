@@ -153,5 +153,9 @@ Zaznacz ten przełącznik, jeśli chcesz, by można było wskazywać a listach p
 <? include "include/cookiebanner.html"; ?>
 <!-- End of Cookie Banner -->
 
+<!-- Google analytics -->
+<? include "include/analytics.html"; ?>
+<!-- End of Google analytics -->
+
 </body>
 </html>

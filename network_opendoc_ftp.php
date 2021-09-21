@@ -145,5 +145,9 @@ Włącz tę opcję, aby Pająk ostrzegał przed próba napisania pliku na serwer
 <? include "include/cookiebanner.html"; ?>
 <!-- End of Cookie Banner -->
 
+<!-- Google analytics -->
+<? include "include/analytics.html"; ?>
+<!-- End of Google analytics -->
+
 </body>
 </html>

@@ -193,5 +193,9 @@ Kliknij, aby zamienić w zaznaczonym tekście encje &amp;lt; i &amp;gt; na znaki
 <? include "include/cookiebanner.html"; ?>
 <!-- End of Cookie Banner -->
 
+<!-- Google analytics -->
+<? include "include/analytics.html"; ?>
+<!-- End of Google analytics -->
+
 </body>
 </html>

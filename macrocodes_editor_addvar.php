@@ -137,5 +137,9 @@ W zależności od wybranego typu zmiennej, w tym miejscu pojawi się pole teksto
 <? include "include/cookiebanner.html"; ?>
 <!-- End of Cookie Banner -->
 
+<!-- Google analytics -->
+<? include "include/analytics.html"; ?>
+<!-- End of Google analytics -->
+
 </body>
 </html>

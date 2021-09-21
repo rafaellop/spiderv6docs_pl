@@ -162,5 +162,9 @@ Witaj na mojej stronie. Jest mi bardzo miło, że tutaj zawitałeś. Mam nadziej
 <? include "include/cookiebanner.html"; ?>
 <!-- End of Cookie Banner -->
 
+<!-- Google analytics -->
+<? include "include/analytics.html"; ?>
+<!-- End of Google analytics -->
+
 </body>
 </html>

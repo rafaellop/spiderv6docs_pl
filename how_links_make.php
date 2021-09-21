@@ -139,5 +139,9 @@ W podobny sposób możesz utworzyć odsyłacz do pliku znajdującego się na ser
 <? include "include/cookiebanner.html"; ?>
 <!-- End of Cookie Banner -->
 
+<!-- Google analytics -->
+<? include "include/analytics.html"; ?>
+<!-- End of Google analytics -->
+
 </body>
 </html>

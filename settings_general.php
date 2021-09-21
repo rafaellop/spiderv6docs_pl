@@ -187,5 +187,9 @@ W tym polu wprowadź lub wybierz za pomocą przycisku obok folder, który będzi
 <? include "include/cookiebanner.html"; ?>
 <!-- End of Cookie Banner -->
 
+<!-- Google analytics -->
+<? include "include/analytics.html"; ?>
+<!-- End of Google analytics -->
+
 </body>
 </html>

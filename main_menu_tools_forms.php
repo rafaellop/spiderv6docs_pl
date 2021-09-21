@@ -117,5 +117,9 @@ Kliknij, aby uruchomić kreator dodawania do formularza innych elementów formul
 <? include "include/cookiebanner.html"; ?>
 <!-- End of Cookie Banner -->
 
+<!-- Google analytics -->
+<? include "include/analytics.html"; ?>
+<!-- End of Google analytics -->
+
 </body>
 </html>

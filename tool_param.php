@@ -119,5 +119,9 @@ Z tej listy możesz wybrać typ pliku, jeśli przekazywana wartość parametru w
 <? include "include/cookiebanner.html"; ?>
 <!-- End of Cookie Banner -->
 
+<!-- Google analytics -->
+<? include "include/analytics.html"; ?>
+<!-- End of Google analytics -->
+
 </body>
 </html>

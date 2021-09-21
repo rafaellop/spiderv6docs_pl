@@ -162,5 +162,9 @@ Prosty program generujący strony WWW na podstawie odpowiedzi na zadawane pytani
 <? include "include/cookiebanner.html"; ?>
 <!-- End of Cookie Banner -->
 
+<!-- Google analytics -->
+<? include "include/analytics.html"; ?>
+<!-- End of Google analytics -->
+
 </body>
 </html>

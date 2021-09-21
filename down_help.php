@@ -169,5 +169,9 @@ Kliknij, aby otworzyć Specyfikację MathML 2.0. Strona jest kopią zawartości 
 <? include "include/cookiebanner.html"; ?>
 <!-- End of Cookie Banner -->
 
+<!-- Google analytics -->
+<? include "include/analytics.html"; ?>
+<!-- End of Google analytics -->
+
 </body>
 </html>

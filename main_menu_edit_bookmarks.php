@@ -138,5 +138,9 @@ Kliknij, aby otworzyć okno informacji o biężącym dokumencie i wyświetlić w
 <? include "include/cookiebanner.html"; ?>
 <!-- End of Cookie Banner -->
 
+<!-- Google analytics -->
+<? include "include/analytics.html"; ?>
+<!-- End of Google analytics -->
+
 </body>
 </html>

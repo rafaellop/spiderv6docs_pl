@@ -158,5 +158,9 @@ Aby dopasować dynamiczne podpowiedzi do swoich potrzeb, skorzystaj z okna <a hr
 <? include "include/cookiebanner.html"; ?>
 <!-- End of Cookie Banner -->
 
+<!-- Google analytics -->
+<? include "include/analytics.html"; ?>
+<!-- End of Google analytics -->
+
 </body>
 </html>

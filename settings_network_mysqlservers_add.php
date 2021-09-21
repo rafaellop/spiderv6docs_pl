@@ -155,5 +155,9 @@ Czyści listę ulubionych zapytań i tabel serwera. Żadne dane nie będą usuwa
 <? include "include/cookiebanner.html"; ?>
 <!-- End of Cookie Banner -->
 
+<!-- Google analytics -->
+<? include "include/analytics.html"; ?>
+<!-- End of Google analytics -->
+
 </body>
 </html>

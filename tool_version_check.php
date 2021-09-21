@@ -106,5 +106,9 @@ Za pomocą tego narzędzia możesz sprawdzić, czy jest już dostępna nowa wers
 <? include "include/cookiebanner.html"; ?>
 <!-- End of Cookie Banner -->
 
+<!-- Google analytics -->
+<? include "include/analytics.html"; ?>
+<!-- End of Google analytics -->
+
 </body>
 </html>

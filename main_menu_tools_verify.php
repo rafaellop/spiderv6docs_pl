@@ -114,5 +114,9 @@ Kliknij, aby sprawdzić poprawność składni arkuszy CSS i ich zgodność ze sp
 <? include "include/cookiebanner.html"; ?>
 <!-- End of Cookie Banner -->
 
+<!-- Google analytics -->
+<? include "include/analytics.html"; ?>
+<!-- End of Google analytics -->
+
 </body>
 </html>

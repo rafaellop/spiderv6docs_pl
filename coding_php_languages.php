@@ -141,5 +141,9 @@ Zawiera listy nazw wbudowanych funkcji PHP. Zostały one pogrupowane zgodnie z i
 <? include "include/cookiebanner.html"; ?>
 <!-- End of Cookie Banner -->
 
+<!-- Google analytics -->
+<? include "include/analytics.html"; ?>
+<!-- End of Google analytics -->
+
 </body>
 </html>

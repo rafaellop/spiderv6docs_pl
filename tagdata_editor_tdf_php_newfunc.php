@@ -123,5 +123,9 @@ W tym polu wprowadź informację o wsparciu ze strony poszczególnych wersji PHP
 <? include "include/cookiebanner.html"; ?>
 <!-- End of Cookie Banner -->
 
+<!-- Google analytics -->
+<? include "include/analytics.html"; ?>
+<!-- End of Google analytics -->
+
 </body>
 </html>

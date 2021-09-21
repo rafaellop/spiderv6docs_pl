@@ -122,5 +122,9 @@ Do konfiguracji wszystkich możliwych aspektów działania programu służy okie
 <? include "include/cookiebanner.html"; ?>
 <!-- End of Cookie Banner -->
 
+<!-- Google analytics -->
+<? include "include/analytics.html"; ?>
+<!-- End of Google analytics -->
+
 </body>
 </html>

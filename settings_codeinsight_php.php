@@ -143,5 +143,9 @@ Zaznacz tę opcję, jeśli chcesz, aby program wyświetlał w podpowiedzi dla fu
 <? include "include/cookiebanner.html"; ?>
 <!-- End of Cookie Banner -->
 
+<!-- Google analytics -->
+<? include "include/analytics.html"; ?>
+<!-- End of Google analytics -->
+
 </body>
 </html>

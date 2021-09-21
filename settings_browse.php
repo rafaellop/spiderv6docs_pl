@@ -146,5 +146,9 @@ Na tym pasku ustal czas nieaktywności, po którym odświeżony zostanie dynamic
 <? include "include/cookiebanner.html"; ?>
 <!-- End of Cookie Banner -->
 
+<!-- Google analytics -->
+<? include "include/analytics.html"; ?>
+<!-- End of Google analytics -->
+
 </body>
 </html>

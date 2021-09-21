@@ -140,5 +140,9 @@ Zaznacz tę opcję, jeśli chcesz wybrać lub&nbsp;utworzyć styl kolorowania dl
 <? include "include/cookiebanner.html"; ?>
 <!-- End of Cookie Banner -->
 
+<!-- Google analytics -->
+<? include "include/analytics.html"; ?>
+<!-- End of Google analytics -->
+
 </body>
 </html>

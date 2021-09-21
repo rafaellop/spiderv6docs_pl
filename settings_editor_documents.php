@@ -206,5 +206,9 @@ Zaznacz tę opcję, aby program pamiętał imię i nazwisko osoby, która jako o
 <? include "include/cookiebanner.html"; ?>
 <!-- End of Cookie Banner -->
 
+<!-- Google analytics -->
+<? include "include/analytics.html"; ?>
+<!-- End of Google analytics -->
+
 </body>
 </html>

@@ -113,5 +113,9 @@ Do chwili obecnej nie cały podręcznik PHP został przetłumaczony na język po
 <? include "include/cookiebanner.html"; ?>
 <!-- End of Cookie Banner -->
 
+<!-- Google analytics -->
+<? include "include/analytics.html"; ?>
+<!-- End of Google analytics -->
+
 </body>
 </html>

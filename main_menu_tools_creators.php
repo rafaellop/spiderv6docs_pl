@@ -104,5 +104,9 @@ Polecenia w tym menu są ułożone identycznie, jak w menu <a href="main_menu_fi
 <? include "include/cookiebanner.html"; ?>
 <!-- End of Cookie Banner -->
 
+<!-- Google analytics -->
+<? include "include/analytics.html"; ?>
+<!-- End of Google analytics -->
+
 </body>
 </html>

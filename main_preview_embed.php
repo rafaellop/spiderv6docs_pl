@@ -161,5 +161,9 @@ Kliknij, aby wybrać, lub wyłączyć <a href="service_properites.php#service_pr
 <? include "include/cookiebanner.html"; ?>
 <!-- End of Cookie Banner -->
 
+<!-- Google analytics -->
+<? include "include/analytics.html"; ?>
+<!-- End of Google analytics -->
+
 </body>
 </html>

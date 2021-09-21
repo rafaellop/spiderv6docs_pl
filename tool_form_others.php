@@ -216,5 +216,9 @@ Kliknij na ten przycisk, aby szybko usunąć wszystkie dodane składniki formula
 <? include "include/cookiebanner.html"; ?>
 <!-- End of Cookie Banner -->
 
+<!-- Google analytics -->
+<? include "include/analytics.html"; ?>
+<!-- End of Google analytics -->
+
 </body>
 </html>

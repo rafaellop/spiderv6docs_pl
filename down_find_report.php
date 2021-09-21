@@ -145,5 +145,9 @@ Więcej na ten temat znajdziesz w <a href="find.php#filesearchinfo">temacie pomo
 <? include "include/cookiebanner.html"; ?>
 <!-- End of Cookie Banner -->
 
+<!-- Google analytics -->
+<? include "include/analytics.html"; ?>
+<!-- End of Google analytics -->
+
 </body>
 </html>

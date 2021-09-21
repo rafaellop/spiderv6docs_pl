@@ -118,5 +118,9 @@ Jeśli szybko chcesz wstawić znacznik listy numerowanej <tt>&lt;OL&gt;</tt>, ni
 <? include "include/cookiebanner.html"; ?>
 <!-- End of Cookie Banner -->
 
+<!-- Google analytics -->
+<? include "include/analytics.html"; ?>
+<!-- End of Google analytics -->
+
 </body>
 </html>

@@ -137,5 +137,9 @@ Jeżeli klikniemy na tym przycisku, otwarty zostanie program HTML Help Workshop,
 <? include "include/cookiebanner.html"; ?>
 <!-- End of Cookie Banner -->
 
+<!-- Google analytics -->
+<? include "include/analytics.html"; ?>
+<!-- End of Google analytics -->
+
 </body>
 </html>

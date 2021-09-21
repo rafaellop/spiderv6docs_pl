@@ -157,5 +157,9 @@ Aby utworzyć zmienną, kliknij w ikonę "Dodanie nowej zmiennej" w menu nad okn
 <? include "include/cookiebanner.html"; ?>
 <!-- End of Cookie Banner -->
 
+<!-- Google analytics -->
+<? include "include/analytics.html"; ?>
+<!-- End of Google analytics -->
+
 </body>
 </html>

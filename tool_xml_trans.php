@@ -199,5 +199,9 @@ Podaj ścieżkę do foldera, w którym zapisane zostaną dokumenty docelowe. Mo�
 <? include "include/cookiebanner.html"; ?>
 <!-- End of Cookie Banner -->
 
+<!-- Google analytics -->
+<? include "include/analytics.html"; ?>
+<!-- End of Google analytics -->
+
 </body>
 </html>

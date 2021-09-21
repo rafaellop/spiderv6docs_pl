@@ -123,5 +123,9 @@ W tym miejscu możesz zobaczyć jak będzie się prezentować w edytorze wybrana
 <? include "include/cookiebanner.html"; ?>
 <!-- End of Cookie Banner -->
 
+<!-- Google analytics -->
+<? include "include/analytics.html"; ?>
+<!-- End of Google analytics -->
+
 </body>
 </html>

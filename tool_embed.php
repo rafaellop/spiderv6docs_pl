@@ -141,5 +141,9 @@ Zaznacz tę opcję, jeśli dźwięk lub film ma być wyświetlany w nieskończon
 <? include "include/cookiebanner.html"; ?>
 <!-- End of Cookie Banner -->
 
+<!-- Google analytics -->
+<? include "include/analytics.html"; ?>
+<!-- End of Google analytics -->
+
 </body>
 </html>

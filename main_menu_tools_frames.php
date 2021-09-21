@@ -116,5 +116,9 @@ Kliknij, aby uruchomić edytor pływającej ramki <tt>&lt;IFRAME&gt;</tt>.
 <? include "include/cookiebanner.html"; ?>
 <!-- End of Cookie Banner -->
 
+<!-- Google analytics -->
+<? include "include/analytics.html"; ?>
+<!-- End of Google analytics -->
+
 </body>
 </html>

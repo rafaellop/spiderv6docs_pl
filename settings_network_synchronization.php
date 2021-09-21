@@ -162,5 +162,9 @@ Zaznacz tę opcję, by synchronizacja nie została wstrzymana w przypadku wystą
 <? include "include/cookiebanner.html"; ?>
 <!-- End of Cookie Banner -->
 
+<!-- Google analytics -->
+<? include "include/analytics.html"; ?>
+<!-- End of Google analytics -->
+
 </body>
 </html>

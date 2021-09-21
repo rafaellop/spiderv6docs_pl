@@ -142,5 +142,9 @@ Kliknij, aby edytować styl. Do edycji stylu służy okno '<a href="syntax_style
 <? include "include/cookiebanner.html"; ?>
 <!-- End of Cookie Banner -->
 
+<!-- Google analytics -->
+<? include "include/analytics.html"; ?>
+<!-- End of Google analytics -->
+
 </body>
 </html>

@@ -119,5 +119,9 @@ W polu tym możemy wpisać nazwę pliku projektu HHP wraz z pełną ścieżką d
 <? include "include/cookiebanner.html"; ?>
 <!-- End of Cookie Banner -->
 
+<!-- Google analytics -->
+<? include "include/analytics.html"; ?>
+<!-- End of Google analytics -->
+
 </body>
 </html>

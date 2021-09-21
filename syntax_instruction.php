@@ -279,5 +279,9 @@ Aby użyć danego schematu do kolorowania składni aktualnego dokumentu, użyj p
 <? include "include/cookiebanner.html"; ?>
 <!-- End of Cookie Banner -->
 
+<!-- Google analytics -->
+<? include "include/analytics.html"; ?>
+<!-- End of Google analytics -->
+
 </body>
 </html>

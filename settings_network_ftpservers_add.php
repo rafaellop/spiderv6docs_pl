@@ -208,5 +208,9 @@ Przełącznik ten jest w przypadku serwera WebDAV nieaktywny - dane zawsze będ�
 <? include "include/cookiebanner.html"; ?>
 <!-- End of Cookie Banner -->
 
+<!-- Google analytics -->
+<? include "include/analytics.html"; ?>
+<!-- End of Google analytics -->
+
 </body>
 </html>

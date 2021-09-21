@@ -148,5 +148,9 @@ Jest to lista czcionek ustawionych w kolejności ważności. Jeżeli w przegląd
 <? include "include/cookiebanner.html"; ?>
 <!-- End of Cookie Banner -->
 
+<!-- Google analytics -->
+<? include "include/analytics.html"; ?>
+<!-- End of Google analytics -->
+
 </body>
 </html>

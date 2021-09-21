@@ -237,5 +237,9 @@ Aby przypisać do szablonu skrót klawiszowy należy skorzystać z <a href="macr
 <? include "include/cookiebanner.html"; ?>
 <!-- End of Cookie Banner -->
 
+<!-- Google analytics -->
+<? include "include/analytics.html"; ?>
+<!-- End of Google analytics -->
+
 </body>
 </html>

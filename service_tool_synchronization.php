@@ -183,5 +183,9 @@ Włącz ten przełącznik jeśli chcesz synchronizować tylko wybrane pliki lub 
 <? include "include/cookiebanner.html"; ?>
 <!-- End of Cookie Banner -->
 
+<!-- Google analytics -->
+<? include "include/analytics.html"; ?>
+<!-- End of Google analytics -->
+
 </body>
 </html>

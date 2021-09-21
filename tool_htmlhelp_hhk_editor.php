@@ -184,5 +184,9 @@ Zakładka ta w całości służy do podglądu wybranego obiektu. Przypisaną do 
 <? include "include/cookiebanner.html"; ?>
 <!-- End of Cookie Banner -->
 
+<!-- Google analytics -->
+<? include "include/analytics.html"; ?>
+<!-- End of Google analytics -->
+
 </body>
 </html>

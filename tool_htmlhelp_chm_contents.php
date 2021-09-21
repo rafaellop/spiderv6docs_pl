@@ -125,5 +125,9 @@ W oknie tym wyświetlone zostanie drzewko zawierające pliki znajdujące się w 
 <? include "include/cookiebanner.html"; ?>
 <!-- End of Cookie Banner -->
 
+<!-- Google analytics -->
+<? include "include/analytics.html"; ?>
+<!-- End of Google analytics -->
+
 </body>
 </html>

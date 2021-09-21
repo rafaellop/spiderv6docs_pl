@@ -184,5 +184,9 @@ Kliknij, aby wyświetlić, bądź ukryć okno <a href="main_preview_dynamic.php"
 <? include "include/cookiebanner.html"; ?>
 <!-- End of Cookie Banner -->
 
+<!-- Google analytics -->
+<? include "include/analytics.html"; ?>
+<!-- End of Google analytics -->
+
 </body>
 </html>

@@ -139,5 +139,9 @@ Kliknij, aby uruchomić <a href="tool_lists.php">Generator wyliczeń</a>. Możes
 <? include "include/cookiebanner.html"; ?>
 <!-- End of Cookie Banner -->
 
+<!-- Google analytics -->
+<? include "include/analytics.html"; ?>
+<!-- End of Google analytics -->
+
 </body>
 </html>

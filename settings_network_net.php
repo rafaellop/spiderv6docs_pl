@@ -132,5 +132,9 @@ Począwszy od wersji 5.4.0 przełącznik ten znajduje się w oknie <a href="sett
 <? include "include/cookiebanner.html"; ?>
 <!-- End of Cookie Banner -->
 
+<!-- Google analytics -->
+<? include "include/analytics.html"; ?>
+<!-- End of Google analytics -->
+
 </body>
 </html>

@@ -192,5 +192,9 @@ Jeśli zaznaczysz ten przełącznik, parametry wymiaru obrazka, odstępy oraz ob
 <? include "include/cookiebanner.html"; ?>
 <!-- End of Cookie Banner -->
 
+<!-- Google analytics -->
+<? include "include/analytics.html"; ?>
+<!-- End of Google analytics -->
+
 </body>
 </html>
