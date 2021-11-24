@@ -52,7 +52,7 @@
       </div>
     </div>
   </nav>
-	
+
 <div class="container-fluid">
 
 <!-- google search start -->
@@ -161,11 +161,10 @@ To polecenie zawiera podmenu pozwalające na uzyskanie pomocy online, tj. na wit
 <ul>
         <li><a href="https://www.creamsoft.com/rd.php?p=page&bid=com.creamsoft.spider&os=win&lang=pl" target="_blank">Pająk on-line</a> - Wyświetla stronę główną Pająka</li>
         <li><a href="https://www.creamsoft.com/rd.php?p=support&bid=com.creamsoft.spider&os=win&lang=pl" target="_blank">O pomocy technicznej</a> - Wyświetla informacje o zasadach uzyskiwania pomocy technicznej</li>
-        <li><a href="https://www.creamsoft.com/rd.php?p=page&bid=com.creamsoft.spider&os=win&lang=plindex.php?p=community" target="_blank">Forum użytkowników</a></li>
-        <li><a href="https://www.creamsoft.com/sklep/jak-zamawiac.php" target="_blank">Informacje na temat zamawiania</a> - strona poświęcona opisowi zamawiania programu, ofertom specjalnym i programom partnerskim.</li>
-        <li><a href="https://www.creamsoft.com/rd.php?p=page&bid=com.creamsoft.spider&os=win&lang=plindex.php?p=upgrade" target="_blank">Aktualizacje (upgrade)</a> - informacje na temat aktualizacji posiadanej wersji programu do nowszej wersji.</li>
+        <li><a href="https://www.creamsoft.com/rd.php?p=community&bid=com.creamsoft.spider&os=win&lang=pl" target="_blank">Forum użytkowników</a></li>
+        <li><a href="https://www.creamsoft.com/rd.php?p=update&bid=com.creamsoft.spider&os=win&lang=pl" target="_blank">Aktualizacje (upgrade)</a> - informacje na temat aktualizacji posiadanej wersji programu do nowszej wersji.</li>
         <li><a href="https://www.creamsoft.com/blog/" target="_blank">Ciekawe artykuły</a> - lista kategorii artykułów publikowanych w naszym serwisie. Artykuły mogą być publikowane przez zarejestrowanych użytkownikiem z zacięciem do pisania.</li>
-        <li><a href="https://www.creamsoft.com/rd.php?p=appdownload&bid=com.creamsoft.spider&os=win&lang=pl" target="_blank">Nowe wersje do pobrania</a> </li>
+        <li><a href="https://www.creamsoft.com/rd.php?p=page&bid=com.creamsoft.spider&os=win&lang=pl" target="_blank">Nowe wersje do pobrania</a> </li>
 
 </ul>
 
