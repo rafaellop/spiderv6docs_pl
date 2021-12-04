@@ -11,7 +11,7 @@
 <!-- End of Google analytics -->
 
 </body>
-</html>
+</html><!DOCTYPE html>
 <html>
 <head>
 <meta charset="utf-8">

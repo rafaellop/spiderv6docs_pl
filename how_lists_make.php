@@ -1,9 +1,10 @@
+<!DOCTYPE html>
 <html>
 <head>
 <meta charset="utf-8">
 
 <meta name="Author" content="Cream Software">
-<meta name="Generator" content="Pajak V6 (6.0.0.1)">
+<meta name="Generator" content="Pajak V6 (6.0.1.1)">
 
 <!-- nazwa strony pomocy -->
 <title>Tworzenie list wyliczeniowych</title>
