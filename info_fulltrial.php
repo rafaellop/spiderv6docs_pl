@@ -14,42 +14,9 @@
 </head>
 <body>
 
-<a name="top"></a>
-
-  <nav class="navbar navbar-expand-lg navbar-dark bg-dark sticky-top">
-    <div class="container">
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <a class="navbar-brand" href="#">Pająk V6</a>
-      <div class="collapse navbar-collapse" id="navbarResponsive">
-        <ul class="navbar-nav ml-auto">
-          <li class="nav-item">
-            <a class="nav-link" href="contents_main.php">Spis
-            </a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="contents_general.php">Ogólne</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="contents_howto.php">Jak to wykonać?</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="contents_support.php">Wspomaganie</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="contents_mainpage.php">Główne okno</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="contents_settings.php">Ustawienia</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" data-toggle="collapse" href="#googlesearch" role="button" aria-expanded="false" aria-controls="googlesearch">Wyszukaj</a>
-          </li>
-        </ul>
-      </div>
-    </div>
-  </nav>
+<!-- topmenu start -->
+<? include "include/topmenu.html"; ?>
+<!-- topmenu end -->
 
 <div class="container-fluid">
 
