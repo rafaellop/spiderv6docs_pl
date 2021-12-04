@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 
 <meta name="Author" content="Cream Software">
-<meta name="Generator" content="Pajak V6 (6.0.0.1)">
+<meta name="Generator" content="Pajak V6 (6.0.1.1)">
 
 <!-- nazwa strony pomocy -->
 <title>Zakładka "Moje serwisy"</title>
@@ -19,7 +19,7 @@
 <!-- topmenu start -->
 <? include "include/topmenu.html"; ?>
 <!-- topmenu end -->
-	
+
 <div class="container-fluid">
 
 <!-- google search start -->
@@ -40,8 +40,6 @@
 <p>Zakładka "Moje serwisy" służy do pracy z plikami i folderami znajdującymi się na dysku lokalnym. Za pomocą tej zakładki możesz również tworzyć <a href="services_general.php">serwisy</a> i przełączać się między nimi. Widzisz tutaj swoje foldery, pliki, możesz je otwierać, zmieniać nazwy, tworzyć nowe i wiele innych.
 
 <p>Zakładkę Moje serwisy włączysz za pomocą panelu po lewej lub skrótu klawiszowego CTRL+1, a także z menu pod przyciskiem pokazanym powyżej czy z <a href="main_menu_main.php">Menu głównego</a> / <a href="main_menu_view.php">Wyświetl</a>.
-
-<p class="czerwony"> możesz zdefiniować ustawienia tylko jednego serwisu.</p>
 
 <p>W odróżnieniu od zakładki Moje serwisy, zakładka <a href="main_tabs_myftpservers.php">Moje serwery</a> służy do operacji na zdalnych plikach na serwerach FTP.
 
