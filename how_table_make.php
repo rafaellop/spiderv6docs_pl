@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 
 <meta name="Author" content="Cream Software">
-<meta name="Generator" content="Pajak V6 (6.0.0.1)">
+<meta name="Generator" content="Pajak V6 (6.0.1.1)">
 
 <!-- nazwa strony pomocy -->
 <title>Tworzenie i edycja tabel</title>
@@ -95,7 +95,7 @@
 
 <h2>Najszybszy sposób wstawiania tła tabeli</h2>
 
-Najszybszym sposobem wstawiania tła obrazka tła tabeli jest przeciągnięcie go z listy plików do edytora w obręb znacznika <tt>&lt;table&gt;</tt>. Otwarte zostanie <a href="tool_style_editor.php">narzędzie do edycji stylu</a>, w którym automatycznie będzie wprowadzona ścieżka do przeciąganego obrazka. Wystarczy kliknąć OK i... gotowe. Identycznie możesz wstawić tło do komórki i wiersza tabeli (<tt>&lt;td&gt;</tt>, <tt>&lt;th&gt;</tt>, <tt>&lt;tr&gt;</tt>),
+<p>Najszybszym sposobem wstawiania tła obrazka tła tabeli jest przeciągnięcie go z listy plików do edytora w obręb znacznika <tt>&lt;table&gt;</tt>. Otwarte zostanie <a href="tool_style_editor.php">narzędzie do edycji stylu</a>, w którym automatycznie będzie wprowadzona ścieżka do przeciąganego obrazka. Wystarczy kliknąć OK i... gotowe. Identycznie możesz wstawić tło do komórki i wiersza tabeli (<tt>&lt;td&gt;</tt>, <tt>&lt;th&gt;</tt>, <tt>&lt;tr&gt;</tt>).</p>
 
 </td>
 </tr>
