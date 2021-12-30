@@ -1,10 +1,10 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html>
 <head>
 <meta charset="utf-8">
 
 <meta name="Author" content="Cream Software">
-<meta name="Generator" content="Pajak V6 (6.0.0.1)">
+<meta name="Generator" content="Pajak V6 (6.0.1.6)">
 
 <!-- nazwa strony pomocy -->
 <title>Autorzy i podziękowania</title>
@@ -89,7 +89,6 @@
 <b>Przemysław Adam Śmiejek</b> - generator ramek w Pająku 2000, częściowo pomoc, testowanie<br />
 <b>Witold Wilk</b> - testowanie<br />
 <b>Tomasz Wrona</b> - testowanie Skryby<br />
-<b>Wojciech Wysznacki</b> - testowanie<br />
 <b>Marcin Brykalski</b> - testowanie<br />
 <b>Dawid "evad" Lorenz</b> - testowanie<br>
 <b>Michał "cherr" Pajdak</b> - testowanie<br />
