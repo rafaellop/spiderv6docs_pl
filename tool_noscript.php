@@ -1,17 +1,3 @@
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.slim.min.js" integrity="sha512-/DXTXr6nQodMUiq+IUJYCt2PPOUjrHJ9wFrqpJ3XkgPNOZVfMok7cRw6CSxyCQxXn6ozlESsSh1/sMCTF1rL/g==" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/js/bootstrap.bundle.min.js" integrity="sha512-kBFfSXuTKZcABVouRYGnUo35KKa1FBrYgwG4PAx7Z2Heroknm0ca2Fm2TosdrrI356EDHMW383S3ISrwKcVPUw==" crossorigin="anonymous"></script>
-</div><!-- container end -->
-
-<!-- Cookie Banner -->
-<? include "include/cookiebanner.html"; ?>
-<!-- End of Cookie Banner -->
-
-<!-- Google analytics -->
-<? include "include/analytics.html"; ?>
-<!-- End of Google analytics -->
-
-</body>
-</html><!DOCTYPE html>
 <html>
 <head>
 <meta charset="utf-8">
@@ -31,7 +17,7 @@
 <!-- topmenu start -->
 <? include "include/topmenu.html"; ?>
 <!-- topmenu end -->
-	
+
 <div class="container-fluid">
 
 <!-- google search start -->

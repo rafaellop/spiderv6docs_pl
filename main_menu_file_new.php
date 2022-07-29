@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 
 <meta name="Author" content="Cream Software">
-<meta name="Authoring-tool" content="Pajak V6" />
+<meta name="Generator" content="Spider V6 (6.1.1.0)">
 
 <!-- nazwa strony pomocy -->
 <title>Menu główne - Plik/Nowy dokument</title>
@@ -19,7 +19,7 @@
 <!-- topmenu start -->
 <? include "include/topmenu.html"; ?>
 <!-- topmenu end -->
-	
+
 <div class="container-fluid">
 
 <!-- google search start -->
@@ -39,8 +39,8 @@
 <p>Polecenia w tym menu umożliwiają utworzenie nowego dokumentu, bądź uruchamiają kreatory do generowania elementów dokumentu. Dostępne są następujące polecenia:</p>
 
 
-<p><b>Nowy według domyślnego makrokodu</b><br />
-Kliknij, aby utworzyć nowy dokument na podstawie <a href="main_tabs_macrocodes.php#default_template">domyślnego makrokodu</a>. Jeśli żaden makrokod nie jest wybrany domyślnym, Pająk zaproponuje przejście do <a href="main_tabs_macrocodes.php">zakładki Makrokody</a> i wskazanie go.</p>
+<p><b>Nowy według domyślnego szablonu</b><br />
+Kliknij, aby utworzyć nowy dokument na podstawie <a href="main_tabs_macrocodes.php#default_template">domyślnego szablonu</a>. Jeśli żaden szablon nie jest wybrany domyślnym, Pająk zaproponuje przejście do <a href="main_tabs_macrocodes.php">zakładki Szablony</a> i wskazanie go.</p>
 
 <hr>
 
@@ -66,10 +66,6 @@ Kliknij,aby w bardzo szybki sposób utworzyć nową tabelę.
 
 
 <hr>
-
-<p><b><a href="tool_rss_creator.php">Kreator kanału RSS</a></b><br />
-Kliknij, aby otworzyć kreator kanału RSS - łatwego sposobu na rozpowszechnianie nowości i informacji.
-
 
 <p><b><a href="tool_xml_trans.php">Kreator tranformacji XSLT</a></b><br />
 Kliknij, aby otworzyć kreator transformacji XSLT umożliwiający transformację dokumentu XML za pomocą arkusza XSLT.

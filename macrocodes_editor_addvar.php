@@ -13,7 +13,7 @@
 </head>
 
 <!-- nazwa strony pomocy -->
-<title>Edytor makrokodów - Edycja zmiennej makrokodu</title>
+<title>Edytor szablonów - Edycja zmiennej szablonu</title>
 
 <body>
 
@@ -33,7 +33,7 @@
 <td>
 
 <!-- nagłowek głowny tematu -->
-<h1>Edytor makrokodów - Edycja zmiennej makrokodu</h1>
+<h1>Edytor szablonów - Edycja zmiennej szablonu</h1>
 
 
 
@@ -45,7 +45,7 @@
 Umożliwia podanie nazwy zmiennej. Podczas reedycji istniejącej zmienne, pole to jest nieaktywne.</p>
 
 <b>Zmienna ukryta</b><br />
-Zaznacz, jeśli zmienna ma zostać oznaczona jako ukryta. Zmienna oznaczona jako ukryta nie będzie się pojawiała w inspektorze zmiennych w lewym panelu głównego okna Pająka. Dzięki temu w inspektorze dostępne dla użytkownika będą jedynie te zmienne, których wartość powinien mieć możliwość zmienić. Oczywiście zmienne oznaczone jako ukryte cały czas będą widoczne w inspektorze zmiennych w zakładce "Zmienne w makrokodzie".</p>
+Zaznacz, jeśli zmienna ma zostać oznaczona jako ukryta. Zmienna oznaczona jako ukryta nie będzie się pojawiała w inspektorze zmiennych w lewym panelu głównego okna Pająka. Dzięki temu w inspektorze dostępne dla użytkownika będą jedynie te zmienne, których wartość powinien mieć możliwość zmienić. Oczywiście zmienne oznaczone jako ukryte cały czas będą widoczne w inspektorze zmiennych w zakładce "Zmienne w szablonie".</p>
 <p>Dla przykładu - jeśli tworzysz szablon strony i umieszczasz w nim grafiki, które muszą się znaleźć na stronie, to użytkownik nie powinien mieć możliwości zmiany ścieżki do tych grafik (gdyż mógłby podać ścieżkę do innego pliku, co zniszczyłoby efekt).</p>
 
 
@@ -60,11 +60,11 @@ Za pomocą typu zmiennej określone zostaje narzędzie, jakim będzie można wyb
 	<li><b>Wartość typu data</b> - pozwala wybrać datę za pomocą specjalnego narzędzia.</li>
 	<li><b>Lista wartości</b> - pozwala na wybranie jednej wartości z dostępnych na liście.</li>
 	<li><b>Wartość liczbowa</b> - pozwala na wpisanie liczby, bądź wybranie jej za pomocą strzałek góra/dół.</li>
-	<li><b>Odsyłacz do dokumentów</b> - pozwala na wskazanie dokumentu. Dokument ten będzie skopiowany w miejsce, gdzie zapisany jest dokument, w którym użyty został makrokod. Zmienna używana najczęściej do dołączania do strony arkuszy stylów itp.</li>
-	<li><b>Odsyłacz do grafik</b> - pozwala wybrać obrazek. Wskazany obrazek skopiowany zostanie automatycznie w miejsce, gdzie zapisany jest dokument, w którym użyty został makrokod.</li>
+	<li><b>Odsyłacz do dokumentów</b> - pozwala na wskazanie dokumentu. Dokument ten będzie skopiowany w miejsce, gdzie zapisany jest dokument, w którym użyty został szablon. Zmienna używana najczęściej do dołączania do strony arkuszy stylów itp.</li>
+	<li><b>Odsyłacz do grafik</b> - pozwala wybrać obrazek. Wskazany obrazek skopiowany zostanie automatycznie w miejsce, gdzie zapisany jest dokument, w którym użyty został szablon.</li>
 	<li><b>Wartość typu Styl</b> - pozwala wybrać i ustawić własności stylu CSS za pomocą narzędzia.</li>
 	<li><b>Lista okien</b> - pozwala wybrać okno docelowe dla odnośnika (np. <tt>_blank</tt> itd..)</li>
-	<li><b>Wartość typu tekst</b> - pozwala na wpisanie tekstu, który zostanie umieszczony w makrokodzie.</li>
+	<li><b>Wartość typu tekst</b> - pozwala na wpisanie tekstu, który zostanie umieszczony w szablonie.</li>
 	<li><b>Wartość wielolinijkowa</b> - pozwala na wpisanie wielu linii tekstu.</li>
 </ul>
 </p>
@@ -82,12 +82,12 @@ W zależności od wybranego typu zmiennej, w tym miejscu pojawi się pole teksto
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="macrocodes_editor.php">Edytor makrokodów - wstęp</a>
-	<li><a href="macrocodes_editor_vars.php">Edytor makrokodów - zakładka Zmienne w makrokodzie</a>
-	<li><a href="macrocodes_editor_blocks.php">Edytor makrokodów - Bloki w makrokodzie</a>
-	<li><a href="settings_macrocodes.php">Ustawienia programu - Makrokody</a>
-	<li><a href="main_tabs_macrocodes.php">Zakładka Makrokody</a>
-	<li><a href="macrocodes.php">Makrokody - ogólnie</a>
+	<li><a href="macrocodes_editor.php">Edytor szablonów - wstęp</a>
+	<li><a href="macrocodes_editor_vars.php">Edytor szablonów - zakładka Zmienne w szablonie</a>
+	<li><a href="macrocodes_editor_blocks.php">Edytor szablonów - Bloki w szablonie</a>
+	<li><a href="settings_macrocodes.php">Ustawienia programu - Szablony</a>
+	<li><a href="main_tabs_macrocodes.php">Zakładka Szablony</a>
+	<li><a href="macrocodes.php">Szablony - ogólnie</a>
 </ul>
 </td>
 </tr>

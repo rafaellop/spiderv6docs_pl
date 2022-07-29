@@ -52,7 +52,7 @@ Możesz również użyć utworzonych wcześniej stylów formatowania wybierając
 
 <h2>Źródło formatowania</h2><br />
 
-<p>Za pomocą ustawień tej zakładki możliwe jest określenie zakresu działania narzędzia - od aktualnie edytowanego dokumentu, aż do ściśle określonych rodzajów dokumentów w wybranym Serwisie, folderach itd. Dostępne są opcje:</p>
+<p>Za pomocą ustawień tej zakładki możliwe jest określenie zakresu działania narzędzia - od aktualnie edytowanego dokumentu, aż do ściśle określonych rodzajów dokumentów w wybranym Projekcie, folderach itd. Dostępne są opcje:</p>
 
 <p><b>w aktywnym dokumencie</b> - operacje będą przeprowadzane na dokumencie aktualnie otwartym w edytorze.</p>
 
@@ -60,7 +60,7 @@ Możesz również użyć utworzonych wcześniej stylów formatowania wybierając
 
 <p><b>we wszystkich otwartych</b> - operacje będą przeprowadzane na wszystkich dokumentach otwartych aktualnie w Pająku.</p>
 
-<p><b>w wybranym Serwisie</b> - operacje będą wykonywane na wszystkich plikach <a href="services_general.php">Serwisu</a> wybranego z listy. Można zawęzić rodzaje plików do plików z określonym rozszerzeniem:
+<p><b>w wybranym Projekcie</b> - operacje będą wykonywane na wszystkich plikach <a href="services_general.php">Projektu</a> wybranego z listy. Można zawęzić rodzaje plików do plików z określonym rozszerzeniem:
 	<ul>
 		<li><b>pliki:</b> - pole tekstowe umożliwia wpisanie rozszerzeń plików w celu zawężenia rodzajów dokumentów, jakie mają być brane pod uwagę. Rozszerzenia należy podawać w postaci np. <tt>*.php;*.php3;*.php4</tt>.</li>
 	</ul>
@@ -77,7 +77,7 @@ Możesz również użyć utworzonych wcześniej stylów formatowania wybierając
 </ul>
 
 <p><b>Twórz kopie bezpieczeństwa</b><br />
-Zaznacz, jeśli chcesz by podczas formatowania wybranych dokumentów w folderach, lub Serwisie, tworzone były ich kopie bezpieczeństwa.</p>
+Zaznacz, jeśli chcesz by podczas formatowania wybranych dokumentów w folderach, lub Projekcie, tworzone były ich kopie bezpieczeństwa.</p>
 
 
 

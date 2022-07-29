@@ -50,13 +50,13 @@
 
 <p>Pająk pozwala na tworzenie dokumentów w praktycznie dowolnym języku. Program potrafi również automatycznie rozpoznać stronę kodową, stosowaną w danym dokumencie, na podstawie wpisów w sekcji META. Odpowiednie opcje znajdują się w oknie <a href="settings_editor_documents.php">Ustawienia programu - Dokumenty</a>, a także w <a href="main_menu_spelling.php">Menu pisownia</a>.</p>
 
-<p>Podczas pracy z <a href="services_general.php">serwisem</a>, w oknie <a href="service_properites.php#charset_encoding">Właściwości serwisu</a> możesz wskazać kodowanie, jakie ma być domyślnie stosowane dla wszystkich dokumentów tego serwisu. Pozwala to uniezależnić dany serwis od globalnych ustawień programu.</p>
+<p>Podczas pracy z <a href="services_general.php">projektem</a>, w oknie <a href="service_properites.php#charset_encoding">Właściwości projektu</a> możesz wskazać kodowanie, jakie ma być domyślnie stosowane dla wszystkich dokumentów tego projektu. Pozwala to uniezależnić dany projekt od globalnych ustawień programu.</p>
 
-<p>Możesz też szybko otworzyć i zapisać dokument, korzystając z wybranego kodowania za pomocą poleceń w Menu pisownia -&gt; <b>Odczytaj w kodowaniu...</b> i <b>Zapisuj w kodowaniu...</b>,  co pozwala dodatkowo korzystać z kodowania niezależnego od ustawień programu i serwisu.</p>
+<p>Możesz też szybko otworzyć i zapisać dokument, korzystając z wybranego kodowania za pomocą poleceń w Menu pisownia -&gt; <b>Odczytaj w kodowaniu...</b> i <b>Zapisuj w kodowaniu...</b>,  co pozwala dodatkowo korzystać z kodowania niezależnego od ustawień programu i projektu.</p>
 
 <p>Najczęściej używaną konwersją jest zmiana kodowania znaków z WIN-CP-1250 (strona kodowa używana w MS Windows) na ISO-8859-2 (zgodna z normą ISO strona kodowa używana w większości systemów).</p>
 
-<p>Priorytet najwyższy ma kodowanie dla dokumentu. Następnie kodowanie dla serwisu i na końcu kodowanie ogólne. W przypadku zmiany kodowania do odczytu dla dokumentu następuje ponowne odczytanie dokumentu z konwersją wg wybranego kodowania. W przypadku zmiany kodowania przy zapisie dla dokumentu następuje zapisanie dokumentu w wybranym kodowaniu.</p>
+<p>Priorytet najwyższy ma kodowanie dla dokumentu. Następnie kodowanie dla projektu i na końcu kodowanie ogólne. W przypadku zmiany kodowania do odczytu dla dokumentu następuje ponowne odczytanie dokumentu z konwersją wg wybranego kodowania. W przypadku zmiany kodowania przy zapisie dla dokumentu następuje zapisanie dokumentu w wybranym kodowaniu.</p>
 
 <p><b>Wspomaganie dla Unicode</b></p>
 <p>W celu poprawienia komfortu pracy podczas korzystania z kodowania za pomocą Unicode stworzony został mini <a href="tool_unicodeeditorek.php">edytorek unicode</a>. Narzędzie to pozwala kopiować i wklejać do dokumentu teksty zawierające encje Unicode, które automatycznie zamieniane będą na znaki UTF.</p>
@@ -65,7 +65,7 @@
 
 <p>Pająk umożliwia konwersję kodowania znaków na wiele różnych stron kodowych. Możesz ją przeprowadzić na kilka sposobów:</p>
 <ul>
-   <li> za pomocą narzędzia <a href="find_ext.php">Rozszerzone wyszukiwanie i zamiana</a>, które umożliwia konwersję kodowania w aktualnym dokumencie, wszystkich otwartych, a także w wybranych lub wszystkich dokumentach określonego folderu lub <a href="main_tabs_myservices.php">Serwisu</a>. Okno możesz otworzyć za pomocą polecenia <b>Konwerter kodowania znaków</b> w menu Pisownia. Ikona polecenia została pokazana obok.</li>
+   <li> za pomocą narzędzia <a href="find_ext.php">Rozszerzone wyszukiwanie i zamiana</a>, które umożliwia konwersję kodowania w aktualnym dokumencie, wszystkich otwartych, a także w wybranych lub wszystkich dokumentach określonego folderu lub <a href="main_tabs_myservices.php">Projektu</a>. Okno możesz otworzyć za pomocą polecenia <b>Konwerter kodowania znaków</b> w menu Pisownia. Ikona polecenia została pokazana obok.</li>
    <li> szybką konwersję znaków w bieżącym dokumencie możesz przeprowadzić za pomocą polecenia <b>Znaki narodowe w bieżącym</b> w menu Pisownia. Ikona polecenia została pokazana obok.</li>
 </ul>
 

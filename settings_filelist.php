@@ -36,7 +36,7 @@
 
 <!-- treść pomocy -->
 <p>
-Kategoria o nazwie "Lista plików i otwieranie" pozwala na określenie zachowania listy plików w panelu "Moje serwisy", a także działanie funkcji "Przenieś i upuść". Możesz tutaj również przypisać rozszerzenia do określonych kategorii plików. W grupie tej znajdują się następujące podgrupy: "Lista plików i otwieranie", "Obsługa Przenieś i upuść", "Filtry plików". 
+Kategoria o nazwie "Lista plików i otwieranie" pozwala na określenie zachowania listy plików w panelu "Moje projekty", a także działanie funkcji "Przenieś i upuść". Możesz tutaj również przypisać rozszerzenia do określonych kategorii plików. W grupie tej znajdują się następujące podgrupy: "Lista plików i otwieranie", "Obsługa Przenieś i upuść", "Filtry plików". 
 
 <h2>Lista plików i otwieranie</h2>
 
@@ -67,7 +67,7 @@ Zaznacz tę opcję, aby pliki, które usuwasz, trafiały do kosza Windows i mog�
 Zaznacz tę opcję, jeśli chcesz usuwać pliki kopii bezpieczeństwa BAK razem z plikami oryginalnymi, których kopiami są pliki BAK.
 
 <p><b>Ukryj pasek przycisków listy plików i drzewa katalogów</b><br>
-Zaznacz tę opcję, jeśli nie chcesz, aby obok listy plików i drzewa katalogów na zakładce "Moje serwisy" umieszczony był pasek przycisków do obsługi tej listy.</p>
+Zaznacz tę opcję, jeśli nie chcesz, aby obok listy plików i drzewa katalogów na zakładce "Moje projekty" umieszczony był pasek przycisków do obsługi tej listy.</p>
 
 <p><b>Wyświetlaj ikony overlay na liście plików i folderów</b><br />
 Wyłącz tę opcję, aby program nie wyświetlał 'nakładek' na ikonach plików i folderów. Przyspieszy to odświeżanie listy plików.<br>
@@ -102,7 +102,7 @@ W tym polu wprowadź rozdzielone średnikami nazwy rozszerzeń dla tych typów p
 W tym polu wprowadź rozdzielone średnikami nazwy rozszerzeń dla tych typów plików, których chcesz używać jako plików web, czyli plików wykorzystywanych na stronach (np. animacje). Rozszerzenia powinny mieć postać np. *.avi;*.swf.
 
 <p><b>Filtr plików - Ukrywaj pliki</b><br />
-W tym polu wprowadź rozdzielone średnikami nazwy rozszerzeń dla tych typów plików, które mają być zawsze ukryte na liście plików na zakładce "<a href="main_tabs_myservices.php">Moje serwisy</a>".
+W tym polu wprowadź rozdzielone średnikami nazwy rozszerzeń dla tych typów plików, które mają być zawsze ukryte na liście plików na zakładce "<a href="main_tabs_myservices.php">Moje projekty</a>".
 
 <p><b>Ostrzegaj przy otwieraniu plików bez rozszerzenia</b><br>
 Zaznacz tę opcję, jeśli chcesz, aby program wyświetlał ostrzeżenie podczas próby otwarcia pliku bez rozszerzenia.</p>
@@ -128,7 +128,7 @@ Zaznacz tę opcję, jeśli chcesz, aby program wyświetlał ostrzeżenie podczas
 <h4>Pokrewne tematy</h4>
 <ul>
         <li><a href="settings.php#settingslist">Inne ustawienia</a>
-        <li><a href="main_tabs_myservices.php">Moje serwisy i lista plików</a>
+        <li><a href="main_tabs_myservices.php">Moje projekty i lista plików</a>
         <li><a href="main_editor_backups.php">Tworzenie kopii bezpieczeństwa</a>
 </ul>
 </td>

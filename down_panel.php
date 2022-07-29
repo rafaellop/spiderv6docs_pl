@@ -45,9 +45,9 @@ Dolny panel składa się z pionowych zakładek, które jeśli kliknięte wyświe
 	<a name="downpanellist"></a>
 	<li><a href="settings_general.php">Poprawność odsyłaczy</a> - zakładka wyświetlająca raport ze sprawdzania poprawności odsyłaczy.
 	<li><a href="settings_browse.php">Poprawność składni</a> - zakładka wyświetlająca informacje ze sprawdzania poprawności składni dokumentu.
-	<li><a href="settings_user.php">Spójność serwisu</a> - zakładka wyświetlająca wyniki działania funkcji sprawdzania spójności serwisu.
+	<li><a href="settings_user.php">Spójność projektu</a> - zakładka wyświetlająca wyniki działania funkcji sprawdzania spójności projektu.
    <li><a href="down_find_report.php">Raporty wyszukiwania</a> - zakładka wyświetlająca raport z działania funkcji wyszukiwania i zamiany oraz sprawdzania pisowni.
-   <li><a href="down_publishing.php">Operacje publikowania</a> -zakładka wyświetlająca kolejkę plików, raport z synchronizacji serwisu oraz zapis komunikacji Pająka z serwerem.
+   <li><a href="down_publishing.php">Operacje publikowania</a> -zakładka wyświetlająca kolejkę plików, raport z synchronizacji projektu oraz zapis komunikacji Pająka z serwerem.
    <li><a href="down_help.php">Pomoc, dokumenty, podglądy</a> - zakładka wyświetla poradniki i kursy wywoływane funkcją dynamicznej pomocy kontekstowej, a także pomoc online.
    <li><a href="down_terminal.php">Terminal</a> - zakładka wyświetla terminal dostępu do linii komend, gdzie można wykonywać polecenia związane z kompilacją aplikacji i inne funkcje terminalowe.
 </ul>

@@ -58,10 +58,10 @@
 	<li>wszystkie otwarte dokumenty</li>
 	<li>wskazany plik</li>
 	<li>dokumenty z wybranych folderów</li>
-	<li>dokumenty z wybranego serwisu WWW</li>
+	<li>dokumenty z wybranego projektu WWW</li>
 </ul></p>
 
-<p>Jeśli wybierzesz jedną z trzech ostatnich pozycji, w następnej planszy będziesz mógł wybrać odpowiednio plik, folder (z podfolderami i wskazać rodzaje dokumentów), bądź <a href="services_general.php">serwis WWW</a> (i wskazać rodzaje dokumentów).</p>
+<p>Jeśli wybierzesz jedną z trzech ostatnich pozycji, w następnej planszy będziesz mógł wybrać odpowiednio plik, folder (z podfolderami i wskazać rodzaje dokumentów), bądź <a href="services_general.php">projekt WWW</a> (i wskazać rodzaje dokumentów).</p>
 
 
 

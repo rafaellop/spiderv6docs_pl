@@ -37,7 +37,7 @@
 <!-- treść pomocy -->
 <p>Ta lista zakładki <a href="down_publishing.php">Operacje publikowania</a> znajdującej się na <a href="down_panel.php">dolnym panelu wyników</a> przedstawia tzw. "kolejkę plików" wykorzystywaną do tworzenia listy zadań, które mają być wykonane w jednym przebiegu na serwerze FTP lub WebDAV, np. wysłanie pliku na serwer, pobranie pliku czy operacje na katalogach.
 
-<p>"Kolejka plików" jest ściśle związana z zakładką <a href="main_tabs_myftpservers.php">Moje serwery</a> oraz <a href="main_tabs_myservices.php">Moje serwisy</a>. Tworzenie zadań do kolejki odbywa się podczas przenoszenia plików lub folderów między wspomnianymi zakładkami, a także podczas operacji na zakładce "Moje serwery" w <a href="main_tabs_myftpservers_on-offline.php">trybie offline</a>.
+<p>"Kolejka plików" jest ściśle związana z zakładką <a href="main_tabs_myftpservers.php">Moje serwery</a> oraz <a href="main_tabs_myservices.php">Moje projekty</a>. Tworzenie zadań do kolejki odbywa się podczas przenoszenia plików lub folderów między wspomnianymi zakładkami, a także podczas operacji na zakładce "Moje serwery" w <a href="main_tabs_myftpservers_on-offline.php">trybie offline</a>.
 
 <p>Lista kolejki włącza się automatycznie zależnie od <a href="settings_network_ftpclient.php">ustawień klienta FTP i WebDAV</a> dotyczących kolejki. Można ją również włączyć pokazując <a href="down_panel.php">dolny panel wyników</a> lub za pomocą przycisku "Pokaż panel z informacjami" na zakładce <a href="main_tabs_myftpservers.php">Moje serwery</a>.
 

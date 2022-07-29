@@ -41,7 +41,7 @@
 <p><i>Serwery FTP</i> to serwery sieciowe, na których umieszczane są np. pliki składowe witryn FTP.</p>
 <p>WebDAV (ang. <i>Web-based Distributed Authoring and Versioning</i>) jest rozszerzeniem protokołu HTTP umożliwiającym przesyłania i zarządzanie dokumentami na serwerze. Więcej na temat WebDAV przeczytasz na stronie <a href="https://www.webdav.org" target="_blank">www.webdav.org</a>.</p>
 
-<p>Korzystając z tej zakładki możesz korzystać z serwera w podobny sposób w jaki korzystasz z eksploratora Windows czy zakładki <a href="main_tabs_myservices.php">Moje serwisy</a>. Widzisz swoje foldery, pliki, możesz je otwierać, zmieniać nazwy, tworzyć nowe tak jakbyś pracował na własnym komputerze. Przy pierwszym połączeniu Pająk wyświetla zawartość katalogu domowego użytkownika.</p>
+<p>Korzystając z tej zakładki możesz korzystać z serwera w podobny sposób w jaki korzystasz z eksploratora Windows czy zakładki <a href="main_tabs_myservices.php">Moje projekty</a>. Widzisz swoje foldery, pliki, możesz je otwierać, zmieniać nazwy, tworzyć nowe tak jakbyś pracował na własnym komputerze. Przy pierwszym połączeniu Pająk wyświetla zawartość katalogu domowego użytkownika.</p>
 
 <p>Zakładkę "Moje serwery" włączysz za pomocą panelu po prawej lub skrótu klawiszowego CTRL+5, a także z menu pod przyciskiem pokazanym powyżej czy z <a href="main_menu_main.php">Menu głównego</a> / <a href="main_menu_view.php">Wyświetl</a>.
 
@@ -51,13 +51,13 @@
 
 <h2>Zawartość - Pasek i lista serwerów</h2>
 
-<p>Zakładka "Moje serwery" jest podobna do zakładki <a href="main_tabs_myservices.php">Moje serwisy</a> z tym wyjątkiem, że zakładka pozwala ona na pracę zdalną na serwerach udostępnionych w oknie <a href="settings_network_ftpservers.php">Ustawienia serwerów FTP i WebDAV</a>.
+<p>Zakładka "Moje serwery" jest podobna do zakładki <a href="main_tabs_myservices.php">Moje projekty</a> z tym wyjątkiem, że zakładka pozwala ona na pracę zdalną na serwerach udostępnionych w oknie <a href="settings_network_ftpservers.php">Ustawienia serwerów FTP i WebDAV</a>.
 
 <p><b>Główny pasek przycisków i wybór serwera</b><br>
 W górnej części zakładki znajduje się pasek z kilkoma przyciskami oraz listą pozwalającą na wybór jednego ze zdefiniowanych w ustawieniach serwerów , na którym chcesz pracować.
 
 <p><b>Grupowanie serwerów</b><br>
-Istnieje możliwość grupowania serwerów. Grupy umieszczone są na liście powyżej serwisów niezgrupowanych. Kliknięcie na nazwę grupy rozwinie listę zebranych w niej serwerów. Jest to szczególnie przydatne podczas pracy nad dużą liczbą różnych projektów. Grupę, do której jest przypisany serwer możesz określić w oknie <a href="settings_network_ftpservers_add.php">Własności serwera</a>.</p>
+Istnieje możliwość grupowania serwerów. Grupy umieszczone są na liście powyżej projektów niezgrupowanych. Kliknięcie na nazwę grupy rozwinie listę zebranych w niej serwerów. Jest to szczególnie przydatne podczas pracy nad dużą liczbą różnych projektów. Grupę, do której jest przypisany serwer możesz określić w oknie <a href="settings_network_ftpservers_add.php">Własności serwera</a>.</p>
 
 <p><b>Przycisk "Połącz/Rozłącz"</b><br>
 Po prawej stronie listy serwerów znajduje się przycisk z zieloną wtyczką pozwalający na połączenie się z wybranym serwerem. Po nawiązaniu połączenia wtyczka zmienia kolor na czerwony umożliwiając rozłączenie.
@@ -77,7 +77,7 @@ To menu wyświetla ulubione foldery na serwerze FTP. Ulubione foldery możesz do
 Wyświetla dolny panel z wybranym widokiem <a href="down_publishing_ftpqueue.php">kolejki plików</a>.
 
 <p><b>Przycisk "Wyświetl raport synchronizacji"</b><br>
-Wyświetla dolny panel z wybranym widokiem <a href="down_publishing_syncreport.php">raportu synchronizacji serwisu</a>.
+Wyświetla dolny panel z wybranym widokiem <a href="down_publishing_syncreport.php">raportu synchronizacji projektu</a>.
 
 <p><b>Przycisk "Wyświetl zapis komunikacji z serwerem"</b><br>
 Wyświetla dolny panel z wybranym widokiem <a href="down_publishing_serverlog.php">zapisu komunikacji z serwerem</a>, tzw. log.
@@ -112,7 +112,7 @@ Pozwala na łatwe ustawienie wybranego folderu jako startowego (to jego zawarto�
 
 <h2>Zawartość - Lista plików</h2>
 
-<p>Lista plików wyświetla zawartość aktualnie wybranego katalogu. Wyświetlane są zarówno pliki jak i foldery w sposób identyczny jak w eksploratorze Windows czy na zakładce <a href="main_tabs_myservices.php">Moje serwisy</a>. Lista ma układ kolumnowy, a prezentowane w kolumnach informacje to:
+<p>Lista plików wyświetla zawartość aktualnie wybranego katalogu. Wyświetlane są zarówno pliki jak i foldery w sposób identyczny jak w eksploratorze Windows czy na zakładce <a href="main_tabs_myservices.php">Moje projekty</a>. Lista ma układ kolumnowy, a prezentowane w kolumnach informacje to:
 
 <ul>
         <li><b>Nazwa pliku</b> - wyświetla nazwę pliku lub folderu znajdującego się na serwerze
@@ -227,7 +227,7 @@ Informacja ta jest wyświetlana, gdy Pająk jest połączony z serwerem za pomoc
         <li><a href="settings_network_ftpservers_add_map.php">Mapowanie ścieżki na serwerze FTP na adres URL</a>
         <li><a href="settings_network.php#settingslistnetwork">Ustawienia sieci</a>
         <li><a href="settings_network_ftpservers_add.php">Dodawanie nowego serwera</a>
-        <li><a href="service_tool_synchronization.php">Synchronizacja serwisów</a>
+        <li><a href="service_tool_synchronization.php">Synchronizacja projektów</a>
         <li><a href="network_opendoc_ftp.php">Otwieranie i edycja dokumentów bezpośrednio na serwerze</a></li>
         <li><a href="main_tabs_general.php">Inne zakładki</a>
         <li><a href="main_window_desc.php">Główne okno programu</a>

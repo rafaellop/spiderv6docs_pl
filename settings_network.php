@@ -37,7 +37,7 @@
 
 <!-- treść pomocy -->
 <p>
-Pająk oferuje szeroki zakres funkcji związanych z obsługą sieci Internet. W zakres tych funkcji wchodzą funkcje publikowania na serwerach FTP z wykorzystaniem wbudowanego klienta FTP i WebDAV, czy funkcji automatycznej synchronizacji serwisów, ale także funkcje podglądu czy otwierania dokumentów z sieci przez protokoły FTP i HTTP. W tej kategorii ustawień masz dostęp do wszystkich opcji związanych z sieciowym funkcjonowaniem Pająka. 
+Pająk oferuje szeroki zakres funkcji związanych z obsługą sieci Internet. W zakres tych funkcji wchodzą funkcje publikowania na serwerach FTP z wykorzystaniem wbudowanego klienta FTP i WebDAV, czy funkcji automatycznej synchronizacji projektów, ale także funkcje podglądu czy otwierania dokumentów z sieci przez protokoły FTP i HTTP. W tej kategorii ustawień masz dostęp do wszystkich opcji związanych z sieciowym funkcjonowaniem Pająka. 
 
 <p>
 Dostępne są następujące grupy ustawień w ramach tego okna:
@@ -47,7 +47,7 @@ Dostępne są następujące grupy ustawień w ramach tego okna:
 	<li><a href="settings_network_net.php">Ustawienia sieci</a> - ogólne ustawienia związane z funkcjonowaniem połączeń sieciowych w Pająku.
 	<li><a href="settings_network_ftpservers.php">Serwery FTP i WebDAV</a> - dodawanie serwerów FTP i WebDAV obsługiwanych w Pająku.
 	<li><a href="settings_network_ftpclient.php">Wbudowany klient FTP i WebDAV</a> - ustawienia związane z wbudowanymi w Pająka klientami FTP i WebDAV.
-	<li><a href="settings_network_synchronization.php">Kolejka plików i Synchronizacja serwisów</a> - ustawienia <a href="down_publishing_ftpqueue.php">kolejki plików</a> serwerów FTP i WebDAV oraz ogólne ustawienia <a href="service_tool_synchronization.php">Synchronizacji serwisów</a>.
+	<li><a href="settings_network_synchronization.php">Kolejka plików i Synchronizacja projektów</a> - ustawienia <a href="down_publishing_ftpqueue.php">kolejki plików</a> serwerów FTP i WebDAV oraz ogólne ustawienia <a href="service_tool_synchronization.php">Synchronizacji projektów</a>.
         <li><a href="settings_network_mysqlservers.php">Serwery baz danych MySQL</a> - ustawienia związane z wbudowaną w Pająka obsługą serwerów baz danych MySQL, dodawanie i usuwanie baz danych.
    <li><a href="settings_network_rss.php">Ustawienia kanałów RSS</a> - ustawienia związane z wbudowaną w Pająka obsługą kanałów najnowszych wiadomośći (RSS).
 </ul>
@@ -67,7 +67,7 @@ Dostępne są następujące grupy ustawień w ramach tego okna:
 <ul>
 	<li><a href="settings.php#settingslist">Główne ustawienia</a>
 	<li><a href="network_publishing_general.php">Publikowanie w Pająku</a>
-	<li><a href="service_tool_synchronization.php">Synchronizacja serwisów</a>
+	<li><a href="service_tool_synchronization.php">Synchronizacja projektów</a>
 	<li><a href="main_tabs_myftpservers.php">Wbudowany klient FTP</a>
 </ul>
 </td>

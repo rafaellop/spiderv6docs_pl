@@ -64,7 +64,7 @@ Nazwa pliku dodatkowych informacji tworzona jest z nazwy oryginalnego dokumentu 
 
 <h2>Szybkie usuwanie plików ADD</h2>
 
-<p>Z czasem pliki dodatkowych informacji o dokumencie w danym serwisie mogę przestać być potrzebne (np. po zakończeniu prac). Aby je wszystkie szybko usunąć skorzystaj z polecenia w menu <a href="main_menu_services_properties.php">Serwisy / Własności serwisu / Oczyszczanie serwisu</a>.</p>
+<p>Z czasem pliki dodatkowych informacji o dokumencie w danym projekcie mogę przestać być potrzebne (np. po zakończeniu prac). Aby je wszystkie szybko usunąć skorzystaj z polecenia w menu <a href="main_menu_services_properties.php">Projekty / Własności projektu / Oczyszczanie projektu</a>.</p>
 
 
 

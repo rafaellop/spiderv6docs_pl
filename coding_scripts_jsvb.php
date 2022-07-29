@@ -37,7 +37,7 @@
 
 <!-- treść pomocy -->
 
-<p>Pająk wspomaga w znacznym stopniu tworzenie stron i całych serwisów obsługiwanych za pomocą skryptów client-side (wykonywanych przez przeglądarkę internetową w celu uzyskania różnych efektów). Współczesne przeglądarki internetowe obsługują przede wszystkim język JavaScript. Dodatkowo przeglądarka InternetExplorer obsługuje język VBScript.</p>
+<p>Pająk wspomaga w znacznym stopniu tworzenie stron i całych projektów obsługiwanych za pomocą skryptów client-side (wykonywanych przez przeglądarkę internetową w celu uzyskania różnych efektów). Współczesne przeglądarki internetowe obsługują przede wszystkim język JavaScript. Dodatkowo przeglądarka InternetExplorer obsługuje język VBScript.</p>
 
 <p>Na wspomaganie JavaScript i VBScript składa się kilka różnych narzędzi Pająka:
 
@@ -46,7 +46,7 @@
 	<li><a href="coding_scripts_jsvb_codeinsight.php">Dynamiczny kod</a></li>
 	<li><a href="main_tabs_navigator.php#js">Nawigator JavaScript</a> i <a href="main_tabs_navigator.php#vbs">Nawigator VBScript</a></li>
 	<li><a href="coding_scripts_jsvb_languages.php">Języki programowania - drzewka definicji funkcji dla JavaScript i VBScript</a></li>
-	<li><a href="coding_scripts_jsvb_macrocodes.php">Makrokody - szablony kodu JavaScript i VBScript</a></li>
+	<li><a href="coding_scripts_jsvb_macrocodes.php">Szablony - szablony kodu JavaScript i VBScript</a></li>
 	<li><a href="coding_scripts_jsvb_formatting.php">Formatowanie kodu źródłowego JavaScript</a></li>
 </ul></p>
 
@@ -67,7 +67,7 @@
 	<li><a href="main_editor_codeinsight.php">Dynamiczny kod</a></li>
 	<li><a href="main_tabs_navigator.php">Zakładka "Nawigator"</a></li>
 	<li><a href="main_tabs_languages.php">Zakładka "Języki programowania"</a></li>
-	<li><a href="main_tabs_macrocodes.php">Zakładka "Makrokody"</a></li>
+	<li><a href="main_tabs_macrocodes.php">Zakładka "Szablony"</a></li>
 	<li><a href="settings_codeinsight.php">Ustawienia programu - Ułatwienia, dynamiczne atrybuty, inne</a> - <a href="settings_codeinsight_scripts.php">Dynamiczny kod w JavaScript i VBScript</a>
 	<li><a href="formatter_general.php">Formatowanie kodu źródłowego</a> - <a href="formatter_javascript.php">Ustawienia dla JavaScript</a></li>
 </ul>

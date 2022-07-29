@@ -13,7 +13,7 @@
 </head>
 
 <!-- nazwa strony pomocy -->
-<title>Edytor makrokodów - ustawienia makrokodu</title>
+<title>Edytor szablonów - ustawienia szablonu</title>
 
 <body>
 
@@ -33,24 +33,24 @@
 <td>
 
 <!-- nagłowek głowny tematu -->
-<h1>Edytor makrokodów - ustawienia makrokodu</h1>
+<h1>Edytor szablonów - ustawienia szablonu</h1>
 
 
 
 
-<p><b>Kategoria makrokodu</b><br />
-Pozwala na wybór kategorii, w której umieszczony zostanie aktualnie edytowany makrokod. Domyślnie wskazuje na kategorię wybraną w chwili uruchomienia edytora.</p>
+<p><b>Kategoria szablonu</b><br />
+Pozwala na wybór kategorii, w której umieszczony zostanie aktualnie edytowany szablon. Domyślnie wskazuje na kategorię wybraną w chwili uruchomienia edytora.</p>
 
 <p><b>Nazwa</b><br />
-W tym polu wpisz nazwę makrokodu.</p>
+W tym polu wpisz nazwę szablonu.</p>
 
-<p><b>Typ makrokodu</b><br />
-Pozwala na wybór typu makrokodu (domyślnie "Po prostu makrokod"). Ustawienie to ma wpływ na sposób wstawiania i podglądu makrokodu (zdefiniowany w oknie "Ustawienia programu"). Określa również opis pod małym okienkiem podglądu, co pozwala użytkownikowi zorientować się co danym makrokod zawiera.</p> 
+<p><b>Typ szablonu</b><br />
+Pozwala na wybór typu szablonu (domyślnie "Po prostu szablon"). Ustawienie to ma wpływ na sposób wstawiania i podglądu szablonu (zdefiniowany w oknie "Ustawienia programu"). Określa również opis pod małym okienkiem podglądu, co pozwala użytkownikowi zorientować się co danym szablon zawiera.</p> 
 
 <p>Dostępne są następujące typy:</p>
 
 <ul>
-	<li><b>Po prostu makrokod</b> - zwykły makrokod o niezdefiniowanym typie.</li>
+	<li><b>Po prostu szablon</b> - zwykły szablon o niezdefiniowanym typie.</li>
 	<li><b>Skrypt JavaScript</b> - zawiera skrypt w języku JavaScript</li>
 	<li><b>Skrypt JScript</b> - zawiera skrypt w języku JScript</li>
 	<li><b>Skrypt VBScript</b> - zawiera skrypt w języku VBScript</li>
@@ -58,12 +58,12 @@ Pozwala na wybór typu makrokodu (domyślnie "Po prostu makrokod"). Ustawienie t
 	<li><b>Skrypt Perl</b> - zawiera skrypt w języku Perl</li>
 	<li><b>Obrazek</b> - zawiera kod służący do wstawienia obrazka</li>
 	<li><b>Obiekt</b> - zawiera kod obiektu</li>
-	<li><b>Szablon dokumentu</b> - zawiera szablon dokumentu. Domyślnie użycie makrokodu tego typu powoduje automatyczne utworzenie nowego dokumentu (można to zmienić w oknie <a href="settings_macrocodes.php">Ustawienia makrokodów</a>).</li>
+	<li><b>Szablon dokumentu</b> - zawiera szablon dokumentu. Domyślnie użycie szablonu tego typu powoduje automatyczne utworzenie nowego dokumentu (można to zmienić w oknie <a href="settings_macrocodes.php">Ustawienia szablonów</a>).</li>
 	<li><b>Znak specjalny</b> - zawiera znak specjalny, np. encję dla liter alfabetu greckiego itp.</li>
 </ul>
 
 <p><b>Skrót klawiszowy</b><br />
-Umożliwia wybór skrótu klawiszowego dla danego makrokodu. Można wybrać kombinację klawiszy Shift, Ctrl, Alt i jednego z pozostałych klawiszy alfanumerycznych i funkcyjnych.</p>
+Umożliwia wybór skrótu klawiszowego dla danego szablonu. Można wybrać kombinację klawiszy Shift, Ctrl, Alt i jednego z pozostałych klawiszy alfanumerycznych i funkcyjnych.</p>
 
 </td>
 </tr>
@@ -75,10 +75,10 @@ Umożliwia wybór skrótu klawiszowego dla danego makrokodu. Można wybrać komb
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="settings_macrocodes.php">Ustawienia programu - Makrokody.</a>
-	<li><a href="macrocodes_editor.php">Edytor makrokodów - wstęp</a>
-	<li><a href="main_tabs_macrocodes.php">Zakładka Makrokody</a>
-	<li><a href="macrocodes.php">Makrokody - ogólnie</a>
+	<li><a href="settings_macrocodes.php">Ustawienia programu - Szablony.</a>
+	<li><a href="macrocodes_editor.php">Edytor szablonów - wstęp</a>
+	<li><a href="main_tabs_macrocodes.php">Zakładka Szablony</a>
+	<li><a href="macrocodes.php">Szablony - ogólnie</a>
 </ul>
 </td>
 </tr>

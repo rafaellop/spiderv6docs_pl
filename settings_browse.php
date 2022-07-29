@@ -58,8 +58,8 @@ Zaznacz tę opcję, aby przełączać się i odświeżać podgląd przy kliknię
 Zaznacz tę opcję, aby włączyć wyświetlanie ostrzeżenia przed podglądem niezapisanego jeszcze ani raz dokumentu. Niezapisany dokument nie posiada ustalonej ścieżki na dysku i dlatego osadzone w nim pliki (np. graficzne) mogą nie być prawidłowo wyświetlane.
 
 
-<p><b>Zmieniaj mapowania przy przełączaniu serwisów</b><br>
-Zaznacz tę opcję, aby program zmieniał aktywne mapowania folderów na adresy URL w momencie przełączania między serwisami.
+<p><b>Zmieniaj mapowania przy przełączaniu projektów</b><br>
+Zaznacz tę opcję, aby program zmieniał aktywne mapowania folderów na adresy URL w momencie przełączania między projektami.
 
 <h2>Dynamiczny podgląd dokumentu</h2>
 

@@ -69,7 +69,7 @@ Kliknij, aby uruchomić narzędzie do wstawiania komentarzy. Narzędzie automaty
 Uruchamia narzędzie do wyszukiwania w aktualnie otwartym dokumencie. Standardowy skrót klawiszowy Ctrl+F.</p>
 
 <p><a href="find_ext.php"> Rozszerzone wyszukiwanie i zamiana</a><br />
-Uruchamia najbardziej rozbudowane narzędzie Pająka służące do wyszukiwania i zamiany. Wykorzystując "Rozszerzone wyszukiwanie i zamianę" możesz wyszukiwać i zamieniać tekst w aktualnym dokumencie, wszystkich otwartych, we wszystkich lub określonych dokumentach Serwisów lub wybranych folderów, zmieniać w nich kodowanie znaków, a także sprawdzać poprawność pisowni itd.</p>
+Uruchamia najbardziej rozbudowane narzędzie Pająka służące do wyszukiwania i zamiany. Wykorzystując "Rozszerzone wyszukiwanie i zamianę" możesz wyszukiwać i zamieniać tekst w aktualnym dokumencie, wszystkich otwartych, we wszystkich lub określonych dokumentach Projektów lub wybranych folderów, zmieniać w nich kodowanie znaków, a także sprawdzać poprawność pisowni itd.</p>
 
 <p><b><a href="find_text.php#goto">Idź do...</a></b><br />
 Uruchamia narzędzie pozwalające wybrać linię, zakładkę lub inne miejsce, do którego chcesz przejść, do której chcesz przejść(domyślny skrót <tt>Ctrl+G</tt>).

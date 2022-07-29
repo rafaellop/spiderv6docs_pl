@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 
 <meta name="Author" content="Cream Software">
-<meta name="Authoring_tool" content="Pajak V6" />
+<meta name="Generator" content="Pajak V6 (6.1.0.0)">
 
 <!-- nazwa strony pomocy -->
 <title>Wspomaganie dla PHP - Mapowanie ścieżki do pliku na adres URL</title>
@@ -19,7 +19,7 @@
 <!-- topmenu start -->
 <? include "include/topmenu.html"; ?>
 <!-- topmenu end -->
-	
+  
 <div class="container-fluid">
 
 <!-- google search start -->
@@ -39,27 +39,27 @@
 <!-- treść pomocy -->
 
 
-<p>Aby móc zobaczyć efekty działania skryptu PHP musi on zostać wykonany przez interpreter PHP. W tym celu należy przeglądać taki skrypt nie bezpośrednio odczytując go z twardego dysku, ale jako stronę wysyłaną przez serwer. Dlatego trzeba ustawić mapowanie ścieżki do pliku na adres serwera. Możesz to zrobić w oknie ustawień serwisu (dla każdego serwisu trzeba ustawić osobne mapowanie). </p>
+<p>Aby móc zobaczyć efekty działania skryptu PHP musi on zostać wykonany przez interpreter PHP. W tym celu należy przeglądać taki skrypt nie bezpośrednio odczytując go z twardego dysku, ale jako stronę wysyłaną przez serwer. Dlatego trzeba ustawić mapowanie ścieżki do pliku na adres serwera. Możesz to zrobić w oknie ustawień projektu (dla każdego projektu trzeba ustawić osobne mapowanie). </p>
 
-<p>Pamiętaj, że aby obejrzeć stronę, musisz mieć uruchomiony serwer <tt>http</tt>. Najpopularniejszym obecnie takim serwerem jest Apache (<a href="https://www.apache.org" target="_blank">www.apache.org</a>). Serwer ten musi udostępniać dokumenty Twojego serwisu.</p>
+<p>Pamiętaj, że aby obejrzeć stronę, musisz mieć uruchomiony serwer <tt>http</tt>. Najpopularniejszym obecnie takim serwerem jest Apache (<a href="https://www.apache.org" target="_blank">www.apache.org</a>). Serwer ten musi udostępniać dokumenty Twojego projektu.</p>
 
-<p>Możliwe jest ustawienie większej mapowań dla jednego serwisu. Jest to przydatne w sytuacji, gdy elementy serwisu dostępne są nie pod jednym, ale pod większą ilością adresów, np. w poddomenach itp.</p>
+<p>Możliwe jest ustawienie większej mapowań dla jednego projektu. Jest to przydatne w sytuacji, gdy elementy projektu dostępne są nie pod jednym, ale pod większą ilością adresów, np. w poddomenach itp.</p>
 
 
 <p><b>Przykładowe mapowanie</b></p>
 
-<p>Załóżmy, że Twój serwis umieszczony jest w folderze:<br />
-<tt>D:\moje_serwisy\nazwa_serwisu1\</tt></p>
+<p>Załóżmy, że Twój projekt umieszczony jest w folderze:<br />
+<tt>D:\moje_projekty\nazwa_projektu1\</tt></p>
 
-<p>Serwer udostępnia dokumenty ego serwisu pod adresem:<br />
-<tt>https://127.0.0.1/nazwa_serwisu1</tt></p>
+<p>Serwer udostępnia dokumenty ego projektu pod adresem:<br />
+<tt>https://127.0.0.1/nazwa_projektu1</tt></p>
 
-<p>Aby móc przeglądać wykonane skrypty PHP z poziomu okna Pająka w oknie Przeglądanie, musisz ustawić <a href="service_properites.php#service_properties_mappings">mapowanie sieciowe w oknie Właściwości serwisu</a>. </p>
+<p>Aby móc przeglądać wykonane skrypty PHP z poziomu okna Pająka w oknie Przeglądanie, musisz ustawić <a href="service_properites.php#service_properties_mappings">mapowanie sieciowe w oknie Właściwości projektu</a>. </p>
 
 <ul>
-	<li><b>Nazwa:</b> <tt>Dowolna nazwa mapowania</tt><br /></li>
-	<li><b>Mapowany folder:</b> <tt>\</tt> <i>(ścieżka względna względem katalogu głównego serwisu)</i></li>
-	<li><b>Na adres URL:</b> <tt>https://127.0.0.1/nazwa_serwisu1</tt></li>
+  <li><b>Nazwa:</b> <tt>Dowolna nazwa mapowania</tt><br /></li>
+  <li><b>Mapowany folder:</b> <tt>\</tt> <i>(ścieżka względna względem katalogu głównego projektu)</i></li>
+  <li><b>Na adres URL:</b> <tt>https://127.0.0.1/nazwa_projektu1</tt></li>
 </ul>
 
 
@@ -68,22 +68,22 @@
 
 <p>Aby oglądać strony edytowane online, należy ustawić mapowanie ścieżki na serwerze na adres URL. Jest to konieczne, by Pająk wiedział pod jaki adres ma skierować żądanie wyświetlanie strony.</p>
 
-<p>Możliwe jest ustawienie większej mapowań dla jednego serwera. Jest to przydatne w sytuacji, gdy elementy serwisu dostępne są nie pod jednym, ale pod większą ilością adresów, np. w poddomenach itp.</p>
+<p>Możliwe jest ustawienie większej mapowań dla jednego serwera. Jest to przydatne w sytuacji, gdy elementy projektu dostępne są nie pod jednym, ale pod większą ilością adresów, np. w poddomenach itp.</p>
 
 <p><b>Przykładowe mapowanie</b></p>
 
-<p>Załóżmy, że Twój serwis umieszczony jest na serwerze w folderze:<br />
+<p>Załóżmy, że Twój projekt umieszczony jest na serwerze w folderze:<br />
 <tt>/www/public_html</tt></p>
 
-<p>Serwer udostępnia dokumenty ego serwisu pod adresem:<br />
+<p>Serwer udostępnia dokumenty ego projektu pod adresem:<br />
 <tt>https://moja_nazwa.pl/</tt></p>
 
 <p>W takim wypadku należy w oknie <a href="settings_network_ftpservers_add.php">Właściwości serwera FTP</a> w zakładce Ustawienia mapowania utworzyć mapowanie:</p>
 
 <ul>
-	<li><b>Nazwa:</b> <tt>Dowolna nazwa mapowania</tt><br /></li>
-	<li><b>Mapowany folder:</b> <tt>/www/public_html</tt></li>
-	<li><b>Na adres URL:</b> <tt>https://moja_nazwa.pl/</tt></li>
+  <li><b>Nazwa:</b> <tt>Dowolna nazwa mapowania</tt><br /></li>
+  <li><b>Mapowany folder:</b> <tt>/www/public_html</tt></li>
+  <li><b>Na adres URL:</b> <tt>https://moja_nazwa.pl/</tt></li>
 </ul>
 
 
@@ -98,9 +98,9 @@
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="coding_php.php">Wspomaganie dla PHP - ogólnie</a></li>
-	<li><a href="main_tabs_myftpservers.php">Zakładka "Moje serwery"</a>
-	<li><a href="network_opendoc_ftp.php">Edycja plików online</a>
+  <li><a href="coding_php.php">Wspomaganie dla PHP - ogólnie</a></li>
+  <li><a href="main_tabs_myftpservers.php">Zakładka "Moje serwery"</a>
+  <li><a href="network_opendoc_ftp.php">Edycja plików online</a>
 </ul>
 </td>
 </tr>

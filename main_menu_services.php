@@ -7,7 +7,7 @@
 <meta name="Authoring-tool" content="Pajak V6" />
 
 <!-- nazwa strony pomocy -->
-<title>Menu główne - Serwisy</title>
+<title>Menu główne - Projekty</title>
 
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha512-MoRNloxbStBcD8z3M/2BmnT+rg4IsMxPkXaGh2zD6LGNNFE80W3onsAhRcMAMrSoyWL9xD7Ert0men7vR8LUZg==" crossorigin="anonymous" />
@@ -32,54 +32,54 @@
 <td>
 
 <!-- nagłowek głowny tematu -->
-<h1>Menu główne - Serwisy</h1>
+<h1>Menu główne - Projekty</h1>
 
 <!-- Treść pomocy -->
 
-<p>Polecenia w tym menu służą do pracy z plikami i folderami znajdującymi się na dysku lokalnym. Za pomocą tego menu możesz również tworzyć <a href="services_general.php">serwisy</a> i przełączać się między nimi.</p>
+<p>Polecenia w tym menu służą do pracy z plikami i folderami znajdującymi się na dysku lokalnym. Za pomocą tego menu możesz również tworzyć <a href="services_general.php">projekty</a> i przełączać się między nimi.</p>
 
-<p>Polecenia i układ menu są identyczne, jak w zakładce <a href="main_tabs_myservices.php">Moje serwisy</a>. Dostępne są następujące polecenia:</p>
+<p>Polecenia i układ menu są identyczne, jak w zakładce <a href="main_tabs_myservices.php">Moje projekty</a>. Dostępne są następujące polecenia:</p>
 
 
 
-<p><b><a href="service_properites.php">Własności serwisu</a></b><br />
-Kliknij, aby otworzyć okno własności serwisu. Możesz również skorzystać z <a href="main_menu_services_properties.php">podmenu</a>, aby użyć dodatkowych opcji.
-
-<hr>
-
-<p><b>Nowy serwis</b><br />
-Kliknij, aby utworzyć nowy serwis.
-
-<p><b>Usuń serwis</b><br />
-Kliknij,aby usunąć bieżący serwis. Usunięcie serwisu spowoduje jedynie wykasowanie informacji o tym serwisie z Pająka. Żadne pliki nie będą usuwane z dysku twardego.
-
-<p><b>Zmień nazwę serwisu</b><br />
-Kliknij, aby zmienić nazwę bieżącego serwisu.
+<p><b><a href="service_properites.php">Własności projektu</a></b><br />
+Kliknij, aby otworzyć okno własności projektu. Możesz również skorzystać z <a href="main_menu_services_properties.php">podmenu</a>, aby użyć dodatkowych opcji.
 
 <hr>
 
-<p><b>Dodaj składnik do serwisu</b><br />
-Kliknij, aby wskazać i skopiować składnik (plik lub zawartość foldera) do bieżącego serwisu. Będziesz mógł wskazać miejsce w serwisie, do którego elementy mają zostać skopiowane.
+<p><b>Nowy projekt</b><br />
+Kliknij, aby utworzyć nowy projekt.
 
-<p><b>Usuń składnik serwisu</b><br />
-Kliknij, aby usunąć wskazany składnik (plik lub zawartość foldera) z bieżącego serwisu.<br /> UWAGA! Element ten zostanie usunięty z dysku i przeniesiony do Kosza. 
+<p><b>Usuń projekt</b><br />
+Kliknij,aby usunąć bieżący projekt. Usunięcie projektu spowoduje jedynie wykasowanie informacji o tym projekcie z Pająka. Żadne pliki nie będą usuwane z dysku twardego.
+
+<p><b>Zmień nazwę projektu</b><br />
+Kliknij, aby zmienić nazwę bieżącego projektu.
 
 <hr>
 
-<p><b><a href="service_restore.php">Przywracanie serwisu</a></b><br />
-Kliknij, aby uruchomić narzędzie Przywracania serwisu.
+<p><b>Dodaj składnik do projektu</b><br />
+Kliknij, aby wskazać i skopiować składnik (plik lub zawartość foldera) do bieżącego projektu. Będziesz mógł wskazać miejsce w projekcie, do którego elementy mają zostać skopiowane.
+
+<p><b>Usuń składnik projektu</b><br />
+Kliknij, aby usunąć wskazany składnik (plik lub zawartość foldera) z bieżącego projektu.<br /> UWAGA! Element ten zostanie usunięty z dysku i przeniesiony do Kosza. 
+
+<hr>
+
+<p><b><a href="service_restore.php">Przywracanie projektu</a></b><br />
+Kliknij, aby uruchomić narzędzie Przywracania projektu.
 
 
-<p><b><a href="services_general.php">Pomoc do serwisu</a></b><br />
-Kliknij, aby otworzyć pomoc do serwisów.
+<p><b><a href="services_general.php">Pomoc do projektu</a></b><br />
+Kliknij, aby otworzyć pomoc do projektów.
 
 <hr>
 
 <p><b>Rozwiń podfoldery</b><br />
-Kliknij, aby rozwinąć wszystkie podfoldery folderu zaznaczonego na drzewie w zakładce Moje Serwisy.
+Kliknij, aby rozwinąć wszystkie podfoldery folderu zaznaczonego na drzewie w zakładce Moje Projekty.
 
 <p><b>Zwiń podfoldery</b><br />
-Kliknij, aby zwinąć wszystkie podfoldery folderu zaznaczonego na drzewie w zakładce Moje Serwisy.
+Kliknij, aby zwinąć wszystkie podfoldery folderu zaznaczonego na drzewie w zakładce Moje Projekty.
 
 
 
@@ -93,7 +93,7 @@ Kliknij, aby zwinąć wszystkie podfoldery folderu zaznaczonego na drzewie w zak
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-   <li><a href="main_tabs_myservices.php">Zakładka Moje serwisy</a></li>
+   <li><a href="main_tabs_myservices.php">Zakładka Moje projekty</a></li>
    <li><a href="settings_toolbars.php">Ustawienia programu - Ustawienia pasków, menu i skrótów</a></li>
 </ul>
 </td>

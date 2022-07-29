@@ -7,7 +7,7 @@
 <meta name="Authoring-tool" content="Pajak V6" />
 
 <!-- nazwa strony pomocy -->
-<title>Zadania do wykonania w serwisie</title>
+<title>Zadania do wykonania w projekcie</title>
 
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha512-MoRNloxbStBcD8z3M/2BmnT+rg4IsMxPkXaGh2zD6LGNNFE80W3onsAhRcMAMrSoyWL9xD7Ert0men7vR8LUZg==" crossorigin="anonymous" />
@@ -32,19 +32,19 @@
 <td>
 
 <!-- nagłowek głowny tematu -->
-<h1>Zadania do wykonania w serwisie</h1>
+<h1>Zadania do wykonania w projekcie</h1>
 
 <!-- treść pomocy -->
 
-<p>Okno <b>Zadania do wykonania</b> w serwisie służy do przeglądania i tworzenia <a href="main_editor_todotasks.php">zadań</a> zdefiniowanych dla poszczególnych dokumentów w bieżącym <a href="services_general.php">serwisie</a>, jak i dla całego <a href="services_general.php">serwisu</a>. Za jego pomocą możesz również otwierać dokumenty i przechodzić do linii, w których zdefiniowano zadanie. Aby wyświetlić to okno skorzystaj z polecenia <b>Lista zadań do wykonania</b> w menu <a href="main_menu_services_properties.php">Serwisy / Własności serwisu</a>.</p>
+<p>Okno <b>Zadania do wykonania</b> w projekcie służy do przeglądania i tworzenia <a href="main_editor_todotasks.php">zadań</a> zdefiniowanych dla poszczególnych dokumentów w bieżącym <a href="services_general.php">projekcie</a>, jak i dla całego <a href="services_general.php">projektu</a>. Za jego pomocą możesz również otwierać dokumenty i przechodzić do linii, w których zdefiniowano zadanie. Aby wyświetlić to okno skorzystaj z polecenia <b>Lista zadań do wykonania</b> w menu <a href="main_menu_services_properties.php">Projekty / Własności projektu</a>.</p>
 
-<p>Zadania dla dokumentów i dla serwisu zostały umieszczone na dwóch osobnych zakładkach. Powyżej zakładek znajduje się pasek przycisków zawierający następujące polecenia: </p>
+<p>Zadania dla dokumentów i dla projektu zostały umieszczone na dwóch osobnych zakładkach. Powyżej zakładek znajduje się pasek przycisków zawierający następujące polecenia: </p>
 
 <p><b>Odświeżenie listy dokumentów</b><br />
-Kliknij, aby odświeżyć listę zadań ustawionych dla dokumentów serwisu.
+Kliknij, aby odświeżyć listę zadań ustawionych dla dokumentów projektu.
 
-<p><b>Dodanie nowego zadania do bieżącego dokumentu bądź serwisu</b><br />
-Kliknij, aby dodać nowe zadanie do listy. W zależności od aktywnej zakładki, zadanie zostanie przypisane do bieżącego dokumentu, bądź do serwisu.
+<p><b>Dodanie nowego zadania do bieżącego dokumentu bądź projektu</b><br />
+Kliknij, aby dodać nowe zadanie do listy. W zależności od aktywnej zakładki, zadanie zostanie przypisane do bieżącego dokumentu, bądź do projektu.
 
 <p><b>Usunięcie wybranego zadania</b><br />
 Kliknij, aby usunąć zadanie wskazane na liście (tej operacji nie można cofnąć!).
@@ -55,8 +55,8 @@ Kliknij, aby otworzyć okno służące do <a href="tool_docinfo_todo_add.php">tw
 <p><b>Przejście do wybranego zadania</b><br />
 Kliknij, aby przejść do wybranego zadania do wykonania. Po otwarciu dokumentu zostanie wyświetlone pytanie, czy chcesz obejrzeć listę zadań dla tego dokumentu.
 
-<p><b>Kopiuj wybrane zadanie do listy zadań w aktualnym serwisie</b><br />
-Kliknij, aby skopiować zadanie z dokumentu na listę zadań serwisu. Zadanie będzie nadal powiązane z dokumentem źródłowym, jednak nie będzie odsyłało do konkretnego miejsca (wiersza) w tym dokumencie.
+<p><b>Kopiuj wybrane zadanie do listy zadań w aktualnym projekcie</b><br />
+Kliknij, aby skopiować zadanie z dokumentu na listę zadań projektu. Zadanie będzie nadal powiązane z dokumentem źródłowym, jednak nie będzie odsyłało do konkretnego miejsca (wiersza) w tym dokumencie.
 
 
 <p>Cztery kolejne polecenia służą do sortowania zadań według:
@@ -98,7 +98,7 @@ Wyświetla to okno pomocy.</p>
 <h4>Pokrewne tematy</h4>
 <ul>
 	<li><a href="main_editor_todotasks.php">Zadania do wykonania - ogólnie</a>
-	<li><a href="services_general.php">Serwisy - ogólnie</a>
+	<li><a href="services_general.php">Projekty - ogólnie</a>
 </ul>
 </td>
 </tr>

@@ -36,18 +36,18 @@
 
 <p>Szybki podgląd, to narzędzie umożliwiające podgląd wielu różnych typów plików bezpośrednio z Pająka, np. obrazków, dokumentów HTML, plików tekstowych, animacji, etc.
 
-<p>Okno szybkiego podglądu uruchomisz z poziomu menu lub paska z przyciskami listy plików na zakładce <a href="main_tabs_myservices.php#myservices_menubuttons">Moje serwisy</a>. Polecenie to oznaczone jest za pomocą ikonki pokazanej powyżej.
+<p>Okno szybkiego podglądu uruchomisz z poziomu menu lub paska z przyciskami listy plików na zakładce <a href="main_tabs_myservices.php#myservices_menubuttons">Moje projekty</a>. Polecenie to oznaczone jest za pomocą ikonki pokazanej powyżej.
 
 <h2>Przeglądanie plików</h2>
 
-<p>Aby wykonać podgląd wybranego pliku wybierz go na liście plików zakładki <a href="main_tabs_myservices.php">Moje serwisy</a>, a następnie użyj polecenia Szybki podgląd. Otworzy się okienko, a w nim zobaczysz podgląd wybranego pliku. Na Szybkim podglądzie możesz przeglądać pliki dokumentów HTML zarówno jako kod źródłowy jak i podgląd w przeglądarce, arkusze stylów CSS (Pająk generuje i wyświetla dokument HTML pozwalający na podgląd formatowana), pliki graficzne (GIF, JPG, PNG), pliki tekstowe (txt, css), animacje AVI i SWF (Flash), dźwięki WAV i muzykę MID. 
+<p>Aby wykonać podgląd wybranego pliku wybierz go na liście plików zakładki <a href="main_tabs_myservices.php">Moje projekty</a>, a następnie użyj polecenia Szybki podgląd. Otworzy się okienko, a w nim zobaczysz podgląd wybranego pliku. Na Szybkim podglądzie możesz przeglądać pliki dokumentów HTML zarówno jako kod źródłowy jak i podgląd w przeglądarce, arkusze stylów CSS (Pająk generuje i wyświetla dokument HTML pozwalający na podgląd formatowana), pliki graficzne (GIF, JPG, PNG), pliki tekstowe (txt, css), animacje AVI i SWF (Flash), dźwięki WAV i muzykę MID. 
 
 <h2>Układ okienka</h2>
 
 <p>Okienko składa się z paska z przyciskami w górnej części oraz obszaru podglądu. 
 
 <p><b>Pasek przycisków</b><br>
-Na pasku przycisków znajdziesz polecenia pozwalające zarówno na nawigację po liście plików zakładki Moje serwisy (możesz też poruszać się po liście za pomocą klawiszy strzałek)jak i wstawianie przeglądanych mediów do tworzonych dokumentów HTML. Kolejne przyciski to:
+Na pasku przycisków znajdziesz polecenia pozwalające zarówno na nawigację po liście plików zakładki Moje projekty (możesz też poruszać się po liście za pomocą klawiszy strzałek)jak i wstawianie przeglądanych mediów do tworzonych dokumentów HTML. Kolejne przyciski to:
 
 <ul>
    <li><b>Ukrywaj podgląd gdy niepotrzebny</b> - pozwala na automatyczne zamykanie okna podglądu w sytuacji gdy opuszczono okno szybkiego podglądu</li>
@@ -82,7 +82,7 @@ Obszar podglądu po prostu pełni funkcję miejsca, w którym wyświetlane są p
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="main_tabs_myservices.php">Zakładka Moje serwisy</a></a>
+	<li><a href="main_tabs_myservices.php">Zakładka Moje projekty</a></a>
 	<li><a href="main_preview_general.php">Przeglądanie w Pająku</a></a>
 </ul>
 </td>

@@ -69,7 +69,7 @@ Tworzenie HTML Help w Pająku zostało maksymalnie uproszczone i sprowadzone do 
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-        <li><a href="tool_htmlhelp_compiler_services.php">HTML Help a serwisy w Pająku</a>
+        <li><a href="tool_htmlhelp_compiler_services.php">HTML Help a projekty w Pająku</a>
         <li><a href="tool_htmlhelp_hhp_editor.php">Edytor projektu HTML Help</a>
         <li><a href="tool_htmlhelp_hhc_editor.php">Edytor spisu treści HTML Help</a>
         <li><a href="tool_htmlhelp_hhk_editor.php">Edytor skorowidza (indeksu) HTML Help</a>

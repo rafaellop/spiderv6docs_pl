@@ -67,11 +67,11 @@ Kliknij, aby otworzyć okienko służące do przekazywania do kompilatora dodatk
 
 <hr />
 
-<p><b>HTML Help w bieżącym serwisie</b><br />
-Kliknij, aby skorzystać z szybkich opcji obsługi HTML Help. Podmenu to ma układ identyczny, jak menu <a href="main_menu_services_properties_htmlhelp.php">Serwisy/Własności serwisu/HTML Help</a>. Aby dowiedzieć się więcej na temat serwisów i ułatwień dla tworzenia HTML Help zajrzyj do rozdziału poświęconego wsparciu dla <a href="tool_htmlhelp_compiler_services.php">HTML Help i serwisów w Pająku</a>.
+<p><b>HTML Help w bieżącym projekcie</b><br />
+Kliknij, aby skorzystać z szybkich opcji obsługi HTML Help. Podmenu to ma układ identyczny, jak menu <a href="main_menu_services_properties_htmlhelp.php">Projekty/Własności projektu/HTML Help</a>. Aby dowiedzieć się więcej na temat projektów i ułatwień dla tworzenia HTML Help zajrzyj do rozdziału poświęconego wsparciu dla <a href="tool_htmlhelp_compiler_services.php">HTML Help i projektów w Pająku</a>.
 
-<p><b>Skompiluj szybko serwis do <a href="tool_htmlhelp_general.php">HTML Help</a></b><br />
-Kliknij, aby szybko skompilować serwis do pliku HTML Help.
+<p><b>Skompiluj szybko projekt do <a href="tool_htmlhelp_general.php">HTML Help</a></b><br />
+Kliknij, aby szybko skompilować projekt do pliku HTML Help.
 
 <hr />
 
@@ -92,7 +92,7 @@ Kliknij, aby uruchomić program MS HTML Help Workshop, z którego korzysta Pają
 <h4>Pokrewne tematy</h4>
 <ul>
         <li><a href="tool_htmlhelp_general.php">HTML Help - ogólne informacje</a></li>
-        <li><a href="tool_htmlhelp_compiler_services.php">HTML Help a serwisy</a></li>
+        <li><a href="tool_htmlhelp_compiler_services.php">HTML Help a projekty</a></li>
         <li><a href="settings_toolbars.php">Ustawienia programu - Ustawienia pasków, menu i skrótów</a></li>
 </ul>
 </td>

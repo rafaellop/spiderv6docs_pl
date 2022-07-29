@@ -13,7 +13,7 @@
 </head>
 
 <!-- nazwa strony pomocy -->
-<title>Edytor makrokodów - zakładka Bloki wykorzystywane w makrokodzie</title>
+<title>Edytor szablonów - zakładka Bloki wykorzystywane w szablonie</title>
 
 <body>
 
@@ -33,39 +33,39 @@
 <td>
 
 <!-- nagłowek głowny tematu -->
-<h1>Edytor makrokodów - zakładka Bloki wykorzystywane w makrokodzie</h1>
+<h1>Edytor szablonów - zakładka Bloki wykorzystywane w szablonie</h1>
 
 
 
 
 <!-- treść pomocy -->
 
-<p>Bloki zawierają fragmenty makrokodu, które mogą (ale nie muszą) zostać wykorzystane podczas wstawiania treści makrokodu do dokumentu. Pozwala to na tworzenie rozbudowanych makrokodów jak np. kompletna dokumenty HTML, w których można wybierać co ma zostać wstawione do dokumentu, a co nie. </p>
+<p>Bloki zawierają fragmenty szablonu, które mogą (ale nie muszą) zostać wykorzystane podczas wstawiania treści szablonu do dokumentu. Pozwala to na tworzenie rozbudowanych szablonów jak np. kompletna dokumenty HTML, w których można wybierać co ma zostać wstawione do dokumentu, a co nie. </p>
 
-<p>Przykładowo - podczas tworzenia makrokodu można wpisać w blokach znacznik IMG służący do osadzenia grafik w dokumencie HTML. Użytkownik korzystający z makrokodu będzie mógł zdecydować czy wstawić dany obrazek, czy nie (włączając lub wyłączając blok)</p>
+<p>Przykładowo - podczas tworzenia szablonu można wpisać w blokach znacznik IMG służący do osadzenia grafik w dokumencie HTML. Użytkownik korzystający z szablonu będzie mógł zdecydować czy wstawić dany obrazek, czy nie (włączając lub wyłączając blok)</p>
 
 
-<p>Zakładka Bloki wykorzystywane w makrokodzie zawiera listę bloków, które zostały utworzone. Do ich obsługi służy menu z prawej strony i pole wyboru przy nazwie bloku.</p>
+<p>Zakładka Bloki wykorzystywane w szablonie zawiera listę bloków, które zostały utworzone. Do ich obsługi służy menu z prawej strony i pole wyboru przy nazwie bloku.</p>
 
-<p>W blokach - podobne jak w lewej, środkowej i prawej stronie makrokodu - można używać zmiennych, a także wstawiać inne bloki. </p>
+<p>W blokach - podobne jak w lewej, środkowej i prawej stronie szablonu - można używać zmiennych, a także wstawiać inne bloki. </p>
 
-<p><b>Bloki makrokodów</b><br />
-Zawiera listę dostępnych bloków. Zaznacz, jeśli domyślnie podczas korzystania z makrokodu blok ma być użyty.</p>
+<p><b>Bloki szablonów</b><br />
+Zawiera listę dostępnych bloków. Zaznacz, jeśli domyślnie podczas korzystania z szablonu blok ma być użyty.</p>
 
 <p><b>Dodanie nowego bloku</b><br />
-Kliknij, jeśli chcesz dodać nowy blok. Do tworzenia nowych i edycji istniejących bloków służy okno <a href="macrocodes_editor_addblock.php">Edycja bloku makrokodu</a>.</p>
+Kliknij, jeśli chcesz dodać nowy blok. Do tworzenia nowych i edycji istniejących bloków służy okno <a href="macrocodes_editor_addblock.php">Edycja bloku szablonu</a>.</p>
 
 <p><b>Zmiana nazwy wybranego bloku</b><br />
-Kliknij, jeśli chcesz zmienić nazwę bloku. Jeśli dany blok został użyty w treści makrokodu, jego nazwa zostanie automatycznie zmieniona we wszystkich symbolach wywołania bloku.</p>
+Kliknij, jeśli chcesz zmienić nazwę bloku. Jeśli dany blok został użyty w treści szablonu, jego nazwa zostanie automatycznie zmieniona we wszystkich symbolach wywołania bloku.</p>
 
 <p><b>Edycja wybranego bloku</b><br />
-Kliknij, jeśli chcesz edytować zawartość wybranego bloku. Do tworzenia nowych i edycji istniejących bloków służy okno <a href="macrocodes_editor_addblock.php">Edycja bloku makrokodu</a>.</p>
+Kliknij, jeśli chcesz edytować zawartość wybranego bloku. Do tworzenia nowych i edycji istniejących bloków służy okno <a href="macrocodes_editor_addblock.php">Edycja bloku szablonu</a>.</p>
 
 <p><b>Usunięcie wybranego bloku.</b><br />
-Kliknij, jeśli chcesz usunąć definicję wybranego bloku z makrokodu. Usunięcie definicji bloku nie usunie jego wywołań z treści makrokodu!</p>
+Kliknij, jeśli chcesz usunąć definicję wybranego bloku z szablonu. Usunięcie definicji bloku nie usunie jego wywołań z treści szablonu!</p>
 
 <p><b>Usunięcie wszystkich bloków</b><br />
-Kliknij, jeśli chcesz usunąć definicje wszystkich bloków z makrokodu. Usunięcie definicji bloków nie usunie ich wywołań z treści makrokodu!</p>
+Kliknij, jeśli chcesz usunąć definicje wszystkich bloków z szablonu. Usunięcie definicji bloków nie usunie ich wywołań z treści szablonu!</p>
 
 <p><b>Przenieś element w górę/Przenieś element w dół</b><br />
 Kliknij, aby przenieść blok w górę/w dół. </p>
@@ -80,12 +80,12 @@ Kliknij, aby przenieść blok w górę/w dół. </p>
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="macrocodes_editor.php">Edytor makrokodów - wstęp</a>
-	<li><a href="macrocodes_editor_addblock.php">Edytor makrokodów - Edycja bloku makrokodu</a>
-	<li><a href="macrocodes_editor_vars.php">Edytor makrokodów - Zmienne w makrokodzie</a>
-	<li><a href="settings_macrocodes.php">Ustawienia programu - Makrokody</a>
-	<li><a href="main_tabs_macrocodes.php">Zakładka Makrokody</a>
-	<li><a href="macrocodes.php">Makrokody - ogólnie</a>
+	<li><a href="macrocodes_editor.php">Edytor szablonów - wstęp</a>
+	<li><a href="macrocodes_editor_addblock.php">Edytor szablonów - Edycja bloku szablonu</a>
+	<li><a href="macrocodes_editor_vars.php">Edytor szablonów - Zmienne w szablonie</a>
+	<li><a href="settings_macrocodes.php">Ustawienia programu - Szablony</a>
+	<li><a href="main_tabs_macrocodes.php">Zakładka Szablony</a>
+	<li><a href="macrocodes.php">Szablony - ogólnie</a>
 </ul>
 </td>
 </tr>

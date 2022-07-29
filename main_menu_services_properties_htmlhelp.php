@@ -7,7 +7,7 @@
 <meta name="Authoring-tool" content="Pajak V6" />
 
 <!-- nazwa strony pomocy -->
-<title>Menu główne - Serwisy/Własności serwisu/HTML Help</title>
+<title>Menu główne - Projekty/Własności projektu/HTML Help</title>
 
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha512-MoRNloxbStBcD8z3M/2BmnT+rg4IsMxPkXaGh2zD6LGNNFE80W3onsAhRcMAMrSoyWL9xD7Ert0men7vR8LUZg==" crossorigin="anonymous" />
@@ -32,13 +32,13 @@
 <td>
 
 <!-- nagłowek głowny tematu -->
-<h1>Menu główne - Serwisy/Własności serwisu/HTML Help</h1>
+<h1>Menu główne - Projekty/Własności projektu/HTML Help</h1>
 
 
 
 <!-- Treść pomocy -->
 
-<p>Polecenia w tym menu służą do szybkiej obsługi HTML Help kompilowanego na podstawie bieżącego serwisu. Menu to dostępne jest jedynie w przypadku, gdy we właściwościach bieżącego serwisu zaznaczona jest opcja, iż <a href="service_properites.php#htmlhelp">jest on jednocześnie projektem HTML Help</a>. Dostępne są następujące polecenia:</p>
+<p>Polecenia w tym menu służą do szybkiej obsługi HTML Help kompilowanego na podstawie bieżącego projektu. Menu to dostępne jest jedynie w przypadku, gdy we właściwościach bieżącego projektu zaznaczona jest opcja, iż <a href="service_properites.php#htmlhelp">jest on jednocześnie projektem HTML Help</a>. Dostępne są następujące polecenia:</p>
 
 <p><b>Skompiluj projekt</b><br />
 Kliknij, aby skompilować <a href="tool_htmlhelp_general.php">projekt HTML Help</a> na podstawie przygotowanych wcześniej ustawień.
@@ -70,9 +70,9 @@ Kliknij, aby uruchomić program MS HTML Help Workshop, z którego korzysta Pają
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-   <li><a href="main_menu_services.php">Menu Serwisy</a></li>
-   <li><a href="main_menu_services_properties.php">Menu Serwisy / Własności serwisu</a></li>
-   <li><a href="main_tabs_myservices.php">Zakładka Moje serwisy</a></li>
+   <li><a href="main_menu_services.php">Menu Projekty</a></li>
+   <li><a href="main_menu_services_properties.php">Menu Projekty / Własności projektu</a></li>
+   <li><a href="main_tabs_myservices.php">Zakładka Moje projekty</a></li>
    <li><a href="main_menu_htmlhelp.php">Menu HTML Help</a></li>
    <li><a href="toolbars_htmlhelp.php">Pasek narzędzi HTML Help</a></li>
    <li><a href="settings_toolbars.php">Ustawienia programu - Ustawienia pasków, menu i skrótów</a></li>

@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 
 <meta name="Author" content="Cream Software">
-<meta name="Generator" content="Pajak V6 (6.0.1.1)">
+<meta name="Generator" content="Pajak V6 (6.1.0.0)">
 
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha512-MoRNloxbStBcD8z3M/2BmnT+rg4IsMxPkXaGh2zD6LGNNFE80W3onsAhRcMAMrSoyWL9xD7Ert0men7vR8LUZg==" crossorigin="anonymous" />
@@ -50,7 +50,7 @@
    <li><a href="coding_css_codeinsight.php">Dynamiczny kod</a></li>
    <li><a href="main_tabs_navigator.php#css">Nawigator CSS</a></li>
    <li><a href="coding_css_help.php">Pomoc kontekstowa dla CSS na dolnym panelu</a>
-   <li><a href="coding_css_macrocodes.php">Makrokody - szablony dokumentów wykorzystujące CSS</a></li>
+   <li><a href="coding_css_macrocodes.php">Szablony dokumentów wykorzystujące CSS</a></li>
    <li><a href="coding_css_formatting.php">Formatowanie kodu arkuszy stylów</a></li>
 </ul></p>
 
@@ -99,7 +99,7 @@ Kolor tekstu (w tym przykładzie bordowy) ustaw w kategorii <b>Kolory i tło</b>
 
 <p>Powyżej opisany został prosty (jednak chyba najczęściej stosowany) przykład wykorzystania arkuszy stylów CSS. Przeglądając zawartość listy własności, znajdziesz na niej o wiele więcej możliwości formatowania tekstu i innych elementów strony. Możesz wpływać na wygląd tabel, pasków przesuwania (obecnie tylko w Internet Explorerze), powiększenie, położenie i widoczność elementów, i wiele, wiele więcej. Możliwe jest np. wykorzystanie różnych stylów na ekranie i do wydruku.</p>
 
-<p>Wykorzystując języki skryptowe jednocześnie z językami HTML i CSS, otrzymasz nową technologię DHTML (Dynamic HTML), która oferuje prawie nieograniczoną swobodę w kreacji serwisu.</p>
+<p>Wykorzystując języki skryptowe jednocześnie z językami HTML i CSS, otrzymasz nową technologię DHTML (Dynamic HTML), która oferuje prawie nieograniczoną swobodę w kreacji projektu.</p>
 
 <p>Nazwy własności CSS w wielu przypadkach same tłumaczą swoje przeznaczenie. Jeśli jednak nie wiesz, do czego służy dana własność, przesuń kursor myszki nad nazwę danej własności i poczekaj chwilę - pojawi się podpowiedź w dymku.</p>
 
@@ -123,7 +123,7 @@ Kolor tekstu (w tym przykładzie bordowy) ustaw w kategorii <b>Kolory i tło</b>
    <li><a href="syntax.php">Kolorowanie składni w Pająku</a>
    <li><a href="main_editor_codeinsight.php">Dynamiczny kod</a></li>
    <li><a href="main_tabs_navigator.php">Zakładka "Nawigator"</a></li>
-   <li><a href="main_tabs_macrocodes.php">Zakładka "Makrokody"</a></li>
+   <li><a href="main_tabs_macrocodes.php">Zakładka "Szablony"</a></li>
    <li><a href="settings_codeinsight.php">Ustawienia programu - Ułatwienia, dynamiczne atrybuty, inne</a>
    <li><a href="formatter_general.php">Formatowanie kodu źródłowego</a> - <a href="formatter_stylesheets.php">Ustawienia dla CSS</a></li>
 </ul>

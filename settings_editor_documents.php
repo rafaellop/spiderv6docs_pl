@@ -62,8 +62,8 @@ Jeśli Pająk nie rozpoznał kodowania znaków narodowych, możliwe są dwa spos
 	<li><b>otwórz używając kodowania</b> - Zaznacz tę opcję, aby program próbował konwersji znaków narodowych, przyjmując za kodowanie wejściowe format wybrany z listy obok.</li>
 </ul>
 
-<p><b>Automatycznie zmień mapowanie jeśli dokument z podfolderu serwisu, dla którego przypisano mapowanie</b><br />
-Zaznaczenie tej opcji powoduje, że w sytuacji, gdy dla serwisu, z którego pochodzi otwierany dokument przypisane jest mapowanie dla katalogu, z którego odczytywany jest dokument, ustawiane jest mapowanie przypisane do tego katalogu.
+<p><b>Automatycznie zmień mapowanie jeśli dokument z podfolderu projektu, dla którego przypisano mapowanie</b><br />
+Zaznaczenie tej opcji powoduje, że w sytuacji, gdy dla projektu, z którego pochodzi otwierany dokument przypisane jest mapowanie dla katalogu, z którego odczytywany jest dokument, ustawiane jest mapowanie przypisane do tego katalogu.
 
 <h2>Zapisywanie dokumentów</h2>
 
@@ -141,7 +141,7 @@ Zaznacz tę opcję, aby program pamiętał użyty dla dokumentu schemat kolorowa
 Zaznacz tę opcję, aby program pamiętał pozycję kursora i zaznaczenie w dokumencie.
 
 <p><b>Pamiętaj imię i nazwisko autora</b><br>
-Zaznacz tę opcję, aby program pamiętał imię i nazwisko osoby, która jako ostatnia zapisywała dokument. Opcja przydatna w przypadku pracy grupowej nad serwisem..
+Zaznacz tę opcję, aby program pamiętał imię i nazwisko osoby, która jako ostatnia zapisywała dokument. Opcja przydatna w przypadku pracy grupowej nad projektem..
 
 </td>
 </tr>

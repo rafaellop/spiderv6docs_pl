@@ -291,7 +291,7 @@ Załóżmy, że w treści wielu dokumentów znajduje się m. in. tekst:
 &lt;a href="galeria_druga.php"&gt;Galeria druga&lt;/a&gt;
 &lt;a href="galeria_trzecia.php"&gt;Galeria trzecia&lt;/a&gt;
 &lt;a href="https://ksiega.gosci.pl/index.php"&gt;Księga gości&lt;/a&gt;</pre>
-<p>Jednak postanowiłeś przerobić cały serwis tak, by korzystał z PHP i należy poprawić wszystkie odsyłacze. Na pierwszy rzut oka najprościej byłoby po prostu zmienić wszędzie ciąg <tt>.html</tt> na <tt>.php</tt>. Jednak to nie jest dobry pomysł, gdyż zamienione zostanie również rozszerzenie w odsyłaczy do księgi gości. Dlatego należy skorzystać z możliwości wyrażeń regularnych w narzędziu <a href="find_ext.php">Rozszerzonego wyszukiwania i zamiany</a>. </p>
+<p>Jednak postanowiłeś przerobić cały projekt tak, by korzystał z PHP i należy poprawić wszystkie odsyłacze. Na pierwszy rzut oka najprościej byłoby po prostu zmienić wszędzie ciąg <tt>.html</tt> na <tt>.php</tt>. Jednak to nie jest dobry pomysł, gdyż zamienione zostanie również rozszerzenie w odsyłaczy do księgi gości. Dlatego należy skorzystać z możliwości wyrażeń regularnych w narzędziu <a href="find_ext.php">Rozszerzonego wyszukiwania i zamiany</a>. </p>
 <p><b>W polu '<b>Znajdź</b>' należy wprowadzić:</b></p>
 <pre>galeria_([a-z0-9]+){1}.html</pre>
 <p>Odszukane zostaną wszystkie ciągi zawierające '<tt>galeria_</tt>', dalej ciąg małych liter bądź cyfr (cały taki podciąg będzie traktowany jako jedno wystąpienie gdyż został ujęty w nawias, za którym postawiono <tt>{1}</tt>) i na końcu rozszerzenie <tt>.html</tt></p>

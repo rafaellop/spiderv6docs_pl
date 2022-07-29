@@ -13,7 +13,7 @@
 </head>
 
 <!-- nazwa strony pomocy -->
-<title>Edytor makrokodów - Edycja bloku makrokodu</title>
+<title>Edytor szablonów - Edycja bloku szablonu</title>
 
 <body>
 
@@ -33,13 +33,13 @@
 <td>
 
 <!-- nagłowek głowny tematu -->
-<h1>Edytor makrokodów - Edycja bloku makrokodu</h1>
+<h1>Edytor szablonów - Edycja bloku szablonu</h1>
 
 
 <!-- treść pomocy -->
 
-<p>Okno edycji bloku makrokodu umożliwia edycję tekstu umieszczonego w bloku, a także tworzenie i wstawianie zmiennych. </p>
-<p>Możliwe jest również zagnieżdżanie bloków, przy czym nie można zagnieździć bloku w samym sobie. Nie można w tym oknie tworzyć nowych bloków - bloki, którego wywołanie chcesz umieścić w treści edytowanego bloku,  musi już istnieć w makrokodzie.</p>
+<p>Okno edycji bloku szablonu umożliwia edycję tekstu umieszczonego w bloku, a także tworzenie i wstawianie zmiennych. </p>
+<p>Możliwe jest również zagnieżdżanie bloków, przy czym nie można zagnieździć bloku w samym sobie. Nie można w tym oknie tworzyć nowych bloków - bloki, którego wywołanie chcesz umieścić w treści edytowanego bloku,  musi już istnieć w szablonie.</p>
 
 <p><b>Nazwa</b><br />
 Podaj nazwę tworzonego bloku.</p>
@@ -48,10 +48,10 @@ Podaj nazwę tworzonego bloku.</p>
 Możesz wybrać z listy zmienną, której wywołanie chcesz umieścić w treści bloku.</p>
 
 <p><b>Dodanie nowej zmiennej</b><br />
-Kliknij aby utworzyć nową zmienną (tylko dodaje zmienną, ale nie powoduje automatycznego jej wstawienia w treść makrokodu). Do tworzenia nowych i edycji istniejących zmiennych służy okno <a href="macrocodes_editor_addvar.php">Edycja zmiennej makrokodu</a>.</p>
+Kliknij aby utworzyć nową zmienną (tylko dodaje zmienną, ale nie powoduje automatycznego jej wstawienia w treść szablonu). Do tworzenia nowych i edycji istniejących zmiennych służy okno <a href="macrocodes_editor_addvar.php">Edycja zmiennej szablonu</a>.</p>
 
 <p><b>Wstawienie wybranej zmiennej</b><br />
-Kliknij aby wstawić wywołanie zmiennej w treść makrokodu,. W chwili użycia makrokodu w miejsce wywołania podstawiona zostanie wartość zmiennej.</p>
+Kliknij aby wstawić wywołanie zmiennej w treść szablonu,. W chwili użycia szablonu w miejsce wywołania podstawiona zostanie wartość zmiennej.</p>
 
 <p><b>Bloki</b><br />
 Możesz wybrać z listy blok, którego wywołanie chcesz umieścić w treści edytowanego bloku.</p>
@@ -59,8 +59,8 @@ Możesz wybrać z listy blok, którego wywołanie chcesz umieścić w treści ed
 <p><b>Wstawienie wybranego bloku</b><br />
 Kliknij, aby wstawić w treści wywołanie bloku wybranego na liście.</p>
 
-<p><b>Treść bloku makrokodu</b><br />
-W oknie tekstowym wprowadź tekst, który będzie treścią bloku makrokodu.
+<p><b>Treść bloku szablonu</b><br />
+W oknie tekstowym wprowadź tekst, który będzie treścią bloku szablonu.
 </p>
 
 
@@ -74,12 +74,12 @@ W oknie tekstowym wprowadź tekst, który będzie treścią bloku makrokodu.
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="macrocodes_editor.php">Edytor makrokodów - wstęp</a>
-	<li><a href="macrocodes_editor_blocks.php">Edytor makrokodów - zakładka Bloki wykorzystywane w makrokodzie</a>
-   <li><a href="macrocodes_editor_vars.php">Edytor makrokodów - zakładka Zmienne w makrokodzie</a>
-	<li><a href="settings_macrocodes.php">Ustawienia programu - Makrokody</a>
-	<li><a href="main_tabs_macrocodes.php">Zakładka Makrokody</a>
-	<li><a href="macrocodes.php">Makrokody - ogólnie</a>
+	<li><a href="macrocodes_editor.php">Edytor szablonów - wstęp</a>
+	<li><a href="macrocodes_editor_blocks.php">Edytor szablonów - zakładka Bloki wykorzystywane w szablonie</a>
+   <li><a href="macrocodes_editor_vars.php">Edytor szablonów - zakładka Zmienne w szablonie</a>
+	<li><a href="settings_macrocodes.php">Ustawienia programu - Szablony</a>
+	<li><a href="main_tabs_macrocodes.php">Zakładka Szablony</a>
+	<li><a href="macrocodes.php">Szablony - ogólnie</a>
 </ul>
 </td>
 </tr>

@@ -40,7 +40,7 @@
 
 <p>Pająk posiada wbudowane narzędzia sprawdzania poprawności pisowni dokumentów. </p>
 
-<p>Korzystając z poleceń <a href="main_menu_main.php">Menu głównego</a> / <a href="main_menu_spelling.php">Pisownia</a> możesz uruchomić sprawdzanie pisowni zarówno dla bieżącego dokumentu, jak i - po uruchomieniu narzędzia <a href="find_ext.php">Rozszerzone wyszukiwanie i zamiana</a> - dla dokumentów całego serwisu i wybranych folderów.</p>
+<p>Korzystając z poleceń <a href="main_menu_main.php">Menu głównego</a> / <a href="main_menu_spelling.php">Pisownia</a> możesz uruchomić sprawdzanie pisowni zarówno dla bieżącego dokumentu, jak i - po uruchomieniu narzędzia <a href="find_ext.php">Rozszerzone wyszukiwanie i zamiana</a> - dla dokumentów całego projektu i wybranych folderów.</p>
 
 <p>Podczas pracy w edytorze, w <a href="main_editor.php">trybie edycji kodu źródłowego</a>, możesz włączyć podkreślanie błędów pisowni (poleceniem na <a href="toolbars_minitoolbar.php">mini pasku edytora</a>).</p>
 
@@ -76,7 +76,7 @@ Autokorekta umożliwia automatyczną poprawę błędnych słów już podczas wpi
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="down_integrity.php">Sprawdzanie spójności serwisu</a>
+	<li><a href="down_integrity.php">Sprawdzanie spójności projektu</a>
 	<li><a href="down_syntax_check.php">Sprawdzanie poprawności składni</a>
 	<li><a href="down_links_verify.php">Sprawdzanie poprawności odsyłaczy</a>
 </ul>

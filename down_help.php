@@ -75,28 +75,28 @@ Kliknij, aby otworzyć "Kurs WML" autorstwa Tomasza Libery.</p>
 <hr />
 
 <p><b>Specyfikacja HTML 5</b><br />
-Kliknij, aby otworzyć Specyfikację HTML 5. Strona jest kopią zawartości <a href="https://www.w3.org/" target="_blank">serwisu internetowego W3C</a> (w całości w języku angielskim).</p>
+Kliknij, aby otworzyć Specyfikację HTML 5. Strona jest kopią zawartości <a href="https://www.w3.org/" target="_blank">projektu internetowego W3C</a> (w całości w języku angielskim).</p>
 
 <p><b>Specyfikacja HTML 4.01</b><br />
-Kliknij, aby otworzyć Specyfikację HTML 4.01. Strona jest kopią zawartości <a href="https://www.w3.org/" target="_blank">serwisu internetowego W3C</a> (w całości w języku angielskim).</p>
+Kliknij, aby otworzyć Specyfikację HTML 4.01. Strona jest kopią zawartości <a href="https://www.w3.org/" target="_blank">projektu internetowego W3C</a> (w całości w języku angielskim).</p>
 
 <p><b>Specyfikacja CSS</b><br />
-Kliknij, aby otworzyć Specyfikację CSS. Strona jest kopią zawartości <a href="https://www.w3.org/" target="_blank">serwisu internetowego W3C</a> (w całości w języku angielskim).</p>
+Kliknij, aby otworzyć Specyfikację CSS. Strona jest kopią zawartości <a href="https://www.w3.org/" target="_blank">projektu internetowego W3C</a> (w całości w języku angielskim).</p>
 
 <p><b>Podręcznik PHP</b><br />
 Kliknij, aby otworzyć Podręcznik PHP. Strona jest częściowo przetłumaczonym na język polski oryginalnym manualem PHP dostepnym na stronie <a href="https://pl.php.net/manual/pl/" target="_blank">https://pl.php.net/manual/pl/</a></p>
 
 <p><b>Specyfikacja RSS 2.0</b><br />
-Kliknij, aby otworzyć Specyfikację RSS 2.0. Strona jest kopią zawartości <a href="https://blogs.law.harvard.edu/tech/rss" target="_blank">tego serwisu internetowego</a> (w całości w języku angielskim).</p>
+Kliknij, aby otworzyć Specyfikację RSS 2.0. Strona jest kopią zawartości <a href="https://blogs.law.harvard.edu/tech/rss" target="_blank">tego projektu internetowego</a> (w całości w języku angielskim).</p>
 
 <p><b>Specyfikacja ATOM 1.0</b><br />
-Kliknij, aby otworzyć Specyfikację ATOM 1.0. Strona jest kopią zawartości <a href="https://atomenabled.org/" target="_blank">tego serwisu internetowego</a> (w całości w języku angielskim).</p>
+Kliknij, aby otworzyć Specyfikację ATOM 1.0. Strona jest kopią zawartości <a href="https://atomenabled.org/" target="_blank">tego projektu internetowego</a> (w całości w języku angielskim).</p>
 
 <p><b>Specyfikacja P3P</b><br />
-Kliknij, aby otworzyć Specyfikację P3P 1.0. Strona jest kopią zawartości <a href="https://www.w3.org/P3P/" target="_blank">serwisu internetowego W3C</a> (w całości w języku angielskim).</p>
+Kliknij, aby otworzyć Specyfikację P3P 1.0. Strona jest kopią zawartości <a href="https://www.w3.org/P3P/" target="_blank">projektu internetowego W3C</a> (w całości w języku angielskim).</p>
 
 <p><b>Specyfikacja MathML 2.0</b><br />
-Kliknij, aby otworzyć Specyfikację MathML 2.0. Strona jest kopią zawartości <a href="https://www.w3.org/" target="_blank">serwisu internetowego W3C</a> (w całości w języku angielskim).</p>
+Kliknij, aby otworzyć Specyfikację MathML 2.0. Strona jest kopią zawartości <a href="https://www.w3.org/" target="_blank">projektu internetowego W3C</a> (w całości w języku angielskim).</p>
 
 
 

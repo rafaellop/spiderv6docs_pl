@@ -36,24 +36,24 @@
 
 <!-- treść pomocy -->
 
-<p>Zadania do wykonania służą zachowywania dodatkowych informacji na temat serwisu bądź dokumentu. Istnieją dwa typy zadań: 
+<p>Zadania do wykonania służą zachowywania dodatkowych informacji na temat projektu bądź dokumentu. Istnieją dwa typy zadań: 
 <ul>
-        <li><b>Przypisane do serwisu</b> - są to zadania ogólne, jakie możesz ustawić dla całego <a href="services_general.php">serwisu</a> (np. w celu sporządzenia notatki typu 'co jeszcze chcę tu zrobić')
+        <li><b>Przypisane do projektu</b> - są to zadania ogólne, jakie możesz ustawić dla całego <a href="services_general.php">projektu</a> (np. w celu sporządzenia notatki typu 'co jeszcze chcę tu zrobić')
         <li><b>Przypisane do dokumentu</b> - przypisane są do miejsca, w którym zostały ustawione w danym dokumencie. Jeśli powyżej linii, w dla której ustawiłeś zadanie, wstawisz dodatkowe linie, zadanie przesunie się o tyle samo linii w dół tak, by cały czas znajdowało się w tym samym logicznym miejscu kodu.
 </ul>
 
 <p>W odróżnieniu od <a href="main_editor_bookmarks.php">zakładek</a>, które służą raczej do podręcznego oznaczania miejsc w dokumencie, zadania do wykonania są znacznie bardziej rozbudowane.</p>
 
-<p>Zadania są szczególnie przydatne podczas pracy grupowej nad serwisem. Przy ich pomocy możesz przekazywać współtwórcom projektu wskazówki, oznaczać miejsca, na które trzeba szczególnie uważać itp. </p>
+<p>Zadania są szczególnie przydatne podczas pracy grupowej nad projektem. Przy ich pomocy możesz przekazywać współtwórcom projektu wskazówki, oznaczać miejsca, na które trzeba szczególnie uważać itp. </p>
 
 
 
 
 
 
-<h2>Jak ustawić i odczytać zadanie do wykonania dla całego serwisu?</h2>
+<h2>Jak ustawić i odczytać zadanie do wykonania dla całego projektu?</h2>
 
-<p>Często zdarza się, że chcesz coś zapisać sobie na potem, ale ta informacja nie dotyczy konkretnego dokumentu, lecz jest bardziej ogólna. W takiej sytuacji możesz utworzyć zadanie dla całego serwisu. Możesz to zrobić za pomocą poleceń w oknie <a href="service_todotasks.php">Zadania do wykonania w serwisie</a> - otworzysz je poleceniem <b>Lista zadań do wykonania</b> znajdującym się w <a href="main_menu_services_properties.php">Menu głównym / Serwisy / Własności serwisu</a>, bądź w menu pod przyciskiem <b>Własności serwisu</b> na zakładce <a href="main_tabs_myservices.php">Moje serwisy</a>. W tym samym oknie możesz przeglądać zadania zdefiniowane dla serwisu.
+<p>Często zdarza się, że chcesz coś zapisać sobie na potem, ale ta informacja nie dotyczy konkretnego dokumentu, lecz jest bardziej ogólna. W takiej sytuacji możesz utworzyć zadanie dla całego projektu. Możesz to zrobić za pomocą poleceń w oknie <a href="service_todotasks.php">Zadania do wykonania w projekcie</a> - otworzysz je poleceniem <b>Lista zadań do wykonania</b> znajdującym się w <a href="main_menu_services_properties.php">Menu głównym / Projekty / Własności projektu</a>, bądź w menu pod przyciskiem <b>Własności projektu</b> na zakładce <a href="main_tabs_myservices.php">Moje projekty</a>. W tym samym oknie możesz przeglądać zadania zdefiniowane dla projektu.
 
 
 
@@ -109,7 +109,7 @@
 	<li>korzystając z okna <a href="find_text.php#goto">Wyszukiwanie, zamiana, przenoszenie do wybranych elementów dokumentu</a> (standardowy skrót <tt>Ctrl+G</tt>)</li>
 </ul>
 
-<p>Ponadto, korzystając z okna <a href="service_todotasks.php">Zadania do wykonania w serwisie</a>, możesz jest przeglądać, usuwać i przechodzić do zadań ustawionych dla wszystkich dokumentów bieżącego serwisu. </p>
+<p>Ponadto, korzystając z okna <a href="service_todotasks.php">Zadania do wykonania w projekcie</a>, możesz jest przeglądać, usuwać i przechodzić do zadań ustawionych dla wszystkich dokumentów bieżącego projektu. </p>
 
 
 

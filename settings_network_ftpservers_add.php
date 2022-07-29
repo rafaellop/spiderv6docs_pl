@@ -42,7 +42,7 @@
 <br><br>
 <h2>Właściwości serwera</h2>
 
-<p>Na zakładce Właściwości serwera definiujesz parametry serwera FTP, do którego chcesz mieć dostęp w Pająku. Serwery FTP to zazwyczaj serwery, na które wgrywasz pliki swojego serwisu internetowego, aby udostępnić je w sieci.
+<p>Na zakładce Właściwości serwera definiujesz parametry serwera FTP, do którego chcesz mieć dostęp w Pająku. Serwery FTP to zazwyczaj serwery, na które wgrywasz pliki swojego projektu internetowego, aby udostępnić je w sieci.
 
 <p><b>Dane potrzebne do skonfigurowania serwera na tej zakładce uzyskasz od usługodawcy internetowego, z którego usług korzystasz. Są one również podawane przy zakładaniu konta na stronę WWW.</b>
 
@@ -86,7 +86,7 @@ Zaznacz, jeśli Twój serwer wymaga trybu binarnego do pobierania zawartości ka
 
 
 <p><b>Rozróżniaj wielkość liter na serwerze</b><br>
-Zaznacz ten przełącznik jeśli chcesz, aby podczas przesyłania plików na serwer i pobierania ich z serwera (np. przez narzędzia <a href="service_tool_synchronization.php">automatycznej synchronizacji serwisów</a>) rozróżniana była wielkość liter. Ma to szczególne znaczenie w przypadku korzystania z serwerów linuksowych.
+Zaznacz ten przełącznik jeśli chcesz, aby podczas przesyłania plików na serwer i pobierania ich z serwera (np. przez narzędzia <a href="service_tool_synchronization.php">automatycznej synchronizacji projektów</a>) rozróżniana była wielkość liter. Ma to szczególne znaczenie w przypadku korzystania z serwerów linuksowych.
 
 <p><b>Zmieniaj nazwy na małe litery</b><br>
 Zaznacz ten przełącznik jeśli chcesz, aby podczas przesyłania plików na serwer program automatycznie zmieniał ich nazwy na pisane małymi literami.
@@ -158,7 +158,7 @@ Przełącznik ten jest w przypadku serwera WebDAV nieaktywny - dane zawsze będ�
 	<li><a href="main_tabs_myftpservers_on-offline.php">Praca z serwerem w trybie offline i online</a>
 	<li><a href="network_publishing_general.php">Publikowanie w Pająku</a>
 	<li><a href="main_tabs_myftpservers.php">Zakładka Moje serwery</a>
-	<li><a href="service_tool_synchronization.php">Synchronizacja serwisów</a>
+	<li><a href="service_tool_synchronization.php">Synchronizacja projektów</a>
 </ul>
 </td>
 </tr>

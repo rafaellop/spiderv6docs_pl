@@ -36,7 +36,7 @@
 
 <!-- treść pomocy -->
 <p>
-"Operacje publikowania" to jedna z zakładek <a href="down_panel.php">dolnego panelu wyników</a>. Jest ona używana do wyświetlania informacji związanych z publikowaniem w sieci, czyli np. synchronizacją serwisu, kolejką plików czy zapisem komunikacji Pająka z serwerem. W górnej części tej zakładki znajduje się przycisk z rozwijanym menu, który pozwala wybrać widok, który prezentowany jest na tej zakładce. Możesz wybrać:
+"Operacje publikowania" to jedna z zakładek <a href="down_panel.php">dolnego panelu wyników</a>. Jest ona używana do wyświetlania informacji związanych z publikowaniem w sieci, czyli np. synchronizacją projektu, kolejką plików czy zapisem komunikacji Pająka z serwerem. W górnej części tej zakładki znajduje się przycisk z rozwijanym menu, który pozwala wybrać widok, który prezentowany jest na tej zakładce. Możesz wybrać:
 
 <ul>
 	<a name="downpanelpublishinglist"></a>

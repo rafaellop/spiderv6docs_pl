@@ -436,7 +436,7 @@ Poniższe opcje mają tylko niewielkie znaczenie dla wyglądu HTML Help. Wiele z
 	<li><a href="tool_htmlhelp_folder_to_chm.php">Szybki HTML Help z folderu</a>
 	<li><a href="tool_htmlhelp_hhp_compilation.php">Kompiluj dokument HTML Help</a>
 	<li><a href="tool_htmlhelp_compiler_info.php">Informacja dla kompilatora HTML Help</a>
-	<li><a href="tool_htmlhelp_compiler_services.php">HTML Help a serwisy w Pająku</a>
+	<li><a href="tool_htmlhelp_compiler_services.php">HTML Help a projekty w Pająku</a>
 
 </ul>
 </td>

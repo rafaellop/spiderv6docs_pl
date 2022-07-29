@@ -45,10 +45,10 @@ Zawiera szereg menu, które udostępniają wszystkie narzędzia programu.
 Lewy panel zasobów możesz wyświetlić korzystając z polecenia w <a href="main_menu_main.php">Menu głównym</a> / <a href="main_menu_view.php">Wyświetl</a> / <a href="main_menu_view_view.php">Widok</a>, a także za pomocą standardowego skrótu klawiszowego <tt>F9</tt>.
 <p>Zawiera zakładki:</p>
 <ul>
-	<li><a href="main_tabs_myservices.php">Moje serwisy</a> - służy do zarządzania <a href="services_general.php">serwisami</a> (wyświetlana skrótem klawiszowym <tt>Ctrl+1</tt>)</li>
+	<li><a href="main_tabs_myservices.php">Moje projekty</a> - służy do zarządzania <a href="services_general.php">projektami</a> (wyświetlana skrótem klawiszowym <tt>Ctrl+1</tt>)</li>
 	<li><a href="main_tabs_inspector_tags.php">Inspektor znaczników</a> - służy do tworzenia i edycji znaczników w językach znacznikowych (wyświetlana skrótem klawiszowym <tt>Ctrl+2</tt>)</li>
 	<li><a href="main_tabs_inspector_css.php">Inspektor CSS</a> - służy do tworzenie i edycji arkuszy stylów CSS  (wyświetlana skrótem klawiszowym <tt>Ctrl+3</tt>)</li>
-	<li><a href="main_tabs_macrocodes.php">Makrokody</a> - służy do tworzenia, edycji i korzystania z <a href="macrocodes.php">makrokodów (wyświetlana skrótem klawiszowym <tt>Ctrl+4</tt>)</a>.</li>
+	<li><a href="main_tabs_macrocodes.php">Szablony</a> - służy do tworzenia, edycji i korzystania z <a href="macrocodes.php">szablonów (wyświetlana skrótem klawiszowym <tt>Ctrl+4</tt>)</a>.</li>
 </ul>
 
 
@@ -76,7 +76,7 @@ Dolny panel możesz wyświetlić korzystając z polecenia w <a href="main_menu_m
 <ul>
 	<li><a href="down_links_verify.php">Poprawność odsyłaczy</a> - wyświetla raporty po wykonaniu operacji sprawdzania poprawności odsyłaczy</li>
 	<li><a href="down_syntax_check.php">Poprawność składni</a> - wyświetla raporty po wykonaniu operacji sprawdzania poprawności składni dokumentów</li>
-	<li><a href="down_integrity.php">Spójność serwisu</a> - wyświetla raporty po wykonaniu operacji sprawdzania spójności serwisu</li>
+	<li><a href="down_integrity.php">Spójność projektu</a> - wyświetla raporty po wykonaniu operacji sprawdzania spójności projektu</li>
 	<li><a href="down_find_report.php">Raport wyszukiwania</a> - wyświetla raporty po wykonaniu operacji wyszukiwania, bądź sprawdzania pisowni.</li>
 	<li><a href="down_publishing.php">Operacje publikowania</a> - wyświetla listy plików przeznaczonych do publikacji (kolejkę FTP i synchronizacji)oraz raporty na temat operacji publikowania.</li>
 	<li><a href="down_help.php">Pomoc do programu</a> - zawiera różne tematy pomocy do programu i obsługiwanych przez Pająka języków programowania</li>

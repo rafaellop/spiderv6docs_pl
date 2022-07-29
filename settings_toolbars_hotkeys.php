@@ -39,7 +39,7 @@
 
 <!-- treść pomocy -->
 <p>
-W tej kategorii znajdują się narzędzia pozwalające na modyfikację głównych skrótów klawiszowych dla akcji powiązanych z menu głównym oraz paskami narzędzi. Nie możesz w tym miejscu ustawiać skrótów klawiszowych dla makrokodów, bowiem te skróty przypisywane są dla każdego makrokodu osobno w oknie <a href="macrocodes_editor.php">dodawania lub modyfikacji makrokodu</a>.
+W tej kategorii znajdują się narzędzia pozwalające na modyfikację głównych skrótów klawiszowych dla akcji powiązanych z menu głównym oraz paskami narzędzi. Nie możesz w tym miejscu ustawiać skrótów klawiszowych dla szablonów, bowiem te skróty przypisywane są dla każdego szablonu osobno w oknie <a href="macrocodes_editor.php">dodawania lub modyfikacji szablonu</a>.
 
 <p>
 Ta kategoria składa się z listy wszystkich dostępnych w programie akcji/poleceń, których nazwy znajdują się w pierwszej kolumnie listy. Dwie następne kolumny wyświetlają przypisany do polecenia skrót główny oraz skrót dodatkowy, alternatywny. Poniżej listy znajdziesz miejsce na podanie nowego skrótu dla wybranego polecenia.
@@ -63,7 +63,7 @@ Zapisuje bieżącą listę skrótów klawiszowych w postaci pliku HTML.
 <ul>
 	<li><a href="settings_toolbars.php#settingslisttoolbars">Inne ustawienia wyglądu i pasków</a>
 	<li><a href="main_window_desc.php">Główne okno programu</a>
-	<li><a href="macrocodes_editor.php">Makrokody - tworzenie</a>
+	<li><a href="macrocodes_editor.php">Szablony - tworzenie</a>
 </ul>
 </td>
 </tr>

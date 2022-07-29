@@ -38,7 +38,7 @@
 
 <!-- treść pomocy -->
 
-<p>Pająk wspomaga w znacznym stopniu tworzenie stron i całych serwisów obsługiwanych za pomocą skryptów server-side. Jedną z takich technologii jest PHP (ang. <i>Hypertext Preprocessor</i>). Szczegółowe informacje na temat PHP możesz uzyskać na stronie projektu <a href="https://www.php.net" target="_blank">www.php.net</a></p>
+<p>Pająk wspomaga w znacznym stopniu tworzenie stron i całych projektów obsługiwanych za pomocą skryptów server-side. Jedną z takich technologii jest PHP (ang. <i>Hypertext Preprocessor</i>). Szczegółowe informacje na temat PHP możesz uzyskać na stronie projektu <a href="https://www.php.net" target="_blank">www.php.net</a></p>
 
 <p>Na wspomaganie PHP składa się kilka różnych narzędzi Pająka:
 
@@ -48,7 +48,7 @@
 	<li><a href="main_tabs_navigator.php#php">Nawigator PHP</a></li>
 	<li><a href="coding_php_help.php">Pomoc kontekstowa dla PHP na dolnym panelu</a>
 	<li><a href="coding_php_languages.php">Języki programowania - drzewko definicji funkcji dla PHP</a></li>
-	<li><a href="coding_php_macrocodes.php">Makrokody - szablony kodu PHP</a></li>
+	<li><a href="coding_php_macrocodes.php">Szablony - szablony kodu PHP</a></li>
 	<li><a href="coding_php_formatting.php">Formatowanie kodu źródłowego PHP</a></li>
 	<li><a href="coding_php_mapping.php">Mapowanie ścieżki do pliku na twardym dysku na adres URL</a>
 </ul></p>
@@ -70,7 +70,7 @@
 	<li><a href="main_editor_codeinsight.php">Dynamiczny kod</a></li>
 	<li><a href="main_tabs_navigator.php">Zakładka "Nawigator"</a></li>
 	<li><a href="main_tabs_languages.php">Zakładka "Języki programowania"</a></li>
-	<li><a href="main_tabs_macrocodes.php">Zakładka "Makrokody"</a></li>
+	<li><a href="main_tabs_macrocodes.php">Zakładka "Szablony"</a></li>
 	<li><a href="settings_codeinsight.php">Ustawienia programu - Ułatwienia, dynamiczne atrybuty, inne</a> - <a href="settings_codeinsight_php.php">Dynamiczne podpowiedzi w PHP</a>
 	<li><a href="formatter_general.php">Formatowanie kodu źródłowego</a> - <a href="formatter_php.php">Ustawienia dla PHP</a></li>
 	<li><a href="coding_mysql.php">Wspomaganie dla MySQL w Pająku</a></li>

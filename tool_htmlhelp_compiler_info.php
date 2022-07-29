@@ -86,7 +86,7 @@ Pole to zawiera zestaw nazw ALink, jakie zostały wprowadzone. Możemy je usuwa�
 	<li><a href="tool_htmlhelp_hhk_editor.php">Edytor skorowidza (indeksu) HTML Help</a>
 	<li><a href="tool_htmlhelp_folder_to_chm.php">Szybki HTML Help z folderu</a>
 	<li><a href="tool_htmlhelp_hhp_compilation.php">Kompiluj dokument HTML Help</a>
-	<li><a href="tool_htmlhelp_compiler_services.php">HTML Help a serwisy w Pająku</a>
+	<li><a href="tool_htmlhelp_compiler_services.php">HTML Help a projekty w Pająku</a>
 
 </ul>
 </td>

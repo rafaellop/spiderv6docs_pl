@@ -35,7 +35,7 @@
 <h1>Dolny panel wyników - Raport synchronizacji</h1>
 
 <!-- treść pomocy -->
-<p>Ten widok zakładki <a href="down_publishing.php">Operacje publikowania</a> znajdującej się na <a href="down_panel.php">dolnym panelu wyników</a> przedstawia raport synchronizacji serwisu. Synchronizacja została opisana szerzej w temacie poświęconym narzędziu <a href="service_tool_synchronization.php">synchronizacji serwisu</a>. Raport prezentowany na tej zakładce tworzony jest właśnie z wymienionego wyżej narzędzia synchronizacji serwisu na podstawie porównania zawartości serwisu lokalnego i zdalnego serwera FTP. Zakładka ta pojawia się automatycznie po utworzeniu listy plików do synchronizacji.
+<p>Ten widok zakładki <a href="down_publishing.php">Operacje publikowania</a> znajdującej się na <a href="down_panel.php">dolnym panelu wyników</a> przedstawia raport synchronizacji projektu. Synchronizacja została opisana szerzej w temacie poświęconym narzędziu <a href="service_tool_synchronization.php">synchronizacji projektu</a>. Raport prezentowany na tej zakładce tworzony jest właśnie z wymienionego wyżej narzędzia synchronizacji projektu na podstawie porównania zawartości projektu lokalnego i zdalnego serwera FTP. Zakładka ta pojawia się automatycznie po utworzeniu listy plików do synchronizacji.
 
 <p>Raport synchronizacji pełni zarazem funkcję informacyjną, jak i jest przede wszystkim narzędziem wykonywania synchronizacji, bowiem po utworzeniu listy elementów podlegających synchronizacji, synchronizacja nie jest wykonywana automatycznie, lecz program czeka na decyzję użytkownika. Możesz bowiem chcieć wyłączyć niektóre elementy z listy synchronizacji mimo, że w oknie <a href="service_tool_synchronization.php">ustawień synchronizacji</a> zdefinowałeś już pewne ustawienia.
 
@@ -80,7 +80,7 @@ Ten przycisk służy do rozpoczęcia wykonywania synchronizacji plików zebranyc
 Ten przycisk służy do zatrzymywania procesu synchronizacji, który jest w trakcie wykonywania.
 
 <p><b>Zaznacz/odznacz według rozszerzeń</b><br />
- Ten przycisk wyświetla okienko <b>Wybór rozszerzenia</b> zawierające listę rozszerzeń wszystkich plików obecnych w kolejce synchronizacji. Dzięki temu przed rozpoczęciem wykonywania kolejki masz możliwość wyłączenia z synchronizacji plików różnych typów. W ten sposób możesz jeszcze bardziej ograniczyć liczbę plików (pierwsze podobne ograniczenie znajduje się w oknie <a href="service_tool_synchronization.php#pomijanie_rozszerzen">Serwisy - Synchronizacja serwisu</a>).
+ Ten przycisk wyświetla okienko <b>Wybór rozszerzenia</b> zawierające listę rozszerzeń wszystkich plików obecnych w kolejce synchronizacji. Dzięki temu przed rozpoczęciem wykonywania kolejki masz możliwość wyłączenia z synchronizacji plików różnych typów. W ten sposób możesz jeszcze bardziej ograniczyć liczbę plików (pierwsze podobne ograniczenie znajduje się w oknie <a href="service_tool_synchronization.php#pomijanie_rozszerzen">Projekty - Synchronizacja projektu</a>).
 
 <p><b>Przenieś w górę</b><br>
 Ten przyciskm pozwala na przemieszczanie zadań w kolejce w górę. Zadania umieszczone wyżej są wykonywane wcześniej.
@@ -117,7 +117,7 @@ Wyświetla temat Pomocy dla bieżącej zakładki dolnego panelu.
 <h4>Pokrewne tematy</h4>
 <ul>
 	<li><a href="service_tool_synchronization.php">Synchronizacja projektów</a>
-	<li><a href="services_general.php">O serwisach ogólnie</a>
+	<li><a href="services_general.php">O projektach ogólnie</a>
 	<li><a href="down_publishing.php#downpanelpublishinglist">Inne zakładki operacji publikowania</a>
 	<li><a href="down_panel.php#downpanellist">Inne zakładki dolnego panelu</a>
 	<li><a href="main_tabs_myftpservers.php">Zakładka "Moje serwery"</a>

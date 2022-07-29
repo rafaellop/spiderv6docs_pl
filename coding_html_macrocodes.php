@@ -7,7 +7,7 @@
 <meta name="Generator" content="Pajak V6 (6.0.0.1)">
 
 <!-- nazwa strony pomocy -->
-<title>Wspomaganie dla HTML - Makrokody</title>
+<title>Wspomaganie dla HTML - Szablony</title>
 
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha512-MoRNloxbStBcD8z3M/2BmnT+rg4IsMxPkXaGh2zD6LGNNFE80W3onsAhRcMAMrSoyWL9xD7Ert0men7vR8LUZg==" crossorigin="anonymous" />
@@ -32,15 +32,15 @@
 <td>
 
 <!-- nagłowek głowny tematu -->
-<h1>Wspomaganie dla HTML - Makrokody</h1>
+<h1>Wspomaganie dla HTML - Szablony</h1>
 
 <!-- treść pomocy -->
 
-<p> Razem z Pająkiem dostarczone zostały makrokody tworzące szkielet dokumentu HTML, a nawet kompletne serwisy składające się z dokumentów HTML i grafik. Makrokody te zostały umieszczone w <a href="main_tabs_macrocodes.php">zakładce Makrokody</a>, w gałęziach <b>Szablony nowych</b> (szkielety dokumentów), Szablony stron (kompletne strony WWW).</p>
+<p> Razem z Pająkiem dostarczone zostały szablony tworzące szkielet dokumentu HTML, a nawet kompletne projekty składające się z dokumentów HTML i grafik. Szablony te zostały umieszczone w <a href="main_tabs_macrocodes.php">zakładce Szablony</a>, w gałęziach <b>Szablony nowych</b> (szkielety dokumentów), Szablony stron (kompletne strony WWW).</p>
 
-<p>Dostępne są również makrokody zawierające znaki specjalne, jak litery alfabetu greckiego, symbole matematyczne itp.</p>
+<p>Dostępne są również szablony zawierające znaki specjalne, jak litery alfabetu greckiego, symbole matematyczne itp.</p>
 
-<p>Więcej o korzystaniu z makrokodów czytaj w temacie <a href="macrocodes_using.php">Makrokody dostarczone z programem</a>.</p>
+<p>Więcej o korzystaniu z szablonów czytaj w temacie <a href="macrocodes_using.php">Szablony dostarczone z programem</a>.</p>
 
 </td>
 </tr>
@@ -53,11 +53,11 @@
 <h4>Pokrewne tematy</h4>
 <ul>
 	<li><a href="coding_css.php">Wspomaganie dla CSS - ogólnie</a></li>
-	<li><a href="main_tabs_macrocodes.php">Zakładka "Makrokody"</a></li>
- <li><a href="macrocodes.php">Makrokody - ogólnie</a></li>
- <li><a href="settings_macrocodes.php">Ustawienia makrokodów</a></li>
- <li><a href="macrocodes_editor.php">Edytor makrokodów</a></li>
- <li><a href="macrocodes_instruction.php">Tworzenie makrokodu - instrukcja krok po kroku</a></li>
+	<li><a href="main_tabs_macrocodes.php">Zakładka "Szablony"</a></li>
+ <li><a href="macrocodes.php">Szablony - ogólnie</a></li>
+ <li><a href="settings_macrocodes.php">Ustawienia szablonów</a></li>
+ <li><a href="macrocodes_editor.php">Edytor szablonów</a></li>
+ <li><a href="macrocodes_instruction.php">Tworzenie szablonu - instrukcja krok po kroku</a></li>
 </ul>
 </td>
 </tr>

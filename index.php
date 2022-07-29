@@ -35,7 +35,7 @@
 
 <p>Dokumentacja programu Pająk V6 jest w trakcie aktualizacji. Najnowsza wersja jest dostępna <a href="info_welcometo.php">tutaj</a>. </p>
 
-<p>Możesz również współtworzyć dokumentację Pająka, np. gdy zauważysz błąd, albo chciałbyś coś zaktualizować. Projekt dokumentacji znajduje się w serwisie <a href="https://github.com/rafaellop/spiderv6docs_pl" target="_blank">github</a>.</p>
+<p>Możesz również współtworzyć dokumentację Pająka, np. gdy zauważysz błąd, albo chciałbyś coś zaktualizować. Projekt dokumentacji znajduje się w projekcie <a href="https://github.com/rafaellop/spiderv6docs_pl" target="_blank">github</a>.</p>
 
 <p>Możesz teraz przejść do <a href="contents_main.php">Spisu treści.</a></p>
 

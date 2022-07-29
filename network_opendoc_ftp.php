@@ -37,8 +37,8 @@
 
 
 <!-- nagłowek podtematu -->
-<p>Pająk umożliwia zdalne otwieranie, edycję i zapis dokumentów. Oznacza to, iż możliwe jest dokonanie zmian bezpośrednio w plikach serwisu internetowego. Dokument taki można również przeglądać w zakładce Przeglądanie. Wszystko to wykonuje się identycznie jak dla plików znajdujących się na lokalnym dysku twardym. </p>
-<p>Znacząco może to przyśpieszyć pracę, gdy trzeba np. szybko poprawić coś w serwisie, a na komputerze nie ma lokalnej kopii, bądź jest ona nieaktualna (np. przy pracy grupowej).</p>
+<p>Pająk umożliwia zdalne otwieranie, edycję i zapis dokumentów. Oznacza to, iż możliwe jest dokonanie zmian bezpośrednio w plikach projektu internetowego. Dokument taki można również przeglądać w zakładce Przeglądanie. Wszystko to wykonuje się identycznie jak dla plików znajdujących się na lokalnym dysku twardym. </p>
+<p>Znacząco może to przyśpieszyć pracę, gdy trzeba np. szybko poprawić coś w projekcie, a na komputerze nie ma lokalnej kopii, bądź jest ona nieaktualna (np. przy pracy grupowej).</p>
 
 
 
@@ -55,7 +55,7 @@ Aby móc edytować dokumenty online, trzeba skonfigurować połączenie ze zdaln
 
 <h2>Edycja pliku online</h2>
 
-<p>Po ustawieniu wszystkich opcji możesz edytować pliki na serwerze za pomocą zakładki <a href="main_tabs_myftpservers.php">Moje serwery</a> podobnie jak pliki z dysku lokalnego za pomocą zakładki <a href="main_tabs_myservices.php">Moje serwisy</a>. Aby otworzyć plik skorzystaj z polecenia w pasku narzędzi z prawej strony zakładki.  Dalsza edycja, zapis itd. przebiega identycznie, jak w wypadku edycji pliku lokalnego.</p>
+<p>Po ustawieniu wszystkich opcji możesz edytować pliki na serwerze za pomocą zakładki <a href="main_tabs_myftpservers.php">Moje serwery</a> podobnie jak pliki z dysku lokalnego za pomocą zakładki <a href="main_tabs_myservices.php">Moje projekty</a>. Aby otworzyć plik skorzystaj z polecenia w pasku narzędzi z prawej strony zakładki.  Dalsza edycja, zapis itd. przebiega identycznie, jak w wypadku edycji pliku lokalnego.</p>
 
 Pliki otwarte online oznaczone są, dla odróżnienia od plików otwartych lokalnie, kulką z niebieską strzałką:
 
@@ -74,9 +74,9 @@ Włącz tę opcję, aby Pająk ostrzegał przed próba napisania pliku na serwer
 
 
 <h2>Wstawianie odnośników</h2>
-<p>Edytując plik zdalny możesz wstawiać do niego odnośniki. W celu ułatwienia wstawiania odnośników do plików serwisu, w którym edytowany plik się znajduje, stworzony został mechanizm pozwalający na wybieranie pliku z lokalnego serwisu. Mechanizm ten korzysta z ustawień <a href="service_tool_synchronization.php">mapowania dla synchronizacji serwisu</a>. </p>
+<p>Edytując plik zdalny możesz wstawiać do niego odnośniki. W celu ułatwienia wstawiania odnośników do plików projektu, w którym edytowany plik się znajduje, stworzony został mechanizm pozwalający na wybieranie pliku z lokalnego projektu. Mechanizm ten korzysta z ustawień <a href="service_tool_synchronization.php">mapowania dla synchronizacji projektu</a>. </p>
 
-<p>Mechanizm działa w ten sposób, że sprawdza położenie pliku edytowanego zdalnie na serwerze i położenie pliku, do którego wstawiany jest odnośnik w serwisie lokalnym. Następnie, wykorzystując mapowanie synchronizacji, ustala względną ścieżkę do tego pliku na serwerze i wstawia ją do dokumentu.</p>
+<p>Mechanizm działa w ten sposób, że sprawdza położenie pliku edytowanego zdalnie na serwerze i położenie pliku, do którego wstawiany jest odnośnik w projekcie lokalnym. Następnie, wykorzystując mapowanie synchronizacji, ustala względną ścieżkę do tego pliku na serwerze i wstawia ją do dokumentu.</p>
 
 <p><b>Uwaga!</b><br />
 Ścieżka do pliku docelowego jest wstawiana bez sprawdzenia, czy plik ten istnieje na serwerze. Należy go tam wysłać, by odnośnik działał prawidłowo.</p>

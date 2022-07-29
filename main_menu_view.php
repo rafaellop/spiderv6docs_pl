@@ -54,7 +54,7 @@ Kliknij, aby wyświetlić <a href="main_editor_general.php">okno edytora</a> (st
 Kliknij, aby wyświetlić, bądź ukryć okno <a href="main_preview_dynamic.php">dynamicznego podglądu</a>.
 
 <p><b>Mapowania przeglądania</b><br />
-Kliknij, aby wybrać mapowanie ścieżki na twardym dysku na adres URL. Mapowanie to jest konieczne, by móc oglądać wyniki działania skryptów serwer-side, jak np. PHP. Mapowania możesz ustawiać osobno dla każdego serwisu w oknie <a href="service_properites.php#service_properties_mappings">Właściwości serwisu</a>.
+Kliknij, aby wybrać mapowanie ścieżki na twardym dysku na adres URL. Mapowanie to jest konieczne, by móc oglądać wyniki działania skryptów serwer-side, jak np. PHP. Mapowania możesz ustawiać osobno dla każdego projektu w oknie <a href="service_properites.php#service_properties_mappings">Właściwości projektu</a>.
 
 <hr />
 

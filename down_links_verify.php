@@ -37,7 +37,7 @@
 <!-- treść pomocy -->
 
 
-<p>Narzędzie służy do sprawdzania poprawności odsyłaczy w dokumentach. Możliwe jest sprawdzanie aktualnie otwartego dokumentu, bądź wszystkich dokumentów w aktualnie otwartym Serwisie. Osobno sprawdzane są odnośniki zdalne do plików spoza serwisu (z uwagi na ewentualną konieczność połączenia z Internetem, co może bardzo wydłużyć proces weryfikacji).</p>
+<p>Narzędzie służy do sprawdzania poprawności odsyłaczy w dokumentach. Możliwe jest sprawdzanie aktualnie otwartego dokumentu, bądź wszystkich dokumentów w aktualnie otwartym Projekcie. Osobno sprawdzane są odnośniki zdalne do plików spoza projektu (z uwagi na ewentualną konieczność połączenia z Internetem, co może bardzo wydłużyć proces weryfikacji).</p>
 
 <p><b>Uwaga</b><br />
 Nie jest możliwe sprawdzanie poprawności odsyłaczy w dokumentach edytowanych zdalnie (otwartych bezpośrednio z serwera)</p>
@@ -64,9 +64,9 @@ Nie jest możliwe sprawdzanie poprawności odsyłaczy w dokumentach edytowanych 
 <p><b>Uwaga!</b><br />
 Z uwagi na ewentualną konieczność połączenia z Internetem, co może bardzo wydłużyć proces weryfikacji, za pomocą tej opcji nie będą sprawdzane odnośniki zdalne (podane za pomocą bezwzględnego adresu, czyli wraz z domeną i protokołem). Możesz natomiast osobnym przyciskiem wywołać weryfikację zdalnych odsyłaczy.</p>
 
-<h2>Sprawdzanie poprawności odsyłaczy w bieżącym Serwisie</h2>
+<h2>Sprawdzanie poprawności odsyłaczy w bieżącym Projekcie</h2>
 
-<p>Sprawdzanie odsyłaczy w bieżącym Serwisie (wybranym na zakładce <a href="main_tabs_myservices.php">Moje serwisy</a>) obejmuje wszystkie dokumenty umieszczone w folderach należących do bieżącego Serwisu. Narzędzie można uruchomić za pomocą polecenia <a href="main_menu_main.php">Menu głównego</a> / <a href="main_menu_services.php">Serwisy</a> / Weryfikacja odnośników.
+<p>Sprawdzanie odsyłaczy w bieżącym Projekcie (wybranym na zakładce <a href="main_tabs_myservices.php">Moje projekty</a>) obejmuje wszystkie dokumenty umieszczone w folderach należących do bieżącego Projektu. Narzędzie można uruchomić za pomocą polecenia <a href="main_menu_main.php">Menu głównego</a> / <a href="main_menu_services.php">Projekty</a> / Weryfikacja odnośników.
 
 <p><b>Uwaga!</b><br />
 Z uwagi na ewentualną konieczność połączenia z Internetem, co może bardzo wydłużyć proces weryfikacji, za pomocą tej opcji nie będą sprawdzane odnośniki zdalne (podane za pomocą bezwzględnego adresu, czyli wraz z domeną i protokołem). Możesz natomiast osobnym przyciskiem wywołać weryfikację zdalnych odsyłaczy.</p>
@@ -129,11 +129,11 @@ Za pomocą  tego przycisku możesz włączyć wyświetlanie tytułów dokumentó
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-   <li><a href="down_integrity.php">Sprawdzanie spójności serwisu</a></li>
+   <li><a href="down_integrity.php">Sprawdzanie spójności projektu</a></li>
    <li><a href="down_syntax_check.php">Sprawdzanie poprawności składni</a></li>
    <li><a href="network_publishing_general.php">Publikowanie w Pająku</a></li>
-   <li><a href="service_tool_synchronization.php">Automatyczna synchronizacja serwisu</a></li>
-   <li><a href="services_general.php">Serwisy ogólnie</a></li>
+   <li><a href="service_tool_synchronization.php">Automatyczna synchronizacja projektu</a></li>
+   <li><a href="services_general.php">Projekty ogólnie</a></li>
    <li><a href="down_panel.php#downpanellist">Inne zakładki dolnego panelu wyników</a></li>
    <li><a href="main_window_desc.php">Główne okno programu</a></li>
 </ul>

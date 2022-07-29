@@ -13,7 +13,7 @@
 </head>
 
 <!-- nazwa strony pomocy -->
-<title>Edytor makrokodów - prawa strona, środek, lewa strona makrokodu</title>
+<title>Edytor szablonów - prawa strona, środek, lewa strona szablonu</title>
 
 <body>
 
@@ -33,56 +33,56 @@
 <td>
 
 <!-- nagłowek głowny tematu -->
-<h1>Edytor makrokodów - prawa strona, środek, lewa strona makrokodu</h1>
+<h1>Edytor szablonów - prawa strona, środek, lewa strona szablonu</h1>
 
 <!-- treść pomocy -->
 
-<p>Poniżej części z ustawieniami makrokodu znajdują się zakładki, w których tworzona będzie zawartość makrokodu.</p>
+<p>Poniżej części z ustawieniami szablonu znajdują się zakładki, w których tworzona będzie zawartość szablonu.</p>
 
-<h2>Znaczenie lewej, środkowej i prawej części makrokodu</h2>
+<h2>Znaczenie lewej, środkowej i prawej części szablonu</h2>
 
-<p>Trzy pierwsze zakładki o nazwach "Lewa strona makrokodu", "Środkowy makrokod", "Prawa strona makrokodu" zawierają okna, w których wpisywana będzie zasadnicza treść makrokodu. Okna są identyczne, mają jednak różne znaczenie podczas używania makrokodu.</p>
+<p>Trzy pierwsze zakładki o nazwach "Lewa strona szablonu", "Środkowy szablon", "Prawa strona szablonu" zawierają okna, w których wpisywana będzie zasadnicza treść szablonu. Okna są identyczne, mają jednak różne znaczenie podczas używania szablonu.</p>
 
-<p><b>Lewa część makrokodu</b> - w zależności od wybranej podczas wstawiania opcji:
+<p><b>Lewa część szablonu</b> - w zależności od wybranej podczas wstawiania opcji:
 <ul>
-   <li><b>Wstaw makrokod w pozycji kursora</b>, lub <b>Wstaw makrokod bez środka</b> - zostanie wstawiona z lewej strony kursora, lub zaznaczonego w edytorze tekstu,</li>
-   <li><b>Wstaw makrokod z lewą częścią do HEAD</b> - zostanie wstawiona do sekcji HEAD dokumentu HTML. Jeśli dokument, do którego wstawiany jest makrokod nie posiada sekcji HEAD, zostanie ona utworzona,</li>
-   <li><b>Utwórz nowy dokument z makrokodu</b> - zostanie wstawiona jako pierwsza do dokumentu.</li>
+   <li><b>Wstaw szablon w pozycji kursora</b>, lub <b>Wstaw szablon bez środka</b> - zostanie wstawiona z lewej strony kursora, lub zaznaczonego w edytorze tekstu,</li>
+   <li><b>Wstaw szablon z lewą częścią do HEAD</b> - zostanie wstawiona do sekcji HEAD dokumentu HTML. Jeśli dokument, do którego wstawiany jest szablon nie posiada sekcji HEAD, zostanie ona utworzona,</li>
+   <li><b>Utwórz nowy dokument z szablonu</b> - zostanie wstawiona jako pierwsza do dokumentu.</li>
 </ul></p>
 
 
-<p></p><b>Środkowa część makrokodu</b> - w zależności od wybranej podczas wstawiania opcji:
+<p></p><b>Środkowa część szablonu</b> - w zależności od wybranej podczas wstawiania opcji:
 <ul>
-   <li><b>Wstaw makrokod w pozycji kursora</b> - zostanie wstawiona za kursorem. Jeśli w edytorze był zaznaczony tekst, zostanie on nadpisany przez zawartość środkowej części. Jeśli nie zdefiniowano środkowej części (jest pusta), znaczony tekst pozostanie nienaruszony.</li>
-   <li><b>Wstaw makrokod bez środka</b> - nie zostanie użyta. Jeśli w edytorze jest znaczony tekst, pozostanie on nienaruszony.</li>
-   <li><b>Wstaw makrokod z lewą częścią do HEAD</b> - zostanie wstawiona z lewej strony kursora. Jeśli w edytorze jest znaczony tekst, pozostanie on nienaruszony.</li>
-   <li><b>Utwórz nowy dokument z makrokodu</b> - zostanie wstawiona jako druga do dokumentu.</li>
+   <li><b>Wstaw szablon w pozycji kursora</b> - zostanie wstawiona za kursorem. Jeśli w edytorze był zaznaczony tekst, zostanie on nadpisany przez zawartość środkowej części. Jeśli nie zdefiniowano środkowej części (jest pusta), znaczony tekst pozostanie nienaruszony.</li>
+   <li><b>Wstaw szablon bez środka</b> - nie zostanie użyta. Jeśli w edytorze jest znaczony tekst, pozostanie on nienaruszony.</li>
+   <li><b>Wstaw szablon z lewą częścią do HEAD</b> - zostanie wstawiona z lewej strony kursora. Jeśli w edytorze jest znaczony tekst, pozostanie on nienaruszony.</li>
+   <li><b>Utwórz nowy dokument z szablonu</b> - zostanie wstawiona jako druga do dokumentu.</li>
 </ul></p>
 
-<p><b>Prawa część makrokodu</b> - w zależności od wybranej podczas wstawiania opcji:
+<p><b>Prawa część szablonu</b> - w zależności od wybranej podczas wstawiania opcji:
 <ul>
-   <li><b>Wstaw makrokod w pozycji kursora</b>, <b>Wstaw makrokod bez środka</b>, lub <b>Wstaw makrokod z lewą częścią do HEAD</b> - zostanie wstawiona z prawej strony kursora, lub zaznaczonego w edytorze tekstu,</li>
-      <li><b>Utwórz nowy dokument z makrokodu</b> - zostanie wstawiona jako trzecia do dokumentu.</li>
+   <li><b>Wstaw szablon w pozycji kursora</b>, <b>Wstaw szablon bez środka</b>, lub <b>Wstaw szablon z lewą częścią do HEAD</b> - zostanie wstawiona z prawej strony kursora, lub zaznaczonego w edytorze tekstu,</li>
+      <li><b>Utwórz nowy dokument z szablonu</b> - zostanie wstawiona jako trzecia do dokumentu.</li>
 </ul></p>
 
 <h2>Okno wpisywania treści</h2>
 
-<p>Okno wpisywania treści makrokodu składa się z dwóch części - menu i okna tekstowego. </p>
+<p>Okno wpisywania treści szablonu składa się z dwóch części - menu i okna tekstowego. </p>
 
 <p>Menu zawiera ikony umożliwiające tworzenie i wstawianie: <a href="macrocodes_editor_vars.php">zmiennych</a> i <a href="macrocodes_editor_blocks.php">bloków</a>.</p>
 
 <ul>
-   <li><b>Zmienne</b> - lista zawiera nazwy wszystkie zmiennych zdefiniowanych w makrokodzie,</li>
-   <li><b>Dodanie nowej zmiennej</b> - kliknij aby utworzyć nową zmienną (tylko dodaje zmienną, ale nie powoduje automatycznego jej wstawienia w treść makrokodu). Do tworzenia nowych i edycji istniejących zmiennych służy okno <a href="macrocodes_editor_addvar.php">Edycja zmiennej makrokodu</a>.</li>
-   <li><b>Wstawienie wybranej zmiennej</b> - kliknij aby wstawić wywołanie zmiennej do treści makrokodu. W chwili użycia makrokodu w miejsce symbolu podstawiona zostanie wartość zmiennej.</li>
+   <li><b>Zmienne</b> - lista zawiera nazwy wszystkie zmiennych zdefiniowanych w szablonie,</li>
+   <li><b>Dodanie nowej zmiennej</b> - kliknij aby utworzyć nową zmienną (tylko dodaje zmienną, ale nie powoduje automatycznego jej wstawienia w treść szablonu). Do tworzenia nowych i edycji istniejących zmiennych służy okno <a href="macrocodes_editor_addvar.php">Edycja zmiennej szablonu</a>.</li>
+   <li><b>Wstawienie wybranej zmiennej</b> - kliknij aby wstawić wywołanie zmiennej do treści szablonu. W chwili użycia szablonu w miejsce symbolu podstawiona zostanie wartość zmiennej.</li>
 </ul>
 <ul>
-   <li><b>Bloki</b> - lista zawiera nazwy wszystkich bloków zdefiniowanych w makrokodzie</li>
-   <li><b>Dodanie nowego bloku</b> - kliknij aby dodać nowy blok (tylko dodaje blok, ale nie powoduje automatycznego wstawienia w treść makrokodu). Do tworzenia nowych i edycji istniejących bloków służy okno <a href="macrocodes_editor_addblock.php">Edycja bloku makrokodu</a>.</li> 
-   <li><b>Wstawienie wybranego bloku</b> - kliknij aby wstawić do treści makrokodu symbol bloku wybranego na liście. W chwili użycia makrokodu w miejsce symbolu podstawiona zostanie zawartość bloku (jeśli będzie włączony), lub symbol zostanie usunięty z treści makrokodu (jeśli blok będzie wyłączony).</li>
+   <li><b>Bloki</b> - lista zawiera nazwy wszystkich bloków zdefiniowanych w szablonie</li>
+   <li><b>Dodanie nowego bloku</b> - kliknij aby dodać nowy blok (tylko dodaje blok, ale nie powoduje automatycznego wstawienia w treść szablonu). Do tworzenia nowych i edycji istniejących bloków służy okno <a href="macrocodes_editor_addblock.php">Edycja bloku szablonu</a>.</li> 
+   <li><b>Wstawienie wybranego bloku</b> - kliknij aby wstawić do treści szablonu symbol bloku wybranego na liście. W chwili użycia szablonu w miejsce symbolu podstawiona zostanie zawartość bloku (jeśli będzie włączony), lub symbol zostanie usunięty z treści szablonu (jeśli blok będzie wyłączony).</li>
 </ul>
 
-<p>Poniżej menu znajduje się okno tekstowe. W nim właśnie wpisywana jest treść makrokodu.</p>
+<p>Poniżej menu znajduje się okno tekstowe. W nim właśnie wpisywana jest treść szablonu.</p>
 
 </td>
 </tr>
@@ -94,12 +94,12 @@
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-   <li><a href="macrocodes_editor.php">Edytor makrokodów - wstęp</a>
-   <li><a href="macrocodes_editor_vars.php">Edytor makrokodów - zmienne</a>
-   <li><a href="macrocodes_editor_blocks.php">Edytor makrokodów - bloki</a>
-   <li><a href="settings_macrocodes.php">Ustawienia programu - Makrokody</a>
-   <li><a href="main_tabs_macrocodes.php">Zakładka Makrokody</a>
-   <li><a href="macrocodes.php">Makrokody - ogólnie</a>
+   <li><a href="macrocodes_editor.php">Edytor szablonów - wstęp</a>
+   <li><a href="macrocodes_editor_vars.php">Edytor szablonów - zmienne</a>
+   <li><a href="macrocodes_editor_blocks.php">Edytor szablonów - bloki</a>
+   <li><a href="settings_macrocodes.php">Ustawienia programu - Szablony</a>
+   <li><a href="main_tabs_macrocodes.php">Zakładka Szablony</a>
+   <li><a href="macrocodes.php">Szablony - ogólnie</a>
 </ul>
 </td>
 </tr>

@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 
 <meta name="Author" content="Cream Software">
-<meta name="Generator" content="Pajak V6 (6.0.0.1)">
+<meta name="Generator" content="Spider V6 (6.1.1.0)">
 
 <!-- nazwa strony pomocy -->
 <title>Główne okno programu</title>
@@ -222,7 +222,6 @@
 						<li><a href="tool_keywords_generator.php">Generator słów kluczowych</a>
 						<li><a href="tool_htmlcompressor.php">Kompresor HTML</a>
 						<li><a href="tool_multiclipboard.php">Wieloschowek</a>
-						<li><a href="tool_rss_creator.php">Kreator kanału RSS</a>
 						<li><a href="tool_unicodeeditorek.php">Edytorek Unicode</a>
 						<li><a href="tool_open_remote.php">Otwieranie strony z Sieci</a>
 					</ul>

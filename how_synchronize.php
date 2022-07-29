@@ -39,29 +39,29 @@
 
 <!-- Treść pomocy -->
 
-<p>Synchronizacja projektów pozwala w szybki i niezwykle łatwy sposób zsynchronizować zawartość serwisu na dysku lokalnym i na serwerze. </p>
-<p>Za pomocą kilku kliknięć możesz wysłać na serwer pliki bez konieczności sprawdzania, które z nich zostały od czasu ostatniej aktualizacji serwisu zmienione. </p>
-<p>Narzędzie to ułatwia również prace grupową - jeśli ktokolwiek z osób pracujących nad serwisem zmieni coś na serwerze, nie musisz za każdym razem tego sprawdzać - Pająk pobierze zmienione pliki, uaktualniając serwis istniejący na dysku twardym.</p>
+<p>Synchronizacja projektów pozwala w szybki i niezwykle łatwy sposób zsynchronizować zawartość projektu na dysku lokalnym i na serwerze. </p>
+<p>Za pomocą kilku kliknięć możesz wysłać na serwer pliki bez konieczności sprawdzania, które z nich zostały od czasu ostatniej aktualizacji projektu zmienione. </p>
+<p>Narzędzie to ułatwia również prace grupową - jeśli ktokolwiek z osób pracujących nad projektem zmieni coś na serwerze, nie musisz za każdym razem tego sprawdzać - Pająk pobierze zmienione pliki, uaktualniając projekt istniejący na dysku twardym.</p>
 
-<h2>Jak zsynchronizować serwis na dysku z zawartością serwera?</h2>
+<h2>Jak zsynchronizować projekt na dysku z zawartością serwera?</h2>
 
 <p>Aby móc skorzystać z synchronizacji muszą być spełnione dwa podstawowe warunki:
 <ul>
-	<li>musi być utworzony <a href="services_general.php">Serwis</a></li>
+	<li>musi być utworzony <a href="services_general.php">Projekt</a></li>
 	<li>muszą być zdefiniowane <a href="settings_network_ftpservers.php">ustawienia Serwera FTP</a></li>
 </ul></p>
 
-<p>Jeśli oba warunki są spełnione, skorzystaj z polecenia "Synchronizacja serwisu" znajdującego się w <a href="main_menu_main.php">Menu głównym</a> / <a href="main_menu_services.php">Serwisy</a> / <a href="main_menu_services_properties.php">Własności serwisu</a> (podmenu rozwijane strzałką z prawej strony), lub w menu pod przyciskiem "Właściwości serwisu" w górnej części zakładki <a href="main_tabs_myservices.php">Moje serwisy</a>.</p>
+<p>Jeśli oba warunki są spełnione, skorzystaj z polecenia "Synchronizacja projektu" znajdującego się w <a href="main_menu_main.php">Menu głównym</a> / <a href="main_menu_services.php">Projekty</a> / <a href="main_menu_services_properties.php">Własności projektu</a> (podmenu rozwijane strzałką z prawej strony), lub w menu pod przyciskiem "Właściwości projektu" w górnej części zakładki <a href="main_tabs_myservices.php">Moje projekty</a>.</p>
 
 <div>Mapowanie przy synchronizacji</div>
 
-<p>Jeśli istnieje mapowanie dla synchronizacji, uruchomi się narzędzie pozwalające na wybór ustawień i uruchomienia synchronizacji. W przeciwnym wypadku poproszony zostaniesz o utworzenie takiego mapowania, po czym pojawi się okno <a href="service_properites.php#service_properties_mappings">Właściwości serwisu</a>, w którym będziesz mógł to zrobić.</p>
+<p>Jeśli istnieje mapowanie dla synchronizacji, uruchomi się narzędzie pozwalające na wybór ustawień i uruchomienia synchronizacji. W przeciwnym wypadku poproszony zostaniesz o utworzenie takiego mapowania, po czym pojawi się okno <a href="service_properites.php#service_properties_mappings">Właściwości projektu</a>, w którym będziesz mógł to zrobić.</p>
 
-<p>Mapowanie przy synchronizacji pozwala powiązać folder w bieżącym serwisie oraz folder na wybranym serwerze FTP, których zawartość będzie następnie porównywana.</p>
+<p>Mapowanie przy synchronizacji pozwala powiązać folder w bieżącym projekcie oraz folder na wybranym serwerze FTP, których zawartość będzie następnie porównywana.</p>
 
 <div>Utworzenie kolejki synchronizacji</div>
 
-<p>Jeśli istnieje już mapowanie dla synchronizacji, uruchomione zostanie okno synchronizacji serwisu. W oknie tym przeważnie nie trzeba nic zmieniać, możliwe jest jednak wykluczenie plików i folderów spod synchronizacji, bądź zawężenie synchronizacji do wybranych folderów. Szczegółowy opis okna przeczytaj w temacie <a href="service_tool_synchronization.php">Serwisy - Synchronizacja serwisu</a>.</p>
+<p>Jeśli istnieje już mapowanie dla synchronizacji, uruchomione zostanie okno synchronizacji projektu. W oknie tym przeważnie nie trzeba nic zmieniać, możliwe jest jednak wykluczenie plików i folderów spod synchronizacji, bądź zawężenie synchronizacji do wybranych folderów. Szczegółowy opis okna przeczytaj w temacie <a href="service_tool_synchronization.php">Projekty - Synchronizacja projektu</a>.</p>
 
 Możesz tez określić kierunek synchronizacji:
 <ul>
@@ -92,9 +92,9 @@ Możesz tez określić kierunek synchronizacji:
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="service_tool_synchronization.php">Narzędzie do synchronizacji serwisu</a>
-	<li><a href="main_tabs_myservices.php">Zakładka "Moje serwisy"</a>
-	<li><a href="services_general.php">Serwisy - ogólnie</a>
+	<li><a href="service_tool_synchronization.php">Narzędzie do synchronizacji projektu</a>
+	<li><a href="main_tabs_myservices.php">Zakładka "Moje projekty"</a>
+	<li><a href="services_general.php">Projekty - ogólnie</a>
 </td>
 </tr>
 </table>

@@ -36,9 +36,9 @@
 
 <!-- nagłowek podtematu -->
 
-<p>Pająk posiada bardzo rozbudowane narzędzia służące do publikacji dokumentów i serwisów w siecie, a także do bezpośredniej pracy nad dokumentami na serwerze.</p>
+<p>Pająk posiada bardzo rozbudowane narzędzia służące do publikacji dokumentów i projektów w siecie, a także do bezpośredniej pracy nad dokumentami na serwerze.</p>
 
-<p>Do publikowania dokumentów lub całych serwisów w sieci służą wbudowane w Pająka moduły <b>FTP</b> i <b>WebDAV</b> znajdujące się na <a href="main_tabs_myftpservers.php">zakładce Moje serwery</a>.</p>
+<p>Do publikowania dokumentów lub całych projektów w sieci służą wbudowane w Pająka moduły <b>FTP</b> i <b>WebDAV</b> znajdujące się na <a href="main_tabs_myftpservers.php">zakładce Moje serwery</a>.</p>
 
 
 <h3>Obsługa WebDAV</h3>
@@ -56,7 +56,7 @@
 </p>
 
 <h3>Jak opublikować dokument z dysku lokalnego w sieci Internet?</h3>
-<p>Połącz się z serwerem na zakładce <a href="main_tabs_myftpservers.php">Moje serwery</a>, wejdź do odpowiedniego foldera i z listy plików na zakładce <a href="main_tabs_myservices.php">Moje serwisy</a> przeciągnij wybrany dokument do obszaru wyświetlającego zawartość serwera. Dokument zostanie dodany do <a href="down_publishing_ftpqueue.php">Kolejki plików FTP</a>, która znajduje się na <a href="down_panel.php">dolnym panelu</a>. Możesz też publikować pliki do Sieci przeciągając je do zakładki <a href="main_tabs_myftpservers.php">Moje serwery</a> z innych okien, jak np. z Eksploratora Windows. Dodatkowo istnieje możliwość opublikowania pliku za pomocą przeciągania go na listę plików serwera z <a href="down_find_report.php">Raport wyszukiwania</a>.
+<p>Połącz się z serwerem na zakładce <a href="main_tabs_myftpservers.php">Moje serwery</a>, wejdź do odpowiedniego foldera i z listy plików na zakładce <a href="main_tabs_myservices.php">Moje projekty</a> przeciągnij wybrany dokument do obszaru wyświetlającego zawartość serwera. Dokument zostanie dodany do <a href="down_publishing_ftpqueue.php">Kolejki plików FTP</a>, która znajduje się na <a href="down_panel.php">dolnym panelu</a>. Możesz też publikować pliki do Sieci przeciągając je do zakładki <a href="main_tabs_myftpservers.php">Moje serwery</a> z innych okien, jak np. z Eksploratora Windows. Dodatkowo istnieje możliwość opublikowania pliku za pomocą przeciągania go na listę plików serwera z <a href="down_find_report.php">Raport wyszukiwania</a>.
 
 <p>Jeśli chcesz już opublikować dokument, wciśnij w oknie kolejki przycisk rozpoczynający wykonywanie zadań. Jeśli chcesz wysłać inne dokumenty, postępuj z nimi tak samo jak z poprzednim.
 <p>Możesz również wysyłać na serwer całe katalogi zawierające podkatalogi i pliki. Struktura wysyłanego katalogu zostanie odtworzona na serwerze.
@@ -65,15 +65,15 @@
 <a name="publish_current">
 <h3>Publikowanie bieżącego dokumentu, Publikowanie wszystkich otwartych dokumentów</h3>
 <p>Istnieje również szybki sposób publikowania aktualnie edytowanego dokumentu, bądź wszystkich otwartych dokumentów na serwerze. Skorzystaj w tym celu z polecenia <b>Publikuj bieżący w sieci</b> umieszczonego w <a href="main_menu_file.php">Menu Plik</a> (bądź <b>Publikuj otwarte w sieci</b> aby umieścić na serwerze wszystkie otwarte dokumenty).
-<p>Domyślnie funkcja ta przesyła dokumenty do bieżącego folderu na liście plików zakładki <a href="main_tabs_myftpservers.php">Moje serwery</a>.Aby Pająk mógł opublikować dokumenty, konieczne jest czynne połączenie z serwerem - w przeciwnym razie pliki zostaną jedynie dodane do <a href="down_publishing_ftpqueue.php">kolejki plików ftp</a> i przesłane po jej uruchomieniu.</p>, jeśli dla bieżącego <a href="services_general.php">serwisu</a> istnieje jedno lub więcej <a href="service_tool_synchronization.php">mapowań dla synchronizacji</a>, funkcja ta skorzysta z domyślnego mapowania i prześle plik do odpowiedniego folderu na serwerze.
+<p>Domyślnie funkcja ta przesyła dokumenty do bieżącego folderu na liście plików zakładki <a href="main_tabs_myftpservers.php">Moje serwery</a>.Aby Pająk mógł opublikować dokumenty, konieczne jest czynne połączenie z serwerem - w przeciwnym razie pliki zostaną jedynie dodane do <a href="down_publishing_ftpqueue.php">kolejki plików ftp</a> i przesłane po jej uruchomieniu.</p>, jeśli dla bieżącego <a href="services_general.php">projektu</a> istnieje jedno lub więcej <a href="service_tool_synchronization.php">mapowań dla synchronizacji</a>, funkcja ta skorzysta z domyślnego mapowania i prześle plik do odpowiedniego folderu na serwerze.
 
 
-<h3>Publikowanie dokumentu poleceniem z zakładki Moje serwisy</h3>
-<p>Na pasku przycisków zakładki <a href="main_tabs_myservices.php">Moje serwisy</a> znajduje się polecenie <b>Publikuj w sieci</b>. Umożliwia ono przesłanie elementu wskazanego na liście plików tej zakładki na wybrany serwer. Funkcja ta potrafi korzystać z mapowania dla synchronizacji (czytaj wyżej w opisie funkcji <b>Publikowanie bieżącego dokumentu, Publikowanie wszystkich otwartych dokumentów</b>).
+<h3>Publikowanie dokumentu poleceniem z zakładki Moje projekty</h3>
+<p>Na pasku przycisków zakładki <a href="main_tabs_myservices.php">Moje projekty</a> znajduje się polecenie <b>Publikuj w sieci</b>. Umożliwia ono przesłanie elementu wskazanego na liście plików tej zakładki na wybrany serwer. Funkcja ta potrafi korzystać z mapowania dla synchronizacji (czytaj wyżej w opisie funkcji <b>Publikowanie bieżącego dokumentu, Publikowanie wszystkich otwartych dokumentów</b>).
 
 
 <h3>Jak pobrać pliki z serwera na dysk lokalny?</h3>
-<p>Pobieranie plików na dysk lokalny przebiega identycznie, jak publikowanie ich w Internecie. Wystarczy przeciągnąć plik z zakładki <a href="main_tabs_myftpservers.php">Moje serwery</a> do katalogu docelowego na zakładce <a href="main_tabs_myservices.php">Moje serwisy</a>, a następnie uruchomić wykonywanie kolejki.
+<p>Pobieranie plików na dysk lokalny przebiega identycznie, jak publikowanie ich w Internecie. Wystarczy przeciągnąć plik z zakładki <a href="main_tabs_myftpservers.php">Moje serwery</a> do katalogu docelowego na zakładce <a href="main_tabs_myservices.php">Moje projekty</a>, a następnie uruchomić wykonywanie kolejki.
 <p>W identyczny sposób można pobierać całe katalogi - struktura pobieranego katalogu (podkatalogi i zawarte w nich pliki) zostanie odbudowana na dysku lokalnym.
 
 
@@ -91,13 +91,13 @@ Pająk umożliwia nawiązywanie bezpiecznych (szyfrowanych) połączeń zarówno
 <p><a href="settings_network_ftpservers_add.php#secureconnections">Koniecznie kliknij TU przeczytaj więcej o obsłudze bezpiecznych połączeń!.</a></p>
 
 
-<h2>Synchronizacja serwisów</h2>
+<h2>Synchronizacja projektów</h2>
 
 
 
-<p>Pająk umożliwia <a href="service_tool_synchronization.php">Synchronizację serwisów</a>.  Ta unikatowa funkcja pozwala szybko porównać i automatycznie zsynchronizować zawartość serwisu na dysku twardym i w Internecie.</p>
+<p>Pająk umożliwia <a href="service_tool_synchronization.php">Synchronizację projektów</a>.  Ta unikatowa funkcja pozwala szybko porównać i automatycznie zsynchronizować zawartość projektu na dysku twardym i w Internecie.</p>
 <p>Dzięki synchronizacji odpada konieczność ręcznego przeglądania wielu katalogów i porównywania plików. Teraz za pomocą kilku kliknięć można oszczędzić wiele czasu. </p>
-<p>W celu zabezpieczenia danych, przed zsynchronizowaniem serwisu na dysku i w Internecie, utworzona zostaje <a href="down_publishing_syncreport.php">kolejka synchronizacji</a>, na której możesz zweryfikować listę plików, jakie mają zostać przesłane, bądź usunięte.</p>
+<p>W celu zabezpieczenia danych, przed zsynchronizowaniem projektu na dysku i w Internecie, utworzona zostaje <a href="down_publishing_syncreport.php">kolejka synchronizacji</a>, na której możesz zweryfikować listę plików, jakie mają zostać przesłane, bądź usunięte.</p>
 <p>Synchronizacja jest możliwa w obie strony, tzn. zarówno z komputera lokalnego na serwer w Sieci, jak i z Sieci na komputer lokalny.</p>
 
 
@@ -141,7 +141,7 @@ Kolejną bardzo przydatną właściwością Pająka jest możliwość <a href="n
 	<li><a href="settings_network_ftpservers_add_map.php">Mapowanie ścieżki na serwerze FTP na adres URL</a>
 	<li><a href="main_tabs_myftpservers_on-offline.php">Praca na serwerze offline</a>
 	<li><a href="main_tabs_myftpservers_lockfile.php">Blokowanie dokumentów</a>
-	<li><a href="service_tool_synchronization.php">Synchronizacja serwisów</a>
+	<li><a href="service_tool_synchronization.php">Synchronizacja projektów</a>
 </ul>
 </td>
 </tr>

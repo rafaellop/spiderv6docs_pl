@@ -7,7 +7,7 @@
 <meta name="Authoring_tool" content="Pajak V6" />
 
 <!-- nazwa strony pomocy -->
-<title>HTML Help - HTML Help a serwisy w Pająku</title>
+<title>HTML Help - HTML Help a projekty w Pająku</title>
 
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha512-MoRNloxbStBcD8z3M/2BmnT+rg4IsMxPkXaGh2zD6LGNNFE80W3onsAhRcMAMrSoyWL9xD7Ert0men7vR8LUZg==" crossorigin="anonymous" />
@@ -32,19 +32,19 @@
 <td>
 
 <!-- nagłowek głowny tematu -->
-<h1>HTML Help - HTML Help a serwisy w Pająku</h1>
+<h1>HTML Help - HTML Help a projekty w Pająku</h1>
 
 
 
 <p>
-Ponieważ projekt HTML Help jest zawsze oddzielnym przedsięwzięciem, Pająk umożliwia potraktowanie takiego projektu jako osobnego <a href="service_properites.php">serwisu</a>. To pozwala na zastosowanie wobec takiego serwisu wszystkich mechanizmów przewidzianych dla serwisów, np. sprawdzać poprawność składni, prowadzić zaawansowane wyszukiwanie i zamianę, czy otwierać najczęściej używane pliki.<br /><br />
-Decydowanie czy projekt HTML jest jednocześnie serwisem odbywa się poprzez tworzenie nowego serwisu i zaznaczenie odpowiedniej opcji w jego oknie głównym
+Ponieważ projekt HTML Help jest zawsze oddzielnym przedsięwzięciem, Pająk umożliwia potraktowanie takiego projektu jako osobnego <a href="service_properites.php">projektu</a>. To pozwala na zastosowanie wobec takiego projektu wszystkich mechanizmów przewidzianych dla projektów, np. sprawdzać poprawność składni, prowadzić zaawansowane wyszukiwanie i zamianę, czy otwierać najczęściej używane pliki.<br /><br />
+Decydowanie czy projekt HTML jest jednocześnie projektem odbywa się poprzez tworzenie nowego projektu i zaznaczenie odpowiedniej opcji w jego oknie głównym
 </p>
 
 <h2>Ustawienia projektu HTML Help</h2>
 
-<p><b>Ten serwis jest również projektem HTML Help</b><br />
-Zaznaczenie tej opcji powoduje uaktywnienie wszystkich możliwości serwisu związanych z projektem HTML Help.
+<p><b>Ten projekt jest również projektem HTML Help</b><br />
+Zaznaczenie tej opcji powoduje uaktywnienie wszystkich możliwości projektu związanych z projektem HTML Help.
 </p>
 <p><b>Główny plik projektu HTML Help (<tt>.hhp</tt>)</b><br />
 W oknie tym należy wpisać pełną ścieżkę dostępu do głównego pliku projektu wraz z rozszerzeniem, albo wybrać z dysku, korzystając z przycisku obok pola. 
@@ -52,8 +52,8 @@ W oknie tym należy wpisać pełną ścieżkę dostępu do głównego pliku proj
 <p><b>Kompiluj projekt</b><br />
 Przycisk ten uruchamia natychmiastową kompilację wskazanego projektu.
 </p>
-<p><b>Skompiluj szybko ten serwis</b><br />
-Po skorzystaniu z tej opcji uruchomione zostaje okno dialogowe <a href="tool_htmlhelp_folder_to_chm.php">szybkiego kompilowania</a> serwisu do postaci CHM.
+<p><b>Skompiluj szybko ten projekt</b><br />
+Po skorzystaniu z tej opcji uruchomione zostaje okno dialogowe <a href="tool_htmlhelp_folder_to_chm.php">szybkiego kompilowania</a> projektu do postaci CHM.
 </p>
 <p><b>Edytuj projekt</b><br />
 Przycisk ten uruchamia <a href="tool_htmlhelp_hhp_editor.php">edytor projektu</a>, co umożliwia wprowadzenie poprawek lub sporządzenie projektu od nowa.
@@ -87,7 +87,7 @@ Jeżeli klikniemy na tym przycisku, otwarty zostanie program HTML Help Workshop,
 	<li><a href="tool_htmlhelp_folder_to_chm.php">Szybki HTML Help z folderu</a>
 	<li><a href="tool_htmlhelp_hhp_compilation.php">Kompiluj dokument HTML Help</a>
 	<li><a href="tool_htmlhelp_compiler_info.php">Informacja dla kompilatora HTML Help</a>
-	<li><a href="service_properites.php">Właściwości serwisu</a>
+	<li><a href="service_properites.php">Właściwości projektu</a>
 </ul>
 </td>
 </tr>

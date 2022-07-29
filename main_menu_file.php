@@ -104,7 +104,7 @@ To polecenie uruchamia narzędzie <a href="tool_chameleon.php">Kameleon - zmiana
 <hr>
 
 <p><a href="find_ext.php"> Rozszerzone wyszukiwanie + konwerter znaków</a><br />
-Uruchamia najbardziej rozbudowane narzędzie Pająka służące do wyszukiwania i zamiany. Wykorzystując "Rozszerzone wyszukiwanie i zamianę" możesz wyszukiwać i zamieniać tekst w aktualnym dokumencie, wszystkich otwartych, we wszystkich lub określonych dokumentach Serwisów lub wybranych folderów, zmieniać w nich kodowanie znaków, a także sprawdzać poprawność pisowni itd.</p>
+Uruchamia najbardziej rozbudowane narzędzie Pająka służące do wyszukiwania i zamiany. Wykorzystując "Rozszerzone wyszukiwanie i zamianę" możesz wyszukiwać i zamieniać tekst w aktualnym dokumencie, wszystkich otwartych, we wszystkich lub określonych dokumentach Projektów lub wybranych folderów, zmieniać w nich kodowanie znaków, a także sprawdzać poprawność pisowni itd.</p>
 
 <p><a href="find.php#filesearchinfo"> Wyszukiwanie plików i katalogów</a><br />
 Wyświetla okno wyszukiwania plików i katalogów na <a href="down_find_report.php">dolnym panelu programu</a>.</p>

@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
 <meta charset="utf-8">
@@ -47,9 +47,9 @@
 <h2>Poprzedni współpracownicy</h2>
 <p>Te osoby pomagały nam przy poprzednich wersjach Pająka i Skryby, jednak z różnych powodów nie mogą już uczestniczyć w tym projekcie. Pamiętamy jednak o nich i serdecznie dziękujemy!</p>
 <b>Paweł Grajewski</b> - programowanie<br>
-<b>Marek "Reggi" Reinowski</b> - programowanie, pomoc do programu, schematy kolorowania, makrokody i inne<br clear="all" />
-<b>Sławomir "swavec" Biela</b> - grafik, logo Pająka, szablony, projekt serwisu<br clear="all" />
-<b>Marek "lockoom" Pawłowski</b> - zen-coding, makrokody, testowanie<br clear="all" />
+<b>Marek "Reggi" Reinowski</b> - programowanie, pomoc do programu, schematy kolorowania, szablony i inne<br clear="all" />
+<b>Sławomir "swavec" Biela</b> - grafik, logo Pająka, szablony, projekt projektu<br clear="all" />
+<b>Marek "lockoom" Pawłowski</b> - zen-coding, szablony, testowanie<br clear="all" />
 <b>Krzysztof "Volcano" Derlatka</b> - testowanie<br clear="all">
 <b>Radosław Cetra</b> - testowanie<br clear="all" />
 <b>Łukasz A. "Lucas" Grabowski</b> - testowanie<br clear="all" />
@@ -83,7 +83,7 @@
 <b>Tomasz Pawłowski</b> - testowanie<br />
 <b>Maria "santana" Plesińska</b> - testowanie<br />
 <b>Adam Skawiński</b> - testowanie<br />
-<b>Marek "swmarek" Świtniewski</b> - makrokody, pomoc, testowanie<br>
+<b>Marek "swmarek" Świtniewski</b> - szablony, pomoc, testowanie<br>
 <b>Jan C. Stradowski</b> - testowanie<br />
 <b>Marcin Szumiela</b> - aplety Java w Pająku 2000, testowanie<br />
 <b>Przemysław Adam Śmiejek</b> - generator ramek w Pająku 2000, częściowo pomoc, testowanie<br />

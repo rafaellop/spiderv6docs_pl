@@ -36,7 +36,7 @@
 
 <!-- treść pomocy -->
 
-<p>Okno to przedstawia i umożliwia edycję szeregu informacji na temat wskazanego dokumentu i powiązaniach z innymi dokumentami, pozwala na zarządzanie zadaniami i zakładkami, przedstawia informacje o przewidywanym transferze w sieci itp. Za pomocą tego okna możesz wpisywać notatki i wybierać status dokumentu, co jest bardzo przydatne przy pracy grupowej nad serwisem.</p>
+<p>Okno to przedstawia i umożliwia edycję szeregu informacji na temat wskazanego dokumentu i powiązaniach z innymi dokumentami, pozwala na zarządzanie zadaniami i zakładkami, przedstawia informacje o przewidywanym transferze w sieci itp. Za pomocą tego okna możesz wpisywać notatki i wybierać status dokumentu, co jest bardzo przydatne przy pracy grupowej nad projektem.</p>
 
 <p><i><b>Uwaga!</b> W Pająku.1.0 okno to zostało gruntownie przebudowane, co zwiększyło jego czytelność i funkcjonalność, a jednocześnie zbliżyło wygląd do innych okien programu.</i></p>
 
@@ -47,7 +47,7 @@
 
 <p>Dokument, dla którego mają być przedstawione i edytowane informacje możesz wskazać na dwa sposoby. 
 <ol>
-	<li>Aby uzyskać informację a temat dowolnego dokumentu w serwisie, wskaż wskaż go w zakładce <a href="main_tabs_myservices.php">Moje serwisy</a> (wystarczy raz kliknąć, nie trzeba go otwierać).</li>
+	<li>Aby uzyskać informację a temat dowolnego dokumentu w projekcie, wskaż wskaż go w zakładce <a href="main_tabs_myservices.php">Moje projekty</a> (wystarczy raz kliknąć, nie trzeba go otwierać).</li>
 	<li>Aby uzyskać informacje na temat bieżącego pliku otwartego w edytorze wystarczy postawić na nim kursor. </li>
 </ol></p>
 
@@ -102,7 +102,7 @@ Wybierz z listy status dokumentu. Dostępne są następujące pozycje:</p>
 
 
 <p><b>Autor dokumentu</b><br />
-Jeśli wskazałeś dokument na liście plików zakładki Moje serwisy, wyświetla nazwę użytkownika, który jako ostatni zapisał bieżący dokument (swoją nazwę użytkownika możesz wpisać w oknie <a href="settings_user.php">Ustawienia programu - Użytkownik</a>).<br />
+Jeśli wskazałeś dokument na liście plików zakładki Moje projekty, wyświetla nazwę użytkownika, który jako ostatni zapisał bieżący dokument (swoją nazwę użytkownika możesz wpisać w oknie <a href="settings_user.php">Ustawienia programu - Użytkownik</a>).<br />
 Jeśli wskazałeś dokument w oknie edytora, będzie tu umieszczona informacja <i><tt>w trakcie edycji</tt></i></p>
 
 <p><b>Notatki</b><br />
@@ -121,14 +121,14 @@ Poniżej pola testowego notatki znajduje się kilka opcji związanych z wyświet
 	<li><b>pokazuj numery linii</b> - zaznacz, jeśli na rynnie z prawej strony okna edytora mają być pokazywane numery linii</li>
 	<li><b>pokazuj znaki specjalne</b> - zaznacz jeśli w oknie edytora mają być pokazywane znaki specjalne, jak tabulator, znak końca wiersza itd.</li>
 	<li><b>kolorowanie</b> - wybierz z listy schemat kolorowania, jaki ma być zastosowany do bieżącego dokumentu</li>
-	<li><b>wymuszone kodowanie</b> - wybierz z listy kodowanie znaków narodowych, jakie ma być stosowane dla tego dokumentu przy odczycie i zapisie (bez względu na kodowanie ustawione dla serwisu bądź globalnie dla całego programu, a nawet w sekcji META tego dokumentu).</li>
+	<li><b>wymuszone kodowanie</b> - wybierz z listy kodowanie znaków narodowych, jakie ma być stosowane dla tego dokumentu przy odczycie i zapisie (bez względu na kodowanie ustawione dla projektu bądź globalnie dla całego programu, a nawet w sekcji META tego dokumentu).</li>
 	<li><b>końce linii</b> - wybierz z listy sposób kodowania znaków końca wiersza (dostępne są trzy style kodowania: CRLF (DOS/Windows), CR (Mac) i LF (Unix)).</li>
-	<li>Język dokumentu - wybierz z listy język znacznikowy, który będzie domyślnie używany do tworzenia dokumentu. W ten sposób możesz zmienić zachowanie się programu określone w oknie <b>Ustawienia programu</b> oraz <b>Właściwości serwisu</b>. Ustawienie to będzie używane w sytuacji, gdy rozpoznanie typu dokumentu przy pomocy standardowych metod (DOCTYPE, xlmns) nie będzie możliwe. Lista zawiera nazwy wszystkich kategorii (wszystkie języki znacznikowe) obsługiwane przez Pająka. Możesz zmienić zawartość listy (dodać i usunąć język, a także zmodyfikować jego ustawienia) za pomocą <a href="tagdata_editor_tdf.php">Edytora TDF</a>.</li>
+	<li>Język dokumentu - wybierz z listy język znacznikowy, który będzie domyślnie używany do tworzenia dokumentu. W ten sposób możesz zmienić zachowanie się programu określone w oknie <b>Ustawienia programu</b> oraz <b>Właściwości projektu</b>. Ustawienie to będzie używane w sytuacji, gdy rozpoznanie typu dokumentu przy pomocy standardowych metod (DOCTYPE, xlmns) nie będzie możliwe. Lista zawiera nazwy wszystkich kategorii (wszystkie języki znacznikowe) obsługiwane przez Pająka. Możesz zmienić zawartość listy (dodać i usunąć język, a także zmodyfikować jego ustawienia) za pomocą <a href="tagdata_editor_tdf.php">Edytora TDF</a>.</li>
 </ul>
 
 <p><b>Wymuszone dołączanie</b><br />
 
-Kliknij ten przycisk, aby uruchomić okno służące do wyboru plików, które mają być analizowane przez Pająka na potrzeby różnych mechanizmów podpowiedzi. Więcej na ten temat czytaj w temacie <a href="service_properites.php#virtual_include">Okno właściwości serwisu</a>
+Kliknij ten przycisk, aby uruchomić okno służące do wyboru plików, które mają być analizowane przez Pająka na potrzeby różnych mechanizmów podpowiedzi. Więcej na ten temat czytaj w temacie <a href="service_properites.php#virtual_include">Okno właściwości projektu</a>
 
 
 <a name="general2"></a>
@@ -161,7 +161,7 @@ Przedstawione liczby słów i znaków w słowach nie dotyczą zawartości znaczn
 <ul>
 	<li><b>Etykiety w dokumencie</b> - ilość etykiet w dokumencie</li>
 	<li><b>Odnośniki do etykiet</b> - ilość odnośników do etykiet w ty samym dokumencie</li>
-	<li><b>Odnośniki do lokalnych</b> - ilość odnośników do dokumentów w tym samym serwisie (ścieżki względne)</li>
+	<li><b>Odnośniki do lokalnych</b> - ilość odnośników do dokumentów w tym samym projekcie (ścieżki względne)</li>
 	<li><b>Odnośniki do zdalnych</b> - ilość odnośników do dokumentów w Sieci</li>
 </ul></p>
 

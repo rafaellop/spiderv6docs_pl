@@ -59,13 +59,13 @@ Narzędzie uruchomisz z poziomu <a href="main_menu_main.php">Menu głównego</a>
 	<li><b>Zaznaczony tekst</b></li>
 	<li><b>Aktualny dokument</b></li>
 	<li><b>Wszystkie otwarte</b> - wszystkie dokumenty otwarte aktualnie w Pająku</li>
-	<li><b>Serwis WWW</b> - wybierz z listy serwis, którego dokumenty mają być poddane korekcie. Możesz określić za pomocą odpowiednich ustawień, czy uwzględniane mają być wyłącznie pliki HTML, bądź samodzielnie podać rozszerzenia nazw plików (w postaci np.: <tt>*.php;*.php3</tt>)</li>
+	<li><b>Projekt WWW</b> - wybierz z listy projekt, którego dokumenty mają być poddane korekcie. Możesz określić za pomocą odpowiednich ustawień, czy uwzględniane mają być wyłącznie pliki HTML, bądź samodzielnie podać rozszerzenia nazw plików (w postaci np.: <tt>*.php;*.php3</tt>)</li>
 	<li><b>Foldery</b> - korekcie poddane zostaną pliki zawarte w folderach umieszczonych na liście. Foldery możesz dodawać i usuwać za pomocą poleceń obok listy. Dodatkowo możesz określić typy plików, jakie mają zostac uwzględnione, a także, czy Pająk ma przeszukiwać wszystkie podfoldery umieszczone we wskazanych folderach.</li>
 	<li><b>Pliki</b> - korekcie poddane zostaną pliki umieszczone na liście. Możesz je dodawać i usuwać za pomocą poleceń obok listy. </li>
 </ul>
 
 <p><b>Twórz kopie bezpieczeństwa (*.bak)</b><br />
-Zaznacz tę opcję, by podczas przeprowadzania korekty tworzone były kopie bezpieczeństwa zapisywanych plików (ustawienie to dostępne jest tylko w przypadku wybrania jednego z zakresów: <b>Serwis WWW</b>, <b>Foldery</b>, <b>Pliki</b>). 
+Zaznacz tę opcję, by podczas przeprowadzania korekty tworzone były kopie bezpieczeństwa zapisywanych plików (ustawienie to dostępne jest tylko w przypadku wybrania jednego z zakresów: <b>Projekt WWW</b>, <b>Foldery</b>, <b>Pliki</b>). 
 
 <p><b>Pomijaj tekst w tabelach</b><br />
 Zaznacz tę opcję, by podczas przeprowadzania korekty pomijane były teksty umieszczone w tabeli. Jest to czasem konieczne, gdy tabele mają wąskie kolumny - w takim wypadku przeprowadzenie korekty mogłoby pogorszyć wizualny efekt. 

@@ -43,10 +43,10 @@
 <p>Panel po lewej można wyświetlić lub ukryć za pomocą skrótu klawiszowego F9, polecenia <a href="main_menu_main.php">Menu głównego</a> / <a href="main_menu_view.php">Wyświetl</a> lub przycisku na pasku przycisków oznaczonego ikoną pokazaną powyżej. Panel po lewej składa się z następujących zakładek:
 
 <ul>
-	<li><a href="main_tabs_myservices.php">Moje serwisy</a> - zakładka pozwala na zarządzanie plikami znajdującymi się na dysku lokalnym
+	<li><a href="main_tabs_myservices.php">Moje projekty</a> - zakładka pozwala na zarządzanie plikami znajdującymi się na dysku lokalnym
 	<li><a href="main_tabs_inspector_tags.php">Inspektor znaczników</a> - zakładka inspektora znaczników pozwala na dynamiczną modyfikację znaczników, w których znajduje się kursor.
 	<li><a href="main_tabs_inspector_css.php">Inspektor CSS</a> - zakładka inspektora CSS pozwala na dynamiczną modyfikację selektorów stylów używanych w dokumentach lub dowiązanych do dokumentów arkuszach stylów.
-	<li><a href="main_tabs_macrocodes.php">Makrokody</a> - zakładka ta pozwala na dostęp do tzw. makrokodów, czyli fragmentów kodu programów, które mogą być umieszczane w dokumentach.
+	<li><a href="main_tabs_macrocodes.php">Szablony</a> - zakładka ta pozwala na dostęp do tzw. szablonów, czyli fragmentów kodu programów, które mogą być umieszczane w dokumentach.
 </ul>
 
 <h2><a name="tabs_rightpanel"></a>Zakładki w panelu po prawej</h2>

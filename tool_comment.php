@@ -46,7 +46,7 @@
 Okno narzędzia składa się z pola tekstowego służącego do wpisywania komentarza oraz kilku ikon, za pomocą których możesz wstawić do komentarza często używane treści:
 
 <p> - tworzy komentarz na podstawie pliku informacji o dokumencie</p>
-<p> - umożliwia wybór serwisu, i na tworzy komentarz na podstawie informacji o tym serwisie</p>
+<p> - umożliwia wybór projektu, i na tworzy komentarz na podstawie informacji o tym projekcie</p>
 <p> - wstawia do komentarza bieżącą datę i godzinę</p>
 <p> - wstawia do komentarze nazwę bieżącego użytkownika programu</p>
 

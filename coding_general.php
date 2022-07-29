@@ -38,7 +38,7 @@
 <!-- treść pomocy -->
 
 
-<p>Pająk w znaczącym stopniu wspomaga tworzenie dokumentów w różnych językach. Oczywiście największy nacisk położony został na język HTML i jego następcę XHTML. Jednak dla innych języków wykorzystywanych w pracy nad serwisami internetowymi również zapewnione jest wsparcie w niespotykanej dotąd w skali.</p>
+<p>Pająk w znaczącym stopniu wspomaga tworzenie dokumentów w różnych językach. Oczywiście największy nacisk położony został na język HTML i jego następcę XHTML. Jednak dla innych języków wykorzystywanych w pracy nad projektami internetowymi również zapewnione jest wsparcie w niespotykanej dotąd w skali.</p>
 
 <p>Narzędzia wspomagające tworzenie kodu w największym stopniu obsługują języki:</p>
 

@@ -66,14 +66,14 @@
 	<li>we wszystkich otwartych dokumentach</li>
 	<li>we wskazanych folderach</li>
 	<li>we wskazanych plikach</li>
-	<li>we wskazanych serwisach</li>
+	<li>we wskazanych projektach</li>
 </ul></p>
 
 <p>Korzystając z tego narzędzia możesz używać zwykłego tekstu, <a href="find_regexp.php">wyrażeń regularnych</a>,  jak i tzw. <a href="find_ext.php#wildcards">wildcards</a>.</p>
 
 <p>Narzędzie możesz otworzyć na różne sposoby:</p>
 <ul>
-	<li>z poziomu zakładki <a href="main_tabs_myservices.php">Moje serwisy</a> za pomocą przycisków: "Wyszukaj, lub wyszukaj i zamień" w menu obok listy plików, "Wyszukiwanie i zamiana w serwisie" w menu serwisu<br />
+	<li>z poziomu zakładki <a href="main_tabs_myservices.php">Moje projekty</a> za pomocą przycisków: "Wyszukaj, lub wyszukaj i zamień" w menu obok listy plików, "Wyszukiwanie i zamiana w projekcie" w menu projektu<br />
 
 	<li>w menu <a href="main_menu_find.php">Szukaj</a> za pomocą przycisku Rozszerzone wyszukiwanie + konwerter znaków
 	<li>za pomocą skrótu klawiszowego - standardowo Ctrl+Shift+R

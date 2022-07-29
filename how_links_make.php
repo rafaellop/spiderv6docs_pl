@@ -46,7 +46,7 @@
 <p><b>Najprostrze utworzenie odsyłacza</b><br />
 Aby najszybciej utworzyć odsyłacz:</p>
 <ol>
-	<li>Przeciągnij do edytowanego dokumentu dokument z listy plików na zakładce <a href="main_tabs_myservices.php">Moje serwisy</a>. </li>
+	<li>Przeciągnij do edytowanego dokumentu dokument z listy plików na zakładce <a href="main_tabs_myservices.php">Moje projekty</a>. </li>
 	<li>W oknie <a href="tool_link.php">Wstawianie odnośnika</a>, które się otworzy wpisz tekst, który ma być odsyłaczem (np. 'Kliknij tu by przejść na następną stronę...'), wciśnij przycisk OK i... to wszystko.</li>
 </ol>
 

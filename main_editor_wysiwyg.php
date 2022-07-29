@@ -97,7 +97,7 @@
 								<br>
 								Aby wstawić obrazek na stronę, użyj
 								narzędzia <a href="tool_graphic_insert.php">Wstawianie grafiki</a>.
-								Możesz tez dwukliknąć nazwę pliku obrazka na liście plików w zakładce <a href="main_tabs_myservices.php">Moje serwisy</a>(narzędzie do wstawiania
+								Możesz tez dwukliknąć nazwę pliku obrazka na liście plików w zakładce <a href="main_tabs_myservices.php">Moje projekty</a>(narzędzie do wstawiania
 								grafiki uruchomi się automatycznie). Możesz tez skorzystać ze skrótu
 								klawiszowego (standardowo<tt>Shift+Ctrl+I</tt>). Nie jest obsługiwane
 								natomiast przeciąganie obrazków do dokumentu.

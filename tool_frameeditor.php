@@ -148,7 +148,7 @@ Podaj rozmiar ramki (szerokość - gdy ramki obok siebie, wysokość, gdy jedna 
 </ul>
 
 <p><b>Zabezpiecz przed zmianą rozmiaru</b><br />
-Zaznacz tę opcję, jeśli chcesz, by gość serwisu nie mógł zmienić rozmiaru ramki. W przeciwnym wypadku, gdy umieści myszkę nad miejscem, w którym kończy się ramka, będzie mógł je "chwycić" i zmienić rozmiar ramki.
+Zaznacz tę opcję, jeśli chcesz, by gość projektu nie mógł zmienić rozmiaru ramki. W przeciwnym wypadku, gdy umieści myszkę nad miejscem, w którym kończy się ramka, będzie mógł je "chwycić" i zmienić rozmiar ramki.
 
 <p><b>Suwaki</b><br /><br />
 Wybierz, czy w ramce mają być widoczne paski przewijania. Dostępne są trzy opcje:

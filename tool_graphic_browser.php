@@ -49,7 +49,7 @@ Okno składa się z trzech części:
 <p>Pasek przycisków służy do przełączania widoku listy plików oraz wyboru rodzaju podglądu. Dostępne są następujące polecenia:</p>
 
 <ul>
-	<li><b>Wybierz serwis do przeglądania</b> - kliknij, aby szybko przenieść się do foldera wybranego <a href="main_tabs_myservices.php">Serwisu,</a></li>
+	<li><b>Wybierz projekt do przeglądania</b> - kliknij, aby szybko przenieść się do foldera wybranego <a href="main_tabs_myservices.php">Projektu,</a></li>
 	<li><b>Duże ikony</b>, <b>Małe ikony</b>, <b>Lista</b>, <b>Szczegóły</b> - kliknij jeden z przycisków, aby wybrać sposób wyświetlania plików na liście poniżej,</li>
 	<li><b>Rozciągnięcie obrazka do wymiarów obszaru</b> - kliknij, aby wybrany obrazek został powiększony do rozmiarów obszaru podglądu,</li>
 	<li><b>Symulacja tła</b> - kliknij, aby obrazek został wielokrotnie powtórzony tworząc tło obszaru podglądu. Jeśli wybierzesz tę opcję, w obszarze podglądu zostanie wyświetlony przykładowy tekst, a obok przycisków pojawią się pola umożliwiające zmianę treści i koloru tekstu.</li>

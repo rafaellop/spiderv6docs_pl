@@ -170,7 +170,7 @@ Druga gałąź zawiera listę skryptów dołączanych do aktualnego skryptu (np 
 
 <p>Zawartość gałęzi każdego skryptu dołączanego jest analogiczna, jak w przypadku gałęzi <b>Skrypty PHP w bieżącym dokumencie</b> i umożliwia przechodzenie do wybranych miejsc w dokumencie dołączonym!</p>
 
-<b>Wymuszone dołączanie</b> - zawiera listę plików i folderów, których dołączenie zostało wymuszone dla serwisu bądź dla bieżącego skryptu. Więcej o <a href="service_virtual_include.php">wymuszonym dołączaniu</a>.
+<b>Wymuszone dołączanie</b> - zawiera listę plików i folderów, których dołączenie zostało wymuszone dla projektu bądź dla bieżącego skryptu. Więcej o <a href="service_virtual_include.php">wymuszonym dołączaniu</a>.
 
 
 <h2><a name="asp"></a>Nawigator ASP</h2>

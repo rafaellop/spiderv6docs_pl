@@ -38,7 +38,7 @@
 
 <!-- treść pomocy -->
 
-<p>Za pomocą narzędzia "Rozszerzone wyszukiwanie i zamiana" można wykonać trzy podstawowe typy operacji: wyszukiwanie i zamianę tekstu, konwersję znaków narodowych oraz uruchomić sprawdzanie poprawności pisowni. Można również określić zakres działania - od pojedynczego dokumentu, po cały serwis (lub nawet szerzej).</p>
+<p>Za pomocą narzędzia "Rozszerzone wyszukiwanie i zamiana" można wykonać trzy podstawowe typy operacji: wyszukiwanie i zamianę tekstu, konwersję znaków narodowych oraz uruchomić sprawdzanie poprawności pisowni. Można również określić zakres działania - od pojedynczego dokumentu, po cały projekt (lub nawet szerzej).</p>
 
 <h2>Sposób działania</h2>
 
@@ -92,7 +92,7 @@ Zaznacz tę opcję, jeśli nie chcesz, by po wykonanej zamianie pokazywał się 
 
 <a name="backups"></a>
 <p><b>Twórz kopie bezpieczeństwa przy modyfikacji plików</b><br />
-<p>Zaznacz tę opcję, jeśli podczas zmian w dokumentach otwieranych bezpośrednio z twardego dysku (opcje 'w wybranym serwisie', 'w folderach', lub 'w plikach' w sekcji Źródło) mają być tworzone <a href="main_editor_backups.php">kopie bezpieczeństwa</a> oryginalnych, nie zmienionych dokumentów. Dzięki tej opcji, w przypadku gdy zmiany będą inne od zamierzonych, możesz przywrócić oryginalne dokumenty.</p>
+<p>Zaznacz tę opcję, jeśli podczas zmian w dokumentach otwieranych bezpośrednio z twardego dysku (opcje 'w wybranym projekcie', 'w folderach', lub 'w plikach' w sekcji Źródło) mają być tworzone <a href="main_editor_backups.php">kopie bezpieczeństwa</a> oryginalnych, nie zmienionych dokumentów. Dzięki tej opcji, w przypadku gdy zmiany będą inne od zamierzonych, możesz przywrócić oryginalne dokumenty.</p>
 
 <p><b>Nie konwertuj przy wyszukiwaniu</b><br />
 Zaznacz, aby przy wyszukiwaniu tekstu nie była przeprowadzana konwersja kodowania. Zaznaczenie tej opcji ta jest potrzebne w przypadku, gdy w przeszukiwanych dokumentach nie ma w sekcji HEAD oznaczenia kodowania, a jednocześnie nie ma być zmieniane kodowanie (np. dla plików dołączanych do innych dokumentów w skryptach serwer-side, np. za pomocą include w PHP).</p>
@@ -102,17 +102,17 @@ Zaznacz, aby przy wyszukiwaniu tekstu nie była przeprowadzana konwersja kodowan
 
 <h2>Źródło</h2>
 
-<p>Za pomocą ustawień w tej sekcji zakładki "Ustawienia wyszukiwania i zamiany" możliwe jest określenie zakresu działania narzędzia - od aktualnie edytowanego dokumentu, aż do ściśle określonych rodzajów dokumentów w wybranym Serwisie, folderach itd. W zależności od wybranego zakresu (źródła danych) dostępne są opcje:</p>
+<p>Za pomocą ustawień w tej sekcji zakładki "Ustawienia wyszukiwania i zamiany" możliwe jest określenie zakresu działania narzędzia - od aktualnie edytowanego dokumentu, aż do ściśle określonych rodzajów dokumentów w wybranym Projekcie, folderach itd. W zależności od wybranego zakresu (źródła danych) dostępne są opcje:</p>
 
 <p><b>w aktywnym dokumencie</b> - operacje będą przeprowadzane na dokumencie aktualnie otwartym w edytorze. Nie ma dodatkowych opcji.</p>
 
 <p><b>we wszystkich otwartych</b> - operacje będą przeprowadzane na wszystkich dokumentach otwartych aktualnie w Pająku. Nie ma dodatkowych opcji.</p>
 
-<p><b>w wybranym serwisie</b> - operacje będą wykonywane na wszystkich plikach <a href="services_general.php">Serwisu</a> wybranego z listy (przy czym pomijane są pliki i foldery <a href="service_properites.php#servicepropertiesoftenused">wyłączone z widoku w ustawieniach serwisu</a>. Można zawęzić rodzaje plików do:
+<p><b>w wybranym projekcie</b> - operacje będą wykonywane na wszystkich plikach <a href="services_general.php">Projektu</a> wybranego z listy (przy czym pomijane są pliki i foldery <a href="service_properites.php#servicepropertiesoftenused">wyłączone z widoku w ustawieniach projektu</a>. Można zawęzić rodzaje plików do:
 	<ul>
 		<li><b>dokumenty HTML</b> - pliki o rozszerzeniach określonych jako "dokumenty HTML" w oknie "Ustawienia programu" na zakładce "Lista plików"</li>
 		<li><b>pliki:</b> - pole tekstowe umożliwia wpisanie rozszerzeń plików w celu zawężenia rodzajów dokumentów, jakie mają być brane pod uwagę. Rozszerzenia należy podawać w postaci np. <tt>*.php;*.php3;*.php4</tt>.</li>
-		<li><b>Pomiń pliki/foldery przy wyszukiwaniu i zamianie</b> - do listy poniżej dodaj pliki, bądź foldery, które mają być pomijane przy wyszukiwaniu i zamianie w wybranym serwisie</li>
+		<li><b>Pomiń pliki/foldery przy wyszukiwaniu i zamianie</b> - do listy poniżej dodaj pliki, bądź foldery, które mają być pomijane przy wyszukiwaniu i zamianie w wybranym projekcie</li>
 	</ul>
 </p>
 
@@ -157,8 +157,8 @@ Lista zawiera szablony wyszukiwania. Domyślnie dostępne są najczęściej uży
              <li><b>Nazwa pliku bez ścieżki dostępu</b>: (zmienna <tt>%paj_filename%</tt>) wstawia nazwę pliku, w którym dokonywana jest zamiana,</li>
              <li><b>Nazwa pliku ze ścieżką dostępu</b>:  (zmienna <tt>%paj_filefullpath%</tt>) wstawia ścieżkę dostępu i nazwę pliku, w którym dokonywana jest zamiana,</li>
              <li><b>Ścieżka dostępu bez nazwy pliku</b>: (zmienna <tt>%paj_filepath%</tt>) wstawia ścieżkę dostępu do pliku, w którym dokonywana jest zamiana,</li>
-             <li><b>Nazwa pliku ze ścieżką względną (tylko serwis WWW)</b>: (zmienna <tt>%paj_filerelfullpath%</tt>) wstawia ścieżkę dostępu (względem głównego katalogu serwisu) i nazwę pliku, w którym dokonywana jest zamiana,</li>
-             <li><b>Ścieżka względna pliku w serwisie WWW</b>: (zmienna <tt>%paj_filerelpath%</tt>) wstawia ścieżkę dostępu (względem głównego katalogu serwisu) do pliku, w którym dokonywana jest zamiana,</li>
+             <li><b>Nazwa pliku ze ścieżką względną (tylko projekt WWW)</b>: (zmienna <tt>%paj_filerelfullpath%</tt>) wstawia ścieżkę dostępu (względem głównego katalogu projektu) i nazwę pliku, w którym dokonywana jest zamiana,</li>
+             <li><b>Ścieżka względna pliku w projekcie WWW</b>: (zmienna <tt>%paj_filerelpath%</tt>) wstawia ścieżkę dostępu (względem głównego katalogu projektu) do pliku, w którym dokonywana jest zamiana,</li>
              <li><b>Data i czas modyfikacji dokumentu</b>: (zmienna <tt>%paj_filedatetime%</tt>) wstawia datę i czas ostatniego zapisu dokumentu, w którym dokonywana jest zamiana (w formacie RRRR-MM-DD GG-MM-SS),</li>
              <li><b>Status dokumentu</b>: (zmienna <tt>%paj_filestatus%</tt>) wstawia status dokumentu, w którym dokonywana jest zamiana (status dokumentu można ustawić w oknie "Informacje o dokumencie")</li>
              <li><b>Komentarz pliku</b>: (zmienna <tt>%paj_filecomment%</tt>) wstawia komentarz dokumentu, w którym dokonywana jest zamiana (komentarz dokumentu można podać w oknie "Informacje o dokumencie")</li>

@@ -7,7 +7,7 @@
 <meta name="Authoring_tool" content="Pajak V6" />
 
 <!-- nazwa strony pomocy -->
-<title>Wspomaganie dla PHP - Makrokody, szablony kodu</title>
+<title>Wspomaganie dla PHP - Szablony, szablony kodu</title>
 
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha512-MoRNloxbStBcD8z3M/2BmnT+rg4IsMxPkXaGh2zD6LGNNFE80W3onsAhRcMAMrSoyWL9xD7Ert0men7vR8LUZg==" crossorigin="anonymous" />
@@ -32,7 +32,7 @@
 <td>
 
 <!-- nagłowek głowny tematu -->
-<h1>Wspomaganie dla PHP - Makrokody, szablony kodu</h1>
+<h1>Wspomaganie dla PHP - Szablony, szablony kodu</h1>
 
 
 
@@ -40,10 +40,10 @@
 
 
 
-<p>Jeśli nie pamiętasz dokładnej składni instrukcji, jak np. <b><tt>if</tt></b>, lub nie chce Ci się wpisywać całego kodu deklaracji klasy, możesz skorzystać z przygotowanych makrokodów. W tym celu przejdź do zakładki <a href="main_tabs_macrocodes.php">Makrokody</a>. Interesujące nas w tej chwili makrokody znajdują się w gałęzi Makrokody / Szablony kodu / PHP. </p>
-<p>Z ich pomocą możesz wstawić nawet kompletne fragmenty kodu deklaracji klasy, wraz konstruktorem, opisem klasy w komentarzu itp. Dostępne są też prostrze makrokody zawierające podstawowe elementy, bez rozbudowanych możliwości z wykorzystaniem bloków i zmiennych makrokodu.</p>
+<p>Jeśli nie pamiętasz dokładnej składni instrukcji, jak np. <b><tt>if</tt></b>, lub nie chce Ci się wpisywać całego kodu deklaracji klasy, możesz skorzystać z przygotowanych szablonów. W tym celu przejdź do zakładki <a href="main_tabs_macrocodes.php">Szablony</a>. Interesujące nas w tej chwili szablony znajdują się w gałęzi Szablony / Szablony kodu / PHP. </p>
+<p>Z ich pomocą możesz wstawić nawet kompletne fragmenty kodu deklaracji klasy, wraz konstruktorem, opisem klasy w komentarzu itp. Dostępne są też prostrze szablony zawierające podstawowe elementy, bez rozbudowanych możliwości z wykorzystaniem bloków i zmiennych szablonu.</p>
 
-<p>Więcej o korzystaniu z makrokodów czytaj w temacie <a href="macrocodes_using.php">Makrokody dostarczone z programem</a></p>
+<p>Więcej o korzystaniu z szablonów czytaj w temacie <a href="macrocodes_using.php">Szablony dostarczone z programem</a></p>
 
 
 
@@ -58,11 +58,11 @@
 <h4>Pokrewne tematy</h4>
 <ul>
 	<li><a href="coding_php.php">Wspomaganie dla PHP - ogólnie</a></li>
-	<li><a href="main_tabs_macrocodes.php">Zakładka "Makrokody"</a></li>
-	<li><a href="macrocodes.php">Makrokody - ogólnie</a>
-	<li><a href="settings_macrocodes.php">Ustawienia makrokodów</a>
-	<li><a href="macrocodes_editor.php">Edytor makrokodów</a>
-	<li><a href="macrocodes_instruction.php">Tworzenie makrokodu - instrukcja krok po kroku</a>
+	<li><a href="main_tabs_macrocodes.php">Zakładka "Szablony"</a></li>
+	<li><a href="macrocodes.php">Szablony - ogólnie</a>
+	<li><a href="settings_macrocodes.php">Ustawienia szablonów</a>
+	<li><a href="macrocodes_editor.php">Edytor szablonów</a>
+	<li><a href="macrocodes_instruction.php">Tworzenie szablonu - instrukcja krok po kroku</a>
 </ul>
 </td>
 </tr>

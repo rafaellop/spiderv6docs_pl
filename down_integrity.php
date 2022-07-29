@@ -13,7 +13,7 @@
 </head>
 
 <!-- nazwa strony pomocy -->
-<title>Dolny panel wyników - Sprawdzanie spójności serwisu</title>
+<title>Dolny panel wyników - Sprawdzanie spójności projektu</title>
 
 <body>
 
@@ -33,58 +33,58 @@
 <td>
 
 <!-- nagłowek głowny tematu -->
-<h1>Dolny panel wyników - Sprawdzanie spójności serwisu</h1>
+<h1>Dolny panel wyników - Sprawdzanie spójności projektu</h1>
 
 
 
 <!-- treść pomocy -->
 
 
-<p>Sprawdzanie spójności serwisu służy do weryfikacji połączeń pomiędzy plikami serwisu i wskazuje elementy, które nie są wykorzystywane w serwisie. Pozwala to na łatwe utrzymywanie porządku w plikach serwisu.</p>
+<p>Sprawdzanie spójności projektu służy do weryfikacji połączeń pomiędzy plikami projektu i wskazuje elementy, które nie są wykorzystywane w projekcie. Pozwala to na łatwe utrzymywanie porządku w plikach projektu.</p>
 
 <p>Sprawdzane są zarówno łącza do obrazków i dokumentów w językach znaczników, jak również dołączania plików w językach skryptowych server-side (np. include w PHP).</p>
 
-<p>Aby sprawdzić spójność serwisu skorzystaj:
+<p>Aby sprawdzić spójność projektu skorzystaj:
 <ul>
-   <li>na <a href="down_panel.php">dolnym panelu wyników</a> z menu z prawej strony zakładki polecenie "Spójność serwisu", </li>
-   <li>na zakładce <a href="main_tabs_myservices.php">Moje serwisy</a> z menu na liście rozwijanej Ustawienia serwisu - Oczyszczanie serwisu,</li>
-   <li>w oknie <a href="service_tool_synchronization.php">Synchronizacja serwisu</a> - z menu pod przyciskiem "Operacje oczyszczania bieżącego serwisu WWW"</li>
+   <li>na <a href="down_panel.php">dolnym panelu wyników</a> z menu z prawej strony zakładki polecenie "Spójność projektu", </li>
+   <li>na zakładce <a href="main_tabs_myservices.php">Moje projekty</a> z menu na liście rozwijanej Ustawienia projektu - Oczyszczanie projektu,</li>
+   <li>w oknie <a href="service_tool_synchronization.php">Synchronizacja projektu</a> - z menu pod przyciskiem "Operacje oczyszczania bieżącego projektu WWW"</li>
 </ul>
 </p>
 
-<p><b>Weryfikacja spójności bieżącego serwisu WWW</b><br />
-Kliknij, aby uzyskać informację na temat wykorzystywania plików w bieżącym serwisie. </p>
+<p><b>Weryfikacja spójności bieżącego projektu WWW</b><br />
+Kliknij, aby uzyskać informację na temat wykorzystywania plików w bieżącym projekcie. </p>
 
 <p><b>Wyszukiwanie osieroconych deklaracji stylów</b><br />
-Kliknij aby uzyskać informację na temat deklaracji stylów CSS, które nie są wykorzystywane w żadnym dokumencie serwisu.
+Kliknij aby uzyskać informację na temat deklaracji stylów CSS, które nie są wykorzystywane w żadnym dokumencie projektu.
 </p>
 
 <p><b>Wyszukuj osierocone pliki informacji o dokumencie</b><br />
-Kliknij, aby uzyskać informację o plikach zawierających dodatkowe informacje (np. przypisanie kolorowania składni, zadania do wykonania itd.) dla usuniętych plików serwisu. Standardowo pliki te są usuwane wraz z usuwanym dokumentem, jeśli jednak dokument został usunięty z poziomu innego programu, mogły one pozostać na dysku.</p>
+Kliknij, aby uzyskać informację o plikach zawierających dodatkowe informacje (np. przypisanie kolorowania składni, zadania do wykonania itd.) dla usuniętych plików projektu. Standardowo pliki te są usuwane wraz z usuwanym dokumentem, jeśli jednak dokument został usunięty z poziomu innego programu, mogły one pozostać na dysku.</p>
 
-<h2>Wyniki sprawdzania spójności serwisu</h2>
+<h2>Wyniki sprawdzania spójności projektu</h2>
 
-<p>Wyniki działania narzędzia prezentowane są na liście w zakładce "Spójność serwisu" na "Panelu wyników. Okno wyników zawiera cztery kolumny:</p>
+<p>Wyniki działania narzędzia prezentowane są na liście w zakładce "Spójność projektu" na "Panelu wyników. Okno wyników zawiera cztery kolumny:</p>
 
 <ul>
    <li><b>Nazwa pliku</b> - ścieżka dostępu i nazwa pliku, dla którego sprawdzano, czy istnieją do niego odnośniki z innych dokumentów. Ikona z kulką informuje o typie komunikatu:
       <table border="0">
          <tr>
             <td></td>
-            <td>- plik jest wykorzystywany w serwisie,</td>
+            <td>- plik jest wykorzystywany w projekcie,</td>
          </tr>
          <tr>
             <td></td>
-            <td> - plik nie jest wykorzystywany w serwisie,</td>
+            <td> - plik nie jest wykorzystywany w projekcie,</td>
          </tr>
       </table></li>
    <li><b>Tytuł</b> - Tytuł dokumentu - jeśli istnieje - zawarty pomiędzy znacznikami <tt>&lt;title&gt;</tt> i <tt>&lt;title&gt;</tt> w danym dokumencie. Pokazywanie tytułów, które spowalnia nieco proces wyszukiwania, można wyłączyć w menu z prawej strony okna.</li>
-   <li><b>Rezultat</b> - Informacja, czy plik jest wykorzystywany w serwisie</li>
+   <li><b>Rezultat</b> - Informacja, czy plik jest wykorzystywany w projekcie</li>
    <li><b>Ilość odwołań</b> - Informacja o ilości odwołań do pliku z innych dokumentów</li>
 </ul>
 
 <a name="service_clean_down_panel"></a>
-<h2>Oczyszczanie serwisu z poziomu Panelu wyników</h2>
+<h2>Oczyszczanie projektu z poziomu Panelu wyników</h2>
 
 <p>Po przeprowadzeniu sprawdzania spójności można skorzystać z opcji dostępnych w menu z prawej strony listy znalezionych plików:<br />
 
@@ -92,18 +92,18 @@ Kliknij, aby uzyskać informację o plikach zawierających dodatkowe informacje 
 Kliknij, aby usunąć z dysku zaznaczone na liście pliki. Spowoduje to usunięcie plików z twardego dysku.</p>
 
 <p><b>Usunięcie wszystkich osieroconych plików</b><br />
-Kliknij, aby usunąć wszystkie pliki nieużywane w serwisie. Spowoduje to usunięcie plików z twardego dysku.</p>
+Kliknij, aby usunąć wszystkie pliki nieużywane w projekcie. Spowoduje to usunięcie plików z twardego dysku.</p>
 
-<p><b>Uwaga!</b> Oczyszczanie serwisu warto przeprowadzić przed uruchomieniem <a href="service_tool_synchronization.php">Automatycznej synchronizacji serwisu</a>. Dzięki temu na serwer nie będą przesyłane niepotrzebne pliki, co skróci czas synchronizacji i w efekcie pozwoli na ograniczenie kosztów w przypadku połączenia modemowego.</p>
+<p><b>Uwaga!</b> Oczyszczanie projektu warto przeprowadzić przed uruchomieniem <a href="service_tool_synchronization.php">Automatycznej synchronizacji projektu</a>. Dzięki temu na serwer nie będą przesyłane niepotrzebne pliki, co skróci czas synchronizacji i w efekcie pozwoli na ograniczenie kosztów w przypadku połączenia modemowego.</p>
 
 <a name="service_clean_quick"></a>
-<h2>Szybkie oczyszczanie serwisu</h2>
+<h2>Szybkie oczyszczanie projektu</h2>
 
-<p>Aby szybko oczyścić serwis z niepotrzebnych plików, skorzystaj:
+<p>Aby szybko oczyścić projekt z niepotrzebnych plików, skorzystaj:
 <ul>
-   <li>w zakładce <a href="main_tabs_myservices.php">Moje Serwisy</a> - z menu na liście rozwijanej Własności serwisu / Oczyszczanie serwisu,</li>
-   <li>w oknie <a href="service_tool_synchronization.php">Synchronizacja serwisu</a> - z menu pod przyciskiem "Operacje oczyszczania bieżącego serwisu WWW"</li>
-   <li>w menu <a href="main_menu_services_properties.php">Serwisy / Własności serwisu / Oczyszczanie serwisu</a></li>
+   <li>w zakładce <a href="main_tabs_myservices.php">Moje Projekty</a> - z menu na liście rozwijanej Własności projektu / Oczyszczanie projektu,</li>
+   <li>w oknie <a href="service_tool_synchronization.php">Synchronizacja projektu</a> - z menu pod przyciskiem "Operacje oczyszczania bieżącego projektu WWW"</li>
+   <li>w menu <a href="main_menu_services_properties.php">Projekty / Własności projektu / Oczyszczanie projektu</a></li>
 </ul></p>
 
 <p><b>Usuń pliki informacji o dokumencie (*.add)</b><br />
@@ -116,9 +116,9 @@ Usuwa kopie zapasowe dokumentów tworzone automatycznie przy zapisie dokumentu. 
 Usuwa pliki tymczasowe tworzone podczas pracy z programem (np. po włączeniu Przeglądania)</p>
 
 <p><b>Usuń wszystkie (*.add;*.bak;*.tmp;~pajtemp.*)</b><br />
-Usuwa jednocześnie wszystkie powyższe pliki czyszcząc serwis za jednym kliknięciem.</p>
+Usuwa jednocześnie wszystkie powyższe pliki czyszcząc projekt za jednym kliknięciem.</p>
 
-<p><b>Uwaga!</b> Oczyszczanie serwisu warto przeprowadzić przed uruchomieniem "Automatycznej synchronizacji serwisu". Dzięki temu na serwer nie będą przesyłane niepotrzebne pliki, co skróci czas synchronizacji i w efekcie pozwoli na ograniczenie kosztów w przypadku połączenia modemowego.</p>
+<p><b>Uwaga!</b> Oczyszczanie projektu warto przeprowadzić przed uruchomieniem "Automatycznej synchronizacji projektu". Dzięki temu na serwer nie będą przesyłane niepotrzebne pliki, co skróci czas synchronizacji i w efekcie pozwoli na ograniczenie kosztów w przypadku połączenia modemowego.</p>
 
 <h2>Eksportowanie wyników sprawdzania poprawności odsyłaczy</h2>
 
@@ -142,9 +142,9 @@ Usuwa jednocześnie wszystkie powyższe pliki czyszcząc serwis za jednym klikni
 <ul>
    <li><a href="down_links_verify.php">Sprawdzanie poprawności odsyłaczy</a></li>
    <li><a href="down_syntax_check.php">Sprawdzanie poprawności składni</a></li>
-   <li><a href="service_tool_synchronization.php">Automatyczna synchronizacja serwisu</a></li>
-   <li><a href="services_general.php">Serwisy ogólnie</a></li>
-   <li><a href="main_tabs_myservices.php">Zakładka "Moje Serwisy"</a></li>
+   <li><a href="service_tool_synchronization.php">Automatyczna synchronizacja projektu</a></li>
+   <li><a href="services_general.php">Projekty ogólnie</a></li>
+   <li><a href="main_tabs_myservices.php">Zakładka "Moje Projekty"</a></li>
    <li><a href="down_panel.php#downpanellist">Inne zakładki dolnego panelu wyników</a></li>
    <li><a href="main_window_desc.php">Główne okno programu</a></li>
 </ul>

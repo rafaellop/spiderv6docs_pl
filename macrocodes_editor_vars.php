@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 
 <meta name="Author" content="Cream Software">
-<meta name="Authoring-tool" content="Pajak V6" />
+<meta name="Generator" content="Pajak V6 (6.1.0.0)">
 
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha512-MoRNloxbStBcD8z3M/2BmnT+rg4IsMxPkXaGh2zD6LGNNFE80W3onsAhRcMAMrSoyWL9xD7Ert0men7vR8LUZg==" crossorigin="anonymous" />
@@ -13,14 +13,14 @@
 </head>
 
 <!-- nazwa strony pomocy -->
-<title>Edytor makrokodów - zakładka Zmienne w makrokodzie</title>
+<title>Edytor szablonów - zakładka Zmienne w szablonie</title>
 
 <body>
 
 <!-- topmenu start -->
 <? include "include/topmenu.html"; ?>
 <!-- topmenu end -->
-	
+
 <div class="container-fluid">
 
 <!-- google search start -->
@@ -33,19 +33,19 @@
 <td>
 
 <!-- nagłowek głowny tematu -->
-<h1>Edytor makrokodów - zakładka Zmienne w makrokodzie</h1>
+<h1>Edytor szablonów - zakładka Zmienne w szablonie</h1>
 
 
 
 
 <!-- treść pomocy -->
 
-<p>W zmiennych makrokodu przechowywane są wartości, które zostaną wykorzystane podczas wstawiania makrokodu do dokumentu, a także przy tworzeniu podglądu makrokodu. </p>
+<p>W zmiennych szablonu przechowywane są wartości, które zostaną wykorzystane podczas wstawiania szablonu do dokumentu, a także przy tworzeniu podglądu szablonu. </p>
 
-<p>Okno w zakładce Zmienne w makrokodzie dzieli się na dwie części - inspektora zmiennych i menu.</p>
+<p>Okno w zakładce Zmienne w szablonie dzieli się na dwie części - inspektora zmiennych i menu.</p>
 
-<p><b>Inspektor zmiennych makrokodu.</b><br />
-Korzystając z inspektora, możesz przypisać zmiennej wartość domyślną, jaką będzie miała przy pracy z gotowym makrokodem.</p>
+<p><b>Inspektor zmiennych szablonu.</b><br />
+Korzystając z inspektora, możesz przypisać zmiennej wartość domyślną, jaką będzie miała przy pracy z gotowym szablonem.</p>
 
 <p>Kulka przy nazwie zmiennej informuje:
 <table border="0">
@@ -61,23 +61,23 @@ Korzystając z inspektora, możesz przypisać zmiennej wartość domyślną, jak
 </p>
 
 <p><b>Dodanie nowej zmiennej</b><br />
-Kliknij, jeśli chcesz dodać nową zmienną. Do tworzenia nowych i edycji istniejących zmiennych służy okno <a href="macrocodes_editor_addvar.php">Edycja zmiennej makrokodu</a>.</p>
+Kliknij, jeśli chcesz dodać nową zmienną. Do tworzenia nowych i edycji istniejących zmiennych służy okno <a href="macrocodes_editor_addvar.php">Edycja zmiennej szablonu</a>.</p>
 
 <p><b>Zmiana nazwy wybranej zmiennej</b><br />
 Kliknij, jeśli chcesz mienić nazwę wybranej zmiennej.</p>
 
 <p><b>Ukrycie lub odkrycie wybranej zmiennej</b><br />
-Kliknij, jeśli chcesz ukryć/odkryć wybraną zmienną. Zmienna oznaczona jako ukryta (czerwona kulka przy nazwie) nie będzie się pojawiała w inspektorze zmiennych w lewym panelu głównego okna Pająka. Dzięki temu w inspektorze dostępne dla użytkownika będą jedynie te zmienne, których wartość powinien mieć możliwość zmienić. Oczywiście zmienne oznaczone jako ukryte cały czas będą widoczne w inspektorze zmiennych w zakładce "Zmienne w makrokodzie".</p>
+Kliknij, jeśli chcesz ukryć/odkryć wybraną zmienną. Zmienna oznaczona jako ukryta (czerwona kulka przy nazwie) nie będzie się pojawiała w inspektorze zmiennych w lewym panelu głównego okna Pająka. Dzięki temu w inspektorze dostępne dla użytkownika będą jedynie te zmienne, których wartość powinien mieć możliwość zmienić. Oczywiście zmienne oznaczone jako ukryte cały czas będą widoczne w inspektorze zmiennych w zakładce "Zmienne w szablonie".</p>
 <p>Dla przykładu - jeśli tworzysz szablon strony i umieszczasz w nim grafiki, które muszą się znaleźć na stronie, to użytkownik nie powinien mieć możliwości zmiany ścieżki do tych grafik (gdyż mógłby podać ścieżkę do innego pliku, co zniszczyłoby efekt).</p>
 
 <p><b>Modyfikacja zmiennej</b><br />
-Kliknij jeśli chcesz edytować zmienną (zmienić typ zmiennej, ale także nazwę, wartość domyślną, lub ukryć ją). Do tworzenia nowych i edycji istniejących zmiennych służy okno <a href="macrocodes_editor_addvar.php">Edycja zmiennej makrokodu</a>.</p>
+Kliknij jeśli chcesz edytować zmienną (zmienić typ zmiennej, ale także nazwę, wartość domyślną, lub ukryć ją). Do tworzenia nowych i edycji istniejących zmiennych służy okno <a href="macrocodes_editor_addvar.php">Edycja zmiennej szablonu</a>.</p>
 
 <p><b>Usunięcie wybranej zmiennej</b><br />
-Kliknij, jeśli chcesz usunąć wybraną zmienną. Usunięcie zmiennej nie usuwa jej wywołań z makrokodu - należy to zrobić ręcznie. Jeśli ich nie usuniesz, w chwili zapisu makrokodu Pająk spyta, czy zrobić to automatycznie.</p>
+Kliknij, jeśli chcesz usunąć wybraną zmienną. Usunięcie zmiennej nie usuwa jej wywołań z szablonu - należy to zrobić ręcznie. Jeśli ich nie usuniesz, w chwili zapisu szablonu Pająk spyta, czy zrobić to automatycznie.</p>
 
 <p><b>Usunięcie wszystkich zmiennych</b><br />
-Kliknij, jeśli chcesz usunąć wszystkie zmienne. Usunięcie zmiennych nie usuwa ich wywołań z makrokodu - należy to zrobić ręcznie. Jeśli ich nie usuniesz, w chwili zapisu makrokodu Pająk spyta, czy zrobić to automatycznie.</p>
+Kliknij, jeśli chcesz usunąć wszystkie zmienne. Usunięcie zmiennych nie usuwa ich wywołań z szablonu - należy to zrobić ręcznie. Jeśli ich nie usuniesz, w chwili zapisu szablonu Pająk spyta, czy zrobić to automatycznie.</p>
 
 <p><b>Przesuń element w górę/dół</b><br />
 Kliknij, aby przesunąć zmienną w górę/dół w inspektorze zmiennych.</p>
@@ -93,13 +93,13 @@ Kliknij, aby przesunąć zmienną w górę/dół w inspektorze zmiennych.</p>
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="macrocodes_editor.php">Edytor makrokodów - wstęp</a>
-	<li><a href="macrocodes_editor_addvar.php">Edytor makrokodów - Edycja zmiennej makrokodu</a>
-   <li><a href="macrocodes_editor_blocks.php">Edytor makrokodów - zakładka Bloki wykorzystywane w makrokodzie</a>
-   <li><a href="macrocodes_editor_vars.php">Edytor makrokodów - zakładka Zmienne w makrokodzie</a>
-	<li><a href="settings_macrocodes.php">Ustawienia programu - Makrokody</a>
-	<li><a href="main_tabs_macrocodes.php">Zakładka Makrokody</a>
-	<li><a href="macrocodes.php">Makrokody - ogólnie</a>
+	<li><a href="macrocodes_editor.php">Edytor szablonów - wstęp</a>
+	<li><a href="macrocodes_editor_addvar.php">Edytor szablonów - Edycja zmiennej szablonu</a>
+   <li><a href="macrocodes_editor_blocks.php">Edytor szablonów - zakładka Bloki wykorzystywane w szablonie</a>
+   <li><a href="macrocodes_editor_vars.php">Edytor szablonów - zakładka Zmienne w szablonie</a>
+	<li><a href="settings_macrocodes.php">Ustawienia programu - Szablony</a>
+	<li><a href="main_tabs_macrocodes.php">Zakładka Szablony</a>
+	<li><a href="macrocodes.php">Szablony - ogólnie</a>
 </ul>
 </td>
 </tr>

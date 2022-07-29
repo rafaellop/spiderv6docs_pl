@@ -37,7 +37,7 @@
 
 <!-- treść pomocy -->
 
-<p>Pająk wspomaga w znacznym stopniu tworzenie stron i całych serwisów obsługiwanych za pomocą skryptów server-side. Jedną z takich technologii jest ASP (Active Server Pages) firmy Microsoft.</p>
+<p>Pająk wspomaga w znacznym stopniu tworzenie stron i całych projektów obsługiwanych za pomocą skryptów server-side. Jedną z takich technologii jest ASP (Active Server Pages) firmy Microsoft.</p>
 
 <p>Na wspomaganie dla ASP składa się kilka różnych narzędzi Pająka:</p>
 

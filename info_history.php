@@ -53,7 +53,7 @@
 <p>W 2003 roku, po półtorarocznej przerwie od ostatniej wersji Pająka 2000 (podwersja 4.8.1) ukazuje się, z niecierpliwością oczekiwany przez użytkowników Pająk 5.0, którego ostatnia wersja 5.9.9 ukazuje się w kwietniu 2013 roku. W wersji piątej nastąpił podział na dwie linie programu:</p>
 <ul>
         <li><b>Professional</b> - przeznaczony dla profesjonalistów program w pełnej wersji. Wspomaga zaawansowane technologie, jest bogato wyposażony w narzędzia wspomagające pracę w różnych językach programowania, prace grupowa itp.</li>
-        <li><b>Standard</b> - nie posiada wielu zaawansowanych narzędzi. Jednak w pełni wystarcza do przygotowania nawet dość zaawansowanych serwisów wykonanych w oparciu o DHTML. </li>
+        <li><b>Standard</b> - nie posiada wielu zaawansowanych narzędzi. Jednak w pełni wystarcza do przygotowania nawet dość zaawansowanych projektów wykonanych w oparciu o DHTML. </li>
 </ul>
 <p>Pomimo głębokich zmian, jakie zaszły w programie, dołożyliśmy wiele starań, by osoby korzystające z Pająka 2000 bez większego problemu mogły rozpocząć pracę w nowej wersji programu.</p>
 

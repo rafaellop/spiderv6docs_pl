@@ -4,10 +4,10 @@
 <meta charset="utf-8">
 
 <meta name="Author" content="Cream Software">
-<meta name="Generator" content="Pajak V6 (6.0.0.1)">
+<meta name="Generator" content="Pajak V6 (6.1.0.0)">
 
 <!-- nazwa strony pomocy -->
-<title>Archiwizacja serwisu</title>
+<title>Archiwizacja projektu</title>
 
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha512-MoRNloxbStBcD8z3M/2BmnT+rg4IsMxPkXaGh2zD6LGNNFE80W3onsAhRcMAMrSoyWL9xD7Ert0men7vR8LUZg==" crossorigin="anonymous" />
@@ -19,7 +19,7 @@
 <!-- topmenu start -->
 <? include "include/topmenu.html"; ?>
 <!-- topmenu end -->
-	
+
 <div class="container-fluid">
 
 <!-- google search start -->
@@ -32,16 +32,16 @@
 <td>
 
 <!-- nagłowek głowny tematu -->
-<h1>Archiwizacja serwisu</h1>
+<h1>Archiwizacja projektu</h1>
 
 
 
-<p>Narzędzie ułatwia zarchiwizowanie serwisu wraz z jego ustawieniami. Cały serwis jest pakowany i kompresowany do formatu ZIP. Ustawienia serwisu zostają zachowane w dodatkowym pliku projinfo.ini, który również jest dołączany do pliku ZIP. Zarchiwizowany serwis możesz przywrócić za pomocą narzędzia <a href="service_restore.php">Przywrócenie serwisu</a></p>
+<p>Narzędzie ułatwia zarchiwizowanie projektu wraz z jego ustawieniami. Cały projekt jest pakowany i kompresowany do formatu ZIP. Ustawienia projektu zostają zachowane w dodatkowym pliku projinfo.ini, który również jest dołączany do pliku ZIP. Zarchiwizowany projekt możesz przywrócić za pomocą narzędzia <a href="service_restore.php">Przywrócenie projektu</a></p>
 
-<p>Archiwizację możesz uruchomić z poziomu <a href="main_menu_services_properties.php">menu Serwisy / Własności serwisu</a> bądź z identycznego menu pod przyciskiem Własności serwisu na zakładce Serwisy. Okno narzędzia zawiera pięć grup opcji, za pomocą których możesz określić zakres plików wchodzących w skład archiwum, nazwę pliku docelowego, kompresję itp.</p>
+<p>Archiwizację możesz uruchomić z poziomu <a href="main_menu_services_properties.php">menu Projekty / Własności projektu</a> bądź z identycznego menu pod przyciskiem Własności projektu na zakładce Projekty. Okno narzędzia zawiera pięć grup opcji, za pomocą których możesz określić zakres plików wchodzących w skład archiwum, nazwę pliku docelowego, kompresję itp.</p>
 
 <p><b>Plik docelowy</b><br>
-Wskaż ścieżkę i podaj nazwę pliku docelowego (*.zip). Domyślna nazwa dla archiwum ZIP tworzona jest na bazie następującego szablonu "NazwaSerwisu_(yyyy-mm-dd_hh-mm-ss).zip".
+Wskaż ścieżkę i podaj nazwę pliku docelowego (*.zip). Domyślna nazwa dla archiwum ZIP tworzona jest na bazie następującego szablonu "NazwaProjektu_(yyyy-mm-dd_hh-mm-ss).zip".
 
 
 <p><b>Archiwizowane pliki</b><br>
@@ -52,7 +52,7 @@ Za pomocą dwóch przełączników możesz wykluczyć z archiwizowania:
 </ul>
 
 <p><b>Opis archiwum</b><br>
-W tym polu możesz wprowadzić krótki opis, który pozwoli ci się zorientować co zawiera serwis, gdy będziesz chciał go przywrócić za pomocą narzędzia <a href="service_restore.php">Przywrócenie serwisu</a>.
+W tym polu możesz wprowadzić krótki opis, który pozwoli ci się zorientować co zawiera projekt, gdy będziesz chciał go przywrócić za pomocą narzędzia <a href="service_restore.php">Przywrócenie projektu</a>.
 
 <p><b>Ochrona hasłem</b><br>
 Jeśli chcesz, możesz zabezpieczyć archiwum hasłem, które zapobiegnie przeglądaniu go przez niepowołane osoby. W tym celu wprowadź hasło i powtórz je w następnym polu.
@@ -78,10 +78,10 @@ Im lepsza kompresja, tym dłużej trwa kompresowanie, ale plik wynikowy jest mni
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="service_restore.php">Przywracanie serwisu</a>
-	<li><a href="services_general.php">O serwisach ogólnie</a>
-	<li><a href="service_tool_synchronization.php">Synchronizacja serwisów</a>
-	<li><a href="main_tabs_myservices.php">Zakładka Moje serwisy</a>
+	<li><a href="service_restore.php">Przywracanie projektu</a>
+	<li><a href="services_general.php">O projektach ogólnie</a>
+	<li><a href="service_tool_synchronization.php">Synchronizacja projektów</a>
+	<li><a href="main_tabs_myservices.php">Zakładka Moje projekty</a>
 </ul>
 </td>
 </tr>

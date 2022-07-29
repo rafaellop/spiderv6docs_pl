@@ -34,9 +34,9 @@
 <!-- nagłowek głowny tematu -->
 <h1>Pająk on-line</h1>
 
-<p>Aby uzyskać najświeższe informacje na temat programu, odwiedź nasz serwis internetowy pod adresem <a href="https://www.creamsoft.com/rd.php?p=page&bid=com.creamsoft.spider&os=win&lang=pl" target="_blank">www.pajaczek.pl</a></p>
+<p>Aby uzyskać najświeższe informacje na temat programu, odwiedź nasz projekt internetowy pod adresem <a href="https://www.creamsoft.com/rd.php?p=page&bid=com.creamsoft.spider&os=win&lang=pl" target="_blank">www.pajaczek.pl</a></p>
 
-Aby przejść bezpośrednio do interesującego Ciebie działu w naszym serwisie, kliknij odsyłacz poniżej:
+Aby przejść bezpośrednio do interesującego Ciebie działu w naszym projekcie, kliknij odsyłacz poniżej:
 
 <ul>
         <li><a href="https://www.creamsoft.com/rd.php?p=page&bid=com.creamsoft.spider&os=win&lang=pl" target="_blank">Strona Pająka</a></li>

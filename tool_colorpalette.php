@@ -34,7 +34,7 @@
 <!-- nagłowek głowny tematu -->
 <h1>Narzędzia - Paleta kolorów</h1>
 
-<p>Paleta kolorów to narzędzie pozwalające na łatwe wybieranie i umieszczanie kolorów w dokumencie lub wybieranie kolorów w okienkach narzędziowych. Paleta pozwala również na tworzenie wielu różnych palet, z których korzystasz przy tworzeniu swojego serwisu.
+<p>Paleta kolorów to narzędzie pozwalające na łatwe wybieranie i umieszczanie kolorów w dokumencie lub wybieranie kolorów w okienkach narzędziowych. Paleta pozwala również na tworzenie wielu różnych palet, z których korzystasz przy tworzeniu swojego projektu.
 
 <p>Paletę kolorów można uruchomić na kilka sposobów. Przede wszystkim z mini-paska narzędzi znajdującego się obok edytora. Dodatkowo za pomocą skrótu klawiszowego Shift+Ctrl+C oraz z <a href="main_menu_main.php">Menu głównego</a> / <a href="main_menu_tools.php">Narzędzia</a> / <a href="main_menu_tools_other.php">Inne narzędzia</a> / Paleta kolorów. Jak już zostało wspomniane, okno palety jest również wyświetlane przy wyborze koloru w okienkach narzędziowych różnego rodzaju. We wszystkich przypadkach polecenie uruchamiające paletę kolorów oznaczone jest ikoną pokazaną powyżej
 

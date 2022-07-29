@@ -50,8 +50,8 @@ Do konfiguracji wszystkich możliwych aspektów działania programu służy okie
       <li><a href="settings_user.php">Użytkownik programu i sprawdzanie wersji</a> - pozwalające określić użytkownika programu oraz częstotliwość sprawdzania aktualności wersji programu i wyświetlania informacji o nowościach.
       <li><a href="settings_startup.php">Przy starcie</a> - dotyczy ustawień związanych z uruchamianiem programu.
       <li><a href="settings_history.php">Historia</a> - ustawienia dotyczące zarządzania historiami np. otwieranych plików.
-      <li><a href="settings_filelist.php">Lista plików</a> - ustawienia dotyczące zachowania listy plików w panelu "Moje serwisy", obsługi mechanizmu "przeciągnij i upuść"
-   	<li><a href="settings_macrocodes.php">Makrokody</a> - związane z funkcją Makrokodów oferowaną przez program.
+      <li><a href="settings_filelist.php">Lista plików</a> - ustawienia dotyczące zachowania listy plików w panelu "Moje projekty", obsługi mechanizmu "przeciągnij i upuść"
+   	<li><a href="settings_macrocodes.php">Szablony</a> - związane z funkcją Szablonów oferowaną przez program.
    </ul>
    <li>Zakładka <b>Inne ustawienia</b>
    <ul>

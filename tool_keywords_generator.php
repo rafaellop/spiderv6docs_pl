@@ -57,7 +57,7 @@ Domyślnie źródłem, w którym poszukiwane są słowa, jest bieżący dokument
         <li><b>bieżący dokument</b> otwarty w edytorze
         <li><b>wszystkie otwarte</b> w edytorze
         <li><b>wybierz dokument</b> - wprowadź ścieżkę dostępu do pola obok, bądź skorzystaj z przycisku umożliwiającego wskazanie pliku na dysku
-        <li><b>w wybranym serwisie</b> - wybierz z listy serwis, którego dokumenty mają zostać uwzględnione podczas przeszukiwania. Dodatkowo możesz zawęzić wybór do plików HTML, bądź plików innych typów (wprowadź w polu obok rozszerzenia nazw takich plików rozdzielane średnikami, w postaci np.: <tt>*.htm;*.html;*.php</tt>)
+        <li><b>w wybranym projekcie</b> - wybierz z listy projekt, którego dokumenty mają zostać uwzględnione podczas przeszukiwania. Dodatkowo możesz zawęzić wybór do plików HTML, bądź plików innych typów (wprowadź w polu obok rozszerzenia nazw takich plików rozdzielane średnikami, w postaci np.: <tt>*.htm;*.html;*.php</tt>)
 </ul>
 
 

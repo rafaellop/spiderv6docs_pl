@@ -39,7 +39,7 @@
 
 <p>Szablony oferują bardzo duże możliwości. Przy ich wykorzystaniu możesz budować nawet bardzo zaawansowane strony www, które będzie można podczas wstawiania dodatkowo dopasowywać do aktualnych potrzeb. Możesz również przygotować szablony zawierające skrypty JavaScript, PHP i inne. </p>
 
-<p>Dobrym pomysłem jest tworzenie szablonów zawierających najczęściej wykorzystywane struktury podczas tworzenia serwisu, np. często wstawiane znaczniki DIV wraz z atrybutami itp. Znacząco ułatwia to pracę - nie przy każdym wstawianiu danego elementu na stronę pamiętać o atrybutach itp. Wszystko to juz będzie zdefiniowane w szablonie.</p>
+<p>Dobrym pomysłem jest tworzenie szablonów zawierających najczęściej wykorzystywane struktury podczas tworzenia projektu, np. często wstawiane znaczniki DIV wraz z atrybutami itp. Znacząco ułatwia to pracę - nie przy każdym wstawianiu danego elementu na stronę pamiętać o atrybutach itp. Wszystko to juz będzie zdefiniowane w szablonie.</p>
 
 <p>W Pomocy dostępne są dwa opisy tworzenia szablonu:
 <ul>

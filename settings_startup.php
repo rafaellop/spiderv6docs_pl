@@ -62,8 +62,8 @@ W tym polu wprowadź lub wybierz za pomocą przycisku obok folder, który będzi
 <p><b>Pamiętaj edytowane dokumenty dla programu</b><br>
 Zaznacz tę opcję, aby program otwierał wszystkie dokumenty, które były otwarte przy poprzednim zamykaniu programu.
 
-<p><b>Pamiętaj edytowane dokumenty dla osobno dla każdego serwisu</b><br>
-Zaznacz tę opcję, aby program otwierał wszystkie dokumenty, które były otwarte podczas edycji każdego serwisu z osobna.
+<p><b>Pamiętaj edytowane dokumenty dla osobno dla każdego projektu</b><br>
+Zaznacz tę opcję, aby program otwierał wszystkie dokumenty, które były otwarte podczas edycji każdego projektu z osobna.
 
 <p><b>Nie zapamiętuj edytowanych dokumentów</b><br>
 Zaznacz tę opcję, aby Pająk nie zapamiętywał listy ostatnio otwartych dokumentów.

@@ -36,7 +36,7 @@
 
 <!-- treść pomocy -->
 <p>
-Ogólne ustawienia pozwalają na dostosowanie programu w zakresie ogólnym, tzn. większość ustawień, które nie znalazły własnej kategorii znajduje się właśnie w kategorii "Ogólne". Kategoria "Ogólne" podzielona jest na dwie podkategorie: "Ogólne ustawienia" oraz "Mapa serwisu"
+Ogólne ustawienia pozwalają na dostosowanie programu w zakresie ogólnym, tzn. większość ustawień, które nie znalazły własnej kategorii znajduje się właśnie w kategorii "Ogólne". Kategoria "Ogólne" podzielona jest na dwie podkategorie: "Ogólne ustawienia" oraz "Mapa projektu"
 
 <h2>Ogólne ustawienia</h2>
 
@@ -70,10 +70,10 @@ Zaznacz tę opcję, aby paski przesuwu (splittery) dzielące okno na kilka czę�
 Zaznacz tę opcję, aby wyłączyć animowane zakładki takie jak np. zakładki panelu po lewej w głównym oknie programu.
 
 <p><b>Pokaż przycisk przełączania zakładek zamiast klikalnych pasków</b><br>
-Zaznacz tę opcję, aby na paskach tytułowych zakładek (takich jak np. Moje serwisy) pojawił się przycisk, którego kliknięcie spowoduje przełączenie do następnej zakładki. W przeciwnym wypadku aktywny będzie cały pasek tytułowy zakładki.
+Zaznacz tę opcję, aby na paskach tytułowych zakładek (takich jak np. Moje projekty) pojawił się przycisk, którego kliknięcie spowoduje przełączenie do następnej zakładki. W przeciwnym wypadku aktywny będzie cały pasek tytułowy zakładki.
 
-<p><b>Wyświetlaj opis serwisu przy przełączaniu między serwisami</b><br>
-Zaznacz tę opcję, aby program wyświetlał opis serwisu wprowadzony w jego właściwościach w momencie, gdy następuje zmiana aktywnego serwisu.
+<p><b>Wyświetlaj opis projektu przy przełączaniu między projektami</b><br>
+Zaznacz tę opcję, aby program wyświetlał opis projektu wprowadzony w jego właściwościach w momencie, gdy następuje zmiana aktywnego projektu.
 
 <p><b>Rozmiar miniatur w przeglądarce miniatur</b><br>
 W tym polu wprowadź szerokość miniaturek obrazków, które są wyświetlane na liście plików przy włączonym widoku miniatur.
@@ -100,26 +100,26 @@ W tym polu wprowadź skrót klawiszowy, który będzie służył do deaktywacji 
 Zaznacz ten przełącznik jeśli skrót dla pipety, wprowadzony w polu obok, ma działać tylko z dodatkowo wciśniętym klawiszem specjalnym Windows (WinKey).
 
 <a name="service_map"></a>
-<h2>Mapa serwisu</h2>
+<h2>Mapa projektu</h2>
 
 
 
-<p>W tej podgrupie znajdują się ustawienia odnoszące się do narzędzia pozwalającego na przeglądanie mapy serwisu WWW. Oto opis ustawień:
+<p>W tej podgrupie znajdują się ustawienia odnoszące się do narzędzia pozwalającego na przeglądanie mapy projektu WWW. Oto opis ustawień:
 
-<p><b>Wyświetlanie określonych plików na mapie serwisu</b><br>
-Cztery opcje, które powinieneś zaznaczyć zależnie od tego co preferujesz przy wyświetlaniu mapy serwisu.
+<p><b>Wyświetlanie określonych plików na mapie projektu</b><br>
+Cztery opcje, które powinieneś zaznaczyć zależnie od tego co preferujesz przy wyświetlaniu mapy projektu.
 
 <p><b>Nagłówki dokumentu w mapie jako</b><br>
 Z tej listy wybierz preferowany sposób wyświetlania opisów plików prezentowanych na mapie.
 
 <p><b>Maksymalna głębokość skanowania</b><br>
-W tym polu określasz do ilu poziomów zagłębień następuje skanowanie odsyłaczy w przypadku plików wyświetlanych na mapie serwisu.
+W tym polu określasz do ilu poziomów zagłębień następuje skanowanie odsyłaczy w przypadku plików wyświetlanych na mapie projektu.
 
 <p><b>Koloruj strzałki</b><br>
-Zaznacz tę opcję, jeśli chcesz, aby strzałki wyświetlane na mapie serwisu miały różne kolory w zależności od znaczenia.
+Zaznacz tę opcję, jeśli chcesz, aby strzałki wyświetlane na mapie projektu miały różne kolory w zależności od znaczenia.
 
-<p><b>Startowy serwisu</b><br>
-W tym polu wprowadź lub wybierz za pomocą przycisku obok folder, który będzie ustawiany jako domyślny w oknie wyboru folderu, w którym tworzone są nowe serwisy, jak i te przywracane z kopii bezpieczeństwa. Jeśli pozostawisz pusty, użyta zostanie domyślna lokalizacja - folder "Moje dokumenty".
+<p><b>Startowy projektu</b><br>
+W tym polu wprowadź lub wybierz za pomocą przycisku obok folder, który będzie ustawiany jako domyślny w oknie wyboru folderu, w którym tworzone są nowe projekty, jak i te przywracane z kopii bezpieczeństwa. Jeśli pozostawisz pusty, użyta zostanie domyślna lokalizacja - folder "Moje dokumenty".
 
 </td>
 </tr>
@@ -137,7 +137,7 @@ W tym polu wprowadź lub wybierz za pomocą przycisku obok folder, który będzi
 	<li><a href="tool_quickpreview.php">Szybki podgląd</a>
 	<li><a href="tool_colorpalette.php">Paleta kolorów</a>
 	<li><a href="tool_graphic_insert.php">Wstawianie grafik</a>
-	<li><a href="services_general.php">Serwisy WWW - korzystanie</a>
+	<li><a href="services_general.php">Projekty WWW - korzystanie</a>
 </ul>
 </td>
 </tr>

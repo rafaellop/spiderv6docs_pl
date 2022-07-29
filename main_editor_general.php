@@ -67,13 +67,13 @@
 
 <ul>
    <li>z <a href="main_menu_main.php">Menu głównego</a> / <a href="main_menu_file.php">Plik</a> / <a href="main_menu_file_new.php">Nowy dokument</a> - różne typy dokumentów i ich elementów</li>
-   <li>za pomocą makrokodu będącego szablonem dokumentu</li>
+   <li>za pomocą szablonu będącego szablonem dokumentu</li>
 </ul>
 
 Aby szybko utworzyć nowy dokument, skorzystaj ze skrótu klawiszowego:
 <ul>
    <li><b>Ctrl+N</b> - (nowy pusty dokument)</li>
-   <li><b>Ctrl+Shift+N </b> - dokument będzie utworzony z domyślnego makrokodu 
+   <li><b>Ctrl+Shift+N </b> - dokument będzie utworzony z domyślnego szablonu 
 </ul>
 
 <p>Nowy dokument może być otwierany w <a href="main_editor.php">trybie edycji kodu źródłowego</a>, bądź w <a href="main_editor_wysiwyg.php">trybie graficznym</a>, w zależności od opcji wybranej w <a href="settings_editor_wysiwyg.php">Ustawieniach programu</a>.</p>
@@ -89,8 +89,8 @@ Aby szybko utworzyć nowy dokument, skorzystaj ze skrótu klawiszowego:
       <li><a href="tool_open_remote.php">Otwórz z sieci</a> - otwiera narzędzie umożliwiające otworzenie pliku za pomocą sieci.</li>
       <li><a href="tool_importer.php">Importuj</a> - umożliwia import z dysku pliku w formacie nieobsługiwanym bezpośrednio przez Pająka</li>
    </ul>
-<li><b>z menu <a href="main_menu_main.php">Menu głównego</a> / <a href="main_menu_services.php">Serwisy</a> / <a href="main_menu_services_properties.php">Własności serwisu</a> / Otwórz często używane serwisu</b> - Otwiera pliki z listy <a href="service_properites.php#servicepropertiesoftenused">często używanych dokumentów serwisu</a>
-<li>z listy plików na <a href="main_tabs_myservices.php">zakładce Moje serwisy</a>
+<li><b>z menu <a href="main_menu_main.php">Menu głównego</a> / <a href="main_menu_services.php">Projekty</a> / <a href="main_menu_services_properties.php">Własności projektu</a> / Otwórz często używane projektu</b> - Otwiera pliki z listy <a href="service_properites.php#servicepropertiesoftenused">często używanych dokumentów projektu</a>
+<li>z listy plików na <a href="main_tabs_myservices.php">zakładce Moje projekty</a>
 <li>z listy plików na zakładce <a href="main_tabs_myftpservers.php">Moje serwery</a> - w Pająku możliwa jest także <a href="network_opendoc_ftp.php">edycja dokumentów otwieranych bezpośrednio z serwera FTP</a>!
 <li>za pomocą przeciągnięcia dokumentu z okna Exploratora Windows
 <li>za pomocą dwukliku na pustym obszarze w miejscu edytora, gdy nie ma otwartych dokumentów.</li>
@@ -137,7 +137,7 @@ Z prawej strony nazwy dokumentu znajduje się ikona z kulką, której wygląd oz
    <li><b>Publikuj bieżący do sieci</b> - pozwala opublikować w sieci bieżący dokument. <a href="network_publishing_general.php#publish_current">Czytaj więcej na temat zaawansowanych możliwości tego polecenia</a>. </li> Dodatkowo, w podmenu dostępne jest polecenie "Publikuj otwarte w sieci".
    <li>[<i>tu znajduje się lista otwartych dokumentów</i>]</li>
    <li><b>Wyświetlaj tylko nazwy plików</b> - wyświetla tylko nazwę pliku (na liście ścieżkę + nazwę)</li>
-   <li><b>Wyświetlaj ścieżkę względem projektu</b> - wyświetla ścieżkę względem <a href="service_properites.php">katalogu głównego serwisu</a> + nazwę pliku</li>
+   <li><b>Wyświetlaj ścieżkę względem projektu</b> - wyświetla ścieżkę względem <a href="service_properites.php">katalogu głównego projektu</a> + nazwę pliku</li>
    <li><b>Wyświetlaj tytuł (jeżeli dostępny)</b> - wyświetla tytuł dokumentu HTML (zawartość znacznika <tt>&lt;TITLE&gt;</tt>)</li>
    <li><b>Zmień kolejność dokumentów</b> - otwiera okno wyświetlające listę otwartych dokumentów, ich tytuły i ścieżki dostępu. Wystarczy wskazać dokument i przesunąć go w kolejności w górę lub dół i za pomocą strzałek umieszczonych obok. Polecenie to jest aktywne tylko wówczas, gdy otwarte są przynajmniej dwa dokumenty.</li>
 </ul>

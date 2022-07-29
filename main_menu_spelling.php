@@ -69,8 +69,8 @@ Kliknij, aby otworzyć okno Ustawień Autokorekty.
 
 <hr>
 
-<p><b>Sprawdzenie poprawności pisowni w serwisie</b><br />
-Kliknij, aby otworzyć okno <a href="find_ext.php">Rozszerzone wyszukiwanie i zamiana</a> z ustawieniami do sprawdzania pisowni w serwisie.
+<p><b>Sprawdzenie poprawności pisowni w projekcie</b><br />
+Kliknij, aby otworzyć okno <a href="find_ext.php">Rozszerzone wyszukiwanie i zamiana</a> z ustawieniami do sprawdzania pisowni w projekcie.
 
 <p><b>Sprawdź pisownię w folderach</b><br />
 Kliknij, aby otworzyć okno <a href="find_ext.php">Rozszerzone wyszukiwanie i zamiana</a> z ustawieniami do sprawdzania pisowni w wybranych folderach.

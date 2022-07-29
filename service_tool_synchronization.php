@@ -7,7 +7,7 @@
 <meta name="Authoring-tool" content="Pajak V6" />
 
 <!-- nazwa strony pomocy -->
-<title>Serwisy - Synchronizacja serwisu</title>
+<title>Projekty - Synchronizacja projektu</title>
 
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha512-MoRNloxbStBcD8z3M/2BmnT+rg4IsMxPkXaGh2zD6LGNNFE80W3onsAhRcMAMrSoyWL9xD7Ert0men7vR8LUZg==" crossorigin="anonymous" />
@@ -32,15 +32,15 @@
 <td>
 
 <!-- nagłowek głowny tematu -->
-<h1>Serwisy - Synchronizacja serwisu</h1>
+<h1>Projekty - Synchronizacja projektu</h1>
 
 
 
 
 
-<p>Synchronizacja serwisu to funkcja pozwalająca na automatyczne uzgodnienie zawartości folderu na dysku lokalnym, będącego <a href="services_general.php">serwisem Pająka</a> z zawartością wybranego folderu zdalnego serwera zdefiniowanego w Pająku w <a href="settings_network_ftpservers.php">ustawieniach serwerów FTP i WebDAV</a>. 
+<p>Synchronizacja projektu to funkcja pozwalająca na automatyczne uzgodnienie zawartości folderu na dysku lokalnym, będącego <a href="services_general.php">projektem Pająka</a> z zawartością wybranego folderu zdalnego serwera zdefiniowanego w Pająku w <a href="settings_network_ftpservers.php">ustawieniach serwerów FTP i WebDAV</a>. 
 
-<p>Aby zsychronizować ze sobą zawartość serwisu lokalnego z zawartością serwera, należy skorzystać z opisanego niżej okna "Synchronizacja serwisu", które otworzysz za pomocą polecenia z <a href="main_menu_services.php">menu Serwisy</a> / <a href="service_properites.php">Własności serwisu</a> / Synchronizacja serwisu lub z zakładki <a href="main_tabs_myservices.php">Moje serwisy</a>. Ikona polecenia przedstawiona została powyżej. W wyniku działania tego narzędzia na <a href="down_panel.php">dolnym panelu</a> w zakładce <a href="down_publishing_syncreport.php">Operacje publikowania</a> zostanie utworzona lista plików, jakie należy wysłać na serwer, bądź z niego pobrać (w zależności od kierunku synchronizacji, jaki ustawisz). </p>
+<p>Aby zsychronizować ze sobą zawartość projektu lokalnego z zawartością serwera, należy skorzystać z opisanego niżej okna "Synchronizacja projektu", które otworzysz za pomocą polecenia z <a href="main_menu_services.php">menu Projekty</a> / <a href="service_properites.php">Własności projektu</a> / Synchronizacja projektu lub z zakładki <a href="main_tabs_myservices.php">Moje projekty</a>. Ikona polecenia przedstawiona została powyżej. W wyniku działania tego narzędzia na <a href="down_panel.php">dolnym panelu</a> w zakładce <a href="down_publishing_syncreport.php">Operacje publikowania</a> zostanie utworzona lista plików, jakie należy wysłać na serwer, bądź z niego pobrać (w zależności od kierunku synchronizacji, jaki ustawisz). </p>
 
 <p>Okno synchronizacji składa się z dwóch zakładek: Ustawienia synchronizacji oraz Synchronizowane elementy.
 
@@ -48,24 +48,24 @@
 
 <h3>Wybór serwera FTP/WebDAV</h3>
 
-<p>Okienko synchronizacji pozwala na wybranie <a href="service_properites.php#service_properties_mappings">mapowania</a>, które będzie używane przy funkcji synchronizacji (lista w grupie Serwer FTP/WebDAV). Możesz bowiem jeden serwis synchronizować z różnymi serwerami FTP i WebDAV, a także różne foldery lokalne serwisu z różnymi folderami zdalnymi serwera.
+<p>Okienko synchronizacji pozwala na wybranie <a href="service_properites.php#service_properties_mappings">mapowania</a>, które będzie używane przy funkcji synchronizacji (lista w grupie Serwer FTP/WebDAV). Możesz bowiem jeden projekt synchronizować z różnymi serwerami FTP i WebDAV, a także różne foldery lokalne projektu z różnymi folderami zdalnymi serwera.
 
 <p>Wybrane tutaj mapowanie określa z jakiego folderu na dysku Twojego komputera do jakiego folderu na wybranym serwerze będą wysyłane pliki.</p>
 
 <h3>Kierunek synchronizacji</h3>
 
-<p>Zawartość serwisu możesz synchronizować dwukierunkowo, tzn. albo lokalny serwis ze zdalnym serwerem (wysyłanie plików na serwer) albo zdalny serwis z lokalnym serwisem (pobieranie plików z serwera).<br>
+<p>Zawartość projektu możesz synchronizować dwukierunkowo, tzn. albo lokalny projekt ze zdalnym serwerem (wysyłanie plików na serwer) albo zdalny projekt z lokalnym projektem (pobieranie plików z serwera).<br>
 
-<p><b>lokalny-&gt;zdalny</b> - pozwala na publikację plików, które są nowe w serwisie lokalnym i nieistniejące na serwerze zdalnym lub są nowsze niż te same pliki na serwerze zdalnym. Dzięki temu możesz łatwo utrzymywać zgodność zawartości serwera zdalnego i lokalnego serwisu.
+<p><b>lokalny-&gt;zdalny</b> - pozwala na publikację plików, które są nowe w projekcie lokalnym i nieistniejące na serwerze zdalnym lub są nowsze niż te same pliki na serwerze zdalnym. Dzięki temu możesz łatwo utrzymywać zgodność zawartości serwera zdalnego i lokalnego projektu.
 
-<p><b>zdalny-&gt;lokalny</b> - pozwala na pobieranie plików, które są nowe na serwerze zdalnym (np. wgrane przez kogoś innego) i nieistniejące w serwisie lokalnym lub są nowsze niż te same pliki w serwisie na dysku lokalnym. Dzięki temu możesz szybko zaktualizować zawartość swojej lokalnej kopii serwisu z tym co znajduje się w sieci. <b>Uwaga! Podczas synchronizacji zdalny-&gt;lokalny nie są synchronizowane pliki zablokowane przez użytkowników!</b>
+<p><b>zdalny-&gt;lokalny</b> - pozwala na pobieranie plików, które są nowe na serwerze zdalnym (np. wgrane przez kogoś innego) i nieistniejące w projekcie lokalnym lub są nowsze niż te same pliki w projekcie na dysku lokalnym. Dzięki temu możesz szybko zaktualizować zawartość swojej lokalnej kopii projektu z tym co znajduje się w sieci. <b>Uwaga! Podczas synchronizacji zdalny-&gt;lokalny nie są synchronizowane pliki zablokowane przez użytkowników!</b>
 
 <h3>Ustawienia</h3>
 
-<p>Grupa przełączników o nazwie Ustawienia pozwala na określenie zachowania funkcji synchronizacji podczas tworzenia listy elementów do synchronizacji oraz samej synchronizacji. Dostępne tutaj ustawienia zmieniają się w zależności od wybranego kierunku synchronizacji i mogą dotyczyć zamiennie serwisu lokalnego lub zdalnego serwera przy czym ich znaczenie pozostaje mniej więcej to samo. Opiszemy tutaj przełączniki w trybie lokalny-&gt;zdalny:
+<p>Grupa przełączników o nazwie Ustawienia pozwala na określenie zachowania funkcji synchronizacji podczas tworzenia listy elementów do synchronizacji oraz samej synchronizacji. Dostępne tutaj ustawienia zmieniają się w zależności od wybranego kierunku synchronizacji i mogą dotyczyć zamiennie projektu lokalnego lub zdalnego serwera przy czym ich znaczenie pozostaje mniej więcej to samo. Opiszemy tutaj przełączniki w trybie lokalny-&gt;zdalny:
 
-<p><b>Usuwaj zdalne pliki i foldery nie istniejące w lokalnej kopii serwisu</b><br>
-Włączenie tej opcji powoduje, że pliki (lub foldery) zdalne, które istnieją na serwerze, a nie mają odpowiednich w serwisie na dysku lokalnym, będą usuwane. <b>UWAGA! Włącznie tej opcji jest niebezpieczne i zaleca się stosowanie jej wyłącznie po dużym namyśle!</b>
+<p><b>Usuwaj zdalne pliki i foldery nie istniejące w lokalnej kopii projektu</b><br>
+Włączenie tej opcji powoduje, że pliki (lub foldery) zdalne, które istnieją na serwerze, a nie mają odpowiednich w projekcie na dysku lokalnym, będą usuwane. <b>UWAGA! Włącznie tej opcji jest niebezpieczne i zaleca się stosowanie jej wyłącznie po dużym namyśle!</b>
 
 <p><b>Zastępuj zdalne lokalnymi gdy data modyfikacji podobna</b><br>
 W przypadku serwerów FTP lub WebDAV czasami nie można określić bardzo dokładnej daty i czasu. Ta opcja pozwala przyjąć pewien margines błędu i synchronizować nawet pliki o nieznacznie różnej dacie. <b>Zaleca się ostrożne korzystanie z tej funkcji.</b>
@@ -87,9 +87,9 @@ Zaznaczając to pole spowodujesz, że podczas synchronizacji pliki lokalne otrzy
 <p><b>Pomijaj pliki kopii zapasowych</b><br />
 Zaznacz ten przełącznik, aby program pomijał pliki kopii zapasowych zarówno z rozszerzeniem *.BAK, jak i o nazwie zbudowanej wg schematu BAK.* (nowsza postać nazwy plików kopii zapasowych tworzonych przez Pająka).
 
-<h3>Oczyszczanie serwisu</h3>
+<h3>Oczyszczanie projektu</h3>
 
-<p>Przed przeprowadzeniem synchronizacji serwisu zaleca się <a href="down_integrity.php">oczyszczenie serwisu lokalnego</a>. Funkcje oczyszczania serwisu opisane zostały w osobnym temacie. Jeśli chcesz wywołać funkcję oczyszczania serwisu użyj przycisku znajdującego się w tej grupie i korzystając z przypisanego do niego menu wybierz zakres oczyszczania serwisu.
+<p>Przed przeprowadzeniem synchronizacji projektu zaleca się <a href="down_integrity.php">oczyszczenie projektu lokalnego</a>. Funkcje oczyszczania projektu opisane zostały w osobnym temacie. Jeśli chcesz wywołać funkcję oczyszczania projektu użyj przycisku znajdującego się w tej grupie i korzystając z przypisanego do niego menu wybierz zakres oczyszczania projektu.
 
 <a name="service_synchro_syncelements" ></a>
 <h2>Zakładka Synchronizowane elementy</h2>
@@ -98,11 +98,11 @@ Zaznacz ten przełącznik, aby program pomijał pliki kopii zapasowych zarówno 
 
 <p>Za pomocą grupy o nazwie "Synchronizowane elementy" i znajdującej się tam listy możesz wskazać jakie pliki lub foldery mają podlegać synchronizacji. Możesz wybrać:
 
-<p><b>Cały serwis</b><br>
-Włącz ten przełącznik jeśli chcesz synchronizować cały serwis zgodnie z ustawieniami mapowania. Ta opcja jest domyślnie włączona.
+<p><b>Cały projekt</b><br>
+Włącz ten przełącznik jeśli chcesz synchronizować cały projekt zgodnie z ustawieniami mapowania. Ta opcja jest domyślnie włączona.
 
 <p><b>Tylko wskazane pliki lub foldery</b><br>
-Włącz ten przełącznik jeśli chcesz synchronizować tylko wybrane pliki lub foldery serwisu. Pliki i foldery dodaj do listy znajdującej się poniżej. Pliki i foldery nie wchodzące w skład tej listy zostaną pominięte.
+Włącz ten przełącznik jeśli chcesz synchronizować tylko wybrane pliki lub foldery projektu. Pliki i foldery dodaj do listy znajdującej się poniżej. Pliki i foldery nie wchodzące w skład tej listy zostaną pominięte.
 
 
 <h3>Wykluczanie z synchronizacji</h3>
@@ -113,7 +113,7 @@ Włącz ten przełącznik jeśli chcesz synchronizować tylko wybrane pliki lub 
 
 <h1>Generowanie listy synchronizacji</h1>
 
-<p>Po określeniu wszystkich parametrów synchronizacji kliknij przycisk <b>Twórz listę</b>, aby program połączył się z siecią Internet i wybranym serwerem synchronizacji, a następnie utworzył listę elementów, które wymagają synchronizacji. Tworzenie listy w zależności od rozmiarów serwisu możesz potrwać dłuższą chwilę. Konieczne jest bowiem przejrzenie wszystkich katalogów znajdujących się na serwerze i porównanie ich z lokalną zawartością. Po zakończeniu tworzenia listy elementów do synchronizacji zostanie ona wstawiona na <a href="down_panel.php">dolny panel wyników</a> na zakładkę <a href="down_publishing_syncreport.php">Operacje publikowania</a>. Teraz możesz zaznaczyć wybrane pliki i przyciskiem "Rozpocznij synchronizację" () rozpocząć wykonywanie zaplanowanego zadania synchronizacji.
+<p>Po określeniu wszystkich parametrów synchronizacji kliknij przycisk <b>Twórz listę</b>, aby program połączył się z siecią Internet i wybranym serwerem synchronizacji, a następnie utworzył listę elementów, które wymagają synchronizacji. Tworzenie listy w zależności od rozmiarów projektu możesz potrwać dłuższą chwilę. Konieczne jest bowiem przejrzenie wszystkich katalogów znajdujących się na serwerze i porównanie ich z lokalną zawartością. Po zakończeniu tworzenia listy elementów do synchronizacji zostanie ona wstawiona na <a href="down_panel.php">dolny panel wyników</a> na zakładkę <a href="down_publishing_syncreport.php">Operacje publikowania</a>. Teraz możesz zaznaczyć wybrane pliki i przyciskiem "Rozpocznij synchronizację" () rozpocząć wykonywanie zaplanowanego zadania synchronizacji.
 
 
 </td>
@@ -126,13 +126,13 @@ Włącz ten przełącznik jeśli chcesz synchronizować tylko wybrane pliki lub 
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="services_general.php">O serwisach ogólnie</a>
-	<li><a href="service_properites.php#service_properties_mappings">Ustawienia mapowania serwisu</a>
+	<li><a href="services_general.php">O projektach ogólnie</a>
+	<li><a href="service_properites.php#service_properties_mappings">Ustawienia mapowania projektu</a>
 	<li><a href="down_publishing_syncreport.php">Raport synchronizacji</a>
-	<li><a href="down_integrity.php">Oczyszczanie serwisu</a>
-	<li><a href="settings_network_synchronization.php">Ustawienia programu - Synchronizacja serwisów</a>
+	<li><a href="down_integrity.php">Oczyszczanie projektu</a>
+	<li><a href="settings_network_synchronization.php">Ustawienia programu - Synchronizacja projektów</a>
 	<li><a href="settings_network_ftpservers.php">Ustawienia programu - Dodawanie serwerów FTP i WebDAV</a>
-	<li><a href="main_tabs_myservices.php">Zakładka Moje serwisy</a>
+	<li><a href="main_tabs_myservices.php">Zakładka Moje projekty</a>
 	<li><a href="main_window_desc.php">Główne okno programu</a>
 </ul>
 </td>

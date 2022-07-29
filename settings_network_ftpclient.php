@@ -63,7 +63,7 @@ Zaznacz tę opcję, aby spowodować wyświetlanie zdalnych katalogów na liście
 
 <h2>Praca grupowa</h2>
 
-<p>Pająk wspomaga pracę grupową nad serwisem umożliwiając blokowanie plików, nad którymi pracujesz. Dzięki temu Twoi współpracownicy będą wiedzieli, że danego pliku nie należy ruszać. W tej grupie znajdziesz trzy ustawienia wspólna dla serwerów FTP i WebDAV:</p>
+<p>Pająk wspomaga pracę grupową nad projektem umożliwiając blokowanie plików, nad którymi pracujesz. Dzięki temu Twoi współpracownicy będą wiedzieli, że danego pliku nie należy ruszać. W tej grupie znajdziesz trzy ustawienia wspólna dla serwerów FTP i WebDAV:</p>
 
 <p><b>Wyłącz sprawdzanie blokady plików zdalnych</b><br />
 Zaznacz tę opcję, aby program nie sprawdzał podczas modyfikacji plików, czy są one zablokowane. Dzięki temu liczba komend przesyłanych do serwerów jest mniejsza i publikacja może działać szybciej jednak tracisz kontrolę nad informacją o blokadzie plików przez innych użytkowników. Nie zaleca się korzystania z tej opcji (domyślnie jest wyłączona), jednak jej włączenie przyspiesza operacje przeprowadzane na serwerze (szczególnie przesyłanie dużej ilości niewielkich plików), co może mieć znaczenie w przypadku korzystania z powolnego łącza.
@@ -144,7 +144,7 @@ Kliknięcie tego przycisku powoduje wyczyszczenie pliku cache, w którym pamięt
 	<li><a href="down_publishing_ftpqueue.php">Kolejka plików FTP</a>
 	<li><a href="main_tabs_myftpservers_on-offline.php">Praca w trybie online i offline</a>
 	<li><a href="network_publishing_general.php">Publikowanie w Pająku</a>
-	<li><a href="service_tool_synchronization.php">Synchronizacja serwisów</a>
+	<li><a href="service_tool_synchronization.php">Synchronizacja projektów</a>
 </ul>
 </td>
 </tr>

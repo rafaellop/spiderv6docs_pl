@@ -44,7 +44,7 @@
 
 <ul>
 	<li><b><a href="main_menu_file.php">Plik</a></b> - menu służy do wykonywania podstawowych operacji na dokumentach i programie, jak otwieranie, zamykanie, zapis, bądź drukowanie.<br /><br /></li>
-	<li><b><a href="main_menu_services.php">Serwisy</a></b> - polecenia w tym menu służą do pracy z plikami i folderami znajdującymi się na dysku lokalnym. Za pomocą tego menu możesz również tworzyć <a href="services_general.php">serwisy</a> i przełączać się między nimi.<br /><br /></li>
+	<li><b><a href="main_menu_services.php">Projekty</a></b> - polecenia w tym menu służą do pracy z plikami i folderami znajdującymi się na dysku lokalnym. Za pomocą tego menu możesz również tworzyć <a href="services_general.php">projekty</a> i przełączać się między nimi.<br /><br /></li>
 	<li><b><a href="main_menu_edit.php">Edycja</a></b> - menu zawiera polecenia przydatne podczas pracy z dokumentem.<br /><br /></li>
 	<li><b><a href="main_menu_find.php">Szukaj</a></b> - menu służy uruchamiania narzędzie do operacji wyszukiwania i zamiany tekstu w dokumentach otwartych w programie, a także zapisanych na dysku.<br /><br /></li>
 	<li><b><a href="main_menu_htmlcode.php">Kod HTML</a></b> - w tym menu znajdziesz polecenia służące do wstawiania wszelkich znaczników HTML.<br /><br /></li>

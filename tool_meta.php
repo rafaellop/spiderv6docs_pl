@@ -36,13 +36,13 @@
 
 <p>Sekcja META dokumentów HTML jest bardzo ważną sekcją, zwłaszcza w polskich warunkach. W sekcji tej znajdują się bowiem bardziej szczegółowe informacje na temat zawartości dokumentu HTML, np. używana strona kodowa dla znaków narodowych, itp. Edytor sekcji META pozwala na łatwe określenie parametrów sekcji META w wygodny sposób.
 
-<p>Okno edytora sekcji META uruchomisz z poziomu <a href="main_menu_main.php">Menu głównego</a> / <a href="main_menu_tools.php">Narzędzia</a> / <a href="main_menu_tools_structure.php">Struktura</a> / Edytor sekcji &lt;meta&gt;, a także z pasków narzędzi i skrótem klawiszowym <tt>Shift+Ctrl+M</tt>. Dodatkowo możliwe jest określenie domyślnych właściwości sekcji META dla każdego Serwisu z osobna. Odpowiedni przycisk uruchomiający to okno znajdziesz więc w oknie <a href="service_properites.php#servicepropertiesdocuments">Właściwości serwisu / Dokumenty</a>. Ikona polecenia przedstawiona została powyżej.
+<p>Okno edytora sekcji META uruchomisz z poziomu <a href="main_menu_main.php">Menu głównego</a> / <a href="main_menu_tools.php">Narzędzia</a> / <a href="main_menu_tools_structure.php">Struktura</a> / Edytor sekcji &lt;meta&gt;, a także z pasków narzędzi i skrótem klawiszowym <tt>Shift+Ctrl+M</tt>. Dodatkowo możliwe jest określenie domyślnych właściwości sekcji META dla każdego Projektu z osobna. Odpowiedni przycisk uruchomiający to okno znajdziesz więc w oknie <a href="service_properites.php#servicepropertiesdocuments">Właściwości projektu / Dokumenty</a>. Ikona polecenia przedstawiona została powyżej.
 
 <h2>Ogólne informacje</h2>
 
 <p>Należy w tym miejscu przypomnieć, że polski standard kodowania znaków ustala norma <tt>ISO-8859-2</tt>, która powinna być przestrzegana (więcej o polskich znakach można przeczytać na <a href="https://www.ogonki.agh.edu.pl/" target="_blank">Polskiej Stronie Ogonkowej</a>).
 
-<p>Oprócz informacji o używanej stronie kodowej, w sekcji META zawarte są dane pomocne przy katalogowaniu stron przez serwisy wyszukiwawcze (słowa kluczowe, opis strony, język dokumentu) oraz inne (autor, użyty program narzędziowy, itp.). Można także określić, czy strona ma być przechowywana w pamięci tymczasowej (cache) przeglądarek.
+<p>Oprócz informacji o używanej stronie kodowej, w sekcji META zawarte są dane pomocne przy katalogowaniu stron przez projekty wyszukiwawcze (słowa kluczowe, opis strony, język dokumentu) oraz inne (autor, użyty program narzędziowy, itp.). Można także określić, czy strona ma być przechowywana w pamięci tymczasowej (cache) przeglądarek.
 
 <p>Edytor sekcji META umożliwia szybkie zdefiniowanie wszystkich tych parametrów. Zalecane więc jest umieszczanie sekcji META w każdym tworzonym dokumencie, chociażby tylko z podstawowymi danymi.
 
@@ -178,10 +178,10 @@ Obszar wyświetlający podgląd wybranego efektu. Aby zobaczyć podgląd wciśni
 <a name="classification"></a>
 <h2>Klasyfikacja zawartości</h2>
 
-<p>Ta zakładka umożliwia szybkie sklasyfikowanie dokumentu za pomocą systemu RSACi. Wystarczy tylko zaznaczyć przełącznik "<b>Dołącz klasyfikację</b>" i ustalić odpowiednie parametry. Parametry ustalasz za pomocą odpowiednich suwaków wskazujących poziom obecności określonych treści na stronie. Dodatkowo możesz wskazać adres klasyfikującego, adres klasyfikowanej strony oraz datę ważności klasyfikacji. Jeśli natomiast chcesz, aby klasyfikacja była ważna tylko w obrębie tej strony, a nie np. całego serwisu, zaznacz przełącznik "<b>Klasyfikacja ważna tylko w obrębie tej strony</b>".
+<p>Ta zakładka umożliwia szybkie sklasyfikowanie dokumentu za pomocą systemu RSACi. Wystarczy tylko zaznaczyć przełącznik "<b>Dołącz klasyfikację</b>" i ustalić odpowiednie parametry. Parametry ustalasz za pomocą odpowiednich suwaków wskazujących poziom obecności określonych treści na stronie. Dodatkowo możesz wskazać adres klasyfikującego, adres klasyfikowanej strony oraz datę ważności klasyfikacji. Jeśli natomiast chcesz, aby klasyfikacja była ważna tylko w obrębie tej strony, a nie np. całego projektu, zaznacz przełącznik "<b>Klasyfikacja ważna tylko w obrębie tej strony</b>".
 
-<h2>Przycisk Przypisz z serwisu</h2>
-<p>Przycisk "Przypisz z serwisu" umożliwia przepisanie własności META ustawionych dla wskazanego <a href="services_general.php">serwisu</a> do okienka właściwości META. Kliknięcie tego przycisku rozwija listę serwisów dostępnych w Pająku. Wskazanie serwisu na liście spowoduje przeniesienie jego własności (określonych w oknie <a href="service_properites.php#metaindexing">Właściwości serwisu</a>) do odpowiednich pól "Edytora sekcji META".
+<h2>Przycisk Przypisz z projektu</h2>
+<p>Przycisk "Przypisz z projektu" umożliwia przepisanie własności META ustawionych dla wskazanego <a href="services_general.php">projektu</a> do okienka właściwości META. Kliknięcie tego przycisku rozwija listę projektów dostępnych w Pająku. Wskazanie projektu na liście spowoduje przeniesienie jego własności (określonych w oknie <a href="service_properites.php#metaindexing">Właściwości projektu</a>) do odpowiednich pól "Edytora sekcji META".
 
 </td>
 </tr>
@@ -193,7 +193,7 @@ Obszar wyświetlający podgląd wybranego efektu. Aby zobaczyć podgląd wciśni
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="service_properites.php#metaindexing">Ustawianie META dla serwisów</a>
+	<li><a href="service_properites.php#metaindexing">Ustawianie META dla projektów</a>
 	<li><a href="tool_quickstart.php">Narzędzie Szybki Start</a>
 	<li><a href="tool_body.php">Narzędzie ustawień BODY</a>
 	<li><a href="main_menu_main.php">Menu programu</a>

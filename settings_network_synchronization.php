@@ -7,7 +7,7 @@
 <meta name="Generator" content="Pajak V6 (6.0.1.1)">
 
 <!-- nazwa strony pomocy -->
-<title>Ustawienia programu - Synchronizacja serwisów</title>
+<title>Ustawienia programu - Synchronizacja projektów</title>
 
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha512-MoRNloxbStBcD8z3M/2BmnT+rg4IsMxPkXaGh2zD6LGNNFE80W3onsAhRcMAMrSoyWL9xD7Ert0men7vR8LUZg==" crossorigin="anonymous" />
@@ -33,7 +33,7 @@
 
 
 <!-- nagłowek głowny tematu -->
-<h1>Ustawienia programu - Kolejka plików i Synchronizacja serwisów</h1>
+<h1>Ustawienia programu - Kolejka plików i Synchronizacja projektów</h1>
 
 
 <h2>Kolejka plików</h2>
@@ -70,8 +70,8 @@ Zaznacz tę opcję, jeśli razem z właściwymi dokumentami na serwer mają być
 <p><b>Przesyłaj pliki w sposób bezpieczny</b><br />
 Zaznacz tę opcję jeśli chcesz skorzystać z bezpiecznego wysyłania plików na serwer oraz pobierania plików z serwera. Bezpieczne przesyłanie polega na wgrywaniu/pobieraniu pliku na serwer/z serwera pod tymczasową nazwą i dopiero po zakończeniu tej operacji zmieniana jest nazwa pliku na właściwą. Ta funkcja zabezpiecza przed utratą plików na serwerze np. wskutek zerwania połączenia oraz przed nadgraniem starej kopii lokalnej pliku nową, nie do końca pobraną z serwera kopią.
 
-<p><b>Kolejka plików do publikacji osobna dla każdego serwisu</b><br />
-Zaznacz tę opcję jeśli program ma pamiętać kolejkę plików osobno dla każdego serwisu i automatycznie ładować ją przy zmianie serwisu na inny. Gdy opcja ta jest zaznaczona, a kolejka wykonuje się, nie można przełączać serwisów.
+<p><b>Kolejka plików do publikacji osobna dla każdego projektu</b><br />
+Zaznacz tę opcję jeśli program ma pamiętać kolejkę plików osobno dla każdego projektu i automatycznie ładować ją przy zmianie projektu na inny. Gdy opcja ta jest zaznaczona, a kolejka wykonuje się, nie można przełączać projektów.
 
 <p><b>Ostrzegaj o wielkości liter w odsyłaczach dodawanych dokumentów</b><br />
 Zaznacz tę opcję jeśli przy dodawaniu plików typu "Dokument HTML" ma być przeprowadzana weryfikacja odsyłaczy zawartych w dokumencie pod kątem ich poprawności (wielkość liter, odsyłacz do pliku na lokalnym dysku, użycie backslash zamiast slash w ścieżkach)
@@ -87,13 +87,13 @@ Zaznacz tę opcję jeśli przy dodawaniu plików typu "Dokument HTML" ma być pr
 
 
 
-<p>W tej kategorii znajdziesz kilka ustawień ustawienia odpowiedzialnych za funkcję automatycznej synchronizacji zawartości serwisu lokalnego ze zdalnym serwerem. Synchronizacja opisana została szerzej w temacie poświęconym <a href="service_tool_synchronization.php">Synchronizacji serwisu</a> oraz <a href="down_publishing_syncreport.php">kolejce synchronizacji na dolnym panelu</a>. W tej kategorii znajduje się dosłownie parę ustawień. Więcej ustawień możesz znaleźć we wspomnianym wyżej okienku.
+<p>W tej kategorii znajdziesz kilka ustawień ustawienia odpowiedzialnych za funkcję automatycznej synchronizacji zawartości projektu lokalnego ze zdalnym serwerem. Synchronizacja opisana została szerzej w temacie poświęconym <a href="service_tool_synchronization.php">Synchronizacji projektu</a> oraz <a href="down_publishing_syncreport.php">kolejce synchronizacji na dolnym panelu</a>. W tej kategorii znajduje się dosłownie parę ustawień. Więcej ustawień możesz znaleźć we wspomnianym wyżej okienku.
 
 <p><b>Wysyłaj pliki na serwer w sposób bezpieczny</b><br>
 Zaznacz tę opcję jeśli chcesz skorzystać z bezpiecznego wysyłania plików na serwer. Bezpieczne wysyłanie polega na wgrywaniu pliku na serwer pod tymczasową nazwą i dopiero po zakończeniu tej operacji zmieniana jest nazwa pliku na właściwą. Ta funkcja zabezpiecza przed utratą plików na serwerze np. wskutek zerwania połączenia. Nie myl tej funkcji z możliwością nawiązywania bezpiecznych połączeń z serwerami FTP (za pomocą SSL/TSL) i WebDAV (HTTPS)!
 
 <p><b>Nie zatrzymuj synchronizacji, gdy wystąpi błąd</b><br />
-Zaznacz tę opcję, by synchronizacja nie została wstrzymana w przypadku wystąpienia błędów. Sytuacja taka mogłaby mieć miejsce, np. w przypadku, gdy w czasie między utworzeniem listy synchronizacji, a zsynchronizowaniem serwisu i serwera usunięto z dysku jakiś plik istniejący na liście.
+Zaznacz tę opcję, by synchronizacja nie została wstrzymana w przypadku wystąpienia błędów. Sytuacja taka mogłaby mieć miejsce, np. w przypadku, gdy w czasie między utworzeniem listy synchronizacji, a zsynchronizowaniem projektu i serwera usunięto z dysku jakiś plik istniejący na liście.
 
 <p><b><i>Dodatkowe minuty wyrównujące różnicę czasu</i></b><br>
 <i>W wersji 5.6.2 opcję tę przeniesiono do okna <a href="settings_network_ftpservers_add.php">Właściwości serwera</a>, dzięki czemu możliwe jest wyrównywanie różnicy czasu odrębnie dla każdego serwera</i>.
@@ -110,7 +110,7 @@ Zaznacz tę opcję, by synchronizacja nie została wstrzymana w przypadku wystą
 <h4>Pokrewne tematy</h4>
 <ul>
         <li><a href="settings_network.php#settingslistnetwork">Inne ustawienia sieci</a>
-        <li><a href="service_tool_synchronization.php">Synchronizacja serwisów</a>
+        <li><a href="service_tool_synchronization.php">Synchronizacja projektów</a>
         <li><a href="down_publishing_ftpqueue.php">Kolejka plików FTP i WebDAV</a></li>
         <li><a href="down_publishing_syncreport.php">Kolejka synchronizacji</a></li>
         <li><a href="network_publishing_general.php">Publikowanie w Pająku</a>

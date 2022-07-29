@@ -49,7 +49,7 @@ Nazwa kategorii (języka), której definicję znaczników edytujesz (tylko podgl
 Opis języka, którego definicję znaczników zawiera wybrana kategoria.
 
 <p><b>Jest to język typu XML</b><br>
-Opcja ta powoduje,&nbsp;że wielkość liter&nbsp;w znacznikach ma znaczenie. Przykładowo w języku XHTML wszystkie nazwy znaczników musza być pisane małymi literami. Zmienia ona również zachowanie się programu w niektórych sytuacjach, np. podczas automatycznego domykania znaczników. Jeśli opcja ta będzie wyłączona, wielkość liter będzie zależna od ustawień programu i ustawień bieżącego serwisu.
+Opcja ta powoduje,&nbsp;że wielkość liter&nbsp;w znacznikach ma znaczenie. Przykładowo w języku XHTML wszystkie nazwy znaczników musza być pisane małymi literami. Zmienia ona również zachowanie się programu w niektórych sytuacjach, np. podczas automatycznego domykania znaczników. Jeśli opcja ta będzie wyłączona, wielkość liter będzie zależna od ustawień programu i ustawień bieżącego projektu.
 
 <p><b>Ścieżka do dokumentacji</b><br />
 Nazwa katalogu, w którym znajdują się pliki z dokumentację tego języka. Katalog ten musi być podkatalogiem folderu Docs w katalogu głównym Pająka (standardowo <tt>C:\Program Files (x86)\CREAM.SOFTWARE\SpiderEditor</tt>).

@@ -66,14 +66,14 @@
 
 
 
-<h2>Korzystanie z Serwisu będącego projektem HTML Help</h2>
+<h2>Korzystanie z Projektu będącego projektem HTML Help</h2>
 
-<p>Znaczącym ułatwieniem podczas tworzenia pomocy w formacie CHM jest możliwość zdefiniowania Serwisu jako Projektu HTML Help. W tym celu zaznacz opcję "Ten serwis jest również projektem HTML Help" w drugiej zakładce okna <a href="service_properites.php">Właściwości serwisu</a>. Dzięki temu wszystkie ustawienia bieżącego projektu HTML Help będziesz miał w dostępne z jednego miejsca.</p>
+<p>Znaczącym ułatwieniem podczas tworzenia pomocy w formacie CHM jest możliwość zdefiniowania Projektu jako Projektu HTML Help. W tym celu zaznacz opcję "Ten projekt jest również projektem HTML Help" w drugiej zakładce okna <a href="service_properites.php">Właściwości projektu</a>. Dzięki temu wszystkie ustawienia bieżącego projektu HTML Help będziesz miał w dostępne z jednego miejsca.</p>
 
 
 <p><b>Przygotowanie projektu w Edytorze HTML Help</b><br>
 
-<p>Po zaznaczeniu ww. opcji musisz jeszcze wykonać kilka czynności, aby utworzyć główny plik projektu (*.HHP). W tym celu kliknij w oknie ustawień serwisu na polecenie "Edytuj projekt". Spowoduje to otwarcie <a href="tool_htmlhelp_hhp_editor.php">Edytora projektu HTML Help</a>.</p>
+<p>Po zaznaczeniu ww. opcji musisz jeszcze wykonać kilka czynności, aby utworzyć główny plik projektu (*.HHP). W tym celu kliknij w oknie ustawień projektu na polecenie "Edytuj projekt". Spowoduje to otwarcie <a href="tool_htmlhelp_hhp_editor.php">Edytora projektu HTML Help</a>.</p>
 
 <p>Pierwszą czynnością będzie wskazanie folderu, w którym znajdują się pliki mające wejść w skład projektu HTML Help. Wskazane jest, by wszystkie pliki wchodzące w skład tego projektu znajdowały się w tym folderze, lub w znajdujących się w nim podfolderach. Folder projektu wskażesz za pomocą polecenia w górnej części okna.</p>
 
@@ -109,9 +109,9 @@
 Aby dodać do pliku pomocy zestaw słów kluczowych ułatwiających wyszukiwanie, zaznacz opcję "Włącz słowa kluczowe z plików HTML" w <a href="tool_htmlhelp_hhp_editor.php">Edytorze projektu HTML Help</a>, w zakładce "Ogólne ustawienia projektu". </p>
 
 
-<p><b>Kompilacja projektu w bieżącym serwisie</b><br>
+<p><b>Kompilacja projektu w bieżącym projekcie</b><br>
 
-<p>Gdy wszystko jest już przygotowane, możesz skompilować projekt. W tym celu skorzystaj z polecenia "Skompiluj projekt" w <a href="main_menu_main.php">Menu głównym</a> / <a href="main_menu_htmlhelp.php">HTML Help</a> / <b>HTML Help w bieżącym serwisie</b>, bądź w oknie <a href="service_properites.php">Właściwości serwisu</a>.</p>
+<p>Gdy wszystko jest już przygotowane, możesz skompilować projekt. W tym celu skorzystaj z polecenia "Skompiluj projekt" w <a href="main_menu_main.php">Menu głównym</a> / <a href="main_menu_htmlhelp.php">HTML Help</a> / <b>HTML Help w bieżącym projekcie</b>, bądź w oknie <a href="service_properites.php">Właściwości projektu</a>.</p>
 
 
 

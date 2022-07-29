@@ -35,12 +35,12 @@
 <h1>Ustawienia programu - Ustawienia kanałów RSS</h1>
 
 <!-- treść pomocy -->
-<p>Kanały RSS (ang. <i>Really Simple Syndication</i>) umożliwiają łatwe przeglądanie najnowszych wiadomości udostępnianych przez różne serwisy internetowe. Również Cream Software udostępnia własne kanały RSS, w których możesz przeczytać najnowsze artykułu w serwisie, czy wątki na forum dyskusyjnym.</p>
+<p>Kanały RSS (ang. <i>Really Simple Syndication</i>) umożliwiają łatwe przeglądanie najnowszych wiadomości udostępnianych przez różne projekty internetowe. Również Cream Software udostępnia własne kanały RSS, w których możesz przeczytać najnowsze artykułu w projekcie, czy wątki na forum dyskusyjnym.</p>
 <p>W tej kategorii ustawień masz możliwość zdefiniowania kanałów RSS, jakie chcesz przeglądac z poziomu Pająka. Oprócz predefiniowanych kanałów Cream Software, możesz dodawać inne. Wiele portali internetowych podaje adresy plików RSS dla własnych kanałów, które możesz dodać na listę kanałów dostępnych w Pająku. </p>
 
 
 <p><b>Dodaj</b><br>
-Kliknij, aby dodać nowy kanał. Pojawi się okienko, w którym należy podać <b>Nazwę kanału</b> (pod którą chcesz widzieć kanał na liście) oraz <b>Adres pliku RSS</b> udostępniony przez serwis internetowy, którego wiadomości chcesz przeglądać. 
+Kliknij, aby dodać nowy kanał. Pojawi się okienko, w którym należy podać <b>Nazwę kanału</b> (pod którą chcesz widzieć kanał na liście) oraz <b>Adres pliku RSS</b> udostępniony przez projekt internetowy, którego wiadomości chcesz przeglądać. 
 
 <p><b>Usuń</b><br>
 Kliknij, aby usunąć kanał z listy. 

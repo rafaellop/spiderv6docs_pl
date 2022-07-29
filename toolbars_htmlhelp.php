@@ -80,7 +80,7 @@ Kliknij, aby uruchomić program MS HTML Help Workshop, z którego korzysta Pają
 <h4>Pokrewne tematy</h4>
 <ul>
         <li><a href="tool_htmlhelp_general.php">HTML Help - ogólne informacje</a>
-        <li><a href="tool_htmlhelp_compiler_services.php">HTML Help a serwisy</a></li>
+        <li><a href="tool_htmlhelp_compiler_services.php">HTML Help a projekty</a></li>
         <li><a href="settings_toolbars.php">Ustawienia programu - Ustawienia pasków, menu i skrótów</a>
 </td>
 </tr>

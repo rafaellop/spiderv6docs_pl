@@ -7,7 +7,7 @@
 <meta name="Authoring_tool" content="Pajak V6" />
 
 <!-- nazwa strony pomocy -->
-<title>Serwisy - Wymuszone dołączanie plików</title>
+<title>Projekty - Wymuszone dołączanie plików</title>
 
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha512-MoRNloxbStBcD8z3M/2BmnT+rg4IsMxPkXaGh2zD6LGNNFE80W3onsAhRcMAMrSoyWL9xD7Ert0men7vR8LUZg==" crossorigin="anonymous" />
@@ -32,10 +32,10 @@
 <td>
 
 <!-- nagłowek głowny tematu -->
-<h1>Serwisy - Wymuszone dołączanie plików</h1>
+<h1>Projekty - Wymuszone dołączanie plików</h1>
 
 
-<p>Wymuszone dołączanie plików jest mechanizmem, który pozwala na wskazanie, które pliki mają być analizowane przez program podczas tworzenia dynamicznych podpowiedzi. Jest to szczególnie przydatne, gdy plik, który powinien zostać przeanalizowany (np. plik <tt>*.css</tt> zawierający arkusze stylów) nie jest połączony bezpośrednio z bieżącym dokumentem, gdyż bieżący dokument nie jest wyświetlany w serwisie bezpośrednio, lecz jest dołączany po stronie serwera (np. za pomocą funkcji <tt>include()</tt> w PHP) do wykonywanego skryptu server-side. Taka sytuacja ma często miejsce w przypadku bardziej rozbudowanych serwisów internetowych, w których funkcje o różnym przeznaczeniu zebrane są w osobnych plikach. </p>
+<p>Wymuszone dołączanie plików jest mechanizmem, który pozwala na wskazanie, które pliki mają być analizowane przez program podczas tworzenia dynamicznych podpowiedzi. Jest to szczególnie przydatne, gdy plik, który powinien zostać przeanalizowany (np. plik <tt>*.css</tt> zawierający arkusze stylów) nie jest połączony bezpośrednio z bieżącym dokumentem, gdyż bieżący dokument nie jest wyświetlany w projekcie bezpośrednio, lecz jest dołączany po stronie serwera (np. za pomocą funkcji <tt>include()</tt> w PHP) do wykonywanego skryptu server-side. Taka sytuacja ma często miejsce w przypadku bardziej rozbudowanych projektów internetowych, w których funkcje o różnym przeznaczeniu zebrane są w osobnych plikach. </p>
 
 </td>
 </tr>
@@ -47,11 +47,11 @@
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="services_general.php">O serwisach ogólnie</a>
-   <li><a href="service_properites.php#virtual_include">Własności serwisu</a>
-	<li><a href="service_tool_synchronization.php">Synchronizacja serwisów</a>
+	<li><a href="services_general.php">O projektach ogólnie</a>
+   <li><a href="service_properites.php#virtual_include">Własności projektu</a>
+	<li><a href="service_tool_synchronization.php">Synchronizacja projektów</a>
 	<li><a href="tool_htmlhelp_general.php">HTML Help</a>
-	<li><a href="main_tabs_myservices.php">Zakładka Moje serwisy</a>
+	<li><a href="main_tabs_myservices.php">Zakładka Moje projekty</a>
 	<li><a href="tool_meta.php">Edytor sekcji META dokumentu</a>
 	<li><a href="main_window_desc.php">Główne okno programu</a>
 </ul>

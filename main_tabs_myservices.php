@@ -7,7 +7,7 @@
 <meta name="Generator" content="Pajak V6 (6.0.1.1)">
 
 <!-- nazwa strony pomocy -->
-<title>Zakładka "Moje serwisy"</title>
+<title>Zakładka "Moje projekty"</title>
 
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha512-MoRNloxbStBcD8z3M/2BmnT+rg4IsMxPkXaGh2zD6LGNNFE80W3onsAhRcMAMrSoyWL9xD7Ert0men7vR8LUZg==" crossorigin="anonymous" />
@@ -32,41 +32,41 @@
 <td>
 
 <!-- nagłowek głowny tematu -->
-<h1>Zakładka "Moje serwisy"</h1>
+<h1>Zakładka "Moje projekty"</h1>
 
 
 
 
-<p>Zakładka "Moje serwisy" służy do pracy z plikami i folderami znajdującymi się na dysku lokalnym. Za pomocą tej zakładki możesz również tworzyć <a href="services_general.php">serwisy</a> i przełączać się między nimi. Widzisz tutaj swoje foldery, pliki, możesz je otwierać, zmieniać nazwy, tworzyć nowe i wiele innych.
+<p>Zakładka "Moje projekty" służy do pracy z plikami i folderami znajdującymi się na dysku lokalnym. Za pomocą tej zakładki możesz również tworzyć <a href="services_general.php">projekty</a> i przełączać się między nimi. Widzisz tutaj swoje foldery, pliki, możesz je otwierać, zmieniać nazwy, tworzyć nowe i wiele innych.
 
-<p>Zakładkę Moje serwisy włączysz za pomocą panelu po lewej lub skrótu klawiszowego CTRL+1, a także z menu pod przyciskiem pokazanym powyżej czy z <a href="main_menu_main.php">Menu głównego</a> / <a href="main_menu_view.php">Wyświetl</a>.
+<p>Zakładkę Moje projekty włączysz za pomocą panelu po lewej lub skrótu klawiszowego CTRL+1, a także z menu pod przyciskiem pokazanym powyżej czy z <a href="main_menu_main.php">Menu głównego</a> / <a href="main_menu_view.php">Wyświetl</a>.
 
-<p>W odróżnieniu od zakładki Moje serwisy, zakładka <a href="main_tabs_myftpservers.php">Moje serwery</a> służy do operacji na zdalnych plikach na serwerach FTP.
+<p>W odróżnieniu od zakładki Moje projekty, zakładka <a href="main_tabs_myftpservers.php">Moje serwery</a> służy do operacji na zdalnych plikach na serwerach FTP.
 
-<h2>Zawartość - Sterowanie serwisami</h2>
+<h2>Zawartość - Sterowanie projektami</h2>
 
-<p>W górnej części zakładki Moje serwisy, obok drzewa folderów, znajdziesz zestaw przycisków związanych z <a href="services_general.php">serwisami</a>. Za pomocą tych przycisków możesz tworzyć nowe serwisy, przeglądać własności wybranego serwisu, itd. Zestaw przycisków znajdujący się tutaj jest identyczny z <a href="main_menu_main.php">Menu głównym</a> / <a href="main_menu_services.php">Serwisy</a> i tam znajdziesz opis działania znajdujących się tutaj poleceń.
+<p>W górnej części zakładki Moje projekty, obok drzewa folderów, znajdziesz zestaw przycisków związanych z <a href="services_general.php">projektami</a>. Za pomocą tych przycisków możesz tworzyć nowe projekty, przeglądać własności wybranego projektu, itd. Zestaw przycisków znajdujący się tutaj jest identyczny z <a href="main_menu_main.php">Menu głównym</a> / <a href="main_menu_services.php">Projekty</a> i tam znajdziesz opis działania znajdujących się tutaj poleceń.
 
-<p>Powyżej drzewa folderów znajduje się lista serwisów. Jeśli zaczynasz pracę z Pająkiem, lista ta zawiera tylko jedną pozycję o nazwie "Lista plików". Pozwala ona na włączenie widoku listy plików i katalogów na drzewku i liście plików poniżej dla całego komputera.<br>
-Jeśli jednak stworzysz jakieś serwisy za pomocą przycisków powyżej, na tej liście znajdziesz spis stworzonych serwisów. Wybranie serwisu ogranicza widok na drzewku folderów i liście plików tylko do zawartości folderu, który jest jednocześnie folderem startowym serwisu. Dzięki temu możesz ograniczyć się do pracy tylko na tych folderach i plikach, które wchodzą w skład bieżącego serwisu.
+<p>Powyżej drzewa folderów znajduje się lista projektów. Jeśli zaczynasz pracę z Pająkiem, lista ta zawiera tylko jedną pozycję o nazwie "Lista plików". Pozwala ona na włączenie widoku listy plików i katalogów na drzewku i liście plików poniżej dla całego komputera.<br>
+Jeśli jednak stworzysz jakieś projekty za pomocą przycisków powyżej, na tej liście znajdziesz spis stworzonych projektów. Wybranie projektu ogranicza widok na drzewku folderów i liście plików tylko do zawartości folderu, który jest jednocześnie folderem startowym projektu. Dzięki temu możesz ograniczyć się do pracy tylko na tych folderach i plikach, które wchodzą w skład bieżącego projektu.
 
 
-<p>Ikona obok nazwy serwisu określa dodatkowo:
+<p>Ikona obok nazwy projektu określa dodatkowo:
 
 <ul>
    <li> - Lista plików
-   <li> - Normalny serwis
-   <li> - Serwis będący jednocześnie <a href="tool_htmlhelp_general.php">projektem HTML Help</a>
+   <li> - Normalny projekt
+   <li> - Projekt będący jednocześnie <a href="tool_htmlhelp_general.php">projektem HTML Help</a>
 </ul>
 
-<p>Ponadto istnieje możliwość przywracania ostatnio otwartych plików dla każdego serwisu z osobna. Odpowiednie opcje znajdziesz w oknie <a href="settings_startup.php">Ustawienia programu / Przy starcie</a>.
+<p>Ponadto istnieje możliwość przywracania ostatnio otwartych plików dla każdego projektu z osobna. Odpowiednie opcje znajdziesz w oknie <a href="settings_startup.php">Ustawienia programu / Przy starcie</a>.
 
-<h3>Grupowanie serwisów</h3>
-<p>Istnieje możliwość grupowania serwisów. Grupy umieszczone są na liście powyżej serwisów niezgrupowanych. Kliknięcie na nazwę grupy rozwinie listę zebranych w niej serwisów. Jest to szczególnie przydatne podczas pracy nad dużą liczbą różnych projektów. Grupę, do której jest przypisany bieżący serwis możesz określić w oknie <a href="service_properites.php">Okno Właściwości serwisu</a>.</p>
+<h3>Grupowanie projektów</h3>
+<p>Istnieje możliwość grupowania projektów. Grupy umieszczone są na liście powyżej projektów niezgrupowanych. Kliknięcie na nazwę grupy rozwinie listę zebranych w niej projektów. Jest to szczególnie przydatne podczas pracy nad dużą liczbą różnych projektów. Grupę, do której jest przypisany bieżący projekt możesz określić w oknie <a href="service_properites.php">Okno Właściwości projektu</a>.</p>
 
 <h2>Zawartość - Wybór folderów i drzewo folderów</h2>
 
-<p>Poniżej listy zawierającej listę serwisów znajdziesz drzewko folderów. Drzewo folderów wyświetla w postaci hierarchicznego drzewa foldery znajdujące się na dysku lub w bieżącym serwisie. Drzewko jest identyczne jak to z eksploratora Windows. Ma ono również przypisane identyczne z systemowym podręczne menu, za pomocą którego możesz wykonywać różne operacje na drzewku. Możesz więc zmieniać nazwy, usuwać czy kompresować (o ile odpowiednie rozszerzenie systemowe jest zainstalowane) wybrane foldery.
+<p>Poniżej listy zawierającej listę projektów znajdziesz drzewko folderów. Drzewo folderów wyświetla w postaci hierarchicznego drzewa foldery znajdujące się na dysku lub w bieżącym projekcie. Drzewko jest identyczne jak to z eksploratora Windows. Ma ono również przypisane identyczne z systemowym podręczne menu, za pomocą którego możesz wykonywać różne operacje na drzewku. Możesz więc zmieniać nazwy, usuwać czy kompresować (o ile odpowiednie rozszerzenie systemowe jest zainstalowane) wybrane foldery.
 
 <h2>Zawartość - Lista plików</h2>
 
@@ -93,7 +93,7 @@ Jeśli jednak stworzysz jakieś serwisy za pomocą przycisków powyżej, na tej 
 <p>Obok listy przycisków znajduje się pasek z przyciskami. Identyczną zawartość ma menu listy plików i składa się z następujących przycisków:
 
 <p><b>Edytuj</b><br>
-Za pomocą tego przycisku otworzysz do edycji w Pająku dokumenty wybrane na liście plików. Możesz zaznaczyć kilka dokumentów i kliknąć ten przycisk, a wszystkie one zostaną załadowane do Pająka. Przycisk ten posiada również menu dostępne po kliknięciu po prawej stronie przycisku. Za pomocą przypisanego tutaj menu masz dostęp do listy ostatnio używanych plików, a także do polecenia otwierającego pliki z listy <a href="service_properites.php#servicepropertiesoftenused">często używanych plików serwisu</a>, który jest wybrany.
+Za pomocą tego przycisku otworzysz do edycji w Pająku dokumenty wybrane na liście plików. Możesz zaznaczyć kilka dokumentów i kliknąć ten przycisk, a wszystkie one zostaną załadowane do Pająka. Przycisk ten posiada również menu dostępne po kliknięciu po prawej stronie przycisku. Za pomocą przypisanego tutaj menu masz dostęp do listy ostatnio używanych plików, a także do polecenia otwierającego pliki z listy <a href="service_properites.php#servicepropertiesoftenused">często używanych plików projektu</a>, który jest wybrany.
 
 <p><b>Otwórz jako</b><br>
 To polecenie umożliwia otwarcie pliku lub plików pod nową nazwą. Po wybraniu dokumentu na liście plików i kliknięciu tego przycisku zostaniesz poproszony o wskazanie nazwy i miejsca, gdzie ma się znaleźć nowy plik. Po zaakceptowaniu zostanie on otworzony do edycji. W ten sposób można tworzyć kopie wybranych dokumentów i od razu otwierać je do edycji.
@@ -126,7 +126,7 @@ To polecenie umożliwia opublikowanie wybranego(nych) plików lub folderów na a
 Ten przycisk umożliwia usuwanie dokumentów i folderów wybranych na liście.
 
 <p><b>Nowy plik</b><br>
-Użyj tego polecenia, aby utworzyć nowy plik w bieżącym katalogu. Nazwa jest tworzona na podstawie <a href="service_properites.php#servicepropertiesdocuments">ustawień nazwy domyślnego pliku dla bieżącego serwisu</a>, a w przypadku ich braku, nadawana jest nazwa <tt>index.html</tt> (lub z numerem kolejnym, jeśli plik o takiej nazwie już istnieje).
+Użyj tego polecenia, aby utworzyć nowy plik w bieżącym katalogu. Nazwa jest tworzona na podstawie <a href="service_properites.php#servicepropertiesdocuments">ustawień nazwy domyślnego pliku dla bieżącego projektu</a>, a w przypadku ich braku, nadawana jest nazwa <tt>index.html</tt> (lub z numerem kolejnym, jeśli plik o takiej nazwie już istnieje).
 
 <p><b>Nowy folder</b><br>
 Użyj tego polecenia, aby utworzyć nowy folder w bieżącym katalogu.
@@ -200,8 +200,8 @@ Ten przycisk wyświetla tę stronę pomocy.
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-   <li><a href="services_general.php">Serwisy ogólnie</a>
-   <li><a href="service_properites.php">Okno Właściwości serwisu</a></li>
+   <li><a href="services_general.php">Projekty ogólnie</a>
+   <li><a href="service_properites.php">Okno Właściwości projektu</a></li>
    <li><a href="settings_filelist.php">Ustawienia listy plików</a>
    <li><a href="main_tabs_myftpservers.php">Zakładka Moje serwery</a>
    <li><a href="main_tabs_general.php">Inne zakładki</a>

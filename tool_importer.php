@@ -42,7 +42,7 @@
 
 <h2>Uruchamianie</h2>
 
-<p>Importer plików możesz za pomoca polecenia oznaczonego ikoną pokazaną powyżej znajdującego się w <a href="main_menu_main.php">Menu głównym</a> / <a href="main_menu_file.php">Plik</a> / Import plików, a także za pomocą menu podręcznego listy plików na zakładce <a href="main_tabs_myservices.php">Moje serwisy</a>. Narzędzie to można również znaleźć na <a href="toolbars_main.php">Głównym pasku narzędzi</a>.
+<p>Importer plików możesz za pomoca polecenia oznaczonego ikoną pokazaną powyżej znajdującego się w <a href="main_menu_main.php">Menu głównym</a> / <a href="main_menu_file.php">Plik</a> / Import plików, a także za pomocą menu podręcznego listy plików na zakładce <a href="main_tabs_myservices.php">Moje projekty</a>. Narzędzie to można również znaleźć na <a href="toolbars_main.php">Głównym pasku narzędzi</a>.
 
 <h2>Wybór formatu importowanych dokumentów</h2>
 

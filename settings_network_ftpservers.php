@@ -54,7 +54,7 @@ W tej kategorii ustawień masz możliwość zdefiniowania serwerów FTP i WebDAV
 	<li><a href="settings_network_ftpservers_add.php">Dodawanie nowego serwera</a>
 	<li><a href="network_publishing_general.php">Publikowanie w Pająku</a>
 	<li><a href="main_tabs_myftpservers.php">Zakładka Moje serwery</a>
-	<li><a href="service_tool_synchronization.php">Synchronizacja serwisów</a>
+	<li><a href="service_tool_synchronization.php">Synchronizacja projektów</a>
 </ul>
 </td>
 </tr>

@@ -38,7 +38,7 @@
 
 <!-- treść pomocy -->
 
-<p>Obecnie strony WWW w znacznej mierze korzystają z zasobów przechowywanych w bazach danych. Najpopularniejszy w tym zastosowaniu jest niewątpliwie MySQL. Wynika to przede wszystkim z faktu, iż jest dostępny za darmo. Drugim czynnikiem wysokiej popularności jest również fakt, iż ogromna część serwisów www korzystających z technologii server-side wykonanych jest przy użyciu PHP (<a href="coding_php.php">czytaj o wspomaganiu PHP przez Pająka</a>), a PHP właśnie ma wbudowaną obsługę MySQL.</p>
+<p>Obecnie strony WWW w znacznej mierze korzystają z zasobów przechowywanych w bazach danych. Najpopularniejszy w tym zastosowaniu jest niewątpliwie MySQL. Wynika to przede wszystkim z faktu, iż jest dostępny za darmo. Drugim czynnikiem wysokiej popularności jest również fakt, iż ogromna część projektów www korzystających z technologii server-side wykonanych jest przy użyciu PHP (<a href="coding_php.php">czytaj o wspomaganiu PHP przez Pająka</a>), a PHP właśnie ma wbudowaną obsługę MySQL.</p>
 <p>Więcej na temat MySQL możesz przeczytać na stronie <a href="https://www.mysql.org" target="_blank">www.mysql.org</a>.</p>
 
 <p>Pająk wspomaga korzystanie z bazy danych MySQL.  Na to wspomaganie składa się kilka różnych narzędzi i mechanizmów programu:

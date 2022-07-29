@@ -57,7 +57,7 @@
         <li><a href="main_tabs_navigator.php#html">Nawigator znaczników</a></li>
         <li><a href="coding_markuplangs_codeinsight.php">Dynamiczny kod</a></li>
         <li><a href="main_tabs_navigator.php#html_categorized">Skategoryzowany nawigator HTML</a></li>
-        <li><a href="coding_html_macrocodes.php">Makrokody zawierające szablony dokumentów itp.</a></li>
+        <li><a href="coding_html_macrocodes.php">Szablony zawierające szablony dokumentów itp.</a></li>
         <li><a href="coding_html_help.php">Pomoc kontekstowa dla HTML na dolnym panelu</a></li>
  <li><a href="coding_markuplangs_formatting.php">Formatowanie kodu źródłowego języków znacznikowych</a></li>
 </ul></p>
@@ -76,7 +76,7 @@
         <li><a href="syntax.php">Kolorowanie składni w Pająku</a>
         <li><a href="main_editor_codeinsight.php">Dynamiczny kod</a></li>
         <li><a href="main_tabs_navigator.php">Zakładka "Nawigator"</a></li>
-        <li><a href="main_tabs_macrocodes.php">Zakładka "Makrokody"</a></li>
+        <li><a href="main_tabs_macrocodes.php">Zakładka "Szablony"</a></li>
         <li><a href="settings_codeinsight.php">Ustawienia programu - Ułatwienia, dynamiczne atrybuty, inne</a>
         <li><a href="formatter_general.php">Formatowanie kodu źródłowego</a> - <a href="formatter_markuplangs.php">Ustawienia dla języków znacznikowych</a>, <a href="formatter_tidy.php">ustawienia dla TIDY (r)</a></li>
 </ul>

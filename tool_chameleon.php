@@ -42,7 +42,7 @@
 
 <h2>Uruchamianie</h2>
 
-<p>Kameleona możesz uruchomić za pomoca polecenia oznaczonego ikoną pokazaną powyżej znajdującego się w <a href="main_menu_main.php">Menu głównym</a> / <a href="main_menu_file.php">Plik</a>, a także za pomocą menu podręcznego listy plików na zakładce <a href="main_tabs_myservices.php">Moje serwisy</a>. Alternatywnym sposobem uruchamiania narzędzia jest zaznaczenie kilku plików na liście i wciśnięcie klawisza F2.
+<p>Kameleona możesz uruchomić za pomoca polecenia oznaczonego ikoną pokazaną powyżej znajdującego się w <a href="main_menu_main.php">Menu głównym</a> / <a href="main_menu_file.php">Plik</a>, a także za pomocą menu podręcznego listy plików na zakładce <a href="main_tabs_myservices.php">Moje projekty</a>. Alternatywnym sposobem uruchamiania narzędzia jest zaznaczenie kilku plików na liście i wciśnięcie klawisza F2.
 
 <p>Pierwsza plansza tego narzędzia pełni funkcję informacyjną i jest powitaniem w narzędziu.
 

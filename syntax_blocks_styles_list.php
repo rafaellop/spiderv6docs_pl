@@ -54,7 +54,7 @@ Kliknij, aby usunąć blok</p>
 Kliknij aby dodać zmienić nazwę, bądź położenie blok. W okienku 'Edycja bloku składniowego...', które pojawi się po kliknięciu tej ikony możesz wpisać nową nazwę bloku, a także zmienić blok nadrzędny, dla edytowanego bloku.</p>
 
 <p><b>Kopiuj blok z innego schematu</b><br />
-Możliwe jest również kopiowanie bloków z&nbsp;innego schematu kolorowania. Po kliknięciu na tę ikonę otworzy się okienko w którym będzie można wskazać plik, z którego chcesz skopiować blok. Pliki makrokodów mają nazwy typu *.mcd. </p>
+Możliwe jest również kopiowanie bloków z&nbsp;innego schematu kolorowania. Po kliknięciu na tę ikonę otworzy się okienko w którym będzie można wskazać plik, z którego chcesz skopiować blok. Pliki szablonów mają nazwy typu *.mcd. </p>
 Po wybraniu pliku otworzy się okienko 'Import bloku z&nbsp;innego  schematu'. Jest ono podzielone na dwie części: 
 <ul>
 	<li><b>Importowany blok</b> - lista bloków istniejących w schemacie, z którego chcesz skopiować blok. Wskaż blok do skopiowania.</li>

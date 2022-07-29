@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 
 <meta name="Author" content="Cream Software">
-<meta name="Generator" content="Pajak V6 (6.0.0.1)">
+<meta name="Generator" content="Pajak V6 (6.1.0.0)">
 
 <!-- nazwa strony pomocy -->
 <title>Menu główne - Pomoc</title>
@@ -130,7 +130,7 @@ To polecenie zawiera podmenu pozwalające na uzyskanie pomocy online, tj. na wit
         <li><a href="https://www.creamsoft.com/rd.php?p=support&bid=com.creamsoft.spider&os=win&lang=pl" target="_blank">O pomocy technicznej</a> - Wyświetla informacje o zasadach uzyskiwania pomocy technicznej</li>
         <li><a href="https://www.creamsoft.com/rd.php?p=community&bid=com.creamsoft.spider&os=win&lang=pl" target="_blank">Forum użytkowników</a></li>
         <li><a href="https://www.creamsoft.com/rd.php?p=update&bid=com.creamsoft.spider&os=win&lang=pl" target="_blank">Aktualizacje (upgrade)</a> - informacje na temat aktualizacji posiadanej wersji programu do nowszej wersji.</li>
-        <li><a href="https://www.creamsoft.com/blog/" target="_blank">Ciekawe artykuły</a> - lista kategorii artykułów publikowanych w naszym serwisie. Artykuły mogą być publikowane przez zarejestrowanych użytkownikiem z zacięciem do pisania.</li>
+        <li><a href="https://www.creamsoft.com/blog/" target="_blank">Ciekawe artykuły</a> - lista kategorii artykułów publikowanych w naszym projekcie. Artykuły mogą być publikowane przez zarejestrowanych użytkownikiem z zacięciem do pisania.</li>
         <li><a href="https://www.creamsoft.com/rd.php?p=page&bid=com.creamsoft.spider&os=win&lang=pl" target="_blank">Nowe wersje do pobrania</a> </li>
 
 </ul>
@@ -141,7 +141,7 @@ To polecenie zawiera podmenu pozwalające na uzyskanie pomocy online, tj. na wit
 To polecenie zawiera podmenu pozwalające na wyświetlenie na <a href="down_help.php">dolnym panelu</a> kanału RSS (ang. <i>Really Simple Syndication</i>) z najnowszymi wiadomościami na temat Pająka. Dostępne są następujące możliwości:
 
 <ul>
-        <li><b>Najnowsze artykuły w serwisie Cream Software</b> - wyświetla najnowsze artykuły opublikowane na blogu Cream Software</li>
+        <li><b>Najnowsze artykuły w projekcie Cream Software</b> - wyświetla najnowsze artykuły opublikowane na blogu Cream Software</li>
         <li><b>Co nowego na forum Cream Software</b> - wyświetla najnowsze tematy z forum dyskusyjnego Pająka</li>
         <li><b>FAQ - dotyczące programów Cream Software</b> - wyświetla najnowsze tematy spośród Najczęściej Zadawanych Pytań dot. Pająka</li>
         <li><b>Odśwież bieżący kanał</b> - pobiera najnowszą zawartość wyświetlanego aktualnie kanału</li>
@@ -172,8 +172,8 @@ Aktywuje podpowiedź dla bieżącego znacznika lub kodu. Więcej o dynamicznych 
 Wyświetla pomoc kontekstową dla znacznika lub funkcji w obrębie którego znajduje się kursor. Pomoc kontekstowa wyświetlana jest na <a href="down_panel.php">dolnym panelu</a> na zakładce <a href="down_help.php">Pomoc, dokumenty, podglądy</a>.
 
 <p>
-<b>Aktywuj skróty makrokodów</b><br />
-To polecenie pozwala na aktywowanie funkcji skrótu do makrokodu. Skróty do makrokodów są dwupoziomowe. Aby wstawić makrokod z przypisanym skrótem należy najpierw użyć tego polecenia, a następnie wcisnąć skrót odpowiadający makrokodowi. Więcej o makrokodach w rozdziale poświęconym <a href="macrocodes.php">makrokodom</a>.
+<b>Aktywuj skróty szablonów</b><br />
+To polecenie pozwala na aktywowanie funkcji skrótu do szablonu. Skróty do szablonów są dwupoziomowe. Aby wstawić szablon z przypisanym skrótem należy najpierw użyć tego polecenia, a następnie wcisnąć skrót odpowiadający szablonowi. Więcej o szablonach w rozdziale poświęconym <a href="macrocodes.php">szablonom</a>.
 
 <hr />
 

@@ -7,7 +7,7 @@
 <meta name="Authoring_tool" content="Pajak V6" />
 
 <!-- nazwa strony pomocy -->
-<title>Przywracanie serwisu</title>
+<title>Przywracanie projektu</title>
 
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha512-MoRNloxbStBcD8z3M/2BmnT+rg4IsMxPkXaGh2zD6LGNNFE80W3onsAhRcMAMrSoyWL9xD7Ert0men7vR8LUZg==" crossorigin="anonymous" />
@@ -32,23 +32,23 @@
 <td>
 
 <!-- nagłowek głowny tematu -->
-<h1>Przywracanie serwisu</h1>
+<h1>Przywracanie projektu</h1>
 
 
 
-<p>Narzędzie uruchomisz z<a href="main_menu_services.php"> menu Serwisy</a>. Za jego pomocą możesz przywrócić z serwis archiwum *.zip utworzonego przez narzędzie <a href="service_archive.php">Archiwizacja serwisu</a>. 
+<p>Narzędzie uruchomisz z<a href="main_menu_services.php"> menu Projekty</a>. Za jego pomocą możesz przywrócić z projekt archiwum *.zip utworzonego przez narzędzie <a href="service_archive.php">Archiwizacja projektu</a>. 
 
 
-<p></p>Uwaga: Poprawne archiwum ZIP utworzone przez Pająka zawiera spakowane pliki serwisu, a także dodatkowy plik projinfo.ini, w którym zawarte są ustawienia serwisu. Jeśli archiwum nie będzie zawierało tego pliku, narzędzie zgłosi błąd, a serwis nie zostanie przywrócony. W takiej sytuacji należy rozpakować go innym programem obsługującym format ZIP (np. WinZIP, bądź Foldery skompresowane w Windows XP) do odpowiedniego katalogu na dysku, a następnie utworzyć serwis w normalny sposób.</p>
+<p></p>Uwaga: Poprawne archiwum ZIP utworzone przez Pająka zawiera spakowane pliki projektu, a także dodatkowy plik projinfo.ini, w którym zawarte są ustawienia projektu. Jeśli archiwum nie będzie zawierało tego pliku, narzędzie zgłosi błąd, a projekt nie zostanie przywrócony. W takiej sytuacji należy rozpakować go innym programem obsługującym format ZIP (np. WinZIP, bądź Foldery skompresowane w Windows XP) do odpowiedniego katalogu na dysku, a następnie utworzyć projekt w normalny sposób.</p>
 
-<p><b>Plik archiwum z serwisem</b><br>
-Wskaż plik zawierający pliki serwisu.
+<p><b>Plik archiwum z projektem</b><br>
+Wskaż plik zawierający pliki projektu.
 
 <p><b>Informacje o archiwum</b><br>
-   <p>Jeśli wskazany wyżej plik jest prawidłowym archiwum serwisu utworzonym przez Pająka, w polach tej grupy wyświetlone zostaną dane na temat daty jego utworzenia, nazwy archiwizowanego serwisu, a także komentarz wprowadzony podczas archiwizowania. </p>
+   <p>Jeśli wskazany wyżej plik jest prawidłowym archiwum projektu utworzonym przez Pająka, w polach tej grupy wyświetlone zostaną dane na temat daty jego utworzenia, nazwy archiwizowanego projektu, a także komentarz wprowadzony podczas archiwizowania. </p>
 
 <p><b>Opcje przywracania</b><br>
-Ta grupa elementów zawiera dwa pola, w których możesz wprowadzić nową nazwę serwisu (domyślnie podawana jest nazwa zachowana w momencie archiwizacji) i ścieżkę dostępu do foldera, do którego mają zostać rozpakowane pliki serwisu.
+Ta grupa elementów zawiera dwa pola, w których możesz wprowadzić nową nazwę projektu (domyślnie podawana jest nazwa zachowana w momencie archiwizacji) i ścieżkę dostępu do foldera, do którego mają zostać rozpakowane pliki projektu.
 
 
 </td>
@@ -61,10 +61,10 @@ Ta grupa elementów zawiera dwa pola, w których możesz wprowadzić nową nazw�
 <!-- pokrewne tematy -->
 <h4>Pokrewne tematy</h4>
 <ul>
-	<li><a href="service_archive.php">Archiwizacja serwisów</a>
-	<li><a href="services_general.php">O serwisach ogólnie</a>
-	<li><a href="service_tool_synchronization.php">Synchronizacja serwisów</a>
-	<li><a href="main_tabs_myservices.php">Zakładka Moje serwisy</a>
+	<li><a href="service_archive.php">Archiwizacja projektów</a>
+	<li><a href="services_general.php">O projektach ogólnie</a>
+	<li><a href="service_tool_synchronization.php">Synchronizacja projektów</a>
+	<li><a href="main_tabs_myservices.php">Zakładka Moje projekty</a>
 </ul>
 </td>
 </tr>

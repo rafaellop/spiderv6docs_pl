@@ -33,7 +33,7 @@
 
 <h1>Witamy w programie Pająk</h1>
 
-<p>Z wielką satysfakcją oddaję do Twoich rąk program, który znany jest chyba każdemu webmasterowi w Polsce. Wersja, którą właśnie zainstalowałeś, jest uwiecznieniem mojej wieloletniej pracy. Przez te lata program ewoluował, od prostego generatora stron pracującego w trybie znakowym DOS (1996 rok), do obecnej postaci programu wspomagającego najnowsze technologie stosowane przy tworzeniu serwisów internetowych i aplikacji mobilnych oraz web. Nie ukrywam, że jestem z mojego programu bardzo dumny :)
+<p>Z wielką satysfakcją oddaję do Twoich rąk program, który znany jest chyba każdemu webmasterowi w Polsce. Wersja, którą właśnie zainstalowałeś, jest uwiecznieniem mojej wieloletniej pracy. Przez te lata program ewoluował, od prostego generatora stron pracującego w trybie znakowym DOS (1996 rok), do obecnej postaci programu wspomagającego najnowsze technologie stosowane przy tworzeniu projektów internetowych i aplikacji mobilnych oraz web. Nie ukrywam, że jestem z mojego programu bardzo dumny :)
 
 <p>Zapraszam do zapoznania się z dokumentacją i ogromnymi możliwościami programu, a także życzę wspaniałych efektów pracy wykonywanej przy jego pomocy. </p>
 

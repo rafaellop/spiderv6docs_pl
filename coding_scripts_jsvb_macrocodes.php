@@ -7,7 +7,7 @@
 <meta name="Generator" content="Pajak V6 (6.0.0.1)">
 
 <!-- nazwa strony pomocy -->
-<title>Wspomaganie dla JavaScript i VBScript - Makrokody, szablony kodu</title>
+<title>Wspomaganie dla JavaScript i VBScript - Szablony, szablony kodu</title>
 
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha512-MoRNloxbStBcD8z3M/2BmnT+rg4IsMxPkXaGh2zD6LGNNFE80W3onsAhRcMAMrSoyWL9xD7Ert0men7vR8LUZg==" crossorigin="anonymous" />
@@ -32,17 +32,17 @@
 <td>
 
 <!-- nagłowek głowny tematu -->
-<h1>Wspomaganie dla JavaScript i VBScript - Makrokody, szablony kodu</h1>
+<h1>Wspomaganie dla JavaScript i VBScript - Szablony, szablony kodu</h1>
 
 <!-- treść pomocy -->
 
 
 
-<p>Jeśli nie pamiętasz dokładnej składni instrukcji, jak np. <b><tt>if</tt></b>, lub nie chce Ci się wpisywać całego kodu deklaracji funkcjie, pętli itp. możesz skorzystać z przygotowanych makrokodów. W tym celu przejdź do zakładki <a href="main_tabs_macrocodes.php">Makrokody</a>. Interesujące nas w tej chwili makrokody znajdują się w gałęzi Makrokody / Szablony kodu / JavaScript i VBScript. </p>
+<p>Jeśli nie pamiętasz dokładnej składni instrukcji, jak np. <b><tt>if</tt></b>, lub nie chce Ci się wpisywać całego kodu deklaracji funkcjie, pętli itp. możesz skorzystać z przygotowanych szablonów. W tym celu przejdź do zakładki <a href="main_tabs_macrocodes.php">Szablony</a>. Interesujące nas w tej chwili szablony znajdują się w gałęzi Szablony / Szablony kodu / JavaScript i VBScript. </p>
 
-<p>Dostępne są również bardzo ciekawe skrypty w makrokodach w <a href="main_tabs_macrocodes.php">Makrokody</a> / Szablony kodu / JavaScript i VBScript.</p>
+<p>Dostępne są również bardzo ciekawe skrypty w szablonach w <a href="main_tabs_macrocodes.php">Szablony</a> / Szablony kodu / JavaScript i VBScript.</p>
 
-<p>Więcej o korzystaniu z makrokodów czytaj w temacie <a href="macrocodes_using.php">Makrokody dostarczone z programem</a></p>
+<p>Więcej o korzystaniu z szablonów czytaj w temacie <a href="macrocodes_using.php">Szablony dostarczone z programem</a></p>
 
 
 
@@ -60,11 +60,11 @@
 <h4>Pokrewne tematy</h4>
 <ul>
 	<li><a href="coding_scripts_jsvb.php">Wspomaganie dla JavaScript i VBScript - ogólnie</a></li>
-	<li><a href="main_tabs_macrocodes.php">Zakładka "Makrokody"</a></li>
-   <li><a href="macrocodes.php">Makrokody - ogólnie</a></li>
-   <li><a href="settings_macrocodes.php">Ustawienia makrokodów</a></li>
-   <li><a href="macrocodes_editor.php">Edytor makrokodów</a></li>
-   <li><a href="macrocodes_instruction.php">Tworzenie makrokodu - instrukcja krok po kroku</a></li>
+	<li><a href="main_tabs_macrocodes.php">Zakładka "Szablony"</a></li>
+   <li><a href="macrocodes.php">Szablony - ogólnie</a></li>
+   <li><a href="settings_macrocodes.php">Ustawienia szablonów</a></li>
+   <li><a href="macrocodes_editor.php">Edytor szablonów</a></li>
+   <li><a href="macrocodes_instruction.php">Tworzenie szablonu - instrukcja krok po kroku</a></li>
 </ul>
 </td>
 </tr>

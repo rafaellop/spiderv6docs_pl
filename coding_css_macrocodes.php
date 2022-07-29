@@ -7,7 +7,7 @@
 <meta name="Authoring-tool" content="Pajak V6">
 
 <!-- nazwa strony pomocy -->
-<title>Wspomaganie dla CSS - Makrokody</title>
+<title>Wspomaganie dla CSS - Szablony</title>
 
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha512-MoRNloxbStBcD8z3M/2BmnT+rg4IsMxPkXaGh2zD6LGNNFE80W3onsAhRcMAMrSoyWL9xD7Ert0men7vR8LUZg==" crossorigin="anonymous" />
@@ -32,21 +32,21 @@
 <td>
 
 <!-- nagłowek głowny tematu -->
-<h1>Wspomaganie dla CSS - Makrokody</h1>
+<h1>Wspomaganie dla CSS - Szablony</h1>
 
 <!-- treść pomocy -->
 
 
 
-<p>Razem z Pająkiem dostarczone zostały makrokody ułatwiające tworzenie arkuszy stylów, zawierające formatowania najczęściej używanych elementów strony. Dostępne są również makrokody tworzące szkielet dokumentu HTML używającego arkuszy stylów.</p>
+<p>Razem z Pająkiem dostarczone zostały szablony ułatwiające tworzenie arkuszy stylów, zawierające formatowania najczęściej używanych elementów strony. Dostępne są również szablony tworzące szkielet dokumentu HTML używającego arkuszy stylów.</p>
 
-<p>Makrokody te zostały umieszczone w <a href="main_tabs_macrocodes.php">zakładce Makrokody</a> w gałęzi <b>Szablony nowych</b>.</p>
+<p>Szablony te zostały umieszczone w <a href="main_tabs_macrocodes.php">zakładce Szablony</a> w gałęzi <b>Szablony nowych</b>.</p>
 
-<p>Dzięki wykorzystaniu zmiennych makrokodu możesz określić kolor tekstu, tła, wielkość czcionki itp. Poszczególne elementy arkusza stylów opisane są polskimi nazwami, dzięki czemu nawet osoby w ogóle nieznające techniki tworzenia CSS i języka angielskiego mogą stworzyć ciekawie wyglądającą stronę.</p>
+<p>Dzięki wykorzystaniu zmiennych szablonu możesz określić kolor tekstu, tła, wielkość czcionki itp. Poszczególne elementy arkusza stylów opisane są polskimi nazwami, dzięki czemu nawet osoby w ogóle nieznające techniki tworzenia CSS i języka angielskiego mogą stworzyć ciekawie wyglądającą stronę.</p>
 
-<p>Przyglądając się wynikom pracy makrokodów, w łatwy sposób możesz tworzyć własne arkusze stylów w celu wzbogacenia i jeszcze lepszego sformatowania wyglądu strony.</p>
+<p>Przyglądając się wynikom pracy szablonów, w łatwy sposób możesz tworzyć własne arkusze stylów w celu wzbogacenia i jeszcze lepszego sformatowania wyglądu strony.</p>
 
-<p>Więcej o korzystaniu z makrokodów czytaj w temacie <a href="macrocodes_using.php">Makrokody dostarczone z programem</a>.</p>
+<p>Więcej o korzystaniu z szablonów czytaj w temacie <a href="macrocodes_using.php">Szablony dostarczone z programem</a>.</p>
 
 </td>
 </tr>
@@ -59,11 +59,11 @@
 <h4>Pokrewne tematy</h4>
 <ul>
 	<li><a href="coding_css.php">Wspomaganie dla CSS - ogólnie</a></li>
-	<li><a href="main_tabs_macrocodes.php">Zakładka "Makrokody"</a></li>
-	<li><a href="macrocodes.php">Makrokody - ogólnie</a>
-	<li><a href="settings_macrocodes.php">Ustawienia makrokodów</a>
-	<li><a href="macrocodes_editor.php">Edytor makrokodów</a>
-	<li><a href="macrocodes_instruction.php">Tworzenie makrokodu - instrukcja krok po kroku</a>
+	<li><a href="main_tabs_macrocodes.php">Zakładka "Szablony"</a></li>
+	<li><a href="macrocodes.php">Szablony - ogólnie</a>
+	<li><a href="settings_macrocodes.php">Ustawienia szablonów</a>
+	<li><a href="macrocodes_editor.php">Edytor szablonów</a>
+	<li><a href="macrocodes_instruction.php">Tworzenie szablonu - instrukcja krok po kroku</a>
 </ul>
 </td>
 </tr>

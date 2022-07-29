@@ -96,7 +96,7 @@ Kliknij, aby uruchomić okno mini edytorka, który służy do wklejania i obsłu
 <hr>
 
 <p><b>Powtórzenie wstawienia znacznika</b><br />
-Kliknij, aby ponownie wstawić ostatnio używany znacznik. Jeśli ostatnio używałeś makrokodu, zostanie on użyty ponownie. Jeśli podczas wstawiania zaznaczony będzie jakiś tekst, zostanie on (jeśli to możliwe) objęty tym znacznikiem. Domyślny skrót <tt>Ctrl+Q</tt>.
+Kliknij, aby ponownie wstawić ostatnio używany znacznik. Jeśli ostatnio używałeś szablonu, zostanie on użyty ponownie. Jeśli podczas wstawiania zaznaczony będzie jakiś tekst, zostanie on (jeśli to możliwe) objęty tym znacznikiem. Domyślny skrót <tt>Ctrl+Q</tt>.
 
 
 <p><b>Popraw znacznik w narzędziu</b><br />

@@ -81,7 +81,7 @@ Począwszy od wersji 5.4.0 przełącznik ten znajduje się w oknie <a href="sett
 <ul>
 	<li><a href="settings_network.php#settingslistnetwork">Inne ustawienia sieci</a>
 	<li><a href="network_publishing_general.php">Publikowanie w Pająku</a>
-	<li><a href="service_tool_synchronization.php">Synchronizacja serwisów</a>
+	<li><a href="service_tool_synchronization.php">Synchronizacja projektów</a>
 	<li><a href="main_tabs_myftpservers.php">Wbudowany klient FTP</a>
 </ul>
 </td>

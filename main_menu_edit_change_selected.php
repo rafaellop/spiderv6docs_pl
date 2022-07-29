@@ -86,8 +86,8 @@ Kliknij, aby rozwinąć podmenu zawierające polecenia formatowania zaznaczonego
 
 <hr>
 
-<p><b><a href="macrocodes.php">Zaznaczony na własny makrokod</a></b><br />
-Kliknij, aby utworzyć nowy makrokod na podstawie zaznaczonego tekstu.
+<p><b><a href="macrocodes.php">Zaznaczony na własny szablon</a></b><br />
+Kliknij, aby utworzyć nowy szablon na podstawie zaznaczonego tekstu.
 
 <p><b>Zaznaczony na małe litery</b><br />
 Kliknij, aby zmienić wszystkie litery w zaznaczonym tekście na małe.

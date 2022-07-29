@@ -41,7 +41,7 @@
 
 <p><b>Nazwa zadania</b><br />
 W tym polu wpisz nazwę zadania. Staraj się nadawać takie nazwy dla zadań, by sugerowały one o co w zadaniu chodzi. Nazwa zadania "<tt>Sprawdź czy jest dobrze</tt>" za dwa tygodnie już nic nie będzie mówiła, ale "<tt>Sprawdź pętlę pobierania danych z bazy</tt>" nawet po dłuższym czasie sugeruje, co miałeś na myśli. <br />
-Przy większej ilości zdań w serwisie staje się to dość istotne - nie będziesz musiał zaglądać do treści zadania, by się mniej więcej zorientować o co w nim chodzi.
+Przy większej ilości zdań w projekcie staje się to dość istotne - nie będziesz musiał zaglądać do treści zadania, by się mniej więcej zorientować o co w nim chodzi.
 
 
 <p><b>Opis zadania</b><br />
@@ -54,10 +54,10 @@ Priorytet określa wagę zadania. Jeśli zadanie, które tworzysz jest bardzo wa
 Zaznaczenie tego przełącznika oznacza zadanie jako wykonane. Dzięki temu (w zależności od ustawień programu w oknie <a href="settings_editor_general.php">Ustawienia programu / Inne ustawienia / Edytor ... / ogólne</a>), linia zawierająca to zadanie nie będzie wyróżniana w edytorze.</p>
 
 <p><b>Przenieś to zadanie do wykonania</b><br />
-Kliknij ten przycisk, wyświetlić okienko umożliwiające wprowadzenie numeru wiersza w dokumencie, do którego zadanie ma zostać przeniesione. Przycisk ten dostępny jest wyłącznie dla zadań zdefiniowanych dla dokumentu, a nie dla całego serwisu.</p>
+Kliknij ten przycisk, wyświetlić okienko umożliwiające wprowadzenie numeru wiersza w dokumencie, do którego zadanie ma zostać przeniesione. Przycisk ten dostępny jest wyłącznie dla zadań zdefiniowanych dla dokumentu, a nie dla całego projektu.</p>
 
 <p><b>Przypisz do pliku</b><br />
-Kliknij ten przycisk, aby przypisać zadanie do pliku. Dzięki temu po dwukliku na tym zadaniu na liście plik ten może zostać automatycznie otwarty do edycji. Nie należy jednak mylić przypisania zadania do pliku z zadaniem utworzonym bezpośrednio w dokumencie! Zadanie takie nie będzie widoczne w dokumencie do którego zostało przypisane w postaci podświelonej linii! Przycisk ten jest dostępny wyłącznie w przypadku edycji zadań przypisanych bezpośrednio do serwisu, a nie do dokumentu.</p>
+Kliknij ten przycisk, aby przypisać zadanie do pliku. Dzięki temu po dwukliku na tym zadaniu na liście plik ten może zostać automatycznie otwarty do edycji. Nie należy jednak mylić przypisania zadania do pliku z zadaniem utworzonym bezpośrednio w dokumencie! Zadanie takie nie będzie widoczne w dokumencie do którego zostało przypisane w postaci podświelonej linii! Przycisk ten jest dostępny wyłącznie w przypadku edycji zadań przypisanych bezpośrednio do projektu, a nie do dokumentu.</p>
 
 <p><b>Usuń to zadanie</b><br />
 Kliknij ten przycisk, aby usunąć bieżące zadanie. Jest to przydatne szczególnie w sytuacji, gdy przeglądasz treść zadania juz istniejącego.</p>
