@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 
 <meta name="Author" content="Cream Software">
-<meta name="Generator" content="Pajak V6 (6.0.0.1)">
+<meta name="Generator" content="Spider V6 (6.3.0.0)">
 
 <!-- nazwa strony pomocy -->
 <title>Co nowego?</title>
@@ -37,12 +37,12 @@
 <p>Bez wchodzenia w szczegóły wymienię tylko najważniejsze zmiany w stosunku do wersji 5. Resztę mniejszych i większych nowości pozostawię Ci do odkrycia :)</p>
 
 <ul>
+  <li>Nowy model licencyjny. Podstawowa wersja jest darmowa! Można również wykupić opcję premium, która daje dostęp do wszystkich funkcji w wybranym okresie lub bezterminowo.</li>
 	<li>Zlikwidowany podział na wersję Standard i Professional. Teraz jest tylko jeden Pająk i ma wszystko bez ograniczeń.</li>
 	<li>Tworzenie stron responsywnych i wsparcie dla najnowszych specyfikacji HTML, CSS oraz PHP.</li>
 	<li>Odnowiony interfejs z ciemnym trybem edytora oraz nowymi ikonami</li>
 	<li>Wbudowane narzędzie do tworzenia aplikacji mobilnych na urządzenia przenośne, a także komputery. Aplikacje takie można np. wgrać na telefon lub do popularnych sklepów z aplikacjami. </li>
 	<li>Dziesiątki nowych szablonów opartych o najpopularniejsze biblioteki takie jak Bootstrap, Foundation, PureCSS i inne.</li>
-	<li>Subskrypcyjny model licencjonowania, którą można teraz nabyć nawet na miesiąc użytkowania, jeśli mamy do zrobienia jakiś jednorazowy projekt. Oprócz tego również licencja bezterminowa.</li>
 	<li>Wbudowany terminal do pracy z linią komend, kompilowania aplikacji, czy korzystania z node i npm.</li>
 	<li>Rozbudowana dokumentacja do HTML, PHP, JS, CSS, frameworków oraz kursy do nauki tych języków.</li>
 	<li>i więcej... :)</li>

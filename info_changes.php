@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 
 <meta name="Author" content="Cream Software">
-<meta name="Generator" content="Pajak V6 (6.0.0.1)">
+<meta name="Generator" content="Spider V6 (6.3.0.0)">
 
 <!-- nazwa strony pomocy -->
 <title>Historia zmian w Pająku</title>
@@ -39,8 +39,8 @@
 <h2>Lista zmian</h2>
 
 <h3>6.0.0</h3>
-<p>Opublikowana 2021.06.01<br>
-Pierwsze wydanie wersji V6. Historia zmian będzie publikowana wraz z kolejnymi wersjami.</p>
+<p>Opublikowana po raz pierwszy 2021.06.01<br>
+Pierwsze wydanie wersji V6. <a href="https://www.creamsoft.com/pl/pajak/historia-wersji-programu-pajak/" target="_blank" rel="noopener noreferrer">Historia zmian</a> będzie publikowana wraz z kolejnymi wersjami na naszej stronie internetowej.</p>
 
 </td>
 </tr>
